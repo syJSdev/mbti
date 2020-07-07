@@ -49,7 +49,7 @@ def personalities(page):
 @MBTI_BP.route('/test/', methods=('GET', 'POST'))
 def test():
     '''测试页面视图'''
-    if request.is_xhr:
+    if request.method == "POST":
         answers = json.loads(request.values.get('answers'))
         result = get_result(answers)
         flash('测试完成，你的性格分析结果为{}型'.format(result))
@@ -61,4 +61,4 @@ def test():
 @MBTI_BP.route('/messageboards/')
 def messageboards():
     '''deer要求的留言板，偷懒用多说算了'''
-    return render_template('mbti/duoshuo.html')
+    return render_template('mbti/disqus.html')
