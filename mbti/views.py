@@ -4,8 +4,7 @@ from __future__ import unicode_literals
 import json
 import random
 
-from flask import Blueprint, abort, flash, render_template, request
-
+from flask import Blueprint, abort, flash, render_template, request, send_from_directory
 from utils import get_questions, get_result, get_types_desc
 
 MBTI_BP = Blueprint('mbti', __name__)
@@ -62,3 +61,9 @@ def test():
 def messageboards():
     '''deer要求的留言板，偷懒用多说算了'''
     return render_template('mbti/disqus.html')
+
+
+@MBTI_BP.route('/ads.txt')
+def ads_txt():
+    '''google 广告 ads.txt'''
+    return send_from_directory("static", "ads.txt")
