@@ -11,6 +11,14 @@ MBTI 职业性格测试
     | |\/| |  _ \ | |  | |_____| | |  _| \___ \ | |
     | |  | | |_) || |  | |_____| | | |___ ___) || |
     |_|  |_|____/ |_| |___|    |_| |_____|____/ |_|
+    
+# Run for dev
+
+```
+# create your virtualenv then ...
+pip install -r requirements.txt
+python run server.py
+```
 
 # Stargazers over time
 
