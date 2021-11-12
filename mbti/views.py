@@ -14,8 +14,9 @@ TYPES_DESC = get_types_desc()
 
 @MBTI_BP.route('/')
 def welcome():
-    '''欢迎页面，纯属装逼'''
-    return render_template('mbti/welcome.html')
+    #  '''欢迎页面，纯属装逼'''
+    #  return render_template('mbti/welcome.html')
+    return render_template('mbti/home.html')
 
 
 @MBTI_BP.route('/home/')
