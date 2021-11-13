@@ -1,5 +1,5 @@
 {% extends "base.html" %}
-{% block title %}MBTI十六种人格简介{% endblock %}
+{% block title %}{{ _("MBTI十六种人格简介") }}{% endblock %}
 {% block css %}
 <link rel="stylesheet" href="{{ url_for('static', filename='css/personality-index.css') }}">
 <script src="{{ url_for('static', filename='js/snap.svg-min.js') }}"></script>
@@ -15,8 +15,8 @@
                         <svg viewBox="0 0 180 210" preserveAspectRatio="none"><path d="m 0,0 0,171.14385 c 24.580441,15.47138 55.897012,24.75772 90,24.75772 34.10299,0 65.41956,-9.28634 90,-24.75772 L 180,0 0,0 z"/></svg>
                         <figcaption>
                             <h2>{{ type }}</h2>
-                            <p>{{ desc }}</p>
-                            <button>点击查看详细介绍</button>
+                            <p>{{ _(desc) }}</p>
+                            <button>{{ _("点击查看详细介绍") }}</button>
                         </figcaption>
                     </figure>
                 </a>

@@ -7,7 +7,7 @@
     <meta name="author" content="axiaoxin" />
     <meta name="viewport" content="width=device-width" />
     <meta name="keywords" content="MBTI, mbti人格测试, 职业性格测试, mbti免费在线测试, MBTI测试" />
-    <title>{% block title %}{% endblock %}|MBTI测试</title>
+    <title>{% block title %}{% endblock %}|{{ _("MBTI测试") }}</title>
     <link
       rel="shortcut icon"
       href="{{ url_for('static', filename='img/favicon.ico') }}"
@@ -53,7 +53,7 @@
     <div class="navbar navbar-default navbar-fixed-top">
       <div class="container">
         <div class="navbar-header">
-          <a href="/" class="navbar-brand">MBTI职业性格在线测试</a>
+            <a href="/" class="navbar-brand">{{ _("MBTI职业性格在线测试") }}</a>
           <button
             class="navbar-toggle"
             type="button"
@@ -68,16 +68,23 @@
         <div class="navbar-collapse collapse" id="navbar-main">
           <ul class="nav navbar-nav">
             <li>
-              <a href="/home/">MBTI首页</a>
+                <a href="/home/">{{ _("首页") }}</a>
             </li>
             <li>
-              <a href="/personalities/">MBTI十六种人格简介</a>
+                <a href="/personalities/">{{ _("MBTI十六种人格简介") }}</a>
             </li>
             <li>
-              <a href="/about/">关于MBTI</a>
+                <a href="/about/">{{ _("关于") }}</a>
             </li>
             <li>
-              <a href="/messageboards/">留言板</a>
+                <a href="/messageboards/">{{ _("留言板") }}</a>
+            </li>
+            <li class="dropdown">
+                <a href="#" class="dropdown-toggle" data-toggle="dropdown">{{ _("网站语言") }}<b class="caret"></b></a>
+                <ul class="dropdown-menu">
+                    <li><a href="/locale/zh">中文</a></li>
+                    <li><a href="/locale/en">English</a></li>
+                </ul>
             </li>
           </ul>
         </div>
