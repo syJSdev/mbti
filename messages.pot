@@ -1,0 +1,4586 @@
+# Translations template for PROJECT.
+# Copyright (C) 2021 ORGANIZATION
+# This file is distributed under the same license as the PROJECT project.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2021.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
+"POT-Creation-Date: 2021-11-14 21:24+0800\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.9.1\n"
+
+#: mbti/models.py:8
+msgid "严肃、安静、藉由集中心志与全力投入、及可被信赖获致成功。行事务实、有序、实际、逻辑、真实及可信赖十分留意且乐于任何事（工作、居家、生活均有良好组织及有序。负责任。照设定成效来作出决策且不畏阻挠与闲言会坚定为之。重视传统与忠诚。传统性的思考者或经理。"
+msgstr ""
+
+#: mbti/models.py:11
+msgid "安静、和善、负责任且有良心。行事尽责投入。安定性高，常居项目工作或团体之安定力量。愿投入、吃苦及力求精确。兴趣通常不在于科技方面。对细节事务有耐心。忠诚、考虑周到、知性且会关切他人感受。致力于创构有序及和谐的工作与家庭环境。"
+msgstr ""
+
+#: mbti/models.py:14
+msgid "因为坚忍、创意及必须达成的意图而能成功。会在工作中投注最大的努力。默默强力的、诚挚的及用心的关切他人。因坚守原则而受敬重。提出造福大众利益的明确远景而为人所尊敬与追随。追求创见、关系及物质财物的意义及关联。想了解什么能激励别人及对他人具洞察力。光明正大且坚信其价值观。有组织且果断地履行其愿景。"
+msgstr ""
+
+#: mbti/models.py:17
+msgid "具强大动力与本意来达成目的与创意—固执顽固者。有宏大的愿景且能快速在众多外界事件中找出有意义的模范。对所承负职务，具良好能力于策划工作并完成。具怀疑心、挑剔性、独立性、果决，对专业水准及绩效要求高。"
+msgstr ""
+
+#: mbti/models.py:20
+msgid "冷静旁观者—安静、预留余地、弹性及会以无偏见的好奇心与未预期原始的幽默观察与分析。有兴趣于探索原因及效果，技术事件是为何及如何运作且使用逻辑的原理组构事实、重视效能。擅长于掌握问题核心及找出解决方式。分析成事的缘由且能实时由大量资料中找出实际问题的核心。"
+msgstr ""
+
+#: mbti/models.py:23
+msgid "羞怯的、安宁和善地、敏感的、亲切的、且行事谦虚。喜于避开争论，不对他人强加已见或价值观。无意于领导却常是忠诚的追随者。办事不急躁，安于现状无意于以过度的急切或努力破坏现况，且非成果导向。喜欢有自有的空间及照自订的时程办事。"
+msgstr ""
+
+#: mbti/models.py:26
+msgid "安静观察者，具理想性与对其价值观及重要之人具忠诚心。希外在生活形态与内在价值观相吻合。具好奇心且很快能看出机会所在。常担负开发创意的触媒者。除非价值观受侵犯，行事会具弹性、适应力高且承受力强。具想了解及发展他人潜能的企图。想作太多且作事全神贯注。对所处境遇及拥有不太在意。具适应力、有弹性除非价值观受到威胁。"
+msgstr ""
+
+#: mbti/models.py:29
+msgid "安静、自持、弹性及具适应力。特别喜爱追求理论与科学事理。习于以逻辑及分析来解决问题—问题解决者。最有兴趣于创意事务及特定工作，对聚会与闲聊无大兴趣。追求可发挥个人强烈兴趣的生涯。追求发展对有兴趣事务之逻辑解释。"
+msgstr ""
+
+#: mbti/models.py:32
+msgid "擅长现场实时解决问题—解决问题者。喜欢办事并乐于其中及过程。倾向于喜好技术事务及运动，交结同好友人。具适应性、容忍度、务实性；投注心力于会很快具成效工作。不喜欢冗长概念的解释及理论。最专精于可操作、处理、分解或组合的真实事务。"
+msgstr ""
+
+#: mbti/models.py:35
+msgid "外向、和善、接受性、乐于分享喜乐予他人。喜欢与他人一起行动且促成事件发生，在学习时亦然。知晓事件未来的发展并会热列参与。最擅长于人际相处能力及具备完备常识，很有弹性能立即适应他人与环境。对生命、人、物质享受的热爱者。"
+msgstr ""
+
+#: mbti/models.py:38
+msgid "充满热忱、活力充沛、聪明的、富想象力的，视生命充满机会但期能得自他人肯定与支持。几乎能达成所有有兴趣的事。对难题很快就有对策并能对有困难的人施予援手。依赖能改善的能力而无须预作规划准备。为达目的常能找出强制自己为之的理由。即兴执行者。"
+msgstr ""
+
+#: mbti/models.py:41
+msgid "反应快、聪明、长于多样事务。具激励伙伴、敏捷及直言讳专长。会为了有趣对问题的两面加予争辩。对解决新及挑战性的问题富有策略，但会轻忽或厌烦经常的任务与细节。兴趣多元，易倾向于转移至新生的兴趣。对所想要的会有技巧地找出逻辑的理由。长于看清础他人，有智能去解决新或有挑战的问题。"
+msgstr ""
+
+#: mbti/models.py:44
+msgid "务实、真实、事实倾向，具企业或技术天份。不喜欢抽象理论；最喜欢学习可立即运用事理。喜好组织与管理活动且专注以最有效率方式行事以达致成效。具决断力、关注细节且很快作出决策—优秀行政者。会忽略他人感受。喜作领导者或企业主管。"
+msgstr ""
+
+#: mbti/models.py:47
+msgid "诚挚、爱说话、合作性高、受欢迎、光明正大的—天生的合作者及活跃的组织成员。重和谐且长于创造和谐。常作对他人有益事务。给予鼓励及称许会有更佳工作成效。最有兴趣于会直接及有形影响人们生活的事务。喜欢与他人共事去精确且准时地完成工作。"
+msgstr ""
+
+#: mbti/models.py:50
+msgid "热忱、易感应及负责任的--具能鼓励他人的领导风格。对别人所想或希求会表达真正关切且切实用心去处理。能怡然且技巧性地带领团体讨论或演示文稿提案。爱交际、受欢迎及富同情心。对称许及批评很在意。喜欢带引别人且能使别人或团体发挥潜能。"
+msgstr ""
+
+#: mbti/models.py:53
+msgid "坦诚、具决策力的活动领导者。长于发展与实施广泛的系统以解决组织的问题。专精于具内涵与智能的谈话如对公众演讲。乐于经常吸收新知且能广开信息管道。易生过度自信，会强于表达自已创见。喜于长程策划及目标设定。"
+msgstr ""
+
+#: mbti/models.py:58
+msgid "在社交聚会中，你"
+msgstr ""
+
+#: mbti/models.py:59
+msgid "有时感到郁闷"
+msgstr ""
+
+#: mbti/models.py:61
+msgid "常常乐在其中"
+msgstr ""
+
+#: mbti/models.py:64
+msgid "你通常"
+msgstr ""
+
+#: mbti/models.py:65
+msgid "和别人容易混熟"
+msgstr ""
+
+#: mbti/models.py:67
+msgid "趋向自处一隅"
+msgstr ""
+
+#: mbti/models.py:70
+msgid "哪些人会更吸引你"
+msgstr ""
+
+#: mbti/models.py:71
+msgid "一个思想敏捷及非常聪颖的人"
+msgstr ""
+
+#: mbti/models.py:73
+msgid "实事求是，具丰富常识的人"
+msgstr ""
+
+#: mbti/models.py:76
+msgid "在日常工作中，你会"
+msgstr ""
+
+#: mbti/models.py:77
+msgid "颇为喜欢处理迫使你分秒必争的突发"
+msgstr ""
+
+#: mbti/models.py:79
+msgid "通常预先计划，以免要在压力下工作"
+msgstr ""
+
+#: mbti/models.py:82
+msgid "你认为别人一般"
+msgstr ""
+
+#: mbti/models.py:83
+msgid "要花很长时间才认识你"
+msgstr ""
+
+#: mbti/models.py:85
+msgid "用很短的时间便认识你"
+msgstr ""
+
+#: mbti/models.py:88
+msgid "当你要在一个星期内完成一个大项目，你在开始的时候会"
+msgstr ""
+
+#: mbti/models.py:89
+msgid "把要做的不同工作依次列出"
+msgstr ""
+
+#: mbti/models.py:91
+msgid "马上动工"
+msgstr ""
+
+#: mbti/models.py:94
+msgid "在社交场合中，你经常会感到"
+msgstr ""
+
+#: mbti/models.py:95
+msgid "与某些人很难打开话匣儿和保持对话"
+msgstr ""
+
+#: mbti/models.py:97
+msgid "与多数人都能从容地长谈"
+msgstr ""
+
+#: mbti/models.py:100
+msgid "要做许多人也做的事，你比较喜欢"
+msgstr ""
+
+#: mbti/models.py:101
+msgid "按照一般认可的方法去做"
+msgstr ""
+
+#: mbti/models.py:103
+msgid "构想一个自己的想法"
+msgstr ""
+
+#: mbti/models.py:106
+msgid "我倾向从何处得到力量?"
+msgstr ""
+
+#: mbti/models.py:107
+msgid "别人"
+msgstr ""
+
+#: mbti/models.py:109
+msgid "我自己的想法"
+msgstr ""
+
+#: mbti/models.py:112
+msgid "当我参加一个社交聚会时，我倾向有更多的力气："
+msgstr ""
+
+#: mbti/models.py:113
+msgid "在夜色很深时，一旦我开始投入，也许就是最晚离开的那一个"
+msgstr ""
+
+#: mbti/models.py:115
+msgid "在夜晚开始的时候，我就疲倦了并且想回家"
+msgstr ""
+
+#: mbti/models.py:118
+msgid "下列哪一种听起来比较吸引人？"
+msgstr ""
+
+#: mbti/models.py:119
+msgid "与我的情人到有很多人且社交活动频繁的地方"
+msgstr ""
+
+#: mbti/models.py:121
+msgid "待在家中与我的情人做一些特别的事情，例如说观赏一部有趣的录像带并享用我最爱的外带食物"
+msgstr ""
+
+#: mbti/models.py:124
+msgid "在约会中，我通常："
+msgstr ""
+
+#: mbti/models.py:125
+msgid "整体来说蛮健谈的"
+msgstr ""
+
+#: mbti/models.py:127
+msgid "较安静并保留，直到我觉得舒服"
+msgstr ""
+
+#: mbti/models.py:130
+msgid "过去，我倾向遇见我大部分情人："
+msgstr ""
+
+#: mbti/models.py:131
+msgid "在宴会中、夜总会、工作上、休闲活动中、会议上、或当朋友介绍我给他们的朋友时"
+msgstr ""
+
+#: mbti/models.py:133
+msgid "透过私人的方式，例如个人广告、录像约会、或是由亲密的朋友和家人介绍"
+msgstr ""
+
+#: mbti/models.py:136
+msgid "我倾向拥有："
+msgstr ""
+
+#: mbti/models.py:137
+msgid "很多认识的人和很亲密的朋友"
+msgstr ""
+
+#: mbti/models.py:139
+msgid "一些很亲密的朋友和一些认识的人"
+msgstr ""
+
+#: mbti/models.py:142
+msgid "过去，我爱的人和情人倾向对我说这些："
+msgstr ""
+
+#: mbti/models.py:143
+msgid "你难道不可以安静一点吗？"
+msgstr ""
+
+#: mbti/models.py:145
+msgid "可以请你从你的世界中出来一下吗？"
+msgstr ""
+
+#: mbti/models.py:148
+msgid "我倾向透过以下方式收集信息："
+msgstr ""
+
+#: mbti/models.py:149
+msgid "我对有可能发生之事的想象和期望"
+msgstr ""
+
+#: mbti/models.py:151
+msgid "我对目前状况实际认知"
+msgstr ""
+
+#: mbti/models.py:154
+msgid "我倾向相信："
+msgstr ""
+
+#: mbti/models.py:155
+msgid "我的直觉"
+msgstr ""
+
+#: mbti/models.py:157
+msgid "我直接的观察和现成的经验"
+msgstr ""
+
+#: mbti/models.py:160
+msgid "当我置身于一段关系中时，我倾向相信："
+msgstr ""
+
+#: mbti/models.py:161
+msgid "永远有进步的空间"
+msgstr ""
+
+#: mbti/models.py:163
+msgid "若它没有被破坏，别修补它"
+msgstr ""
+
+#: mbti/models.py:166
+msgid "当我对一个约会觉得放心时，我倾向谈论："
+msgstr ""
+
+#: mbti/models.py:167
+msgid "未来，关于改进或发明事物，和生活的种种可能性"
+msgstr ""
+
+#: mbti/models.py:169
+msgid "实际的，具体的，关于「此时此地」的事物"
+msgstr ""
+
+#: mbti/models.py:172
+msgid "我是这种人："
+msgstr ""
+
+#: mbti/models.py:173
+msgid "喜欢先看整个大局面"
+msgstr ""
+
+#: mbti/models.py:175
+msgid "喜欢先拿握细节"
+msgstr ""
+
+#: mbti/models.py:178
+msgid "我是这种类型的人："
+msgstr ""
+
+#: mbti/models.py:179
+msgid "与其活在现实中，我选择活在我的想象里"
+msgstr ""
+
+#: mbti/models.py:181
+msgid "与其活在我的想象里，我选择活在现实中"
+msgstr ""
+
+#: mbti/models.py:184
+msgid "我倾向如此做决定："
+msgstr ""
+
+#: mbti/models.py:185
+msgid "首先依我的心意，然依我的逻辑"
+msgstr ""
+
+#: mbti/models.py:187
+msgid "首先依我的逻辑，然后依我的心意"
+msgstr ""
+
+#: mbti/models.py:190
+msgid "我倾向比较能够察觉到："
+msgstr ""
+
+#: mbti/models.py:191
+msgid "当人们需要情感上的支持时"
+msgstr ""
+
+#: mbti/models.py:193
+msgid "当人们不合逻辑时"
+msgstr ""
+
+#: mbti/models.py:196
+msgid "当和某人分手时:"
+msgstr ""
+
+#: mbti/models.py:197
+msgid "我通常让自己的情绪深陷其中，很难才能抽身而出"
+msgstr ""
+
+#: mbti/models.py:199
+msgid "虽然我觉得受伤，但一旦下定决心，我会直截了当地将过去恋人的影子甩开"
+msgstr ""
+
+#: mbti/models.py:202
+msgid "当与一个人交往时，我倾向评量："
+msgstr ""
+
+#: mbti/models.py:203
+msgid "情感上的兼容性，表达爱意和对另一半的需求很敏感"
+msgstr ""
+
+#: mbti/models.py:205
+msgid "智能上的兼容性，沟通重要的想法，客观地讨论和辩论事情"
+msgstr ""
+
+#: mbti/models.py:208
+msgid "当我不同意我情人的想法时："
+msgstr ""
+
+#: mbti/models.py:209
+msgid "我尽可能地避免伤害对方的感受"
+msgstr ""
+
+#: mbti/models.py:211
+msgid "我通常毫无保留地说话，并且对我的情人直言直语，因为对的就是对的"
+msgstr ""
+
+#: mbti/models.py:214
+msgid "认识我的人倾向形容我为："
+msgstr ""
+
+#: mbti/models.py:215
+msgid "热情和敏感"
+msgstr ""
+
+#: mbti/models.py:217
+msgid "逻辑和明确"
+msgstr ""
+
+#: mbti/models.py:220
+msgid "我把大部分和别人的相遇视为："
+msgstr ""
+
+#: mbti/models.py:221
+msgid "友善及重要的"
+msgstr ""
+
+#: mbti/models.py:223
+msgid "另有目的"
+msgstr ""
+
+#: mbti/models.py:226
+msgid "若我有时间和金钱，我的朋友邀请我到国外度假，并且在一天前才通知，我会："
+msgstr ""
+
+#: mbti/models.py:227
+msgid "必须先检查我的时间表"
+msgstr ""
+
+#: mbti/models.py:229
+msgid "立即收拾行装"
+msgstr ""
+
+#: mbti/models.py:232
+msgid "在第一次约会中，我："
+msgstr ""
+
+#: mbti/models.py:233
+msgid "若我所约的人来迟了，我会很不高兴"
+msgstr ""
+
+#: mbti/models.py:235
+msgid "一点都不在乎，因为我自己已常常迟到"
+msgstr ""
+
+#: mbti/models.py:238
+msgid "我偏好："
+msgstr ""
+
+#: mbti/models.py:239
+msgid "事先知道约会的行程：要去哪里、有谁参加、该如何打扮"
+msgstr ""
+
+#: mbti/models.py:241
+msgid "让约会自然地发生，不做先前太多的计划"
+msgstr ""
+
+#: mbti/models.py:244
+msgid "我选择的生活循环着："
+msgstr ""
+
+#: mbti/models.py:245
+msgid "日程表和组织"
+msgstr ""
+
+#: mbti/models.py:247
+msgid "自然发生和弹性"
+msgstr ""
+
+#: mbti/models.py:250
+msgid "哪一项较为常见："
+msgstr ""
+
+#: mbti/models.py:251
+msgid "我准时出席而其它人迟到"
+msgstr ""
+
+#: mbti/models.py:253
+msgid "其它人都准则出席而我迟到"
+msgstr ""
+
+#: mbti/models.py:256
+msgid "我喜欢："
+msgstr ""
+
+#: mbti/models.py:257
+msgid "下定决心并且做出最后肯定的结论"
+msgstr ""
+
+#: mbti/models.py:259
+msgid "开放我的选择并且持续收集信息"
+msgstr ""
+
+#: mbti/models.py:262
+msgid "我是这类型的人："
+msgstr ""
+
+#: mbti/models.py:263
+msgid "喜欢在一个时间里专心于一件事情直到完成"
+msgstr ""
+
+#: mbti/models.py:265
+msgid "享受同时进行好几件事情"
+msgstr ""
+
+#: mbti/models.py:268
+msgid "当你要外出一整天，你会"
+msgstr ""
+
+#: mbti/models.py:269
+msgid "计划你要做什么和在什么时候做"
+msgstr ""
+
+#: mbti/models.py:271
+msgid "说去就去"
+msgstr ""
+
+#: mbti/models.py:274
+msgid "你认为自己是一个"
+msgstr ""
+
+#: mbti/models.py:275
+msgid "较为随兴所至的人"
+msgstr ""
+
+#: mbti/models.py:277
+msgid "较为有条理的人"
+msgstr ""
+
+#: mbti/models.py:280
+msgid "假如你是一位老师，你会选教"
+msgstr ""
+
+#: mbti/models.py:281
+msgid "以事实为主的课程"
+msgstr ""
+
+#: mbti/models.py:283
+msgid "涉及理论的课程"
+msgstr ""
+
+#: mbti/models.py:286
+msgid "你通常:"
+msgstr ""
+
+#: mbti/models.py:287
+msgid "与人容易混熟"
+msgstr ""
+
+#: mbti/models.py:289
+msgid "比较沉静或矜持"
+msgstr ""
+
+#: mbti/models.py:292
+msgid "一般来说，你和哪些人比较合得来"
+msgstr ""
+
+#: mbti/models.py:293
+msgid "富于想象力的人"
+msgstr ""
+
+#: mbti/models.py:295
+msgid "现实的人"
+msgstr ""
+
+#: mbti/models.py:298
+msgid "你是否经常让"
+msgstr ""
+
+#: mbti/models.py:299
+msgid "你的情感支配你的理智"
+msgstr ""
+
+#: mbti/models.py:301
+msgid "你的理智主宰你的情感"
+msgstr ""
+
+#: mbti/models.py:304
+msgid "处理许多事情上，你会喜欢"
+msgstr ""
+
+#: mbti/models.py:305
+msgid "凭兴所至行事"
+msgstr ""
+
+#: mbti/models.py:307
+msgid "按照计划行事"
+msgstr ""
+
+#: mbti/models.py:310 mbti/models.py:478
+msgid "你是否"
+msgstr ""
+
+#: mbti/models.py:311
+msgid "容易让人了解"
+msgstr ""
+
+#: mbti/models.py:313
+msgid "难于让人了解"
+msgstr ""
+
+#: mbti/models.py:316
+msgid "按照程序表做事"
+msgstr ""
+
+#: mbti/models.py:317
+msgid "合你心意"
+msgstr ""
+
+#: mbti/models.py:319
+msgid "令你感到束缚"
+msgstr ""
+
+#: mbti/models.py:322
+msgid "当你有一份特别的任务，你会喜欢"
+msgstr ""
+
+#: mbti/models.py:323
+msgid "开始前小心组织计划"
+msgstr ""
+
+#: mbti/models.py:325
+msgid "边做边找须做什么"
+msgstr ""
+
+#: mbti/models.py:328
+msgid "在大多数情况下，你会选择"
+msgstr ""
+
+#: mbti/models.py:329
+msgid "顺其自然"
+msgstr ""
+
+#: mbti/models.py:331
+msgid "按程序表做事"
+msgstr ""
+
+#: mbti/models.py:334
+msgid "大多数人会说你是一个"
+msgstr ""
+
+#: mbti/models.py:335
+msgid "重视自我隐私的人"
+msgstr ""
+
+#: mbti/models.py:337
+msgid "非常坦率开放的人"
+msgstr ""
+
+#: mbti/models.py:340
+msgid "你宁愿被人认为是一个"
+msgstr ""
+
+#: mbti/models.py:341
+msgid "实事求是的人"
+msgstr ""
+
+#: mbti/models.py:343
+msgid "机灵的人"
+msgstr ""
+
+#: mbti/models.py:346
+msgid "在一大群人当中，通常是"
+msgstr ""
+
+#: mbti/models.py:347
+msgid "你介绍大家认识"
+msgstr ""
+
+#: mbti/models.py:349
+msgid "别人介绍你"
+msgstr ""
+
+#: mbti/models.py:352
+msgid "你会跟哪些人做朋友"
+msgstr ""
+
+#: mbti/models.py:353
+msgid "常提出新主意的"
+msgstr ""
+
+#: mbti/models.py:355
+msgid "脚踏实地的"
+msgstr ""
+
+#: mbti/models.py:358
+msgid "你倾向"
+msgstr ""
+
+#: mbti/models.py:359
+msgid "重视感情多于逻辑"
+msgstr ""
+
+#: mbti/models.py:361
+msgid "重视逻辑多于感情"
+msgstr ""
+
+#: mbti/models.py:364 mbti/models.py:376
+msgid "你比较喜欢"
+msgstr ""
+
+#: mbti/models.py:365
+msgid "坐观事情发展才作计划"
+msgstr ""
+
+#: mbti/models.py:367
+msgid "很早就作计划"
+msgstr ""
+
+#: mbti/models.py:370
+msgid "你喜欢花很多的时间"
+msgstr ""
+
+#: mbti/models.py:371
+msgid "一个人独处"
+msgstr ""
+
+#: mbti/models.py:373
+msgid "和别人在一起"
+msgstr ""
+
+#: mbti/models.py:377
+msgid "很早便把约会、社交聚集等事情安排妥当"
+msgstr ""
+
+#: mbti/models.py:379
+msgid "无拘无束，看当时有什么好玩就做什么"
+msgstr ""
+
+#: mbti/models.py:382
+msgid "计划一个旅程时，你较喜欢"
+msgstr ""
+
+#: mbti/models.py:383
+msgid "大部分的时间都是跟当天的感觉行事"
+msgstr ""
+
+#: mbti/models.py:385
+msgid "事先知道大部分的日子会做什么"
+msgstr ""
+
+#: mbti/models.py:388
+msgid "你刚认识的朋友能否说出你的兴趣"
+msgstr ""
+
+#: mbti/models.py:389
+msgid "马上可以"
+msgstr ""
+
+#: mbti/models.py:391
+msgid "要待他们真正了解你之后才可以"
+msgstr ""
+
+#: mbti/models.py:394
+msgid "你通常较喜欢的科目是"
+msgstr ""
+
+#: mbti/models.py:395
+msgid "讲授概念和原则的"
+msgstr ""
+
+#: mbti/models.py:397
+msgid "讲授事实和数据的"
+msgstr ""
+
+#: mbti/models.py:400
+msgid "哪个是较高的赞誉，或称许为"
+msgstr ""
+
+#: mbti/models.py:401
+msgid "一贯感性的人"
+msgstr ""
+
+#: mbti/models.py:403
+msgid "一贯理性的人"
+msgstr ""
+
+#: mbti/models.py:406
+msgid "你认为按照程序表做事"
+msgstr ""
+
+#: mbti/models.py:407
+msgid "有时是需要的，但一般来说你不大喜欢这样做"
+msgstr ""
+
+#: mbti/models.py:409
+msgid "大多数情况下是有帮助而且是你喜欢做的"
+msgstr ""
+
+#: mbti/models.py:412
+msgid "和一群人在一起，你通常会选"
+msgstr ""
+
+#: mbti/models.py:413
+msgid "跟你很熟悉的个别人谈话"
+msgstr ""
+
+#: mbti/models.py:415
+msgid "参与大伙的谈话"
+msgstr ""
+
+#: mbti/models.py:418
+msgid "在社交聚会上，你会"
+msgstr ""
+
+#: mbti/models.py:419
+msgid "是说话很多的一个"
+msgstr ""
+
+#: mbti/models.py:421
+msgid "让别人多说话"
+msgstr ""
+
+#: mbti/models.py:424
+msgid "把周末期间要完成的事列成清单，这个主意会"
+msgstr ""
+
+#: mbti/models.py:425
+msgid "合你意"
+msgstr ""
+
+#: mbti/models.py:427
+msgid "使你提不起劲"
+msgstr ""
+
+#: mbti/models.py:430
+msgid "哪个是较高的赞誉"
+msgstr ""
+
+#: mbti/models.py:431
+msgid "能干的"
+msgstr ""
+
+#: mbti/models.py:433
+msgid "富有同情心"
+msgstr ""
+
+#: mbti/models.py:436
+msgid "你通常喜欢"
+msgstr ""
+
+#: mbti/models.py:437
+msgid "事先安排你的社交约会"
+msgstr ""
+
+#: mbti/models.py:439
+msgid "随兴之所至做事"
+msgstr ""
+
+#: mbti/models.py:442
+msgid "总的说来，要做一个大型作业时，你会选"
+msgstr ""
+
+#: mbti/models.py:443
+msgid "边做边想该做什么"
+msgstr ""
+
+#: mbti/models.py:445
+msgid "首先把工作按步细分"
+msgstr ""
+
+#: mbti/models.py:448
+msgid "你能否滔滔不绝地与人聊天"
+msgstr ""
+
+#: mbti/models.py:449
+msgid "只限于跟你有共同兴趣的人"
+msgstr ""
+
+#: mbti/models.py:451
+msgid "几乎跟任何人都可以"
+msgstr ""
+
+#: mbti/models.py:454
+msgid "你会"
+msgstr ""
+
+#: mbti/models.py:455
+msgid "跟随一些证明有效的方法"
+msgstr ""
+
+#: mbti/models.py:457
+msgid "分析还有什么毛病，及针对尚未解决的难题"
+msgstr ""
+
+#: mbti/models.py:460
+msgid "为乐趣而阅读时，你会"
+msgstr ""
+
+#: mbti/models.py:461
+msgid "喜欢奇特或创新的表达方式"
+msgstr ""
+
+#: mbti/models.py:463
+msgid "喜欢作者直话直说"
+msgstr ""
+
+#: mbti/models.py:466
+msgid "你宁愿替哪一类上司（或者老师）工作"
+msgstr ""
+
+#: mbti/models.py:467
+msgid "天性淳良，但常常前后不一的"
+msgstr ""
+
+#: mbti/models.py:469
+msgid "言词尖锐但永远合乎逻辑的"
+msgstr ""
+
+#: mbti/models.py:472
+msgid "你做事多数是"
+msgstr ""
+
+#: mbti/models.py:473
+msgid "按当天心情去做"
+msgstr ""
+
+#: mbti/models.py:475
+msgid "照拟好的程序表去做"
+msgstr ""
+
+#: mbti/models.py:479
+msgid "可以和任何人按需求从容地交谈"
+msgstr ""
+
+#: mbti/models.py:481
+msgid "只是对某些人或在某种情况下才可以畅所欲言"
+msgstr ""
+
+#: mbti/models.py:484
+msgid "要作决定时，你认为比较重要的是"
+msgstr ""
+
+#: mbti/models.py:485
+msgid "据事实衡量"
+msgstr ""
+
+#: mbti/models.py:487
+msgid "考虑他人的感受和意见"
+msgstr ""
+
+#: templates/base.html:10
+msgid "MBTI测试"
+msgstr ""
+
+#: templates/base.html:56
+msgid "MBTI职业性格在线测试"
+msgstr ""
+
+#: templates/base.html:71 templates/mbti/home.html:2
+msgid "首页"
+msgstr ""
+
+#: templates/base.html:74 templates/mbti/personalities/index.html:2
+msgid "MBTI十六种人格简介"
+msgstr ""
+
+#: templates/base.html:77 templates/mbti/about.html:2
+msgid "关于"
+msgstr ""
+
+#: templates/base.html:80 templates/mbti/disqus.html:3
+msgid "留言板"
+msgstr ""
+
+#: templates/base.html:83
+msgid "网站语言"
+msgstr ""
+
+#: templates/mbti/about.html:17
+msgid "爱自己吗？"
+msgstr ""
+
+#: templates/mbti/about.html:18
+msgid "爱。"
+msgstr ""
+
+#: templates/mbti/about.html:19
+msgid "那我就是你的情敌噜~"
+msgstr ""
+
+#: templates/mbti/about.html:21
+msgid "MBTI 职业性格测试是国际最为流行的职业人格评估工具，作为一种对个性的判断和分析，是一个理论模型，"
+msgstr ""
+
+#: templates/mbti/about.html:22
+msgid "MBTI测试 是从纷繁复杂的个性特征中，归纳提炼出4个关键要素——动力、信息收集、决策方式、生活方式，进行分析判断，"
+msgstr ""
+
+#: templates/mbti/about.html:23
+msgid "从而把不同个性的人区别开来。"
+msgstr ""
+
+#: templates/mbti/about.html:24
+msgid "第一次听说是从一个朋友处听说的，网络上搜下发现要做一系列的题目，最后根据选择答案的结果来判断是什么人格"
+msgstr ""
+
+#: templates/mbti/about.html:25
+msgid "做题不方便，于是开发了这个网站可以在线MBTI测试，建议使用电脑浏览器访问，效果更加。"
+msgstr ""
+
+#: templates/mbti/about.html:26
+msgid "MBTI测试结果解释均来自"
+msgstr ""
+
+#: templates/mbti/about.html:26
+msgid "百度百科"
+msgstr ""
+
+#: templates/mbti/about.html:27
+msgid "如果本网站对您有帮助，您喜欢的话，请帮忙多多点击网站上的广告。"
+msgstr ""
+
+#: templates/mbti/about.html:28
+msgid "如果您愿意打赏，欢迎扫码捐杯咖啡，当然100不嫌多1毛不嫌少，感谢您的支持。"
+msgstr ""
+
+#: templates/mbti/disqus.html:7
+msgid "留下你对MBTI测试的建议或评论"
+msgstr ""
+
+#: templates/mbti/home.html:47
+msgid "MBTI测试前须知"
+msgstr ""
+
+#: templates/mbti/home.html:48
+msgid "参加测试的人员请务必诚实、独立地回答问题，只有如此，才能得到有效的结果。"
+msgstr ""
+
+#: templates/mbti/home.html:49
+msgid "性格分析展示的是你的性格倾向，而不是你的知识、技能、经验。"
+msgstr ""
+
+#: templates/mbti/home.html:50
+msgid "MBTI提供的性格类型描述仅供测试者确定自己的性格类型之用，性格类型没有好坏，只有不同。每一种性格特征都有其价值和优点，也有缺点和需要注意的地方。清楚地了解自己的性格优劣势，有利于更好地发挥自己的特长，而尽可能的在为人处事中避免自己性格中的劣势，更好地和他人相处，更好地作重要的决策。"
+msgstr ""
+
+#: templates/mbti/home.html:51
+msgid "共72题；所有题目没有对错之分，请根据自己的实际情况选择。"
+msgstr ""
+
+#: templates/mbti/home.html:52
+msgid "测试结果仅供参考！如果本网站对您有帮助，您喜欢的话，请帮忙多多点击网站上的广告，感谢！"
+msgstr ""
+
+#: templates/mbti/home.html:59
+msgid "开始"
+msgstr ""
+
+#: templates/mbti/test.html:2
+msgid "测试中"
+msgstr ""
+
+#: templates/mbti/personalities/base.html:13
+msgid "查看性格详情"
+msgstr ""
+
+#: templates/mbti/personalities/base.html:21
+msgid "我要吐槽！！！"
+msgstr ""
+
+#: templates/mbti/personalities/enfj.html:4
+#: templates/mbti/personalities/enfp.html:4
+#: templates/mbti/personalities/entj.html:4
+#: templates/mbti/personalities/entp.html:4
+#: templates/mbti/personalities/esfj.html:4
+#: templates/mbti/personalities/esfp.html:4
+#: templates/mbti/personalities/estj.html:4
+#: templates/mbti/personalities/estp.html:4
+#: templates/mbti/personalities/infj.html:4
+#: templates/mbti/personalities/infp.html:4
+#: templates/mbti/personalities/intj.html:4
+#: templates/mbti/personalities/intp.html:4
+#: templates/mbti/personalities/isfj.html:4
+#: templates/mbti/personalities/isfp.html:4
+#: templates/mbti/personalities/istj.html:4
+#: templates/mbti/personalities/istp.html:4
+msgid "MBTI测试结果"
+msgstr ""
+
+#: templates/mbti/personalities/enfj.html:5
+msgid "教育家型人格"
+msgstr ""
+
+#: templates/mbti/personalities/enfj.html:8
+#: templates/mbti/personalities/enfp.html:8
+#: templates/mbti/personalities/infj.html:8
+#: templates/mbti/personalities/infp.html:8
+#: templates/mbti/personalities/intj.html:8
+#: templates/mbti/personalities/intp.html:8
+#: templates/mbti/personalities/isfj.html:8
+#: templates/mbti/personalities/isfp.html:8
+#: templates/mbti/personalities/istj.html:8
+#: templates/mbti/personalities/istp.html:8
+msgid "概览"
+msgstr ""
+
+#: templates/mbti/personalities/enfj.html:9
+msgid ""
+"ENFJ是MBTI职业性格测试的结果之一。ENFJ表示：外向（E）+直觉（N）+情感（F）+判断（J）。ENFJ是指的就是供应者， "
+"供应是提供给他人生活必需品的行为，供应者天生就热衷于为他人服务，保证他们具有物资充足感和群体归属感。他们自觉承担起照顾身边的人和安排其福利待遇的责任，他们也是理想主义者型中，最喜爱交际的人。无论走到都会承担着社会奉献者的角色，愉快的付出自己的时间和精力，以确保别人的需要得到满足、传统得到维持和发展，并圆满的履行其社会职责。"
+msgstr ""
+
+#: templates/mbti/personalities/enfj.html:10
+msgid "类型分析"
+msgstr ""
+
+#: templates/mbti/personalities/enfj.html:11
+#, python-format
+msgid "由于生性善良或温柔，他们更乐于选择保管者的角色，而且，外向、风度翩翩的他们，似乎喜欢成为供应者，甚于保护者。他们占人口的2–5%%，对我们来说是值得庆幸的事情，因为合作与方便社会是他们人性结构的关键所在。他们擅长与其助手通力协作，并不知疲倦的关心着所有商品和服务安排的详细事项。"
+msgstr ""
+
+#: templates/mbti/personalities/enfj.html:12
+#: templates/mbti/personalities/esfj.html:23
+msgid "这些富于表现力的保管者，风度翩翩、健谈，会因为离群索居而心神不安。即使在一群陌生人间，他们也能展开一场谈话，愉快的畅谈。他们对闲聊表现出一种浓厚的兴趣，事无巨细。他们更习惯于思考看得见的而非虚构的事物，容易意识到并讨论人们生活中的大事或难事。他们对抽象的话题掌握不了，却倾向于听取公认的权威人士，讲有关抽象事物的理论，并常常信赖正式认可的观点，作为他们判断事物的标准和依据。"
+msgstr ""
+
+#: templates/mbti/personalities/enfj.html:13
+#: templates/mbti/personalities/esfj.html:24
+msgid "社会传统对供应者具有重要意义，他们的谈话也常常飘荡到对过去美好日子中的经历进行怀旧的叙述上，但同时由于供应者表达了对忧伤和厄运的预测，并显现出具有感染性的悲剧倾向，从而给别人施加了过度的压力。他们需要控制自己对“最糟糕的事情肯定会发生”这个念头的恐惧感。"
+msgstr ""
+
+#: templates/mbti/personalities/enfj.html:14
+#: templates/mbti/personalities/esfj.html:25
+msgid "供应者具有过度的敏感性，并非常愿意表达出这种情感反应。他们能快速的表达出喜欢或不喜欢，将在意的人置于显耀地位；而对不喜欢的人，很少提及。他们永远介意表面的现象，非常严肃的采纳别人关于其个人承诺方面的意见。针对他个人的批评意见会击垮他们，只有当他们本人及他们的服务被人认可时，他们才会有效的行使自己的职责。他们希望自己被需要，并且花费时间和精力来证明自己是值得信赖的。他们会因为受到不友好的对待而变得垂头丧气，并习惯于对他们的制度或人际关系中任何可能的错误承担责任。"
+msgstr ""
+
+#: templates/mbti/personalities/enfj.html:15
+msgid "在选择职业的时候，供应者也许偏爱服务性行业。供应者在处理销售事宜的时候，论证了任何将销售人格化，他们明显并诚实的为顾客的福利着想，因此顾客不仅从他们那儿购买商品，还购买个人福利。他们的性格促使他们在许多人与人交往的工作中表现出色，他们很少引起领导的愤怒，因为他们以义务和服务为导向，尊重并服从规章制度。对老板忠诚，能成为得力的私人秘书和办公室接待人员。"
+msgstr ""
+
+#: templates/mbti/personalities/enfj.html:16
+msgid "类型描述"
+msgstr ""
+
+#: templates/mbti/personalities/enfj.html:17
+msgid "对ENFJ类型的人来说，最重要的是人际关系和与别人交流的机会。ENFJ人有很强的领导气质，有非凡的操纵他人的能力。这种能力主要来源于他们极好的人际交往技巧和销售才能，ENFJ人深信自己的梦想，将自己视为救难者和能人，而往往他们的确如此。"
+msgstr ""
+
+#: templates/mbti/personalities/enfj.html:18
+msgid "ENFJ人是全方位的学习者，他们视野辽阔，注意宽广。一些人能同时快速地开展好一大串惊人的项目。许多ENFJ人都有极强的企业家能力。"
+msgstr ""
+
+#: templates/mbti/personalities/enfj.html:19
+msgid ""
+"当对ENFJ人进行描述时，我们总会联想到组织能力和决策力。但是他们并不像SJ或NTJ "
+"人一样，能组织好环境或突发困境，他们是对人际交往中的各事件能较好地组织。他们的办公室或干净或杂乱，但他们能比JFP人更快、更灵活地总结（通过感觉）出人们的动机。"
+msgstr ""
+
+#: templates/mbti/personalities/enfj.html:20
+msgid ""
+"ENFJ人了解并欣赏别人。像大多数NF "
+"类型的人一样，他们忽视了自己和自己的需要，而非常关注别人的需要。他们比别人有更少的心理防线，所以当与感觉迟钝的人交往时，经常会有受委屈甚至受骂的危险。所以，ENFJ人比别人受到更大的压力。"
+msgstr ""
+
+#: templates/mbti/personalities/enfj.html:21
+msgid "友好热诚；谈吐亲切，圆滑得体；感情投入，易受伤；富有创造力；做事果断，甚至武断；能力强，责任心重，做事有计划。"
+msgstr ""
+
+#: templates/mbti/personalities/enfj.html:22
+msgid "类型特点"
+msgstr ""
+
+#: templates/mbti/personalities/enfj.html:23
+msgid "ENFJ型的人热爱人类。他们把人和人际关系看得比什么都重要。而且他们很自然地关心别人。他们热爱生活，并感到自己与万物都是息息相关的。"
+msgstr ""
+
+#: templates/mbti/personalities/enfj.html:24
+msgid "因为他们是理想主义者，而且看重自己的价值，ENFJ型的人对自己尊重景仰的人、事业和工作单位都非常忠诚。他们有精力和热情同时又有责任感，以及谨慎、坚持不懈的特点。"
+msgstr ""
+
+#: templates/mbti/personalities/enfj.html:25
+msgid "ENFJ型的人有一种自我批评的自然倾向。然而，因为他们认为自己对他人的情感富有责任，ENFJ型的人很少在公共场合批评别人，他们很明白什么是（或不是）受欣赏的行为，而且他们很亲切、迷人、有气质，对社会关系很在行。ENFJ型的人性情平和，心胸宽阔，而且很圆滑，很会促进周边关系的和睦。他们是天然的领导者，受欢迎而且具备领袖气质。他们擅长交际，并且会经常运用自己的口才天赋。"
+msgstr ""
+
+#: templates/mbti/personalities/enfj.html:26
+msgid "ENFJ型的人在做决定时只基于自己对问题的感觉，而不是事实情况，他们对现实以外的可能性以及这些可能性对他人的影响十分感兴趣。"
+msgstr ""
+
+#: templates/mbti/personalities/enfj.html:27
+msgid "天生很有秩序感，ENFJ型的人喜欢有组织的世界并且期望他人也是如此。他们喜欢将事情办妥，甚至有时是别人在做决定。"
+msgstr ""
+
+#: templates/mbti/personalities/enfj.html:28
+msgid "ENFJ型的人富有同情心，能够理解、支持、扶助他人。他们会看人，并且有责任感，也很认真。因为是理想主义者，他们总是看到别人好的一面。"
+msgstr ""
+
+#: templates/mbti/personalities/enfj.html:29
+#: templates/mbti/personalities/entj.html:15
+#: templates/mbti/personalities/isfp.html:31
+#: templates/mbti/personalities/istj.html:28
+#: templates/mbti/personalities/istp.html:22
+msgid "盲点"
+msgstr ""
+
+#: templates/mbti/personalities/enfj.html:30
+msgid "ENFJ型的人过于认真和动感情，以至于有时会过度地陷入别人的问题或情感中。一些时候他们选择了并不值得他们付出如此多时间和精力的事业。当事情没有如期那样成功时，他们会感到失落、失望或绝望。这会使他们退缩，令他们感觉到自己不被欣赏。ENFJ型的人需要学会接受他们自己以及他们所关心的人的能力限度。他们也需要学会“挑战战场”并保持现实的期望。"
+msgstr ""
+
+#: templates/mbti/personalities/enfj.html:31
+msgid "由于对和睦的强烈要求，ENFJ型的人可以忽视自己的需求和忽略实际的问题。因为他们总是避免冲突，他们有时会保持一种不够诚实和公平的关系。ENFJ型的人对他人的情感过于关心，以至于他们会无视那些可能带来批评的和伤感情的重要事实。ENFJ型的人学会接受和处理矛盾冲突也是很重要的，因为这也是人际关系中的一个组成部分。"
+msgstr ""
+
+#: templates/mbti/personalities/enfj.html:32
+msgid "因为他们热情很高，又急于迎接新的挑战，ENFJ型的人有时会做出错误的假设或过于草率的做出决定，他们还没有收集到所有的重要信息。他们需要放慢脚步，并且对他们计划的细节加以注意。等到获得足够多的信息之后再行动可以少犯许多错误。"
+msgstr ""
+
+#: templates/mbti/personalities/enfj.html:33
+msgid "ENFJ型的人过于重感情，以至了们的行为所带来的实际后果。试着注意事实，而不是只注意人，会有助于他们更合理地做出决定。"
+msgstr ""
+
+#: templates/mbti/personalities/enfj.html:34
+msgid "ENFJ型的人很爱接受赞扬，但对于批评却很脆弱，他们会为此表现得非常暴躁。他们对无害的和好意的批评都很难接受，而且他们通常对此的表现是慌乱、伤心或愤怒。他们的行为会变得非常无理，甚至到了完全丧失理性的地步。ENFJ型的人应该停下来，后退一步，在行动之前应该客观地看清楚情况。试着不那么敏感可以让一个ENFJ型的人从积极的批评中获得许多重要和有用的信息。"
+msgstr ""
+
+#: templates/mbti/personalities/enfj.html:35
+msgid "ENFJ型的人非常理想化，他们总是以为世界是他们想像或希望中的那样。他们相信理想的人际关系，并且对与自己的信念相抵触的事实视而不见。没有学会面对现实的ENFJ型的人最终会忽略问题而不是想办法去解决它。总之，ENFJ型的人需要更加心明眼亮。"
+msgstr ""
+
+#: templates/mbti/personalities/enfj.html:36
+msgid "职业满足"
+msgstr ""
+
+#: templates/mbti/personalities/enfj.html:37
+msgid "能让我与我的同事、客户、主顾建立并维持亲密的、互助的人际关系。"
+msgstr ""
+
+#: templates/mbti/personalities/enfj.html:38
+msgid "允许我对于我所负责的项目中出现的问题自己创造性的解决，同时我的努力能让我有所回报。"
+msgstr ""
+
+#: templates/mbti/personalities/enfj.html:39
+msgid "能让我看到我的工作有很好的前景，我所作的贡献得到别人的赏识，同时我自身及我的事业能得到发展，我的进步得到同事的鼓励。"
+msgstr ""
+
+#: templates/mbti/personalities/enfj.html:40
+msgid "能让我成为另一群富有创造精神的人的一员，同时我还很充实，且有成就感。"
+msgstr ""
+
+#: templates/mbti/personalities/enfj.html:41
+msgid "允许我有足够的时间探求解决问题的创造性办法，然后与支持我，关心我的人分享。"
+msgstr ""
+
+#: templates/mbti/personalities/enfj.html:42
+msgid "我的工作环境是积极且富有挑战性的，而且在工作中我有权同时操纵多个项目。"
+msgstr ""
+
+#: templates/mbti/personalities/enfj.html:43
+msgid "在工作中，我能充分发挥我的组织和决策能力，对我自己负责的项目有自主权，并对其承担一定责任。"
+msgstr ""
+
+#: templates/mbti/personalities/enfj.html:44
+msgid "我的工作变化性很强，且允许我有时间对它有条不紊地进行好好规划。"
+msgstr ""
+
+#: templates/mbti/personalities/enfj.html:45
+msgid "我的工作环境轻松，人们之间没有冲突，也没有相互猜忌。"
+msgstr ""
+
+#: templates/mbti/personalities/enfj.html:46
+msgid "让我有机会接触新观念，并允许我探究一些新方法，能让人生活得更美好。"
+msgstr ""
+
+#: templates/mbti/personalities/enfj.html:47
+#: templates/mbti/personalities/isfj.html:64
+#: templates/mbti/personalities/isfp.html:35
+#: templates/mbti/personalities/istj.html:68
+#: templates/mbti/personalities/istp.html:26
+msgid "适合的职业领域"
+msgstr ""
+
+#: templates/mbti/personalities/enfj.html:48
+msgid "信息传播"
+msgstr ""
+
+#: templates/mbti/personalities/enfj.html:48
+msgid "广告业务经理、公共关系专家、通信主管、作家/记者、文艺工作者/艺术家、资金募集人、招聘人员、娱乐场馆主管、电视制片人、新闻广播员、政治家、市场主管（无线电，电视，电缆广播行业）、电脑绘图设计员、编辑（杂志）、平面造型艺术家、网页编辑、多媒体制片人、撰稿人、新闻记者、经营主编"
+msgstr ""
+
+#: templates/mbti/personalities/enfj.html:49
+msgid "ENFJ是教练的交际家。他们喜欢试图去理解别人、取悦别人，因此他们一般比较机智，外交能力强。他们更愿意用嘴而非笔与人交流，但一些ENFJ也是很棒的作家。他们经常与人面对面的交谈以了解那些隐藏在故事背后的鲜为人知的一面，以这种方式收集信息是他们所喜欢的。其实广告、公共关系、以及募集领域对ENFJ来说不失为一个令人满意的领域，但条件是他们必须相信自己的创作、贡献及其奋斗目标对社会有价值，并且工作氛围竞争性不是太强，矛盾不是太突出。ENFJ能迅速与其客户、主顾、以及同事建立起良好的人际关系，他们一般可能成为善于游说的、有影响力的经纪人、制片人、招聘人员和政治家。他们是天生的、有人格魅力的领袖，他们以能为大大小小的人群做些什么来方便他们的生活而高兴。"
+msgstr ""
+
+#: templates/mbti/personalities/enfj.html:50
+msgid "咨询顾问"
+msgstr ""
+
+#: templates/mbti/personalities/enfj.html:50
+msgid "心理学家、服务商、职业顾问、私人律师、公司新职介绍顾问、口译/笔译人员、控制药品顾问、雇员法律顾问助理、职业恢复顾问、教育心理学家、就业指导顾问"
+msgstr ""
+
+#: templates/mbti/personalities/enfj.html:51
+msgid "很多ENFJ愿意帮助别人通过自我了解来获得生活的幸福和满足，而他们在帮助别人的同时，自己也获得了带来的满足。他们以能帮助其客户注意到自己的情况从而克服困难而快乐，ENFJ大抵是热心、热情、有影响力的治疗专家。他们这会喜欢当一名牧师，因为作为牧师，他们能与别人分享他们自己的价值观，能帮助自己和他们人挖掘他们最大的潜力。他们很容易就能看到事情可能的选择余地或解决办法，并且还能帮助他们的客户也看到。"
+msgstr ""
+
+#: templates/mbti/personalities/enfj.html:52
+msgid "教育/服务业"
+msgstr ""
+
+#: templates/mbti/personalities/enfj.html:52
+msgid "健康保健/艺术/戏剧/英语教师、人文学科大学教授、训导主任、图书馆管理员、社会工作者、非营利性机构理事、特殊教育老师、早期教育老师、双语教育老师、儿童福利工作者、社会工作者（为老年人服务）、辅助生活保健器材中心主任、儿童保健中心主任、计划供给办公室干事、慈善机构顾问、教育规划主任、社会公益服务及公共服务主任、高中/大专生命科学老师、家长指导、儿童发展指导老师、音乐指挥家、公众健康教育家、大专和大学行政负责人、城市和区域规划者、社会学家、成人日托管理员"
+msgstr ""
+
+#: templates/mbti/personalities/enfj.html:53
+msgid "ENFJ们比较愿意进入教育办，因为这样他们就有机会直接为他人工作，帮助他人成长和发展。他们希望教的课程能让他们注重于为学生阐明和表达物质世界的深远涵义。他们需要一个和谐、合作的工作环境，那里能兼容所有的见解，并鼓励分享彼此的观点和感受。"
+msgstr ""
+
+#: templates/mbti/personalities/enfj.html:54
+msgid ""
+"服务机构对ENFJ也颇具有吸引力，因为在这些机构中他们有机会 "
+"为自己和别人提高其生活水平而努力工作。他们有当领导的欲望，因为这样他们在其工作中就拥有尽可能多的控制权。他们希望其努力能取得积极的成效。"
+msgstr ""
+
+#: templates/mbti/personalities/enfj.html:55
+msgid "卫生保健"
+msgstr ""
+
+#: templates/mbti/personalities/enfj.html:55
+msgid "整体健康开业医生（超越传统医学）、饮食学家/营养学家、语言病理学家/听力学家、职业治疗师、按摩师、交通管理员、矫形治疗师"
+msgstr ""
+
+#: templates/mbti/personalities/enfj.html:56
+msgid "在迅速膨胀的卫生保健行业中，这些职业能充分ENFJ对病人观察、诊断、治疗的能力。ENFJ们愿意探究导致病人心理、情感、精神疾病的根源，他们对那些新颖的、超常规的治疗方法很感兴趣，并喜欢寻求职业治疗法和语言病理学中创造性的基本原理。"
+msgstr ""
+
+#: templates/mbti/personalities/enfj.html:57
+msgid "商业/咨询"
+msgstr ""
+
+#: templates/mbti/personalities/enfj.html:57
+msgid "人力资源开发培训师、销售培训员、人事招聘人员、旅行代办、经理主管人员（小商行）、程序设计员、销售主任、经理顾问：多样化/团队建设、团队培训员、新职介绍顾问、生态观光业专家、劳资关系经理、会议策划、市场经理、布景设计师、饭店经理、人才主管、桌面出版专家、特殊事件筹划人员"
+msgstr ""
+
+#: templates/mbti/personalities/enfj.html:58
+msgid "咨询行业中各种不同的工作能让ENFJ们获得职业满足，因为这些工在ENFJ与人保持亲密友好关系的同时，又能独立地工作，不受制于人。ENFJ是优秀的推荐者和培训员，尤其在帮助他人提高他们的自身素质方面更为突出。他们总是积极地对新计划和服务项目进行创造性设计，并且希望跨入小型公司或机构的经理主管级，因为只有这样，他们才能的影响力，才能享受工作的丰富多彩，才会有机会探究新的行事方式，才能保证自己拥有一定的控制权。"
+msgstr ""
+
+#: templates/mbti/personalities/enfj.html:59
+msgid "技术"
+msgstr ""
+
+#: templates/mbti/personalities/enfj.html:59
+msgid "消费者关系管理人员、职工辩护律师（技术顾问）、教练、项目经理、合同经理、人力资源招聘人员"
+msgstr ""
+
+#: templates/mbti/personalities/enfj.html:60
+msgid "随着技术的不断发展，人才的需求量也越来越大。当然，这些人才必须是既懂技术又有很强的交际、交流能力的复合型人才。所以，技术人员兼终端用户这一身份吸引着广大的ENFJ们。他们发现这些工作不仅满足了他们帮助别人的欲望，而且还能让他们与他们的合作者保持紧密联系。"
+msgstr ""
+
+#: templates/mbti/personalities/enfj.html:61
+msgid "可能陷阱"
+msgstr ""
+
+#: templates/mbti/personalities/enfj.html:62
+msgid ""
+"不要把你的决定公建立于主观感情基础之上， "
+"运用客观分析来助你看清你可能的行动在逻辑上将会导致什么样的后果。记住：原因和结果并不是你自然而然就能看到的，因此寻求能帮你的朋友的协助。 "
+"不要因为你讨厌这个公司的某个人就放弃一次选择，同时也不要因某种积极因素就全盘肯定某个工作或某个公司。"
+msgstr ""
+
+#: templates/mbti/personalities/enfj.html:63
+msgid ""
+"不要以个人态度接受批评和拒绝， 按本意接受那些建设性的批评和反馈意见。依赖你朋友的支持和鼓励将会有助于你在紧张 的求职过程中偶尔的泄气。 "
+"当人想要得到某个工作或面试却被拒绝时，请暂且务必不要太自责，把安对自己随机应变能力的一种挑战、一个你要克服的障碍。"
+msgstr ""
+
+#: templates/mbti/personalities/enfj.html:64
+msgid "集中重点，收集所有必要的事实；在注意你所结识的人的同时，请留心一下细节和现实情况。切勿一心一意结交新朋友而忽略了你求职中那些枯燥乏味的工作。不要别人说什么，你就信什么。你要尽可能地多问一些问题以了解这份工作或这个公司到底如何。"
+msgstr ""
+
+#: templates/mbti/personalities/enfj.html:65
+msgid "切实地看待你可能是到的工作和与你相交的人；看到真实的一面，要看到他们的弱点。有意识地防止将人理想化或表露出你对别人绝对的忠诚。敢于迅速、直接地正视矛盾和误解，不要逃避，但也要防止将它们扩大化，复杂化。"
+msgstr ""
+
+#: templates/mbti/personalities/enfj.html:66
+msgid "切勿仓促决定；作大量的调查研究将会使你三思而后行。在给予任何提供的工作以答复前，一定要有足够的时间把事情彻底考虑一下，以确保这份工作是否真的适合你。切勿抱匆匆完事、万事大吉的心理，否则你可能会错失即将到来的亹，或者你所接受的工作可能并不是你想要的。"
+msgstr ""
+
+#: templates/mbti/personalities/enfj.html:67
+#: templates/mbti/personalities/entj.html:17
+#: templates/mbti/personalities/istj.html:32
+msgid "工作优势"
+msgstr ""
+
+#: templates/mbti/personalities/enfj.html:68
+msgid "优秀的交流及表达能力；天生的领导才能及凝聚力；热情奔放，及有较强的寻求合作的能力；坚决果断，有组织能力；渴望推陈出新；与别人感情交融，能预见别人的需要，能真诚地关怀别人；兴趣广泛，头脑灵活；能统观全局，能洞察行为与意识之间的联系；鞭策自己做出成绩，达到目的；对自己所信仰的事业尽职尽责"
+msgstr ""
+
+#: templates/mbti/personalities/enfj.html:69
+msgid "工作缺陷"
+msgstr ""
+
+#: templates/mbti/personalities/enfj.html:70
+msgid "不愿干与自己价值观相冲突的事；容易把人际关系理想化；很难在竞争强、气氛紧张的环境下工作；对那引动没效率、或死脑筋的人没有耐心；逃避矛盾冲突，易于疏忽不愉快的事；在没有收集足够证据前，易于仓促做决定；不愿训诫下属；易于因轻率犯错误；易于满足小范围管理，决不放弃控制权；运用你的能力其实很简单。"
+msgstr ""
+
+#: templates/mbti/personalities/enfj.html:71
+msgid "ENFJ成功的秘诀就是：放慢你匆忙前行的脚步；适当放弃某些权利控制；客观对待周围的一切。"
+msgstr ""
+
+#: templates/mbti/personalities/enfj.html:72
+msgid "恋爱"
+msgstr ""
+
+#: templates/mbti/personalities/enfj.html:73
+msgid "在你脑海中经常浮现的一件东西是：感情关系。创造并且维持一段有意义又美好的感情，是你生活中快乐的泉源。不管是和业务上的人士、朋友、家人或情人来往，你都很重视发展一段有品质的感情，并且要确保这段感情一直不断在成长。当你恋爱时，身为一个外向型的感觉者，你必然喜欢和亲密的伴侣沟通，用言语表达爱恋和温柔的感觉，同时去发觉你的伴侣真正在乎的是什么。大部分的教育家型喜欢把时间花在伴侣身上；几乎不能忍受对方不在的时候。虽然你可能有很多朋友，但却希望把另一半尽可能地纳入你的社交圈子中。"
+msgstr ""
+
+#: templates/mbti/personalities/enfj.html:74
+msgid "危机：你对爱人百分之百的情感投入也许会让你觉得超出负荷—因为忙于照料情人的需要，而导致你缺乏精力照顾自己。你或许会倾向于把事情都看得太涉及私人情绪，因而当你的伴侣说了一些听起来带批评口吻，但事实并非如此的话语时，你会觉得受到伤害。例如说，若另一半纯粹只是想告诉你，你很漂亮时，你有可能会觉得难过，误以为那是讽刺的一击，因为他在刚才表现得爱理不理，你现在觉得他是在对你的外观做有意图的评论，只是为了讨好你。如果是这样的话，那现在开始争端真正要开始了。"
+msgstr ""
+
+#: templates/mbti/personalities/enfj.html:75
+msgid "尽管如此，在一段爱情的开始之初，你的爱人是不会做错任何事情的。虽然你在很多领域有敏锐的洞察力，但当谈到爱情时，还是会抱着一种“觉得一段感情应该如何”的理想观念坠入爱河，纵使真实的面貌可能和想像的有很大的差异。在感情慢慢进展时，你会开始期待对方无条件地付出，以同等的忠贞和坚贞不渝的爱情来对待你。若你认为对方没有给你同等标准的关怀和支持，你会用一种很直接、有时也许不太愉快的方式传达。"
+msgstr ""
+
+#: templates/mbti/personalities/enfj.html:76
+msgid "最佳恋爱类型:若你是一个女性教育家型，你会和男性教育家型，或是恰好相反的男性冒险家型(ISTP)，拥有美好的关系。与他在一起，你可能享受真实的刺激(泛舟、攀岩、飙车或是初学者阶段的蹦极)，同时，你将感受有史以来最尽兴的生活。若你是一个男性教育家型，你可以和女性教育家型、记者型(ENFP)或是哲学家型(INFP)相处得不错。你也可以和与你相反的冒险家型(ISTP)拥有成功的关系。冒险家型脚踏实地的务实特质，会使你不致于和真实生活脱节。同时，她轻松、随兴的个性又可以在你被那些“人际问题”困扰时，平抚你的情绪。"
+msgstr ""
+
+#: templates/mbti/personalities/enfj.html:77
+msgid "若你的理想情人是一个教育家型，你可以在企业界、教育界和政府机关的领导阶层中找到教育家型。他们拥有非常好的社交手腕，并且很容易接近。别让你的教育家型情人吃醋。确实有些教育家型的情人有很强的占有欲且会容易吃醋。为了避免发生问题，当你跟一个教育家型约会时，避免过度注意其他具吸引力的人。虽然教育家型在很多领域上是很有信心的，但是他们在爱情关系中却会感到不安全。他们要永恒不变的保证，包括言语上和行动上的，请表现出对他们的关心。给予教育家型他们渴望的注意力和言语上的关爱，他们会以慷慨的温暖和爱恋回报你，让你觉得仿佛是世界上最受人关爱的人。"
+msgstr ""
+
+#: templates/mbti/personalities/enfj.html:78
+msgid "教育家型情人的爱情是很炽烈的，他们不会羞于告诉他们的伴侣内心的感受。因此，当教育家型情人觉得他们的感情被伴侣的言语或行为威胁时，教育家型情人会很自然地表达他们受伤或生气的感受。同时，由于他们的情绪反应，教育家型会把冲突和否决看得非常严重，不管这是事实或只是他们以为如此。这样的结果造成他们很容易被伤害,而且怀恨许久。从正面的角度而言，教育家型相信婚姻，他们会是极富爱心并且愿意付出的配偶。同时，他们也是很有魅力的，和他们在一起是一件愉快的事。不仅如此，教育家型也常常可以激发他们的伴侣，带领他们的伴侣到达爱情和快乐的巅峰。当你遇到正确的教育家型情人时，你将沉浸在那种被爱、被取悦、有支持和关注的幸福感觉中。"
+msgstr ""
+
+#: templates/mbti/personalities/enfp.html:5
+msgid "记者型人格"
+msgstr ""
+
+#: templates/mbti/personalities/enfp.html:9
+msgid "ENFP表示：外向（E）+直觉（N）+情感（F）+知觉（P）。此类性格的人群被认为是健谈热诚，友善的；聪明好奇，爱玩的；关心体贴，温柔敏感；富有想象力，颇具创新精神；智慧乐观，适应能力强。"
+msgstr ""
+
+#: templates/mbti/personalities/enfp.html:10
+#: templates/mbti/personalities/infj.html:10
+#: templates/mbti/personalities/infp.html:11
+#: templates/mbti/personalities/intj.html:10
+#: templates/mbti/personalities/intp.html:10
+#: templates/mbti/personalities/isfj.html:10
+#: templates/mbti/personalities/isfp.html:10
+#: templates/mbti/personalities/istj.html:10
+#: templates/mbti/personalities/istp.html:10
+msgid "性格特点"
+msgstr ""
+
+#: templates/mbti/personalities/enfp.html:11
+msgid "对ENFP类型的人来说，最重要的是自己能看到各种可能的情况，并与各行各色的人来往。他们是理想型和人性型的结合类型。在他们的眼里，每一个人、每一样事物都只是和谐整体的一部分。从日常小事到为人类造福的伟大事业中，他们都希望自己既是一个有用（至少，是他们自己所认为的有用）的人，又能为别人所喜欢和尊重。他们会对新观点、新思想很感兴趣，虽然最终会由于某个原因而弃之不理。"
+msgstr ""
+
+#: templates/mbti/personalities/enfp.html:12
+msgid "装疯作傻是ENFP人的另一魅力所在，它能使他们很快地融入到更加庸俗的人当中。他们很风趣，待人友善，很真挚地爱着人们，然而在交往的注意广度可能并不宽。ENFP类型的人对新朋友或刚认识不久的人很感兴趣，却经常会将老朋友抛到脑后。"
+msgstr ""
+
+#: templates/mbti/personalities/enfp.html:13
+msgid "稍欠成熟的ENFP人可能时刻都需要感觉到自己是注意的焦点，希望大家都认为自己是很棒、很迷人。"
+msgstr ""
+
+#: templates/mbti/personalities/enfp.html:14
+msgid "在涉及世界观方面的各种问题上，ENFP人经常会有自己强烈的信仰。他们通常会运用社会技巧和关系逐渐去说服人们接受那些正确的观点，有时甚至会有一种为拯救世界，我不入地狱谁入地狱的悲壮。"
+msgstr ""
+
+#: templates/mbti/personalities/enfp.html:15
+msgid ""
+"ENFP人能随遇而安，极易适应工作环境。他们有自己大胆的想法，在头脑风暴中有突出的贡献。然而，对他们来说，保持不变可不是一件容易的事，因为他们会很快的对一件东西厌烦，尤其当有更新、更有趣的东西出来时。但当开会、规定最后完事期限以及完成所交代的枯燥无味的琐事时，他们也是个拖延的人。只有当他们与"
+" Judger(J）共事时，他们才会收起懈怠，发挥出最高的效率。"
+msgstr ""
+
+#: templates/mbti/personalities/enfp.html:16
+msgid "无论在信念里，还是实践中，ENFP人都憎恶官僚作风，他们时常会嘲笑其中的某一方面。"
+msgstr ""
+
+#: templates/mbti/personalities/enfp.html:17
+msgid "个性特征"
+msgstr ""
+
+#: templates/mbti/personalities/enfp.html:18
+msgid "健谈热诚，友善的；聪明好奇，爱玩的；关心体贴，温柔敏感；富有想象力，颇具创新精神；智慧乐观，适应能力强，但有时做事无条理。"
+msgstr ""
+
+#: templates/mbti/personalities/enfp.html:19
+msgid ""
+"热情洋溢、富有想象力。认为生活是充满很多可能性。能很快地将事情和信息联系起来，然后很自信地根据自己的判断解决问题。很需要别人的肯定，又乐于欣赏和支持别人。灵活、自然不做作，有很强的即兴发挥的能力"
+" ，言语流畅。"
+msgstr ""
+
+#: templates/mbti/personalities/enfp.html:20
+msgid "ENFP型的人充满热情和新思想。他们乐观、自然、富有创造性和自信，具有独创性的思想和对可能性的强烈感受。"
+msgstr ""
+
+#: templates/mbti/personalities/enfp.html:21
+msgid ""
+"ENFP型的人，生活是激动人心的戏剧。ENFP型的人对可能性很感兴趣，所以他们了解所有事物中 "
+"的深远意义。他们具有洞察力，是热情的观察者，注意常规以外的任何事物。"
+msgstr ""
+
+#: templates/mbti/personalities/enfp.html:22
+msgid "ENFP型的人好奇，喜欢理解而不是判断。ENFP型的人具有想象力、适应性和可变性，他们视灵感高于一切，常常是足智多谋的发明人。"
+msgstr ""
+
+#: templates/mbti/personalities/enfp.html:23
+msgid ""
+"ENFP型的 "
+"人不墨守成规，善于发现做事情的新方法，为思想或行为开辟新道路，并保持它们的开放。在完成新颖想法的过程中，ENFP型的人依赖冲动的能量。他们有大量的主动性，认为问题令人兴奋。他们也从周围其他人中得到能量，把自己的才能与别人的力量成功地结合在一起。"
+msgstr ""
+
+#: templates/mbti/personalities/enfp.html:24
+msgid "ENFP型的人具有魅力、充满生机。他们待人热情、彬彬有礼、富有同情心，愿意帮助别人解决问题。他们具有出色的洞察力和观察力，常常关心他人的发展。"
+msgstr ""
+
+#: templates/mbti/personalities/enfp.html:25
+msgid "ENFP型的人避免冲突，喜欢和睦。他们把更多的精力倾注于维持个人关系而不是客观事物，喜欢保持一种广泛的关系。"
+msgstr ""
+
+#: templates/mbti/personalities/enfp.html:26
+msgid "性格优势"
+msgstr ""
+
+#: templates/mbti/personalities/enfp.html:27
+msgid "⒈ 对别人的情绪敏感，能理解、体会别人的心情，善于安慰、鼓励别人"
+msgstr ""
+
+#: templates/mbti/personalities/enfp.html:28
+msgid "⒉ 对文字、语言敏感"
+msgstr ""
+
+#: templates/mbti/personalities/enfp.html:29
+msgid "⒊ 善于分析、总结"
+msgstr ""
+
+#: templates/mbti/personalities/enfp.html:30
+msgid "⒋ 善于从整体上把握事物"
+msgstr ""
+
+#: templates/mbti/personalities/enfp.html:31
+msgid "⒌ 能理解复杂的理论概念，善于将事情概念化，善于从中推断出原则"
+msgstr ""
+
+#: templates/mbti/personalities/enfp.html:32
+msgid "⒍ 擅长策略性思维"
+msgstr ""
+
+#: templates/mbti/personalities/enfp.html:33
+msgid "潜在弱点"
+msgstr ""
+
+#: templates/mbti/personalities/enfp.html:34
+msgid "⒈ 有仅仅凭个人的好恶或价值观来决定事情，并希望别人也以同样的角度或标准来处理问题的倾向。"
+msgstr ""
+
+#: templates/mbti/personalities/enfp.html:35
+msgid "⒉ 有时他们心里老想着别人的问题，可能会过于陷于其中，以至于被其困扰。"
+msgstr ""
+
+#: templates/mbti/personalities/enfp.html:36
+msgid "⒊ 有时容易将别人或事情理想化，不够实际。"
+msgstr ""
+
+#: templates/mbti/personalities/enfp.html:37
+msgid "⒋ 不是特别善于管束和批评他人，尽管常常自我批评。有时会为了和睦而牺牲自己的意见或利益。"
+msgstr ""
+
+#: templates/mbti/personalities/enfp.html:38
+msgid "⒌ 有些“理想主义者”比较容易动感情，情绪波动较大。"
+msgstr ""
+
+#: templates/mbti/personalities/enfp.html:39
+#: templates/mbti/personalities/entp.html:24
+#: templates/mbti/personalities/estj.html:17
+msgid "适合领域"
+msgstr ""
+
+#: templates/mbti/personalities/enfp.html:40
+msgid "ENFP适合工作的环境包括那些通过长年打拼，逐步扩大规模的企业。他们可以成为出色的经理、销售人员、传媒人士、广告业者或者形象工作者。ENFP还适合从事那些把想法付诸实施的工作，比如包装、宣传、市场推广。ENFP会成为他们所属环境中的典型：他们可以是最激进的左翼分子，也可以是最保守的右翼分子。他们总是被那些能够让他们具有成就感的环境所吸引。他们喜欢具有发展空间的高层职位，比如企业的高层领导。如果他们是政治家，他们会通过媒体形象和个人风格来争取更多选票。"
+msgstr ""
+
+#: templates/mbti/personalities/enfp.html:41
+#: templates/mbti/personalities/esfp.html:30
+#: templates/mbti/personalities/infj.html:26
+#: templates/mbti/personalities/infp.html:54
+#: templates/mbti/personalities/intj.html:56
+#: templates/mbti/personalities/intp.html:48
+msgid "适合的职业"
+msgstr ""
+
+#: templates/mbti/personalities/enfp.html:42
+msgid "人力资源经理；变革管理顾问；营销经理；企业/团队培训师；广告客户经理；战略规划人员；宣传人员；事业发展顾问；环保律师；研究助理；播音员；开发总裁；广告创意；广告撰稿人；市场营销和宣传策划；市场调研人员；公关专家；公司对外发言人；儿童教育老师；大学老师（人文类）；心理学工作者；心理辅导和咨询人员；职业规划顾问；社会工作者；演讲家；记者（访谈类）；节目策划和主持人；专栏作家；剧作家；设计师；卡通制作者；电影、电视制片人"
+msgstr ""
+
+#: templates/mbti/personalities/enfp.html:43
+msgid "冒险特质"
+msgstr ""
+
+#: templates/mbti/personalities/enfp.html:44
+msgid "对发现生命的意义非常有兴趣；"
+msgstr ""
+
+#: templates/mbti/personalities/enfp.html:45
+msgid "喜欢被人们所肯定；"
+msgstr ""
+
+#: templates/mbti/personalities/enfp.html:46
+msgid "开朗而且富有领袖魅力；"
+msgstr ""
+
+#: templates/mbti/personalities/enfp.html:47
+msgid "倾向于开始很多事情（包括感情）但却不一定会完成它们。"
+msgstr ""
+
+#: templates/mbti/personalities/enfp.html:48
+msgid "对爱情的理解：爱情是神秘的、有启发的和有趣味的。"
+msgstr ""
+
+#: templates/mbti/personalities/enfp.html:49
+msgid "相关信息"
+msgstr ""
+
+#: templates/mbti/personalities/enfp.html:50
+msgid "你相信生命是丰富的，爱情是多彩多姿而且拥有很多创意的。尽管上帝把一只猎犬的强健精力，和一对蜜月期的新婚夫妇的热情结合起来，却仍只不过达到你永无止境的生命热忱之一半。"
+msgstr ""
+
+#: templates/mbti/personalities/enfp.html:51
+msgid "儿戏的恋爱是形容你恋爱态度的最佳名词：好玩的、活泼的、耍闹的、可爱的，同时心中永远是年轻的。不管你的年纪多大或是你曾经在爱情里受过多少次伤害，当面对爱情时，你永远都是永恒的乐观者。"
+msgstr ""
+
+#: templates/mbti/personalities/enfp.html:52
+msgid "当你碰到一个你觉得有吸引力的人时，你并不是那种会小心进展的人。你很有可能会热烈地掉入爱情的漩涡里，快速、随兴且纵情的。你总是学不会先有所保留，尤其是面临即将展开的一段新鲜刺激的恋情时。"
+msgstr ""
+
+#: templates/mbti/personalities/enfp.html:53
+msgid "承诺会让你害怕。这可以解释为何你到30岁、40岁、50岁或是更老时还是单身。但你绝对喜欢那种与人共享的亲密感情。只要能够找到那个特别的人，你会就此把生活安定下来。"
+msgstr ""
+
+#: templates/mbti/personalities/enfp.html:54
+msgid "你会和教育家型（ENFJ)或是你的镜中影像，也就是记者型的人拥有良好的关系。记者型将会成为你最佳的伴侣和情人—那一种可以为爱情带来无止境的欢乐和创意的人。"
+msgstr ""
+
+#: templates/mbti/personalities/entj.html:5
+msgid "陆军元帅型人格"
+msgstr ""
+
+#: templates/mbti/personalities/entj.html:8
+#: templates/mbti/personalities/entp.html:8
+#: templates/mbti/personalities/esfj.html:8
+#: templates/mbti/personalities/esfp.html:8
+#: templates/mbti/personalities/estj.html:8
+#: templates/mbti/personalities/estp.html:8
+msgid "特点概况"
+msgstr ""
+
+#: templates/mbti/personalities/entj.html:9
+msgid "ENTJ:外向，直觉，思维，判断。ENTJ型的人是伟大的领导者和作决定的人。他们是天才的思想家和长远规划者。因为ENTJ型的人非常实际，逻辑性又强，他们善于做那些需要推理和智慧的工作。ENTJ型的人还注重真理，只有在经过逻辑推理之后他们才会信服。ENTJ型的人在作计划和研究新事务时是很系统化的。而且ENTJ型的人天生是热心坦诚的领导者。他们善于组织群众，生活非常严谨而且期望别人也是如此。因此，他们愿意挑战并且让其他人也像他们一样努力奋斗。"
+msgstr ""
+
+#: templates/mbti/personalities/entj.html:10
+#: templates/mbti/personalities/entp.html:10
+#: templates/mbti/personalities/esfj.html:10
+#: templates/mbti/personalities/estj.html:10
+#: templates/mbti/personalities/estp.html:15
+msgid "特点详解"
+msgstr ""
+
+#: templates/mbti/personalities/entj.html:11
+msgid "亲切友好，意志坚强，坦率直言；诚实理性，对自己及他人要求严格；极力表现自己的能力；具有全球性的创造眼光；能干果断，做事有条理。"
+msgstr ""
+
+#: templates/mbti/personalities/entj.html:12
+msgid "对ENTJ类型的人来说，一生中最重要的是展现自身的实力，并实现某些重大的事情。他们是天生的指挥家和领导者。这一点无论在他们身为世界领导人时所展现的魅力和手腕上，还是在身为宗教领导人时所体现的领导力上，都得到很好的映证。ENTJ人喜欢先设计好一个计划，然后再去实现它。"
+msgstr ""
+
+#: templates/mbti/personalities/entj.html:13
+msgid "ENTJ人经常以一种讲述传奇色彩的口吻来描述他们的项目和计划；这种能力对身为销售人员、以说笑话为主的喜剧演员、故事演讲家的他们派上很大的用场。结合他们与生俱来的阻挠议事的本事，顾客很难会拒绝我们主人公的要求。"
+msgstr ""
+
+#: templates/mbti/personalities/entj.html:14
+msgid "ENTJ人很果断。他们明白需要做什么，然后把该做的事分配下去。其他类型的人在遇到冲突时，很少像他们一样能够保持决断，击败强大的对手。当受到挑战时，他们会变得很好争辩；或以横眉冷对，那眼神似乎在传达这样一种信息：ENTJ是不能被小瞧的。"
+msgstr ""
+
+#: templates/mbti/personalities/entj.html:16
+msgid ""
+"ENTJ型的人有时会急于做决定。偶尔放慢脚步可以给他们机会来收集到所有相关的数据，并可以将实际情况与自身立场仔细地考虑清楚。但ENTJ型的人比较粗心直率，"
+" "
+"无耐心并且不敏感，不妥协并且很难接近。所以他们需要倾听周围人的心声，并对他们的贡献表示赞赏。他们过于客观地对待生活，结果没有时间去体会感情。当他们的感情被忽视或没有表达出来的时候，他们是非常敏感的。若对他们的能力表示怀疑的是他们尊敬的人的话，这种表示尤为强烈。他们会在一些小事上大发雷霆，而这种爆发会伤害与他们亲近的人。如果他们留给自己一点儿时间来体会和了解自己的真实感情的话，他们会非常开心，效果也很好。正确的释放自己的情感，而不是爆发，会使他们更好的控制自己，并获得自己期望和为之努力的地位。ENTJ型的人实际上并没有他们自己想象得那么有经验，有能力。只有接受他人实际而有价值的协助，他们才能增长能力并获取成功。"
+msgstr ""
+
+#: templates/mbti/personalities/entj.html:18
+msgid "作为ENTJ型人，职业满足意味着你做的这些工作："
+msgstr ""
+
+#: templates/mbti/personalities/entj.html:19
+msgid "1． 让我领导，控制，组织以及完善一个机构的运行体制，以便它能有效地运行并达到计划目的。"
+msgstr ""
+
+#: templates/mbti/personalities/entj.html:20
+msgid "2． 允许我从事长远策划计划，创造性地解决问题，以及对各种不同问题设计出富有创意且符合逻辑的解决方法。"
+msgstr ""
+
+#: templates/mbti/personalities/entj.html:21
+msgid "3． 我的工作是在一个组织性强的环境中完成，而且在那里我和我的同事要在一系列明确的指导方针下工作。"
+msgstr ""
+
+#: templates/mbti/personalities/entj.html:22
+msgid "4． 我的工作能鼓励并刺激我的求知欲，同时允许我从事复杂且通常比较棘手的问题。"
+msgstr ""
+
+#: templates/mbti/personalities/entj.html:23
+msgid "5． 给我机会遇到并与各种不同的人交往，他们必须是有能力，有趣且实力强大的人。"
+msgstr ""
+
+#: templates/mbti/personalities/entj.html:24
+msgid "6． 给我在机构内不断前进，提高并展示自己才能的机会。"
+msgstr ""
+
+#: templates/mbti/personalities/entj.html:25
+msgid "7． 我的工作有刺激性，挑战性，及竞争性，在工作中我是公众注意的焦点，同时我的成就要看得见，被认同，且能得到一定的回报。"
+msgstr ""
+
+#: templates/mbti/personalities/entj.html:26
+msgid "8． 允许我与别的有才智，有创造力，有抱负以及有理想的人工作，而且他们的能力是我所佩服的。"
+msgstr ""
+
+#: templates/mbti/personalities/entj.html:27
+msgid "9． 让我设立一目标，并为实现它们而奋斗，允许我运用我的组织技能来使我自己及别人集中精力于更大的目标，而同时我自己所有的目标都能及时，有效地实现。"
+msgstr ""
+
+#: templates/mbti/personalities/entj.html:28
+msgid "10． 能让我以我地政策来管理并监督别人，运用逻辑，客观的标准以及利用每个人的才能，但不必处理人际冲突。"
+msgstr ""
+
+#: templates/mbti/personalities/entj.html:29
+#: templates/mbti/personalities/esfj.html:27
+#: templates/mbti/personalities/estj.html:19
+#: templates/mbti/personalities/estp.html:40
+msgid "适合职业"
+msgstr ""
+
+#: templates/mbti/personalities/entj.html:30
+msgid ""
+"政治家；法官；社团负责人；CEO；经理；高级主管；办公室主任；理事；人事经理；销售经理；营销经理；网络一体化专家（电信）；技术培训员；信息服务－新业务开发员；后勤顾问（生产）；管理顾问：电脑/信息服务/市场/机构重组；广告业务经理；营销经理：广播/电视/有线广播行业；媒体策划/采购员；国际销售和营销；销售经理：制药业；主管：健康服务；学院或大学理事；总编；戏剧制片人；警察或探长；人力资源经理；协会主席或顾问；节目导演；项目经理；零售经理；不动产经理；饭店或饮食服务行业经理"
+" "
+msgstr ""
+
+#: templates/mbti/personalities/entj.html:31
+msgid "商业界通常都是比较受ENTJ型人欢迎的领域。他们喜欢担任那种有权威的，有控制力且能管理领导别人的职位。作为商业主管，他们能运用其长远思维来开发临时应变之措施，同时，他们能计划实现他们目标的最佳奋斗行动方向。ENTJ型的人运用一种直接管理方式，能做出强硬但公平的决定以及为雇员制定政策方针。他们喜欢自己周围的人独立，且注重结果，而又不需要太多的监督与干涉。ENTJ型的人通常能通过自己影响别人的能力以及他们能轻松自如地与人交往从而晋升到公司地顶尖阶层。"
+msgstr ""
+
+#: templates/mbti/personalities/entj.html:32
+msgid "个人财务策划；经济分析家；抵押经纪人；信用调查员；股票经纪人；投资银行家；国际银行家；经济学家；财务员，查账员和财政首脑官员；风险资本家；商业顾问；管理顾问；教育顾问；项目设计员；管理培训员；职业发展专家；劳动关系经理；电信安全顾问；公司团队培训员；立法助理；政治顾问"
+msgstr ""
+
+#: templates/mbti/personalities/entj.html:33
+msgid "ENTJ型的人在金融领域也比别人稍胜一筹。他们喜欢赚钱，也喜欢与别人的钱打交道！他们喜欢这一领域的竞争，且能够迅速轻松地占据优势。这些职业使得ENTJ型地人能运用他们预测趋势的能力，同时设计有创意的方式来使自己或其客户完全利用机会。当他们的工作极少地涉及到细枝末节以及后续事务时，他们能干得很出色。不过相反如果涉及了这些小事，他们就会派给别的能胜任的助手。"
+msgstr ""
+
+#: templates/mbti/personalities/entj.html:34
+msgid "商业顾问；管理顾问；教育顾问；项目设计员；管理培训员；职业发展专家；劳动关系经理；电信安全顾问；公司团队培训员；立法助理；政治顾问"
+msgstr ""
+
+#: templates/mbti/personalities/entj.html:35
+msgid "咨询界职业所提供的多样性与独立性吸引着ENTJ型的人来从事这一行业。最近几年咨询业发展极其迅速，从而给予了ENTJ型的人众多的机会来满足他们的企业家精神，他们与有着不同商业背景的人打交道，同时获得他们在工作中付出而该获得的回报。ENTJ型的人大多在商业或管理咨询方面有优势，他们可能时优秀的，能激励人潜能的培训员。他们通常能通过一些创造性设计和活跃的活动来创造出一个有组织的，富有挑战性的环境。他们似乎永远喜欢承担新的计划，喜欢以教授别的有雄心壮志的人的方式来提高他们的能力。"
+msgstr ""
+
+#: templates/mbti/personalities/entj.html:36
+msgid "律师；法官；心理学家；自然科学/社会科学教师；化学工程师；知识产权律师；生物医学工程师；律师（专业：非盈利性慈善机构）；律师（专业：财产策划）；政治科学家；病理学家；飞行员；集团总裁"
+msgstr ""
+
+#: templates/mbti/personalities/entj.html:37
+msgid "这些职业所提供的社会地位以及影响力是ENTJ型人在职业中奋力以求的，他们大多喜欢法律业，而且能成为成功的从业律师和法官，心理学家和精神病学家所面临的智力挑战也吸引着广大的ENTJ型的人，同样复杂的化学工程领域以及不断扩张的环境和生物工程领域也对ENTJ型的人有一定的吸引力。在教育方面，ENTJ型的人通常更喜欢教高年纪，尤其是中级教育，成人教育以及大专水平教育。他们喜欢把他们的知识应用到他们周围的世界，而且他们通常拥有能允许他们把他们的教育职责扩展到别的领域的职业－如政治或政治咨询。"
+msgstr ""
+
+#: templates/mbti/personalities/entj.html:38
+msgid "网络安全管理员；系统主管；局域网主管；机器人学网络经理；数据库主管；系统分析员；项目经理；合同经理"
+msgstr ""
+
+#: templates/mbti/personalities/entj.html:39
+msgid "很多ENTJ型的人近乎完美地适合大量的与电脑有关的职业，这些职业是从个人电脑的爆炸似的增长以及因特网的广泛运用中发展起来的。这些工作所要求的一些能力对ENTJ型的人来说都是天生具备的：理解并处理复杂问题的能力，一个逻辑思维能力强的头脑，掌握宏观图像的能力，以及优秀的组织技能。"
+msgstr ""
+
+#: templates/mbti/personalities/entj.html:40
+msgid "求职"
+msgstr ""
+
+#: templates/mbti/personalities/entj.html:41
+msgid "充分了解自己的长处和缺陷，能使你在求职的时候“知己知彼，百战不殆”。从开始寻求可能适合自己的工作岗位，接触和联系自己可能的未来老板，组织自我推销的材料（如个人简历等），安排并进行面试，与雇方协商工资的高低，到最后取得这份工作－在这整个过程的方方面面，人们都会如实地表现自己的个性。是否能够亮出自己的才能并弥补自己的不足，往往关系到你求职的成功与否。"
+msgstr ""
+
+#: templates/mbti/personalities/entj.html:42
+msgid "不同个性类型中的差别有时比较隐讳，有时极其明显。正是我们的建议中的这些细微的差别，往往关系到求职的成败。“相互交流”的观念（具体地说，就是通过与别人交流，从别人那儿获取一些求职信息），可以作为一个很好地例子。外向型人很喜欢和别人“相互交流”，而且我们也鼓励他大胆地去这么做；然而，内向型人却只喜欢和很小范围内的一些确定的人“相互交流”，他们觉得和熟人交流比较容易一些。感觉型人倾向于和确定范围内的一些人交流；然而，直觉型人却广泛地和很多人交换意见，虽然他们的某些聊天对象看上去和他们并不是“志趣相投”。情感型人把“相互交流”视作是很隐私的事情，就像他们对待其他任何事情一样而且他们喜欢与人建立友好关系；然而，思维型人却表现得比较一视同仁，他们对人往往比较冷漠。判断型人倾向于问别人一些比较“公式化”得问题，而且他们不会问许多人；然而，知觉型人却成天和别人无所不谈！虽然只有一个宝贵得求职方法，但是可以通过许多途径来运用表现它。"
+msgstr ""
+
+#: templates/mbti/personalities/entj.html:43
+msgid "成功之道"
+msgstr ""
+
+#: templates/mbti/personalities/entj.html:44
+msgid "因为ENTJ集多种能力于一身，所以他们中的大多数人都发现找工作还算容易且比较有意思。实际上，ENTJ们确实是了不起的工作搜索者，何况很多职业顾问就是ENTJ。难怪乎那些给求职者列出的典型工作对于ENTJ来说就好像为他们量身定做的衣服一样合身。"
+msgstr ""
+
+#: templates/mbti/personalities/entp.html:5
+msgid "发明家型人格"
+msgstr ""
+
+#: templates/mbti/personalities/entp.html:9
+msgid ""
+"对ENTP类型的人来说，最重要的是有创造力，能预见到美好的未来，并且时刻具有挑战性。将聪明用来形容这种类型的人是最合适不过的了。 "
+"ENTP人话说的快，脑子转的也快。他们既喜欢为自己的利益而辩，也喜欢炫耀自己的辩论技巧而跟人辩。辩论时，他们既喜欢表现乖张的幽默，也喜欢唱反调。那些并不视辩论为一种显示的人，在与他们辩论过程中，往往会觉得很困惑，甚至感到很受伤害。"
+msgstr ""
+
+#: templates/mbti/personalities/entp.html:11
+msgid "由于ENTP人很善言辞，所以他们在解决问题时很机灵，很有技巧性。然而有时他们却力争超越自我，他们经常不择手段只要有条件，他们便无视某些规则的存在去抄近路，即使是在野心勃勃的欺骗性活动中溃败而终，也在所不惜。无论在工作还是在家里，他们都喜欢玩各种体力或智力上的玩具，越复杂他们就越喜欢。虽然，他们很快便会喜新厌旧。"
+msgstr ""
+
+#: templates/mbti/personalities/entp.html:12
+msgid "ENTP人基本上都很乐观，在遇到大挫折时，他们只视其为一个挑战，并坚定地去解决掉；但是，当他们碰到小挫折或小麻烦时，却很容易发脾气。ENTP人不能忍受那些执迷不悟、愚钝的人，同时，他们也会毫不掩饰得表达这一点。其实，只要他们生活中没什么烦扰的事，他们平时还是很亲切和蔼的，有时甚至很讨人喜欢。"
+msgstr ""
+
+#: templates/mbti/personalities/entp.html:13
+msgid "人际关系"
+msgstr ""
+
+#: templates/mbti/personalities/entp.html:14
+msgid "在人际关系方面他们能一下子与所爱的人亲密起来。有些人在私底下表达这种感情；而另外一些人，对亲人的亲密程度却表现的很公然，以致于那些平时只见得他们工作中的一面的共事者们大吃一惊。ENTP人也善于结交那些与他们一样聪明、一样有趣的人。除了以上两方面，人性的其他方面似乎都被ENTP人给淡忘了，除非当他们作听众时-------给人或好，或坏，或什么样的感觉都有可能。"
+msgstr ""
+
+#: templates/mbti/personalities/entp.html:15
+#: templates/mbti/personalities/esfj.html:20
+#: templates/mbti/personalities/esfp.html:13
+#: templates/mbti/personalities/estp.html:24
+msgid "基本描述"
+msgstr ""
+
+#: templates/mbti/personalities/entp.html:16
+msgid "友好可爱，坦率直言；才思敏捷，精力充沛，玩世不恭；富有想象力和创新精神；好奇灵活，不可预见的；有逻辑性，善于分析"
+msgstr ""
+
+#: templates/mbti/personalities/entp.html:17
+#: templates/mbti/personalities/estp.html:33
+msgid "当情况环境转变时，你很容易忽视他人的情感，变得迟钝和鲁莽。"
+msgstr ""
+
+#: templates/mbti/personalities/entp.html:18
+#: templates/mbti/personalities/estp.html:34
+#: templates/mbti/personalities/intj.html:22
+msgid "优势"
+msgstr ""
+
+#: templates/mbti/personalities/entp.html:19
+msgid "出色的交际才能，能使别人对自己的观点感到兴奋；急切地“想知道盒子外面的世界”，能想出一些新的可能性；具有杰出的创造性地解决问题的技能；探索精神，创新意识，以及克服困难的勇气；兴趣爱好广泛，易于接受新的事物；有“走自己的路，让别人说去吧”的乐观主义激情；学习新知识的信心和动力都很强大；天生好奇心理，快速地搜集所需信息的技能；能够把握事情的全局，弄清思想和行为的长远影响；同时处理多个问题的能力；对别人的需要和意图的知觉；能灵活地适应新情况，有熟练的变换能力；在社交生活中不会感到拘谨，能舒适地适应大多数社交场合"
+msgstr ""
+
+#: templates/mbti/personalities/entp.html:20
+#: templates/mbti/personalities/estp.html:36
+#: templates/mbti/personalities/intj.html:26
+msgid "劣势"
+msgstr ""
+
+#: templates/mbti/personalities/entp.html:21
+msgid "难于让自己有条不紊和富有条理性；经常不能区分事情的优先秩序；过于自信，可能会不恰当地运用自己的能力和社交经历；倾向于用“是不是有可能”来看待问题，而不是可能性的大小来衡量问题；很可能不切实际地许诺；对思维狭窄和思想顽固的人缺乏耐心；问题一旦解决，兴趣便不复存在；不喜欢按照传统的公式化的方式办事；对待细节和后续工作可能缺乏耐心，对自己要求不严；对事物容易感到厌倦，并且可能在不恰当的时候把注意力转向别的地方；不喜欢重复性的工作；对自己不信任的人耐心不够"
+msgstr ""
+
+#: templates/mbti/personalities/entp.html:22
+msgid "适合岗位"
+msgstr ""
+
+#: templates/mbti/personalities/entp.html:23
+msgid ""
+"有机会从事创造性解决问题的工作，工作有一定的逻辑顺序和公正的标准，能够通过工作能提高个人权力并常与权力人物交流。比如各类项目的策划人和发起者、投资顾问（房地产、金融、贸易、商业等）、企业业主、"
+" 社团负责人、政府官员 "
+"等；投资经纪人、金融规划师、艺术总监、访谈类节目主持人、公关专业人士、企业公关经理等；产品开发、营销策划、管理系统开发、工业设计类经理、投资行业职员、广告创意指导等。"
+msgstr ""
+
+#: templates/mbti/personalities/entp.html:25
+msgid "投资、银行、公共关系、政治、市场营销、自我创业、创造性领域。"
+msgstr ""
+
+#: templates/mbti/personalities/entp.html:26
+#: templates/mbti/personalities/infj.html:46
+#: templates/mbti/personalities/infp.html:63
+msgid "爱情"
+msgstr ""
+
+#: templates/mbti/personalities/entp.html:27
+msgid "ENTP性格类型的人天性纯良，豁达开朗，逍遥自在。和他们相处时，总能感觉非常快乐。他们在与他人的互动过程中获取快乐和满足感。他们对于理论和概念的讨论特别感兴趣。由于他们喜欢与人争论的过程，他们可能会成为争议的导火线。一般他们喜欢调侃和群体活动，并能在这种交往活动中显得魅力四射。他们的问题是，在他们寻找新点子或计划时，有时会忽视他们亲近的人"
+msgstr ""
+
+#: templates/mbti/personalities/entp.html:28
+msgid "感情中的优点"
+msgstr ""
+
+#: templates/mbti/personalities/entp.html:29
+msgid "激情似火，积极向上且受人欢迎，拥有极强的人格魅力，优秀的沟通技巧，在交往过程中特别注重对于自己能力的提升和培养，悠闲自在，擅于自我调节，通常都是非常容易相处的，拥有大智慧的人，总是能想出一下伟大的策略或点子，很会赚钱，但是不擅理财，对于他们的承诺和人际关系都是十分严肃认真的，在情感上受到打击之后，能迅速走出阴影"
+msgstr ""
+
+#: templates/mbti/personalities/entp.html:30
+msgid "感情中的弱点"
+msgstr ""
+
+#: templates/mbti/personalities/entp.html:31
+msgid "对于新鲜事物总是激动不已，他们可能会频繁更替自己的爱人或朋友，常会放弃对于他们计划或想法的执行，他们热爱争辩的性格可能会引发与他人的矛盾，热爱冒险且花钱无节制，通常不擅理财，虽然他们对与爱人和朋友十分看重，但是如果这段关系不能让他们获得成长的帮助，那么他们很可能会选择退出"
+msgstr ""
+
+#: templates/mbti/personalities/entp.html:32
+msgid "ENTP型爱人"
+msgstr ""
+
+#: templates/mbti/personalities/entp.html:33
+msgid "在亲密的爱侣关系中，ENTP所追求的目标与他们在普通朋友关系中的目标是相似的，那就是“进步与成长”。他们会一直问自己一些像“怎样才能让感情质量提升呢？”“这段感情会驶向何方？”“我在这段感情中有得到提升么？”这类的问题。他们总是会充满热情地接受那些在他们看来能够对他们的进步和知识有所帮助的新点子、新计划以及爱人。一般说来，在一段感情中ENTP所表现出的热情和意图都是正面有益的。"
+msgstr ""
+
+#: templates/mbti/personalities/entp.html:34
+msgid "ENTP的一大问题就是他们对于计划的执行往往不能坚持到底。这对于他们的爱侣来说就是个麻烦了。随着问题的加剧，他们的爱侣会渐渐失去对ENTP的信心，不相信ENTP能够言行一致。最终的结果就是在爱情关系中，ENTP成为“狼来了”悲剧中的那个男主角。"
+msgstr ""
+
+#: templates/mbti/personalities/entp.html:35
+msgid "在性方面，ENTP充满激情，并对不断提升双方倾注大量努力。他们会全情投入并会不断质疑。他们喜欢顺其自然而循规蹈矩，并乐于接受新鲜的概念和新的冒险。他们将性关系更多地视为是一种传达爱意的身体接触，而非直接表达爱意的机会。"
+msgstr ""
+
+#: templates/mbti/personalities/entp.html:36
+msgid "总体而言，ENTP对于爱情的健康与走向有着如孩子一般的热情及真挚的兴趣。因此，他们希望能和他们的另一半一起营造一个健康成长性的爱情关系。ENTP需要注意对于他们感受的关注。当面对生活中让人激动的外界潜在价值时，ENTP也不能因此忽视他们的感情。"
+msgstr ""
+
+#: templates/mbti/personalities/entp.html:37
+msgid "两个性格发展完整的个体的确可以拥有一段健康的恋情，但是ENTP的最优选是INFJ或INTJ。ENTP的主导性格是外向直觉，这与以内向直觉为主导的性格人群是最好的配搭。虽然说任何性格类型的两个个体，只要性格发展完整都可以拥有一段健康的恋情。但是，与ENTP更合适的天生伴侣为INFJ或INTJ型性格。ENTP的主导官能“外向直觉”与这两种性格类型的主导官能“内向直接”最为匹配。"
+msgstr ""
+
+#: templates/mbti/personalities/esfj.html:5
+msgid "关爱者（主人）型人格"
+msgstr ""
+
+#: templates/mbti/personalities/esfj.html:9
+msgid ""
+"对ESFJ人来说，最重要的是人际关系，并能真实具体地帮助别人。他们待人慷慨大方，喜欢庆祝传统的节日。 ESFJ人的不同之处在于，他们欣赏 "
+"。他们清楚地看到问题的所在，轻易地分配掉，然后兴致勃勃地努力工作。像大多数SJ类型的人一样，ESFJ人很忠诚于权威，他们心甘情愿的为上级劳动（生命的意义所在），同时希望自己的下级也能如此。"
+msgstr ""
+
+#: templates/mbti/personalities/esfj.html:11
+msgid "ESFJ人很容易受伤害。当他们受伤时，他们并不会压抑内心的情绪，他们天生就是那种易形于色的人。他们待人热情和蔼，但也不乏将内心的苦水吐露出来的时候。有些ESFJ人就将这种易变的情绪搬到舞台或屏幕上以戏剧的形式表现出来。"
+msgstr ""
+
+#: templates/mbti/personalities/esfj.html:12
+msgid "ESFJ人的内心受一股强烈的、矛盾的力量冲击着。他们的是非常强烈地驱使着自己去解救所有被扭曲的真理一种本能的驱动力。所以当他们一发现有逾越者时,就会采取快速、迅捷的行动，而随之而来的可能是严厉的谴责。像管理员一样，ESFJ人能感觉到周围潜在的危险-内在的起因、外部的因素、肆无忌惮的恶人、阴险的人性弱点等，所以这是一个不可信任、充满了危险的世界。与其说ESFJ人疑心太重，倒不如说他们有高度的警惕性。所以他们是很好的保安人员，在医药保健和初等教育领域有很出色的表现。"
+msgstr ""
+
+#: templates/mbti/personalities/esfj.html:13
+msgid "友好积极，精力充沛；健谈亲切，好交际；关心体贴，谨慎礼貌，易于共事；实际而正直；多愁善感，易受伤害；传统尽责，做事有条理。"
+msgstr ""
+
+#: templates/mbti/personalities/esfj.html:14
+msgid ""
+"爱心、有责任心、合作。希望周边的环境温馨而和谐，并为此果断地营造这样的环境。喜欢和他人一起精确并及时地完成任务。忠诚，即使在细微地事情上也如此。能体察到他人在日常生活中的所需并竭尽全力帮助。希"
+" 望自己和自己的所为能受到他人的认可和赏识。"
+msgstr ""
+
+#: templates/mbti/personalities/esfj.html:15
+msgid "ESFJ型的人通过直接的行动和合作积极地以真实、实际的方法帮助别人。他们友好、富有同情心和责任感。"
+msgstr ""
+
+#: templates/mbti/personalities/esfj.html:16
+msgid ""
+"ESFJ型的人把他们同别人的关系放在十分重要的位置，所以他们往往具有和睦的人际关系，并且通过很大的努力以 "
+"获得和维持这种关系。事实上，他们常常理想化自己欣赏的人或物。"
+msgstr ""
+
+#: templates/mbti/personalities/esfj.html:17
+msgid ""
+"ESFJ型的人往往对自己以及自己的成绩十分欣赏，因而他们对于批评或者别人的漠视很敏感。通常他们很果断，表达自己的坚定的主张，乐于事情能很快 "
+"得到解决。"
+msgstr ""
+
+#: templates/mbti/personalities/esfj.html:18
+msgid ""
+"ESFJ型的人很现实，他们讲求实际、实事求是和安排有序。他们参与并能记住重要的事情和细节，乐于别人也能对自己的事情很确信。他们在自己的个人经历或在他们所信赖之人的经验之上制定计划或得出见解"
+" 。他们知道并参与周围的物质世界，并喜欢具有主动性和创造性。"
+msgstr ""
+
+#: templates/mbti/personalities/esfj.html:19
+msgid ""
+"ESFJ型的人十分小心谨慎，也非常传统化，因而他们能恪守自己的责任与承诺。他们支持现存制度，往往是委员会或组织机构中积极主动和乐于合作的成员 "
+"，他们重视并能保持很好的社交关系。他们不辞劳苦地帮助他人，尤其在遇到困难或取得成功时，他们都很积极活跃。"
+msgstr ""
+
+#: templates/mbti/personalities/esfj.html:21
+msgid "供应是提供给他人生活必需品的行为，供应者似乎天生就热衷于为他人服务，保证他们具有物资充足感和群体归属感。他们自觉承担起照顾身边的人和安排其福利待遇的责任，他们也是护卫者型中，最喜爱交际的人。无论走到都会承担着社会奉献者的角色，愉快的付出自己的时间和精力，以确保别人的需要得到满足、传统得到维持和发展，并圆满的履行其社会职责。"
+msgstr ""
+
+#: templates/mbti/personalities/esfj.html:22
+#, python-format
+msgid "由于生性善良或温柔，他们更乐于选择保管者的角色，而且，外向、风度翩翩的他们，似乎喜欢成为供应者，甚于保护者。他们占人口的10%%，女性比例为95%%，对我们来说是值得庆幸的事情，因为合作与方便社会是他们人性结构的关键所在。他们擅长与其助手通力协作，并不知疲倦的关心着所有商品和服务安排的详细事项。"
+msgstr ""
+
+#: templates/mbti/personalities/esfj.html:26
+msgid "在选择职业的时候，供应者也许偏爱服务性行业。供应者在处理销售事宜的时候，论证了如何将销售人格化，他们明显并诚实的为顾客的福利着想，因此顾客不仅从他们那儿购买商品，还购买个人福利。他们的性格促使他们在许多人与人交往的工作中表现出色，他们很少引起领导的愤怒，因为他们以义务和服务为导向，尊重并服从规章制度。对老板忠诚，能成为得力的私人秘书和办公室接待人员。"
+msgstr ""
+
+#: templates/mbti/personalities/esfj.html:28
+msgid ""
+"劳工关系调解人，商品规划师旅游项目经营者，旅游销售经理人，幼教老师，职业策划咨询师，旅游管理/导游，精品店、商场销售人员，娱乐、餐饮业客户经理员，市场营销人员（消费类产品），"
+" 创意人员，客户经理摄影师，社区工作人员，健身和运动教练"
+msgstr ""
+
+#: templates/mbti/personalities/esfj.html:29
+msgid "特点"
+msgstr ""
+
+#: templates/mbti/personalities/esfj.html:30
+msgid "井井有条，忠心不二，自始至终完成任务的可靠人选，喜欢构建秩序、架构和计划，喜欢与其他人沟通，热心且很有爱心，将他人的需求置于自己之上，擅于给予他人切实的帮助，合作互助，是非常优秀的团队成员，脚踏实地、注重实践，推崇平静安全的生活，喜欢多样化，但对日常事务的处理中也十分出色，需要得到他人的认可，在给予的过程中获得满足，活在当下，不喜欢对于未来理论化的设想"
+msgstr ""
+
+#: templates/mbti/personalities/esfj.html:31
+msgid "感情"
+msgstr ""
+
+#: templates/mbti/personalities/esfj.html:32
+msgid "ESFJ十分热心，他们非常重视自己的好友和家人。他们喜欢服务他人，而且他们的快乐来自于周围人群的快乐和愉悦。ESFJ的真挚热情、关爱他人的天性以及他们挖掘他人潜能的能力被周围人群极度推崇。他们通常不擅于掌控冲突局面，还会表现出一定的控制和操控欲。人际交往是他们生活的核心，为此他们会投入大量的时间和精力来培养和维系自己的这些人际纽带。同时，他们期望别人也能这么做。"
+msgstr ""
+
+#: templates/mbti/personalities/esfj.html:33
+msgid "不遗余力地履行自己的职责和义务；天性热情友善，乐于认同他人；具有服务意识，喜欢取悦他人；对于自己的承诺十分认真，寻求能够白头偕老的爱情；富有责任心且脚踏实地，是处理日常事务的可靠人选；通常积极向上，且非常受欢迎，对周围人群有很大的吸引力；通常非常擅于理财；思想传统，具有家庭观念，常会举办家庭庆典及传统的特殊活动"
+msgstr ""
+
+#: templates/mbti/personalities/esfj.html:34
+msgid "对于改变以及新环境常会表现出不适；极度厌恶冲突和批评；需要他人大量的正面肯定来获取自我满足；有可能过分注重权力地位，关注别人对自己的看法；很难接受感情的终结，并总会将罪错全部归到自己身上；很难接受自己身边亲密的人有任何负面问题；对于自己需求的关注不足，常会做出自我牺牲；有可能会运用阴谋操纵来达到自己的目的"
+msgstr ""
+
+#: templates/mbti/personalities/esfj.html:35
+msgid "ESFJ型爱人"
+msgstr ""
+
+#: templates/mbti/personalities/esfj.html:36
+msgid "ESFJ对于自己的爱人总会特别关心和照顾。他们往往非常传统，对于承诺十分认真。一旦ESFJ说出“我愿意”这三个字，他们就绝对会花大量的时间和精力来实现他们对于这段感情的承诺。"
+msgstr ""
+
+#: templates/mbti/personalities/esfj.html:37
+msgid "ESFJ们希望别人能够欣赏真正的自己，同时感激自己为别人所做出的努力。这种对于认可的需要有时会让他们变得极端渴求情绪上的满足。如果渴求难以满足，他们还可能不断地暗示爱人以寻求对自己的认可。ESFJ特别无法忍受矛盾或批评。任何形式的批评对他们而言都是对自己人格的侮辱。这个潜在问题是ESFJ需要注意的。在面对他人负面评价，或者缺受别人的正面认同时，ESFJ通常会表现得失落并开始自暴自弃。作为ESFJ的爱人，感恩的心是对他们最好的礼物。"
+msgstr ""
+
+#: templates/mbti/personalities/esfj.html:38
+msgid "ESFJ对于社会地位以及“他人的看法”十分关注。他们应该注意不要让这种情绪影响他们的感情。"
+msgstr ""
+
+#: templates/mbti/personalities/esfj.html:39
+msgid "在性方面，ESFJ们热情且钟情。他们视性爱作为表达自己的爱以及接收对方爱意的机会。许多ESFJ们倾向于传统的，有规律的性爱。然而，随着他们知识以及相关信息的积累，这种定式终将被打破。ESFJ具有极强的服务观，他们会十分注重让自己的另一半感到愉悦。"
+msgstr ""
+
+#: templates/mbti/personalities/esfj.html:40
+msgid "ESFJ们脚踏实地，因此极其擅长于家庭管理方面的事务。对于家人的日常所需他们通常非常有责任心，在财务方面他们也总是小心谨慎。他们喜欢安全平静的生活，并会为实现自己，伴侣和家人的目标而不懈努力。"
+msgstr ""
+
+#: templates/mbti/personalities/esfj.html:41
+msgid "大多数ESFJ非常需要归属感。这种需求常会让他们极具社交才华，乐于参加派对，也会不时举行一些聚会。他们通常希望自己的伴侣能够分享自己的社交体验。"
+msgstr ""
+
+#: templates/mbti/personalities/esfj.html:42
+msgid "虽然说任何性格类型的两个个体，只要性格发展完整都可以拥有一段健康的恋情。但是，与ESFJ更合适的天生伴侣为ISFP、ISFJ或INFP型性格。ESFJ的主导官能“外向情感”与这两种性格类型的主导官能“内向情感”最为匹配。"
+msgstr ""
+
+#: templates/mbti/personalities/esfj.html:43
+msgid "结束语"
+msgstr ""
+
+#: templates/mbti/personalities/esfj.html:44
+msgid "无论做什么，你都需要勇气。"
+msgstr ""
+
+#: templates/mbti/personalities/esfp.html:5
+msgid "表演者型人格"
+msgstr ""
+
+#: templates/mbti/personalities/esfp.html:9
+msgid ""
+"ESFP型的人乐意与人相处，有一种真正的生活热情。他们顽皮活泼，通过真诚和玩笑使别人感到事情更加有趣。 "
+"ESFP型的人脾气随和、适应性强，热情友好和慷慨大方。他们擅长交际，常常是别人的“注意中心”。他们热情而乐于合作地参加各种活动和节目，而且通常立刻能应对几种活动。"
+msgstr ""
+
+#: templates/mbti/personalities/esfp.html:10
+msgid "外向，友善，包容。热爱生活、人类和物质上的享受。喜欢与别人共事。在工作上，讲究常识和实用性，注意现实的情况，使工作富趣味性。富灵活性、即兴性，自然不做作，易接受新朋友和适应新环境。与别人一起学习新技能可以达到最佳的学习效果。"
+msgstr ""
+
+#: templates/mbti/personalities/esfp.html:11
+msgid ""
+"ESFP型的人是现实的观察者，他们按照事物的本身去对待并接受它们。他们往往信任自己能够听到、闻到、触摸和看到的事物，而不是依赖于理论上的解释。因为他们喜欢具体的事实，对于细节有很好的记忆力，所以他们能从亲身的经历中学到最好的东西。共同的感觉给予他们与人和物相处的实际能力。他们喜欢收集信息，从中观察可能自然出现的解决方法。"
+" "
+"ESFP型的人对于自我和他人都能容忍和接受，往往不会试图把自己的愿望强加于他人。ESFP型的人通融和有同情心，通常许多人都真心地喜欢他们。他们能够让别人采纳他们的建议，所以他们很擅于帮助冲突的各方重归于好。他们寻求他人的陪伴，是很好的交淡者。他们乐于帮助旁人，偏好以真实有形的方式给予协助。ESFP型的人天真率直，很有魅力和说服力。他们喜欢意料不到的事情，喜欢寻找给他人带来愉快和意外惊喜的方法。"
+msgstr ""
+
+#: templates/mbti/personalities/esfp.html:12
+msgid ""
+"ESFP类型的人灵活、忍耐力强，实际，注重结果。觉得理论和抽象的解释非常无趣。喜欢积极地采取行动解决问题。注重当前，自然不做作，享受和他人在一起的时刻。喜欢物质享受和时尚。学习新事物最有效的方式是通过亲身感受和"
+" 练习。"
+msgstr ""
+
+#: templates/mbti/personalities/esfp.html:14
+msgid "表演者型——不间断地尝试新的挑战"
+msgstr ""
+
+#: templates/mbti/personalities/esfp.html:15
+msgid "你喜欢娱乐大众，尽其所有地带给他们(和你自己)最多的爱、欢笑和热情。作为一位表演者型，你渴望聚光灯，同时享受着和所有你那个欢乐圈子的人们往来、打交道。最不快乐的事情就是叫你一个人独处，但幸运地，你并不常落单。对于真正的表演者型而言，生活是一场永不停止的狂欢聚会。"
+msgstr ""
+
+#: templates/mbti/personalities/esfp.html:16
+#: templates/mbti/personalities/estp.html:30
+msgid "可能的盲点"
+msgstr ""
+
+#: templates/mbti/personalities/esfp.html:17
+#: templates/mbti/personalities/estp.html:31
+msgid "由于你关注外界各种变化信息，喜欢处理紧急情况，不愿意制订规划去预防紧急情况的发生。常常一次着手许多事情，超出自己的负荷，不能履行诺言，可能使周围的人陷入混乱。你需要试着找到一些能让自己按时完成任务的方法。"
+msgstr ""
+
+#: templates/mbti/personalities/esfp.html:18
+msgid "你的注意力完全集中在有趣的活动上，喜欢不断地接受新的挑战，不愿意在沉闷的工作中消磨时间，难以估计自己行为带来的结果。你需要为自己订立一个行为标准。当情况环境转变时，你很容易忽视他人的情感，变得迟钝和鲁莽。"
+msgstr ""
+
+#: templates/mbti/personalities/esfp.html:19
+#: templates/mbti/personalities/intp.html:64
+msgid "工作中的优势"
+msgstr ""
+
+#: templates/mbti/personalities/esfp.html:20
+msgid "敏锐的观察力，对实际讯息的出色记忆力；明白该做什么，明白现实的对待完成工作的必要条件；在发动和促进项目时的愉快；精力充沛，工作时充满活力；随机应变的能力；能够使工作有趣和兴奋；参加团队工作的乐趣；实际、现实的观察力和丰富的常识；逐步上升的方式，你在工作中创造生动有趣的气氛；适应力，愿意冒险和尝试新事物；愿意接受不同和跟随潮流；有稳定平和的心态；有冲劲和闯劲，不患得患失"
+msgstr ""
+
+#: templates/mbti/personalities/esfp.html:21
+#: templates/mbti/personalities/intp.html:66
+msgid "工作中的劣势"
+msgstr ""
+
+#: templates/mbti/personalities/esfp.html:22
+msgid "很难独自工作，尤其是长时间；不喜欢事先准备，在组织时间上有困难；对别人的感觉迟钝、麻木，或对别人的感觉过于疏忽；无法看到一时不存在的机会和选择；缺乏耐心和/或无法忍受行政细节和手续；很难作决定和/或优先考虑计划；易冲动，易受诱惑或迷惑；难以看到事情的长远影响；不喜欢过多的规矩和条条框框的官僚作风；抵抗制定长远目标，难以达到最后期限；斗志不足，容易松懈,通常不愿付出过多的努力；在压力和挫折面前不够坚持"
+msgstr ""
+
+#: templates/mbti/personalities/esfp.html:23
+#: templates/mbti/personalities/estp.html:38
+#: templates/mbti/personalities/istj.html:54
+msgid "岗位特质"
+msgstr ""
+
+#: templates/mbti/personalities/esfp.html:24
+msgid "在一个没有太多的规则约束的环境中工作，完成自己的任务后可以享受自由的时间"
+msgstr ""
+
+#: templates/mbti/personalities/esfp.html:25
+msgid "工作可以使发挥你“救火”的能力，利用直接的经验，寻找解决问题的最佳方案"
+msgstr ""
+
+#: templates/mbti/personalities/esfp.html:26
+msgid "在工作中，接触真实的人和事务，进行有形产品的制造或服务，而不是理论和思想领域的"
+msgstr ""
+
+#: templates/mbti/personalities/esfp.html:27
+msgid "工作充满挑战，允许你用冒险的方式处理紧急情况"
+msgstr ""
+
+#: templates/mbti/personalities/esfp.html:28
+msgid "工作能发挥你敏锐的观察力、理解力以及对事实的记忆力"
+msgstr ""
+
+#: templates/mbti/personalities/esfp.html:29
+msgid "工作能让你结识各种不同的人，并能与讲究实际、充满活力的同事坦诚相处"
+msgstr ""
+
+#: templates/mbti/personalities/esfp.html:31
+msgid "多样性的服务领域，要求你在迅速改变的环境中快速思考/反应的服务领域可以满足你的好奇心和观察力，例如：警察、消防员、侦探、调查员、房地产经纪人、情报人员、稽查员、投资、保险经纪人、预算分析师等。"
+msgstr ""
+
+#: templates/mbti/personalities/esfp.html:32
+msgid "你喜欢冒险，喜欢有一定刺激，所以某些娱乐性的工作会带给你职业满足。例如：记者、旅游代理、摄像、主持人、演员、拍卖行业等。"
+msgstr ""
+
+#: templates/mbti/personalities/esfp.html:33
+msgid "你善于进行手工操作，这种操作可以带给你经济、技术的提高，且可以不断实践。例如：承包商、厨师、电器工程师、电信网络专家、后勤和供给人员、财务主管、运动生理学者、教师、园艺设计、摄影师、野外探险领导人。"
+msgstr ""
+
+#: templates/mbti/personalities/esfp.html:34
+msgid "那些过多约束的环境不是你需要考虑的工作环境，通常自由、多样化，能够提供冒险机会的工作对你更有适应性。例如：管理顾问、网络经销、汽车商人、特许经营、批发/零售商等。"
+msgstr ""
+
+#: templates/mbti/personalities/esfp.html:35
+#: templates/mbti/personalities/infj.html:102
+#: templates/mbti/personalities/infp.html:52
+#: templates/mbti/personalities/intp.html:68
+#: templates/mbti/personalities/isfp.html:46
+#: templates/mbti/personalities/istj.html:89
+msgid "发展建议"
+msgstr ""
+
+#: templates/mbti/personalities/esfp.html:36
+msgid ""
+"你成功的秘决在于： "
+"全面审视现实情况，三思而后行；考虑别人的情感；分清事情的轻重缓急，作好计划，善始善终；需要抑制其独断而忽视他人感情的方面；需要在迅速决定之前，事先计划，考虑细节，三思而行；注意规划性，发展持之以恒；需要注意物质享受以外的东西；不要考虑在压力大的环境中工作在；适合的时候，主动承担一些工作对你的发展更有利；尽量思考成熟后再采取行动，碰到困难时，你需要坚持"
+msgstr ""
+
+#: templates/mbti/personalities/estj.html:5
+msgid "大男人型人格"
+msgstr ""
+
+#: templates/mbti/personalities/estj.html:9
+msgid "ESTJ代表：E外倾+S感觉+T思维+J判断。ESTJ的人们友好直率，精力充沛；能力强，效率高，有条理；现实敏感，对新观念及未经证实的观念多抱有怀疑的态度；诚实率真；决策迅速，固执己见，保守，认真可靠。"
+msgstr ""
+
+#: templates/mbti/personalities/estj.html:11
+msgid ""
+"讲求实际，注重现实，注重事实。果断，很快作出实际可行的决定。善于将项目和人组织起来将事情完成，并尽可能以最有效率的方法达到目的。能够注意日常例行工作的细节。有一套清晰的逻辑标准，有系统性地遵循，"
+" 并希望他人也同样遵循。会以较强硬的态度去执行计划。"
+msgstr ""
+
+#: templates/mbti/personalities/estj.html:12
+msgid ""
+"ESTJ型的人高效率地工作，自我负责，监督他人工作，合理分配和处置资源，主次分明，井井有条；能制定和遵守规则，多喜欢在制度健全、等级分明、比较稳定的企业工作；倾向于选择较为务实的业务，以有形产品为主"
+" "
+"；喜欢工作中带以态度取胜；不特别强调工作的行业或兴趣，多以职业角度看待每一份工作。ESTJ型的人很善于完成任务；他们喜欢操纵局势和促使事情发生；他们具有责任感，信守他们的"
+" "
+"承诺。他们喜欢条理性并且能记住和组织安排许多细节。他们及时和尽可能高效率地、系统地开始达到目标。ESTJ型的人被迫做决定。他们常常以自己过去的经历为基础得出结论。他们很客观，有条理性和分析能力，以及"
+" "
+"很强的推理能力。事实上，除了符合逻辑外，其他没有什么可以使他们信服。同时，ESTJ型的人又很现实、有头脑、讲求实际。他们更感兴趣的是真实的事物，而不是诸如抽象的想法和理论等无形的东西。他们往往对那些认为没有实用价值的东西不感兴趣。他们知道自己周围将要发生的事情，而首要关心的则是目前。因为ESTJ型的人依照一套固定的规则生活，所以他们坚持不懈和值得依赖。他们往往很传统，有兴趣维护现存的制度。"
+" "
+"虽然对于他们来说，感情生活和社会活动并不像生活的其他方面那样重要，但是对于亲情关系，他们却固守不变。他们不但能很轻松地判断别人，而且还是条理分明的纪律执行者。"
+" ESTJ型的人直爽坦率，友善合群。通常他 "
+"们会很容易地了解事物，这是因为他们相信你看到的便是你得到的。对ESTJ类型的人来说，最重要的是做对事情，把握好事情的发展。ESTJ人做事讲究顺序和连续性。与他们外向的性格相一致的是，他们热心于对人的组织，即对人的监督管理。虽然他们喜欢根据自己的理论和战术性的议程组织和动员人员，他们还是愿意遵守一些规则，诸如传统惯例和上级命令等。"
+msgstr ""
+
+#: templates/mbti/personalities/estj.html:13
+msgid "ESTJ人是合群的。他们在俱乐部、文化团体、教堂和其他服务机构中寻找志同道合的人为伴。同所有其他SJ类型的人一样，他们也追求归属感。因此，家庭生活是ESTJ人极其关注的事，参加婚礼、葬礼以及家庭联欢会都是他们必不可少的活动。"
+msgstr ""
+
+#: templates/mbti/personalities/estj.html:14
+msgid "对ESTJ人来说，传统很重要。假日、生日、节日都是他们铭记着并必定会隆重地庆祝的。ESTJ人喜欢追根溯源，将家产追溯到他们尊敬的祖宗，既表达了他们对家族的尊重，又找到了归属感。"
+msgstr ""
+
+#: templates/mbti/personalities/estj.html:15
+msgid ""
+"提供服务------- 实质即为负责任的体现------- "
+"是ESTJ人另一关注的事。他们喜欢提供和接受优质的服务。那些提供了可靠服务的ESTJ商人大大地提高了自己的形象。"
+msgstr ""
+
+#: templates/mbti/personalities/estj.html:16
+msgid "ESTJ人推崇职业道德。他们认为工作中应努力取得权利、职位和声望。懒惰是不会为他们接受，更不会赞赏的。ESTJ人坦率直言，有原则；只要他们认为是正确的，即使面对势不可挡的强势，他们也敢站出来说话。"
+msgstr ""
+
+#: templates/mbti/personalities/estj.html:18
+msgid "ESTJ常常会是政治掮客，或者那些在幕后操纵一切的政治家。他们可能是那些控制美国金融王朝的强盗资本家。他们信奉的是黑手党的哲学:我的地盘，我的人。他们是地狱的天使，是工会的领导人，是那种置于死地而后生的人。他们意志坚定但心地温和。他们是一手掌握控制权，一手把持公平原则的企业领导。他们是分户出售公寓的地产开发商，带头为无家可归者提供住房。"
+msgstr ""
+
+#: templates/mbti/personalities/estj.html:20
+msgid "公司首席执行官、军官、预算分析师、药剂师、房地产经纪人、保险经纪人、教师（贸易/工商类）、物业管理、银行官员、项目经理、数据库经理、信息总监、后勤与供应经理、业务运作顾问、证券经纪人、电脑分析人员、保险代理、普通承包商、工厂主管、大中型外资企业员工、业务经理、中层经理（多分布在财务、营运、物流采购、销售管理、项目管理、工厂管理、人事行政部门）、职业经理人、各类中小型企业主管和业主"
+msgstr ""
+
+#: templates/mbti/personalities/estj.html:21
+msgid "卓越领导"
+msgstr ""
+
+#: templates/mbti/personalities/estj.html:22
+msgid "若你是一个大男人型，你在众人之间是一个卓越同时受尊重的个体，因为你能够在不引起众人骚动的状况下，把你心中的话表达出来。当然，那些尊重你的人也许会觉得恐惧，因为他们看不到你温柔的一面：只为了值得的人才付出的忠诚，也就是你为了支持和保护你的朋友、家庭和国家所奉献的一切忠诚。当你恋爱时对你而言，爱情是一件必须严肃看待的付出过程。一旦你对对方付出一切，你就已经决定了要和那个人共度余生。你也是那种喜欢控制生活中每件事情的人，包括爱情生活。你很有可能是那个负责计划大部分约会的人(除非你和一个同样强势的陆军元帅型或大男人型交往)，也是那个在婚后负责家事的人。由于你习惯直接的方式，可能会无意间伤害了你伴侣的感受。这种状况尤其会发生在当你的伴侣是其中一个感觉型的恋爱类型时。纵然如此，你并不认为你那直言不讳的语气是一段感情的障碍，你也无意要伤害对方。你只是以一种现实的方式和另一半交往，你希望打破那些繁文缛节，让双方可以共创一段成功感情、婚姻和家庭生活。"
+msgstr ""
+
+#: templates/mbti/personalities/estj.html:23
+msgid "若你是一个女性大男人型，你可以在任何地方、任何时候认识男人，但很多男人似乎都被你的直接态度吓跑。不管到哪里，总是遇到那种容易受惊吓的男人，他们无法看穿你“强悍”外表下温柔的内在。你最明智的选择是男性大男人型或是陆军元帅型(ENTJ)，只要他在直觉偏向上不会太强烈。若你的陆军元帅型是一个很强烈的直觉型，他也许会渐渐对你的务实面感到厌烦，而你最终有可能会因他疯狂的计划和设计抓狂。你和这两种男人其中一种交往的优点是，你可以因此享受一个高水准的生活。他们两人都可能受过良好教育，同时正在往成功的路径快速前进。缺点是，你有可能和另一半彼此竞争或相互较劲。一场思想的角力战也许会被引爆，以决定你们当中哪个才是最有成就的。"
+msgstr ""
+
+#: templates/mbti/personalities/estp.html:5
+msgid "挑战者型人格"
+msgstr ""
+
+#: templates/mbti/personalities/estp.html:9
+msgid "1.灵活、忍耐力强，实际，注重结果。"
+msgstr ""
+
+#: templates/mbti/personalities/estp.html:10
+msgid "2.觉得理论和抽象的解释非常无趣。——并非所有人如此"
+msgstr ""
+
+#: templates/mbti/personalities/estp.html:11
+msgid "3.喜欢积极地采取行动解决问题。"
+msgstr ""
+
+#: templates/mbti/personalities/estp.html:12
+msgid "4.注重当前，自然不做作，享受和他人在一起的时刻。"
+msgstr ""
+
+#: templates/mbti/personalities/estp.html:13
+msgid "5.喜欢物质享受和时尚。"
+msgstr ""
+
+#: templates/mbti/personalities/estp.html:14
+msgid "6.学习新事物最有效的方式是通过亲身感受和练习。"
+msgstr ""
+
+#: templates/mbti/personalities/estp.html:16
+msgid "1.ESTP型的人不会焦虑，因为他们是快乐的。"
+msgstr ""
+
+#: templates/mbti/personalities/estp.html:17
+msgid "2.ESTP型的人活跃、随遇而安、天真率直。他们乐于享受现在的一切而不是为将来计划什么。"
+msgstr ""
+
+#: templates/mbti/personalities/estp.html:18
+msgid "3.ESTP型的人很现实，他们信任和依赖于自己对这个世界的感受。他们是好奇而热心的观察者。因为他们接受现在的一切，所以他们思维开阔，能够容忍自我和他人。"
+msgstr ""
+
+#: templates/mbti/personalities/estp.html:19
+msgid "4.ESTP型的人喜欢处理、分解与恢复原状的真实事物。"
+msgstr ""
+
+#: templates/mbti/personalities/estp.html:20
+msgid "5.ESTP型的人喜欢行动而不是漫谈，当问题出现时，他们乐于去处理。他们是优秀的解决问题的人，这是因为他们能够掌握必要的事实情况，然后找到符合逻辑的明智的解决途径，而无需浪费大量的努力或精力。"
+msgstr ""
+
+#: templates/mbti/personalities/estp.html:21
+msgid "6.ESTP型的人会成为适宜外交谈判的人，他们乐于尝试非传统的方法，而且常常能够说服别人给他们一个妥协的机会。"
+msgstr ""
+
+#: templates/mbti/personalities/estp.html:22
+msgid "7.ESTP型的人能够理解晦涩的原则，在符合逻辑的基础上，而不是基于他们对事物的感受之上做出决定。因此，他们讲求实效，在情况必须时非常强硬。"
+msgstr ""
+
+#: templates/mbti/personalities/estp.html:23
+msgid ""
+"8.ESTP型的人在大多数的社交场合中，很友善，富有魅力、轻松自如而受 "
+"人欢迎。在任何有他们的场合中，他们总是爽直、多才多艺和有趣，总有没完没了的笑话和故事。他们善于通过缓和气氛以及使冲突的双方相互协调，从而化解紧张的局势"
+msgstr ""
+
+#: templates/mbti/personalities/estp.html:25
+msgid "你是敏锐的发现者，善于看出眼前的需要，并迅速做出反应来满足这种需要，天生爱揽事并寻求满意的解决办法。你精力充沛，积极解决问题，很少被规则或标准程式框住。能够想出容易的办法去解决难办的事情，以此使自己的工作变得愉快。"
+msgstr ""
+
+#: templates/mbti/personalities/estp.html:26
+msgid "你天生的乐天派，积极活跃，随遇而安，乐于享受今天。对提供新经验的任何事物、活动、食物、服饰、人等都感兴趣，只愿享受今天，享受现在。"
+msgstr ""
+
+#: templates/mbti/personalities/estp.html:27
+msgid "你好奇心强，思路开扩，容易接受事物，倾向于通过逻辑分析和推理做出决定，不会感情用事。如果形势需要，你会表现出坚韧的意志力。偏爱灵活地处理实际情况，而不是根据计划办事。"
+msgstr ""
+
+#: templates/mbti/personalities/estp.html:28
+msgid "你长于行动，而非言语，喜欢处理各种事情，喜欢探求新方法。你具有创造性和适应性，有发明的才智和谋略，能够有效地缓解紧张氛，并使矛盾双方重归于好。"
+msgstr ""
+
+#: templates/mbti/personalities/estp.html:29
+msgid "你性格外向，友好而迷人，很受欢迎，并且能在大多数社会情况中很放松自如。"
+msgstr ""
+
+#: templates/mbti/personalities/estp.html:32
+msgid "你的注意力完全集中在有趣的活动上，喜欢不断地接受新的挑战，不愿意在目前沉闷的工作中消磨时间，难以估计自己行为带来的结果。你需要为自己订立一个行为标准。"
+msgstr ""
+
+#: templates/mbti/personalities/estp.html:35
+msgid "敏锐的观察力，对实际讯息的出色记忆力、明白该做什么，明白现实的对待完成工作的必要条件、在发动和促进项目时的愉快、精力充沛，工作时充满活力、随机应变的能力、能够使工作有趣和兴奋、参加团队工作的乐趣、实际、现实的观察力和丰富的常识、逐步上升的方式，你在工作中创造生动有趣的气氛、适应力，愿意冒险和尝试新事物、愿意接受不同和跟随潮流、有稳定平和的心态、有冲劲和闯劲，不患得患失"
+msgstr ""
+
+#: templates/mbti/personalities/estp.html:37
+msgid "很难独自工作，尤其是长时间、不喜欢事先准备，在组织时间上有困难、对别人的感觉迟钝、麻木，或对别人的感觉过于疏忽、无法看到一时不存在的机会和选择、缺乏耐心和/或无法忍受行政细节和手续、很难作决定和/或优先考虑计划、易冲动，易受诱惑或迷惑、难以看到事情的长远影响、不喜欢过多的规矩和条条框框的官僚作风、抵抗制定长远目标，难以达到最后期限、斗志不足，容易松懈,通常不愿付出过多的努力、在压力和挫折面前不够坚持"
+msgstr ""
+
+#: templates/mbti/personalities/estp.html:39
+msgid "在一个没有太多的规则约束的环境中工作，完成自己的任务后可以享受自由的时间；工作可以使发挥你“救火”的能力，利用直接的经验，寻找解决问题的最佳方案；在工作中，接触真实的人和事务，进行有形产品的制造或服务，而不是理论和思想领域的；工作充满挑战，允许你用冒险的方式处理紧急情况；工作能发挥你敏锐的观察力、理解力以及对事实的记忆力；工作能让你结识各种不同的人，并能与讲究实际、充满活力的同事坦诚相处"
+msgstr ""
+
+#: templates/mbti/personalities/estp.html:41
+msgid "多样性的服务领域，要求你在迅速改变的环境中快速思考/反应的服务领域可以满足你的好奇心和观察力。"
+msgstr ""
+
+#: templates/mbti/personalities/estp.html:42
+msgid "例如：警察、消防员、侦探、调查员、房地产经纪人、情报人员、稽查员、投资、保险经纪人、预算分析师等。"
+msgstr ""
+
+#: templates/mbti/personalities/estp.html:43
+msgid "你喜欢冒险，喜欢有一定刺激，所以某些娱乐性的工作会带给你职业满足。"
+msgstr ""
+
+#: templates/mbti/personalities/estp.html:44
+msgid "例如：记者、旅游代理、摄像、主持人、演员、拍卖行业等。"
+msgstr ""
+
+#: templates/mbti/personalities/estp.html:45
+msgid "你善于进行手工操作，这种操作可以带给你经济、技术的提高，且可以不断实践。"
+msgstr ""
+
+#: templates/mbti/personalities/estp.html:46
+msgid "例如：承包商、厨师、电器工程师、电信网络专家、后勤和供给人员、财务主管、运动生理学者、教师、园艺设计、摄影师、野外探险领导人。"
+msgstr ""
+
+#: templates/mbti/personalities/estp.html:47
+msgid "那些过多约束的环境不是你需要考虑的工作环境，通常自由、多样化，能够提供冒险机会的工作对你更有适应性。"
+msgstr ""
+
+#: templates/mbti/personalities/estp.html:48
+msgid "例如：管理顾问、网络经销、汽车商人、特许经营、批发/零售商等。"
+msgstr ""
+
+#: templates/mbti/personalities/estp.html:49
+msgid "建议"
+msgstr ""
+
+#: templates/mbti/personalities/estp.html:50
+msgid ""
+"你成功的秘决在于： "
+"全面审视现实情况，三思而后行、考虑别人的情感、分清事情的轻重缓急，作好计划，善始善终。需要抑制其独断而忽视他人感情的方面、需要在迅速决定之前，事先计划，考虑细节，三思而行、注意规划性，发展持之以恒、需要注意物质享受以外的东西、目前不要考虑在压力大的环境中工作、在适合的时候，主动承担一些工作对你的发展更有利、尽量思考成熟后再采取行动，碰到困难时，你需要坚持"
+msgstr ""
+
+#: templates/mbti/personalities/estp.html:51
+msgid "分析报告"
+msgstr ""
+
+#: templates/mbti/personalities/estp.html:52
+msgid "你对组织的社会性要求高，你非常喜欢那些经常有外出机会，果断和行动导向的企业文化。你非常希望每天能与许多人接触，愿意积极的建立起广泛的社会关系网，建立起新的商业机会。工作可以直接与客户打交道，如销售人员，商业拓展人员等。自信、有挑战性，发现或创造新的市场机会，有这样工作空间的环境适合你。"
+msgstr ""
+
+#: templates/mbti/personalities/estp.html:53
+msgid "你对结构松散，不要求很高的精确度和不强调细节的组织更喜欢。你喜欢自己设定目标和工作的完成期限，并且有权力决定自己的工作方式（例如自我设定工作时间表）工作中你更相信你的直觉，而不是精细的计划和安排。以人为本，互动性强和高度自主的文化对你都很合适。"
+msgstr ""
+
+#: templates/mbti/personalities/estp.html:54
+msgid "你更倾向于那些忙碌的、注重实际操作的企业文化，用现有经过检验的方法处理事务。你崇尚经过时间检验的能力的有效性和可预测性。你不会从事风险极大的事情。你更欣赏按照传统方法按规定做事，不计时间代价的企业。你喜欢企业有明确目标、清晰的商业战略，并且能够进可能有效和始终如一执行这些策略的企业文化。"
+msgstr ""
+
+#: templates/mbti/personalities/estp.html:55
+msgid "你把竞争和人员间的不同意见看成是创新和商业成功的驱动力。你喜欢鼓励讨论、争论、坦诚交流的企业文化，与其他人相比你也许会与你的同事保持相对较远的关系。你在生机盎然和进取的企业文化里工作状态最好。"
+msgstr ""
+
+#: templates/mbti/personalities/index.html:19
+msgid "点击查看详细介绍"
+msgstr ""
+
+#: templates/mbti/personalities/infj.html:5
+msgid "劝告者型人格"
+msgstr ""
+
+#: templates/mbti/personalities/infj.html:9
+msgid "INFJ，内倾、直觉、情感和判断，是一类劝告者的人。他们有较强的移情能力，能够获知别人的感情或意向，他们通常都是好学生。INFJ性格的人适合当医疗咨询服务，剧作家，艺术顾问，作家等。富有创造性和独创性，独立自主，细心周到，热情细腻；全球化的思想家有独特的洞察力，并有高涨的热情；细致谨慎，深思熟虑；有计划有组织，有生产能力的，有决策力的；有节制，有礼貌。属于理想者的四种类型之一。"
+msgstr ""
+
+#: templates/mbti/personalities/infj.html:11
+msgid ""
+"劝告者（INFJ） "
+"寻求思想、关系、物质等之间的意义和联系。希望了解什么能够激励人，对人有很强的洞察力。有责任心，坚持自己的价值观。对于怎样更好的服务大众有清晰的远景。在对于目标的实现过程中有计划而且果断坚定。"
+msgstr ""
+
+#: templates/mbti/personalities/infj.html:12
+msgid ""
+"INFJ型的人忠诚、坚定、富有理想 。他们珍视正直，十分坚定。因为他们的说服能力，以及对于什么对公共利益最有利有清楚的看法，所以 "
+"INFJ型的人会成为伟大的领导者。由于他们的贡献，他们通常会受到尊重或敬佩。因为珍视友谊 "
+"和和睦，INFJ型的人喜欢说服别人，使之相信他们的观点是正确的。通过运用嘉许和赞扬，而不是争吵和威胁，他们赢得了他人的合作。他们愿意毫无保留地激励同伴，避免争吵。"
+msgstr ""
+
+#: templates/mbti/personalities/infj.html:13
+msgid ""
+"INFJ型的人生活在思想的世界里。他们是独立的、有独创性的思想家，具有强烈的感情、坚定的原则和正直的人性。即使面对怀疑，INFJ型的人仍相信自己的看法与决定。他们对自己的评价高于其他的一切，包括流行观点"
+" "
+"和存在的权威，这种内在的观念激发着他们的积极性。通常INFJ型的人具有本能的洞察力，能够看到事物更深层的含义。即使他人无法分享他们的热情，但灵感对于他们重要而令人信服。"
+msgstr ""
+
+#: templates/mbti/personalities/infj.html:14
+msgid ""
+"通常INFJ型的人是深思熟虑的决策者，他们觉得问题使人兴奋，在行动之前他们通常要仔细地考虑。他们喜欢每次全神贯注于一件事情，这会造成一段时期的专心致志。满怀热情与同情心，INFJ型的人强烈地渴望为他人的幸福做贡献。他们注意其他人的情感和利"
+" 益，能够很好地处理复杂的人。"
+msgstr ""
+
+#: templates/mbti/personalities/infj.html:15
+msgid ""
+"INFJ型的人本身具有深厚复杂的性格，既敏感又热切。他们内向，很难被人了解，但是愿意同自己信任的人分享内在的自我。他们往往有一个交往深厚、持久的小规模的朋友圈，在合适的氛"
+" 围中能产生充分的个人热情和激情。"
+msgstr ""
+
+#: templates/mbti/personalities/infj.html:16
+#, python-format
+msgid "忠告属于指导方面的行为，目的是帮助人们认知其人性潜能，劝告者型人具有一种非比寻常的促成他人幸福安宁的强烈渴望，并真诚的喜欢引导他们的同伴，获得较大程度的个人实现。此类型的人，极为少见，不过占个人口的1%%而已。从他们在社会中起到的作用来看，这是很不利的现象。虽然这些人，往往是比较隐秘且敏于理解的人，因而通常不是引人注目的领导者，但他们仍然热情地与周围的人们共事，在暗中默默地影响着其它家人、朋友和同事。这些喜欢蛰居的友善的人们，本身令人很难理解，他们能够理解和处理复杂的伦理问题及应对极度不安份的个人。"
+msgstr ""
+
+#: templates/mbti/personalities/infj.html:17
+msgid "他们生性善于安排事物，习惯于选择训诫型的指导角色，而非提倡者的角色。而且，宁静矜持的个性决定了他们似乎更满足于劝告者的角色。"
+msgstr ""
+
+#: templates/mbti/personalities/infj.html:18
+msgid "劝告者很难被人所了解，他们有着异常丰富的内涵，但矜持、不愿意与除他们所信赖的人之外的其他人分享自己的感觉。当然，他们与所爱的人在一起，会毫不做作的表现出自己的感受：容光焕发，表示他们愉快的情感；脸色阴沉，表示他们不悦。由于拥有体验他人情感的十足本能，劝告者可能相当容易地受到周围人的伤害。同时，与他们相知多年的朋友，也许为其多重性而意外，并非他们前后矛盾；相反，他们极其重视诚实的品性，但有着神秘的、复杂交织的个性，甚至有时连他们自己都感到困惑。"
+msgstr ""
+
+#: templates/mbti/personalities/infj.html:19
+msgid "他能够获知别人的感情或意向，―――善良或者邪恶，甚至在个人所有意识之前。另外，他们能理解超自然现象的力量，即，预示和心力投入。他们因为丰富和生动的想象而常常被看做是所有类型中，最富有诗意、甚至神秘的人。他们往往选择文学艺术作为大学主科，他们在语言方面的优秀才能，致使他们通常以一种人性化的方式与人交流。"
+msgstr ""
+
+#: templates/mbti/personalities/infj.html:20
+msgid "在学校里，他们通常都是好学生，显示朴素创造力的成就，享受解决难题带来的乐趣，严肃对待工作。他们在那种需要与人们相互施加影响的职业领域显得精力旺盛，为他们的个人发展提供养分。"
+msgstr ""
+
+#: templates/mbti/personalities/infj.html:21
+msgid "虽然劝告者具有的才能比较适合那种需要孤独和密切注意的工作，他们与群体接触的时候也同样表现得十分优秀，而且是不流于形式的。他们与人相处时，习惯于高度敏感并有效的工作。他们乐于帮助别人解决难题，并能够创造性和善意的理解和使用人性规律。重视和睦的内部关系，并希望机构能平稳、令人愉快的运转，并尽其所能的去实现这个目标。他们喜欢取悦别人，并认为冲突是令人不愉快的和具有破坏性的。他们会善意的赞美别人，欣赏和激励他人，是他们的一种方式。如果遭遇到不利的工作条件或批评时，他们会变得郁郁寡欢，最终导致身体疾病。"
+msgstr ""
+
+#: templates/mbti/personalities/infj.html:22
+msgid "此外约有四成的INFJ人士智商皆超过130。他们很难被理解，神秘、高度复杂，有时候连他们自己都会被自己弄糊涂。他们的世界十分有秩序，但是却以一种复杂的方式安排布置，只有他们自己能理解。"
+msgstr ""
+
+#: templates/mbti/personalities/infj.html:23
+#, python-format
+msgid "INFJ是最稀少的类型之一，大概占人口的1%-3%"
+msgstr ""
+
+#: templates/mbti/personalities/infj.html:24
+msgid "寻求思想、关系、物质等之间的意义和联系。希望了解什么能够激励人，对人有很强的洞察力。有责任心，坚持自己的价值观。对于怎样更好的服务大众有清晰的远景。在对于目标的实现过程中有计划而且果断坚定。"
+msgstr ""
+
+#: templates/mbti/personalities/infj.html:25
+msgid ""
+"INFJ型的人生活在思想的世界里。他们是独立的、有独创性的思想家，具有强烈的感情、坚定的原则和正直的人性。即使面对怀疑，INFJ型的人仍相信自己的看法与决定。他们对自己的评价高于其他的一切，包括流行观点"
+" "
+"和存在的权威，这种内在的观念激发着他们的积极性。通常INFJ型的人具有本能的洞察力，能够看到事物更深层的含义。即使他人无法分享他们的热情，但灵感对于他们重要而令人信服。INFJ型的人忠诚、坚定、富有理想"
+" "
+"。他们珍视正直，十分坚定以至达到倔强的地步。因为他们的说服能力，以及对于什么对公共利益最有利有清楚的看法，所以INFJ型的人会成为伟大的领导者。由于他们的贡献，他们通常会受到尊重或敬佩。因为珍视友谊和和睦，INFJ型的人喜欢说服别人，使之相信他们的观点是正确的。通过运用嘉许和赞扬，而不是争吵和威胁，他们赢得了他人的合作。他们愿意毫无保留地激励同伴，避免争吵。通常INFJ型的人是深思熟虑的决策者，他们觉得问题使人兴奋，在行动之前他们通常要仔细地考虑。他们喜欢每次全神贯注于一件事情，这会造成一段时期的专心致志。满怀热情与同情心，INFJ型的人强烈地渴望为他人的幸福做贡献。他们注意其他人的情感和利益，能够很好地处理复杂的人。INFJ型的人本身具有深厚复杂的性格，既敏感又热切。他们内向，很难被人了解，但是愿意同自己信任的人分享内在的自我。他们往往有一个交往深厚、持久的小规模的朋友圈，在合适的氛围中能产生充分的个人热情和激情。"
+msgstr ""
+
+#: templates/mbti/personalities/infj.html:27
+msgid "咨询/教育业"
+msgstr ""
+
+#: templates/mbti/personalities/infj.html:27
+msgid "职业顾问、诊疗心理学家、老师：高中或大学外语、艺术、音乐、社科、戏剧、教育顾问、图书管理员、特殊教育老师、双语种教育老师、社会学家、职业治疗师、儿童福利顾问、早期教育老师、心理咨询人员、发展心理学家"
+msgstr ""
+
+#: templates/mbti/personalities/infj.html:28
+msgid "这些职业允许INFJ运用他们自己的观点和知识帮助别人。咨询或教育领域要求私人的合作，经常是在一对一的基础上与别人深入地交往。INFJ喜欢学习，并以能学得一些新东西以及能从事教育行业而获得成长的机会而高兴，因此，他们在学术背景下工作通常是相当舒心的。"
+msgstr ""
+
+#: templates/mbti/personalities/infj.html:29
+msgid "创造性的职业"
+msgstr ""
+
+#: templates/mbti/personalities/infj.html:29
+msgid "艺术家、剧作家、诗人、小说家、室内设计师、自由媒体策划、多媒体制片人、网站编辑、电影编辑、教育设计开发员、服装设计师"
+msgstr ""
+
+#: templates/mbti/personalities/infj.html:30
+msgid "对于INFJ来说，艺术的吸引力在于他们能够运用他们的才能创造出独特的作品，同时把自己的观点和想象力融入其中。通过艺术，INFJ能以他们个人独有的方式表达自己，而同时又能以其艺术魅力震撼别人，更何况艺术作品一般来说大多都是自己独立完成，这就使得INFJ能够自己安排并支配工作环境、进程以及艺术作品。"
+msgstr ""
+
+#: templates/mbti/personalities/infj.html:31
+msgid "健康保健/社会服务"
+msgstr ""
+
+#: templates/mbti/personalities/infj.html:31
+msgid "健康保健管理者、社会服务机构主管、饮食学家/营养学家、语言病理学家/听力专家、整体健康护理医生、资金协调员、矫形治疗师"
+msgstr ""
+
+#: templates/mbti/personalities/infj.html:32
+msgid "社会服务性工作要求为别人服务时要尽职尽责，且常常指加入了某个社会服务组织。大多数INFJ喜欢在这样的环境中工作，尤其是这个组织只包含一小群有高度组织性的职员时。社会服务使得INFJ能自己考虑某种新方法来解决个体和社会问题，并以此种方法付诸行动。"
+msgstr ""
+
+#: templates/mbti/personalities/infj.html:33
+#: templates/mbti/personalities/isfp.html:44
+#: templates/mbti/personalities/istj.html:69
+msgid "商业"
+msgstr ""
+
+#: templates/mbti/personalities/infj.html:33
+msgid "人力资源经理、职业分析家、公司/团队培训员、商品策划、消费者关系顾问"
+msgstr ""
+
+#: templates/mbti/personalities/infj.html:34
+msgid "虽然INFJ不会大量涌向商界，但其中有些领域也能让INFJ获得职业满足感。以上职业要求他们对不同的人产生兴趣，能帮助别人找工作，营造有效的工作环境，以及解决以人为本的问题。INFJ可以在商界的这些工作里找到满足感。　运用你的长处其实很容易。"
+msgstr ""
+
+#: templates/mbti/personalities/infj.html:36
+msgid "适合的伴侣：发明家"
+msgstr ""
+
+#: templates/mbti/personalities/infj.html:37
+msgid "常常是一对完美的伴侣，劝告者，矜持、运筹帷幄、复杂、神秘，往往被内省和伦理问题困扰；而发明家，是外向、善于探索的。劝告者能从发明家那里获得相当大的解脱，发明家会从帮助这些墨守成规之人的过程中获得极大的满足，有时，也会在对事物的规划中，发现劝告者的精髓和存在意义。"
+msgstr ""
+
+#: templates/mbti/personalities/infj.html:38
+#: templates/mbti/personalities/isfj.html:30
+msgid "关于家庭"
+msgstr ""
+
+#: templates/mbti/personalities/infj.html:39
+msgid "这些说话温和的指导者们同样也希望家庭生活和谐，并认为人与人之间无论是公开的还是隐蔽的抵触情绪，都会对他们的幸福产生极大的破坏。他们的朋友圈子可能小，但是却深入且长久。他们是忠实的伴侣，或许不总是热衷于性接触。他们表达情感的方式，往往很微妙，并注重场合。作为父母，他们是尽职的。某些劝告者女性，会和子女一种精神协作关系，这种颇为固定的关系对父母和孩子来说都不是很健康。但是，更多的劝告者，是子女的朋友，在异常慈爱的同时，也会对他们严格约束。他们是关心配偶和孩子的典型人物。"
+msgstr ""
+
+#: templates/mbti/personalities/infj.html:40
+#: templates/mbti/personalities/isfj.html:32
+msgid "关于领导"
+msgstr ""
+
+#: templates/mbti/personalities/infj.html:41
+msgid "他们是最不引人注目的指导者，这些安静而敏感的人，热情洋溢地与他们的当事人打交道，影响他人的成长。他们对于他人的需要和能力，有种不可思议的认知力，并促使他人去探索自身才能。他们很稀少，且不可能毛遂自荐，因而，在一个机构中显得很难得，但作用却是不可忽视的。"
+msgstr ""
+
+#: templates/mbti/personalities/infj.html:42
+msgid "对INFJ类型的人来说，最重要的是能忠实于自己的预见。在恬静的外表下，他们对人生重要大事有着更深的信仰。积极分子们（INFJ人有这种倾向）不是为了个人的辉煌或政治权利而工作，而是为了自己的事业而战！"
+msgstr ""
+
+#: templates/mbti/personalities/infj.html:43
+msgid "没有谁会比他们经历更多的压迫和蹂躏。在紧急事件的发生现场经常能看到他们奔走急救的身影。INFJ人身上正体现了一种诗节正义的观念。"
+msgstr ""
+
+#: templates/mbti/personalities/infj.html:44
+msgid "INFJ人是不容易受人牵制的，他们在任何时候都不易被愚弄欺骗。虽然INFJ人很通情达理，并富有同情心，但是他们对朋友却是很挑剔的，这种友谊是以相互间的利益为基础的。"
+msgstr ""
+
+#: templates/mbti/personalities/infj.html:45
+msgid "INFJ人对语言的熟练表达和交际的才能有自己的诀窍，再加上INFJ人的那种无需过多言语表达的敏感性使得他们能与人们很好的交往。当然，在写作，咨询，公共关系甚至政治领域都有INFJ人的一席之地。"
+msgstr ""
+
+#: templates/mbti/personalities/infj.html:47
+msgid "INFJ热情且对他人具有认同感，同时，他们也非常地深沉。他们寻求并增进热切并有意义的情感关系。他们有完美主义者的倾向，并总是在争取最根本的情感关系。在多数情况下，这是积极地特点，但有时却对INFJ不利，他们可能因此养成从一段关系转向另一段关系的坏习惯，总是处在寻找更为完美的伴侣状态中。总的来说，INFJ是一个非常温和并且关心他人的人，他们在维持亲密关系的健康上投入很多，为保持自己的积极态度付出巨大努力。因为这些特殊的品质，他们赢得与他们亲密的人的尊重。他们寻求长久的，一生的情感关系，尽管他们并不总能找到。"
+msgstr ""
+
+#: templates/mbti/personalities/infj.html:48
+msgid "INFJ在感情中的优点：天生热情，且对他人具有认同感，为追求真挚的感情不顾一切，敏感且关心他人的感受，通常具有良好的沟通技巧，尤其是书面的对承诺非常认真，并寻求终生关系，对自己和他人有非常高的期许（既是优点也是弱点），良好的倾听者，能很快从已经结束的关系中恢复（一旦他们确信已经结束了）。"
+msgstr ""
+
+#: templates/mbti/personalities/infj.html:49
+msgid "INFJ在感情中的弱点：倾向于保留部分的自我，对理财和实务类的日常事务不在行，极度厌恶争吵和批评，对自己和他人有非常高的期许（既是优点也是弱点），难以离开一段没结果的感情。"
+msgstr ""
+
+#: templates/mbti/personalities/infj.html:50
+msgid "INFJ是热情、体贴的伴侣，他们对他们的伴侣怀有深沉的爱意。他们乐于表现这种爱，并希望从他们的伴侣那里得到肯定的回应。他们是完美主义者，总是在寻求完美爱情。有时这点可能会让他们的伴侣感到沮丧，他们的伴侣可能会感到成了INFJ高要求的完美主义的牺牲品。然而，这一点也会被极度赞赏，因为它献出了对感情的真挚承诺，以及一种其他类型的人通常不具备的深刻关怀。在性方面，INFJ将亲密看作是接近于精神层面的体验。他们珍视这种能与他们的伴侣从灵肉合一的机会。作为以服务为中心的人，他们的伴侣感到幸福对他们来说非常重要。亲密就是一个让INFJ无私地付出他们的爱的机会，也是一个能以明确的方式体验付出爱的机会。虽然说任何性格类型的两个个体，只要性格发展完整都可以拥有一段健康的恋情。但是，与INFJ更合适的天生伴侣为ENTP或ENFP型性格。INFJ的主导官能为“内向直觉”与这两种性格类型的主导官能“外向直觉”最为匹配。"
+msgstr ""
+
+#: templates/mbti/personalities/infj.html:51
+msgid "理想主义"
+msgstr ""
+
+#: templates/mbti/personalities/infj.html:52
+msgid "语言―――抽象型"
+msgstr ""
+
+#: templates/mbti/personalities/infj.html:52
+msgid "适用于无法观察到的，仅仅依赖于想象力的事物，理想主义经常谈论那些仅凭想象力想像出来的事物。理想主义者的思想和语言天生具有归纳性，他们敏锐，由细节得出普遍性的概括，由事物的细微处了解它们的全部。"
+msgstr ""
+
+#: templates/mbti/personalities/infj.html:53
+msgid "他们重视自身感觉，坚持认为“肯定知道”人们真正想要什么。说话常用隐喻，并且喜欢运用修饰性语言，喜欢夸张和形容。他们一方面忽视等级地位，另一方面又对于其他类型人的身体语言、面部表情等，有着高度的敏锐性。"
+msgstr ""
+
+#: templates/mbti/personalities/infj.html:54
+msgid "使用工具―――合作型"
+msgstr ""
+
+#: templates/mbti/personalities/infj.html:54
+msgid "理想主义者看来，人们选择的工具和行动，需要为他人所接受，虽然有时候不若那些不被认可的工具有效。他们对那种过于冷漠、或一心一意追求效果的功利行为感到非常的困惑，担心人性善的那方面，因此而遗失。"
+msgstr ""
+
+#: templates/mbti/personalities/infj.html:55
+msgid "理想主义者首先考虑的，总是培养满意的人际关系，他们的理想是帮助周围人们彼此间融洽相处，从而大家为了共同的利益而努力。"
+msgstr ""
+
+#: templates/mbti/personalities/infj.html:56
+msgid "多数理想主义者对买卖行为缺乏兴趣，很多人会追求自然科学领域的事业。他们通常会选择同语言文字打交道，并希望直接或间接的与他人交流。理想主义者非常容易被文学作品所感染，并倾向于以这种天生的易感性来解释它，喜欢任何形式的虚构性描述――故事、诗文、传说、神话，都能让他们感到快乐和力量。"
+msgstr ""
+
+#: templates/mbti/personalities/infj.html:57
+msgid "理想主义者并不局限于对文学的研究上，理想主义者高度集中在社会科学领域。尤其是精神康复方面，他们能够在精神健康服务方面得到极大的满足，习惯于选择其中最人道主义的方法，提供服务咨询。"
+msgstr ""
+
+#: templates/mbti/personalities/infj.html:58
+msgid "他们不惜任何努力使人们具备良好的自我感觉，并热心于道德、对正误的判断，而不是培养一种积极的自我形象。理想主义者和护卫者型的人都是道德守卫者，但前者关心的是幸福，后者关心的是正义。"
+msgstr ""
+
+#: templates/mbti/personalities/infj.html:59
+msgid "他们在工作中，有个非常特殊的天赋：征募、训练、部属、发展和忠告等方面。他们擅长对他人的成长和成熟过程产生影响。他们不把教育看作训练和求证的过程，而是一种对个人关系的邀请。形成人际关系，对他们来说至关重要，然而，过多的干预他人的事情，可能会让人生厌。而且，过多的复杂人际关系，容易造成精神负载过重。"
+msgstr ""
+
+#: templates/mbti/personalities/infj.html:60
+msgid "人格定位"
+msgstr ""
+
+#: templates/mbti/personalities/infj.html:61
+msgid "利他主义主张，自私自利是不道德的，而为他人服务是高尚的，最大的幸福源于无私的为他人奉献，即自我牺牲。他们会全身心的帮助别人，当然，他们渴望一种“自我实现”的效果。"
+msgstr ""
+
+#: templates/mbti/personalities/infj.html:62
+msgid "他们轻易且毫无保留的相信事物，与多疑的理性者形成鲜明对比，习惯于相信别人的理想主义者非常纯洁。 "
+msgstr ""
+
+#: templates/mbti/personalities/infj.html:63
+msgid "他们试图和生活中的困难达成妥协，觉得意外事故是令人困惑和无法解释的，并且不能够通过任何理性的分析来解释。他们勇敢的接受这样的想法：事情的结果和原因是无法被认识和用语言描述的。"
+msgstr ""
+
+#: templates/mbti/personalities/infj.html:64
+msgid "他们满足于行进中，引导他们探索生存意义，将他们带向更高层次的小径上。"
+msgstr ""
+
+#: templates/mbti/personalities/infj.html:65
+msgid "他们是未来之人，关注即将发生的事情甚于现实生活。"
+msgstr ""
+
+#: templates/mbti/personalities/infj.html:66
+msgid "价值观"
+msgstr ""
+
+#: templates/mbti/personalities/infj.html:67
+msgid "理想主义者非常容易动情，即感情来得快去的也快。幸运的是，他们倾向于积极的一面，因而他们的感情往往表现为极大的热情。理想主义者信赖直觉的力量，凭第一印象而无需印证。毫无保留的信赖直觉，他们会将别人的感受，带到自己的感受区，想要感同身受，以此来拉进距离。他们都是坚定不移的浪漫者，他们在各个方面都渴望浪漫，如果没有，他们会去培养。他们投入自己大量的时间，来追求他们自己的本体、人性的意义，以此来表达真实的自我，将这个视为生命中最重要的事业。为了使他们感到赏识，我们必须面对他们，在他们表情达意时“迎合他们的世界观”。他们常常被人误解，或迫于社会现实而扮演角色的错误。他们所关心的人对他们的赞誉，对他们而言是非常重要的，一旦出现，就令他们感到满足。圣人是理想主义者最崇敬的角色典型，即努力克服物质的、世俗的牵挂、渴望生命的贤明见解之男女。"
+msgstr ""
+
+#: templates/mbti/personalities/infj.html:68
+msgid "精神伴侣"
+msgstr ""
+
+#: templates/mbti/personalities/infj.html:69
+msgid "理想主义者是所有类型中，处理婚姻问题非常不同的一类。其他类型的人，对婚姻抱着实用的态度，他们认为伴侣会犯错，也伴随着妥协。而理想主义者则相反，他们会以空想主义的态度选择爱人，更经常要求伴侣和婚姻的浪漫活动。他们要求的是神秘而意味深长的的婚姻关系，还试图在其不存在的情况下加以创造。"
+msgstr ""
+
+#: templates/mbti/personalities/infj.html:70
+msgid "择偶"
+msgstr ""
+
+#: templates/mbti/personalities/infj.html:71
+msgid "理想主义者型的人，通常不会给某人做出承诺，而宁愿一次同某一个人谈情说爱以探测发展特殊亲密关系的可能性。他们不喜欢随随便便或临时性的应付约会，而独具特色的期待着过去的肤浅关系能够变得深刻。他们喜欢谈论曾经深深感动过他们的电影或小说，但是倾向于谈论故事中所揭示的深刻涵义，而不是单纯的描述情节。这种以想象力及意味深长的交往方式，自由自在的同人交流的能力，往往决定了理想主义者能否认真对待一段特定的恋爱关系。"
+msgstr ""
+
+#: templates/mbti/personalities/infj.html:72
+msgid "理想主义者很难发现他们所期待的那种能与之分享内心世界的人，它是一个反复试验的过程，需要仔细的寻觅。对理想主义者而言，与某人谈恋爱，不仅仅意味着肉体上的欢愉或社交体验，而是向另一个人敞开心扉的过程。某种程度上，还是自身灵魂的袒露，包含着对深怀敬意和相互理解的承诺和期待。"
+msgstr ""
+
+#: templates/mbti/personalities/infj.html:73
+msgid "因而，他们对拒绝高度敏感，当对方表露蔑视，他们不得不主动断了恋情，感情上的破裂带给他们的伤害是很大的。以至于他们有时会因恐惧而避免和他人纠缠难分，或者走向另一个极端，即违心的保持一段恋情，只是为了推迟分手时所必须经历的精神伤害。"
+msgstr ""
+
+#: templates/mbti/personalities/infj.html:74
+msgid "然而，一旦这个特殊的人出现，理想主义者就会激动不已，并全力以赴的追求这种恋爱关系。对于理想主义者来说，不仅是一桩美满的婚姻，而且还是一种异常强烈的、永恒的情感即将到来。他们会不吝啬的付出努力或想象力，不仅以浪漫的举止作为标志，还包括他们对爱情的理想化。"
+msgstr ""
+
+#: templates/mbti/personalities/infj.html:75
+msgid "理想主义者能够从最细微的迹象中体察出他们热恋之人内在的多情和诗般感受，并相信每个人都具有精神增长的潜能，且意欲用爱去挖掘伴侣这方面的潜能。或许理想主义者并不愿意承认，这些浪漫的设想，往往具有强烈的性爱冲动，并且成为一种困扰。理想主义者的性感受可能会有很大的差异，一方面，他们坚持认为性行为必须是爱的表达，而不是欲望；另一方面，他们在自己建立的理想世界里，却非常热情，极易受到美丽躯体和性感的触动。"
+msgstr ""
+
+#: templates/mbti/personalities/infj.html:76
+msgid "一旦两个人结合，理想主义者会感到无上的幸福。但是，期待比结合本身更吸引他们，日常生活的现实，失去了神秘的色彩，出现了平凡和欠缺。其他类型的人，当然也会觉得生活中存在差异，但是，他们却会通过调整、旅行、和努力，来转化这种差异。但是，男性理想主义者在这方面最为脆弱，他们往往倾向于去寻找一位新的情人，而非付出努力以发展现有的恋情。女性理想主义者则不会，相反，她们会变得越来越投入，继续让关系浪漫化，并深信它的完美性。对于男性理想主义者而言，亲密可能导致不稳定；而对于女性来说，则是不可或缺的一部分。"
+msgstr ""
+
+#: templates/mbti/personalities/infj.html:77
+msgid "但，值得注意的是，19世纪60、70年代，或许是源于女性理想主义者对更为完美的婚姻关系的想象力。性解放的先锋组织中的大多数成员是女性理想主义者（特别是奋斗者），她们并不是随时准备着情愿为爱牺牲，而是宁愿为发现与男性相处的更满意方式的可能性而生存。"
+msgstr ""
+
+#: templates/mbti/personalities/infj.html:78
+msgid "但是，多数理想主义者并不把婚姻的社会习俗看得比他们的个人承诺重要。因此，当他们确信已与对方进行了更深层次的结合、并且彼此交换了誓言，便认定他们已经完婚。而结婚仪式和理解，成为一种不必要的负担，并可能在神坛旁，显得慌乱、一脸的茫然，直到事后与配偶单独在一起时才会恢复正常。"
+msgstr ""
+
+#: templates/mbti/personalities/infj.html:79
+msgid "这些理想主义者热情、大方、活泼、多情，自身谨慎而对人际关系敏感，非常吸引其它气质类型的人。艺术创造者觉得他们独具匠心运用的浪漫感觉很亲切，并能由于理想主义者在婚姻中注入的合乎伦理的成分而得到道德升华；护卫者对理想主义者表现出来的道德上谨慎，会感到有安全感，并从他们的投入中感受到一些朝气；但，对理想主义者最感兴趣的，却是理性者，不仅因为他们的共同点，更因为理想主义者的情感活力，以及他们对人类的洞察力，这些，都是理性者所缺乏的。"
+msgstr ""
+
+#: templates/mbti/personalities/infj.html:80
+msgid "婚姻"
+msgstr ""
+
+#: templates/mbti/personalities/infj.html:81
+msgid "无论与那种人格气质的人结婚，他们都可能始终爱恋、支持和理解着他们的妻子或丈夫。理想主义者在情感世界里是无与伦比的，为婚姻生活增添了他们对配偶情绪与感受的非凡敏感以及卓越的情感交流能力。他们敏锐的关注着他人的体验，本能的对配偶表示同情，并且不愿意利用那一刻指出配偶所犯的错误，而这一点，往往是其它气质的人无法做到的。"
+msgstr ""
+
+#: templates/mbti/personalities/infj.html:82
+msgid "理想主义者往往精通赞赏的艺术，他们习惯于向自己的爱人慷慨地表达衷心的赞许。无疑，理想主义者是最深情、专注、挚爱和富于欣赏力的配偶，并且会毫无保留的表达这些感情。"
+msgstr ""
+
+#: templates/mbti/personalities/infj.html:83
+msgid "他们具有彻底投入别人精神世界的能力，以至于对方具有一种得到他们完全理解和接受的感觉。他们认为，建立亲密、爱恋的关系是世界上做得最为自然的事情，他们是性爱艺术的真正大师。尽管有时候这种敏感要付出代价，且当情感受到限制时，他们会烦乱，他们从配偶那里得到的感情，总是超出他们的承受能力。"
+msgstr ""
+
+#: templates/mbti/personalities/infj.html:84
+msgid "此外，他们还受到配偶情感依赖的烦扰，尽管有时候他们的举动鼓励了这些依赖性的产生。如果他们的配偶开始显示出脆弱和很强的依赖性，虽然这些是他们曾经承诺过的，但是，理想主义者仍然会厌恶这种压力。原来被他们认为独特的爱人，现在有种被他们明显否定的感觉，并非他们有意刻薄，而是想逃避自己不再可能控制的婚姻而已。"
+msgstr ""
+
+#: templates/mbti/personalities/infj.html:85
+msgid "理想主义者难以逃避事业的召唤以给自己的家人留出时间，学不会任何从复杂的事务中脱身，以保障家人占据他们生活中的首要地位。那些不会安排事务轻重缓急的理想主义者们，受到诱惑而不断的移情别恋，不惜放弃已有爱情的深化，而把精力用于追求新的恋情。但是，大部分的理想主义者型的人会因发展专一的爱情而获得极大的满足。他们注重培养婚姻中的浪漫情调，拥有情人和伴侣的双重身份。但是，在婚姻初期的性爱，会让理想主义者感到失望，因为他们在这方面让人惊讶的单纯，而且，往往是热情有余技巧不足，并且不愿意再去尝试其它的方法。"
+msgstr ""
+
+#: templates/mbti/personalities/infj.html:86
+msgid "理想主义者一般都擅长社交活动，外向型的，在社交上很活跃；而内向的人，则倾向于在家营造一个私人的空间。但是，他们都是体贴家庭成员的，通常会记得纪念日。同样，如果对他们有意义的纪念日，被别人所遗忘了，他们会很受伤。"
+msgstr ""
+
+#: templates/mbti/personalities/infj.html:87
+msgid ""
+"理想主义者极其欣赏艺术创造者型配偶在现实世界中所表现出来的洒脱、自然本色，这与他们常常忍受折磨、内疚的生活体验有着极大不同。另外，艺术创造者型伴侣喜爱享受感官享受和大胆满足性欲的特点也吸引着理想主义者型的人，并激发了他们的浪漫想像。"
+" 但这种婚姻中也蕴藏了令人不满意的种子，即艺术创造者型人缺乏谈论自己生命内涵的兴趣。"
+msgstr ""
+
+#: templates/mbti/personalities/infj.html:88
+msgid ""
+"同护卫者型的伴侣在一起使理想主义者在家中感到舒适和令人安心的稳定性，给他们一种脚踏实地的感觉。护卫者还有种让常常犹豫不决的理想主义者肃然起敬的坚定，确切的是非观。两者都属于社会合作者，在生活规范上减小了冲突矛盾。"
+" "
+"然而，护卫者在分享理想主义者丰富内涵的过程中存在困惑，并有可能因此使他们的理想主义者伴侣失望。他们忠实聆听试图取悦于理想主义者，但是后者迟早会感到自己不被赏识，继而给两者带来压力。"
+msgstr ""
+
+#: templates/mbti/personalities/infj.html:89
+msgid "很容易和气质相同的人结为夫妻，并往往相处得异常和睦，他们对彼此内心世界的探索让对方满意，并且也可能一时创造出美妙的性爱关系。但是，过于相似和过多的时间追求精神目标而筋疲力尽，及过多的内心交流，必然会侵入对方的私密空间，而导致双方心神不安。"
+msgstr ""
+
+#: templates/mbti/personalities/infj.html:90
+msgid "选择理性者作为配偶，似乎最能保证理想主义者的成功。他们相互协调的基础是：两者都基本上生活在抽象的世界里。约会了其它类型后，偶然遇到的理性者会让理想主义者觉得发现了新大陆，并渴望能够想像出遥远的未来。同时，令人神往的是理性者的冷静和自主性，这两个特点，都是牢牢的抓住自己的本性，致使容易激动和内省的理想主义者对此极为钦佩，并希望仿效之。当然，两者并不总是那么和睦。理想主义者的善于情感表达和理性者的自我控制、直觉和逻辑、伦理道德和技术实用主义之间的冲突，使再完善的组合也存在着挑战。理想主义者总是尝试将理性者对表达感情的抵触、表面上的冷漠攻破，可想而知是火花四溅的，也许就是因为这些火花，才使理想主义者对理性者情有独钟。"
+msgstr ""
+
+#: templates/mbti/personalities/infj.html:91
+msgid "家庭"
+msgstr ""
+
+#: templates/mbti/personalities/infj.html:92
+msgid "他们是一群热情洋溢的小家伙，被称为“脾气暴躁之人”，因为他们的感情极其容易受到激发，而且有时会以一种令人惊异的强烈气势表现出来。小时候，总是被一种激情鼓舞着，几乎无法使其感情保持平静的状态。他们可能较早就开口说话了，外向的，并且在父母眼中从未停止过说话；内向的，同样具备强烈的感情，只是往往羞于表达而已，或许还存在某些人际交流方面的困难，特别是在家庭之外。"
+msgstr ""
+
+#: templates/mbti/personalities/infj.html:93
+msgid "尽管理想主义者型儿童也许有时暴躁易怒，他们也能够讨人喜欢，是一种真诚表达自己喜欢了解他人的人性热情。他们很早就显露出来各种特制，只是，不幸的是，在多数情况下，他们很少存在行为典范。没有多少长辈擅长交际活动，所以他们必须自己领会，并自我完善。"
+msgstr ""
+
+#: templates/mbti/personalities/infj.html:94
+msgid "理想主义者型显的孩子，对于最亲近的人，往往很敏感。当家庭成员关系和睦时，他们的自我感觉便平和，当父母或同胞哀伤时，他们也变得哀伤。家庭美满的，孩子的自尊能够较早较迅速的发展；反之，则缺乏泰然处理难题的防卫能力。"
+msgstr ""
+
+#: templates/mbti/personalities/infj.html:95
+msgid "他们倾向于努力向别人显示自己良好的用意而不是提供具体帮助，他们从小就有着极高的道德期望，希望自己对待别人的态度和行为是完美无比的。在人前装模作样会让他们感到极不自在，他们很少寻求掌声。当然他们也设法去适应他人，喜欢受到成人的表扬，但并不是把自信建立于此。"
+msgstr ""
+
+#: templates/mbti/personalities/infj.html:96
+msgid "他们希望别人承认自己是个独立的个体，他们感到自己和他人的差异，但认识不到这种差异是什么。理想主义者型和理性者型的孩子可能会产生某些与人疏远的感觉，但是理性者型的孩子仍然坚持我行我素，理想主义者型的孩子对自己的与众不同也非常满意。"
+msgstr ""
+
+#: templates/mbti/personalities/infj.html:97
+msgid "理想主义者型的孩子需要父母承认自己的独特性，并充满爱心的认可他们的重要作用，有助于他们认定自己的独立、有价值的家庭成员资格。他们需要这样的讯息“你是很特别的人、我重视你、你对我很重要”。"
+msgstr ""
+
+#: templates/mbti/personalities/infj.html:98
+msgid "此类型的孩子对他人最为信赖，并且相信直觉甚于行为规范。另外，他们和其它的孩子一起听故事，比其它人更容易坚信故事是真实的，甚至有些固执。他们喜欢反复的听一个故事，并自己虚构些情节加以叙述。他们喜欢中世纪骑士的故事、还有王子、公主、邪恶势力和巫婆。父母应该引导他们读些有幸福结局的故事，勇士最终胜利了、坏人改邪归正了，这样他们会被永恒的幸福吸引，不管以后无情的现实摧毁他们多少希望和梦想。"
+msgstr ""
+
+#: templates/mbti/personalities/infj.html:99
+msgid "理想主义者型的孩子对玩具有着无法理喻的珍贵，如果丢失或被父母无意间丢弃，都会令他们感到不幸。他们更多的把玩具当成朋友，当然，也会遭到别人的嘲笑和排斥，从而体验人格遭到拒绝的感受。"
+msgstr ""
+
+#: templates/mbti/personalities/infj.html:100
+msgid "理想主义者型的孩子是利他的，而且是全世界性的。而且这类孩子早熟，有一定的怀疑主义倾向。他们总是满腔热情的探索着某种值得信仰的理念。"
+msgstr ""
+
+#: templates/mbti/personalities/infj.html:101
+msgid "总是试图与子女建立亲近、融洽的关系。期待能溶入子女的生活，并以自己的积极形象给他们以促进。他们对孩子是无微不至的也是永无止境的。"
+msgstr ""
+
+#: templates/mbti/personalities/infj.html:103
+msgid "INFJ成功的秘诀就是：注意细节；学会灵活一点；无论做什么事都要自发自愿，不要让人督促你。"
+msgstr ""
+
+#: templates/mbti/personalities/infp.html:5
+msgid "哲学家（治疗者）型人格"
+msgstr ""
+
+#: templates/mbti/personalities/infp.html:9
+msgid ""
+"内向I 直觉N 情感F "
+"知觉P，只要是为他人服务，为自己的理想尽力，INFP就会是最出色，最有效率的那种人。但如果工作没有意义，他们的工作效果和效率就会大打折扣。显然，INFP最乐于做那些符合自己价值观的事情。然而，只要愿意稍微转换一下视角，把正在从事的并不那么有趣的事情看作是为别人服务的工作，他们就会为这份工作尽心尽力。比如学习电脑，对别人来说可能很有意思，但如果单单是为学电脑而学电脑，对INFP来说就是在浪费时间；而同样是学习电脑，如果是为了帮助别人了解电脑，克服问题，对INFP来说就可能变得非常具有吸引力。"
+msgstr ""
+
+#: templates/mbti/personalities/infp.html:10
+#, python-format
+msgid ""
+"知性特质的哲学家/治疗者型（INFP） "
+"想像一个幽深的、青葱的山谷，围绕着永远盛开的鲜花和树木，住着温柔地陪伴着人们的动物，而人们每天的生活都洋溢在爱、创造和无私的奉献当中。这是一个极少的（大约祇占世界2%%的人口）哲学家/治疗者型的世界，INFP永远都在不断地付出努力，为了居住在一个只有爱与和谐的完美世界里。"
+msgstr ""
+
+#: templates/mbti/personalities/infp.html:12
+msgid "INFP倾向于宁静和有所保留。于社交中，他们消耗能量。相比关心具体事物，INFP更加关心于抽象事物。他们更倾向于关注整体而不是细节，关注未来的可能性而非最切近的现实。INFP通常认为个人偏好高于客观标准。在做决定的时候，他们通常更侧重于人情世故而非逻辑。INFP会保留意见或推迟作出重要的决定，更倾向于“开放选择权”，更能应对变化。"
+msgstr ""
+
+#: templates/mbti/personalities/infp.html:13
+msgid "INFP将他们的精力主要集中于内在世界，这世界里充满了强烈的感情和坚定的伦理道德信念。他们寻找一个能符合这些价值观的外在世界。他们对那些于他们重要的人和事很忠诚，也会迅速发现能实现他们理想的机遇。他们十分希望了解他们周围的人，通常随和、通情达理，除非他们的价值观受到威胁。"
+msgstr ""
+
+#: templates/mbti/personalities/infp.html:14
+msgid "INFP对于这个世界的看法是很理想化的，以至于他们在现实生活中很难得到满足，他们对这个现实世界的要求在其他人看来是很高的，他们内心渴望的对人与人之间、社会、国家、世界的标准是极富崇高的，对于理想世界的追求他们仿佛没有一个满足的标准，也许这个标准是明晰的，也许是模糊的，但是他们通常都会考虑还有哪一种会更加完美和高尚。"
+msgstr ""
+
+#: templates/mbti/personalities/infp.html:15
+msgid "通常INFP人在小的时候都会经历过一些精神或者身体上的创伤，或许从某种角度上来讲INFP是一种非自然的MBTi人格，可能会因为童年阴影扭曲成INFP，在旁人看来也许这些心灵上的创伤对INFP不是很严重或者说对其的影响不会是很深刻，但是对于INFP本身的他们来说这些创伤经历在他们心里是不可磨灭的，这些悲伤的片段会一直伴随着他们长大，在INFP的脑海里像影子一样笼罩着他们并伴随一生，INFP有一颗敏感的心灵，它对外界很灵敏，外部环境的一丝风、一缕光都会轻易的触动一个INFP小孩那颗纯良的小心灵，对外界事物和人过于敏感会导致INFP容易胡思乱想，去猜测别人是否是针对自己的，INFP关注别人对他们的看法，内心想着外界的人是否喜欢、接纳自己，是否讨厌、想排斥自己。尽管在别人看来，在INFP的经历中并没有受到过某些伤害或者苦难，但是内向敏感的INFP会把自己受到过的伤害把它保存在自己的脑海里并时常想起，INFP的伤害在自己脑海长期的时常反复的浮现，在加上INFP习惯关注内心世界而忽视了外部世界所发生的事情，因此，这种伤害感将会在他们的灵魂里得以深深的刻印下来并且加重了他们的受伤感。这种感觉伴随着INFP经历人生的路程，所以INFP的世界观是灰暗多于明媚的，对这个世界的认识和看法，他们会很自然的倾向于悲观主义。他们感到人生是一个悲剧，为自己的境遇而感到遗憾和悲伤。"
+msgstr ""
+
+#: templates/mbti/personalities/infp.html:16
+msgid "当INFP渐渐的长大后他们会去探索自己，他们内心有一个想法就是我是谁？我为什么会经历痛苦？我要到哪里去？我活在这个世界上为什么不能幸福快乐？INFP会觉得自己的经历是不幸福和不快乐的，这种幸福缺失感会一直留在INFP心里，经过长期的自我暗示会加重这种感觉，然而这样一来他们在现实中所体验的生活所带来的乐趣对INFP显得微不足道，好像这些乐趣根本就不能弥补自己曾经悲伤的经历，这些乐趣好像无法填补自己那颗缺失幸福的灵魂。INFP在现实中几乎得不到真正的幸福感和美好的体验，他们会很本能的投入到自己的内心世界里面，在那里他们可以自由的构建一个可以让自己幸福快乐的美好世界，在这个用想象来构建的美好世界里必然是要比现实世界理想百倍的，也只有这样INFP的内心才会真正的体验到幸福。然而在外人看来真正悲剧的是INFP们错过了体验和享受这个真实的现实世界，他们依然把重心放在那个虚幻的理想化世界里。"
+msgstr ""
+
+#: templates/mbti/personalities/infp.html:17
+msgid "INFP在孩提时代把自己看成了一个受伤者，出于感同身受的原因，他们会很自然的对处于弱小、悲伤、痛苦的人表示同情，他们内心的悲痛与外界相互传达交流，经过转化会生成善良、富同情心、有爱心这些高贵的品质。在INFP的理想化的世界里自己的人类同胞是非常完美的，INFP会以现实世界为样板，在这个样板上他们会想象如何才会让人类更加美好的生活，首先这个世界里的社会是一个制度完善的优越社会，这个社会上的人们生活质量良好，人们过着美好幸福的自由生活，这里没有剥削，没有黑暗的权势组织和恶魔的人。在想象的世界里INFP觉得自己是伟大的，INFP认为自己构建了一个理想美好的世界给苦难怜悯的社会底层人民，他们崇尚人与人之间平等，希望每个个体都能够自由的追求自己的幸福和快乐，在INFP的意识里这个世界早就已经没有了束缚人类的枷锁，社会的制度和文化是以人性化为导向的。"
+msgstr ""
+
+#: templates/mbti/personalities/infp.html:18
+msgid "受自己过于理想化的观念影响，INFP会潜移默化的变成一个道德素质高的人，他们关注人类的命运，内心深深的爱着自己的人类同胞，希望自己能够通过什么方法来拯救这个灰暗的世界以及对抗那些恶魔般的人，然而INFP的心是敏感、善良、慈悲的，也是容易受伤的，他们普遍不善于在现实世界中与人社交的，INFP不情愿破坏自己的理想化而去接触现实中那些“不完美”的人，他们的思想高尚，而不自觉的发现现实中的人们都倾向于自私、愚昧、粗俗、思想低级，INFP在心里会一边厌恶不能达到他们愿望的人，同时也一边同情着这些人。INFP的理想化思想在现实中很难遇到与他们思想相似的人，于是INFP不太愿意和他们思想出入大的人沟通交流，这样一来INFP在人群中会显得话少、孤僻、同时也容易感到受挫。他们愿意一个人独处，无奈的继续经营着那个虚幻的梦想。"
+msgstr ""
+
+#: templates/mbti/personalities/infp.html:19
+msgid "由于INFP把注意力焦点转移至内部世界，所以他们显得内向敏感，他们对外界那些所谓的规矩和人情世故感到厌烦和不适，对于那些高压的工作更是倍感无力，所以他们都喜欢自由自在没有约束的工作，而除了工作本身INFP更希望能够把自己的理想化通过工作这个平台来把它转变为现实，所以在一些比较能够充分发挥自己的理想化同时也自由的工作中都能发现有很多INFP的身影，比如：心理学领域，艺术领域、哲学思想、社会服务工作等。他们希望通过传播自己的高尚思想来影响和改善世界，尽管INFP本身是否意识到，但他们的潜意识是强烈的希望自己可以改善世界和拯救人类的，或许他们做的工作和行为活动没有真正意义的帮助到这个世界和人类，但是他们通过类似的工作会从心里感到欣喜和满足感。并不是说其他的工作不适合他们，只是他们需要的工作平台最好是与他们的崇高的思想、性格特质、价值观相符的。"
+msgstr ""
+
+#: templates/mbti/personalities/infp.html:20
+msgid "认识到INFP的人格，我们欣赏他们的博爱、高尚、理想化精神，INFP对人类的文明进步所做出的奉献是很大的，时代的巨大进步都离不开INFP的汗水和奋斗，他们是努力为人类平等、公平、自由的奋斗者，是人性化进程的推动者，也是致力于社会制度完善的先驱者，他们有一种牺牲自己贡献世界的伟大崇高的精神。"
+msgstr ""
+
+#: templates/mbti/personalities/infp.html:21
+msgid "INFP除了具有博爱和高尚思想的可贵之处，这是我们值得欣喜的，我们看到INFP的价值的同时也要看到他们的处境，他们普遍的对现实失望，其实INFP感到痛苦的主要原因很大程度上是因为他们没有得以去弥补他们那颗缺乏幸福感的心，也许他们不知道该怎样去弥补才会幸福，也许他们失去的快乐太多了乃至于无法弥补回来，或者是有的东西对INFP非常重要但是他们永远也追求不到了，这些都是INFP的苦衷，但是值得重视的是：INFP只有勇敢的在现实中寻找自己的幸福才会真实的感到幸福，他们需要把自己的理想化转化为动力而不是高期望，给INFP一个很好的建议是：把自己曾经“受伤”的过去给忘掉，重新给自己建立一个积极乐观的世界观，也许这个改变是个大工程，要投入很大的精力还有要适应各种变化，但是每改变一步便意味着已经成功了一步.INFP应该勇敢努力的行动起来而不是呆在象牙塔里，当INFP真正的走出来了的时候他们原来的本性依然会影响着他们，他们可以运用自己的创造力来创造出一些更好的、具有价值的东西来。很简单的：他们只要保持积极乐观的态度来面对这个世界，再就是用行动力来表达自己的积极乐观精神。这样他们的生活就会变得五彩缤纷，其乐融融。关键是INFP愿不愿意发自内心的改变，信念很重要，信念坚定就足够可以成功。"
+msgstr ""
+
+#: templates/mbti/personalities/infp.html:22
+msgid "INFP们有礼貌且有所保留的外在，可能在一开始让他们难以了解。他们喜欢谈话，尤其是在话题不寻常的时候。当INFP们想参与社交的时候，他们的幽默感和魅力自始至终都会闪耀。倾向于喜欢别人且尽量避免冲突，INFP们倾向于是令人感到轻松的同伴。"
+msgstr ""
+
+#: templates/mbti/personalities/infp.html:23
+msgid "深爱于那些能进入他们内心圈子的人，INFP们保护着他人的感情安宁，抚慰那些处于压力下的人。被他们渴望和谐的天性指引着，INFP们倾向于通情达理，除非他们的道德观受到了违犯。然后，他们将会充满激情地为他们的信念辩护。通过机智、策略以及看到问题不止一面的能力，他们可以改变他人所持的观点。"
+msgstr ""
+
+#: templates/mbti/personalities/infp.html:24
+msgid "INFP们通过自省发展这种洞察力，同时他们需要大量的时间独处，默想和处理新的信息。虽然他们面对复杂的问题可以十分耐心，但通常会对例行公事感到厌烦。虽然并不总是有所组织，INFP们对那些他们重视的事物总是一丝不苟。作为完美主义者，他们可能在完成任务的时候有麻烦，因为它无法达到他们的高标准。他们甚至可能在截至日期后重新回头做已完成的任务，这样他们就可以改进它了。"
+msgstr ""
+
+#: templates/mbti/personalities/infp.html:25
+msgid "INFP们是具有创造力的类型，通常在语言上有天赋。作为内倾者，他们可能更喜欢通过写作来表达自己。他们的情感主导让他们有交流的欲望，而第二功能的直觉则供给想象力。因为具备象征主义的才华，他们喜欢暗喻和明喻。他们不断寻求新的想法，对改变也适应得很好。他们喜欢在重视这些才华的环境里工作。因了他们个人的信仰，这环境同时还必须允许他们对世界作出积极的改变。"
+msgstr ""
+
+#: templates/mbti/personalities/infp.html:26
+msgid "综合描述"
+msgstr ""
+
+#: templates/mbti/personalities/infp.html:27
+msgid "INFP内向，专注（I），偏好以一种抽象的，具有远见的和富有想象力的方式来观察周围的事物（N）。他们的决定是基于个人价值观的，主观的决定（F），不是为了控制他人，只是为了坚持自我。INFP的生活非常随意，灵活（P）。以上这些特征使INFP显得有一点传统，但他们很热情，也很亲切。通常，和INFP相处是很舒服的事。只有一种情况会使INFP反常，一旦感觉到自己所捍卫的价值观受到威胁，他们就会变得非常强硬。"
+msgstr ""
+
+#: templates/mbti/personalities/infp.html:28
+msgid "当INFP不承担团队的领导职责时，激励他们工作的因素是能在工作中找到个人的意义所在。当你工作力不从心，业绩较差时，你的INFP同事很可能无动于衷地作壁上观。他们最典型的想法就是：“各人做好自己分内的活。”但如果你有一个INFP上司，或你的工作与一个INFP的利益密切相关的话，他就会变得非常具有控制欲。就像其他知觉（P）类型一样，不到实际发生的那一刻，INFP不会察觉到你已对他产生影响；再加上INFP的内向，他们会尽量避免与别人发生直接冲突。这可能使双方都备感困惑：对你来说，被责备了却不知道是为什么，因为之前，他根本没有和你沟通过他的意见；而对INFP而言，甚至连他自己都会觉得自己的感觉和反应太过突然和激励了。人们常常会奇怪，像INFP这类随和的人怎么会突然变得这么强硬顽固，简直不像他们原来的性格，但是如果你理解了INFP的四个偏好，你就会明白其实这正符合他们的性格特征。"
+msgstr ""
+
+#: templates/mbti/personalities/infp.html:29
+msgid "通常，位居要职的INFP很少，能够做到CEO的就更罕见的。然而，一旦INFP成为非常高级的领导，他就总能使他的下属忠心耿耿。他善于兼顾任务的完成和团队成员的感受。作为INFP的下属，你可以自由发展，并得到很多肯定，也会有人倾听你的意见。只要你努力了，而且没有触及INFP的个人价值，即使失败，你的付出也会得到肯定和鼓励。因为INFP给人以诚恳尊重的感觉，大家轻易不会表达不同意见，所以团队中公开的冲突就会大大减少。"
+msgstr ""
+
+#: templates/mbti/personalities/infp.html:30
+msgid "如果你冒犯了INFP的价值体系（请记住，不到事实非常明显的时候你根本不会知道这一点），要得到INFP的原谅非常困难，前提是如果他们还愿意原谅你的话。INFP“I”和“F”的一面又使他们在任何情况下都表现得满不在乎。INFP嘴里说着“没关系了”，“无所谓的”，而事实上要获得他们的原谅并不像表面上这么容易。如果一个EJ犯了错，道了歉，INFP就会给他一个典型的INFP式的回答“没关系了”，“无所谓的”。EJ天真地以为没事了，其实根本不是这样。"
+msgstr ""
+
+#: templates/mbti/personalities/infp.html:31
+msgid "在美国，属于INFP类型的人并不多。从统计学来看，INFP中，女性多于男性。这时因为女性往往显示出对情感的偏好。INFP热衷于改善人们的生活而努力。比如反对酒后驾车，提倡妇女解放等，包括开发MBTI。如果你要寻找掌握大权的INFP，那么在类似这种性质的社会运动和社会组织中最容易找到了。"
+msgstr ""
+
+#: templates/mbti/personalities/infp.html:32
+msgid ""
+"理想主义者，忠于自己的价值观及自己所重视的人。外在的生活与内在的价值观配合，有好奇心，很快看到事情的可能与否，能够加速对理念的实践。试图了解别人、协助别人发展潜能。适应力强，有弹性；如果和他们的"
+" 价值观没有抵触，往往能包容他人。"
+msgstr ""
+
+#: templates/mbti/personalities/infp.html:33
+msgid ""
+"INFP把内在的和谐视为高于其他一切。他们敏感、理想化、忠诚，对于个人价值具有一种强烈的荣誉感。他们个人信仰坚定，有为自认为有价值的事业献身的精神。INFP型的人对于已知事物之外的可能性很感兴趣，精力集"
+" "
+"中于他们的梦想和想象。他们思维开阔、有好奇心和洞察力，常常具有出色的长远眼光。在日常事务中，他们通常灵活多变、具有忍耐力和适应性，但是他们非常坚定地对待内心的忠诚，为自己设定了事实上几乎是不可能"
+" "
+"的标准。INFP型的人具有许多使他们忙碌的理想和忠诚。他们十分坚定地完成自己所选择的事情，他们往往承担得太多，但不管怎样总要完成每件事。虽然对外部世界他们显得冷淡缄默，但INFP型的人很关心内在。他们富"
+" "
+"有同情心、理解力，对于别人的情感很敏感。除了他们的价值观受到威胁外，他们总是避免冲突，没有兴趣强迫或支配别人。INFP型的人常常喜欢通过书写而不是口头来表达自己的感情。当INFP型的人劝说别人相信他们的"
+" "
+"想法的重要性时，可能是最有说服力的。INFP很少显露强烈的感情，常常显得沉默而冷静。然而，一旦他们与你认识了，就会变得热情友好，但往往会避免肤浅的交往。他们珍视那些花费时间去思考目标与价值的人。"
+msgstr ""
+
+#: templates/mbti/personalities/infp.html:34
+msgid "工作特质"
+msgstr ""
+
+#: templates/mbti/personalities/infp.html:35
+msgid "作为INFP型人，职业满足意味着你做的这些工作："
+msgstr ""
+
+#: templates/mbti/personalities/infp.html:36
+msgid "1、我的工作与我个人的价值观和信仰相一致，同时允许我通过工作表达我的想象力。"
+msgstr ""
+
+#: templates/mbti/personalities/infp.html:37
+msgid "2、给我时间发展我的想法到相当深度，同时对这一思维过程以及思维产物操持控制权。"
+msgstr ""
+
+#: templates/mbti/personalities/infp.html:38
+msgid "3、独立完成工作，有一个私人的工作空间以及大量不受干扰的时间，但必须有机会与我敬重的人交流一下观点。"
+msgstr ""
+
+#: templates/mbti/personalities/infp.html:39
+msgid "4、我的工作环境是一个灵活性强的组织机构，其中繁琐的规章制度减至最少限度，同时允许我有灵感时工作。"
+msgstr ""
+
+#: templates/mbti/personalities/infp.html:40
+msgid "5、我要在一个合作的环境中与别的有创造力的、讨人喜欢的人一起工作，且这个工作环境没有紧张的人际关系以及人际纠纷。"
+msgstr ""
+
+#: templates/mbti/personalities/infp.html:41
+msgid "6、允许我表达我别出心裁的观点，而且在工作中个人的发展受到鼓励与夸奖。"
+msgstr ""
+
+#: templates/mbti/personalities/infp.html:42
+msgid "7、不要要求我经常在大群人面前介绍我的工作，或者在我的工作还没有完成至我满意之前让我与大家分享。"
+msgstr ""
+
+#: templates/mbti/personalities/infp.html:43
+msgid "8、运我帮助别人成长、发展以及实现他们所有的潜能。"
+msgstr ""
+
+#: templates/mbti/personalities/infp.html:44
+msgid "9、我的工作包括理解别人以及发掘他们行为的动机，允许我发展与别人一对一的深厚关系。"
+msgstr ""
+
+#: templates/mbti/personalities/infp.html:45
+msgid "10、允许我为实现我的理想而工作，且工作上不要受到政治的、经济的或别的方面的障碍的限制。"
+msgstr ""
+
+#: templates/mbti/personalities/infp.html:46
+#: templates/mbti/personalities/isfp.html:23
+msgid "对组织的贡献"
+msgstr ""
+
+#: templates/mbti/personalities/infp.html:47
+msgid "致力于为每个人在组织中找到一个位置；其理想很具有说服力；为了共同的目的将人们聚拢在一起；能够为组织发现新的机会和发展的可能性。"
+msgstr ""
+
+#: templates/mbti/personalities/infp.html:48
+#: templates/mbti/personalities/isfp.html:25
+#: templates/mbti/personalities/istj.html:83
+msgid "领导风格"
+msgstr ""
+
+#: templates/mbti/personalities/infp.html:49
+msgid "采用推动促进的方式进行领导；宁愿扮演独特的、非常规性的领导角色；强调工作进展的可能性，能够为了长远目标而独立地工作；更乐于赞赏别人而非指责和批评；鼓励他人照自己的理想行动。"
+msgstr ""
+
+#: templates/mbti/personalities/infp.html:50
+msgid "工作潜在缺陷"
+msgstr ""
+
+#: templates/mbti/personalities/infp.html:51
+msgid "由于追求完美主义，可能会拖延工作任务；同时取悦于太多的人；固执地不按照逻辑和事实调整自己的看法；花费太多的时间反复琢磨而不采取行动。"
+msgstr ""
+
+#: templates/mbti/personalities/infp.html:53
+msgid "需要学会现实地工作而不光是追求完美；需要发展其坚韧、讲究实际和说“不”的自觉行动；需要更加强调和重视事实和逻辑；需要发展和实施行动计划。设定切合实际的期望值；重视让步；不要太主观地看待问题。"
+msgstr ""
+
+#: templates/mbti/personalities/infp.html:55
+msgid "创造性职业/艺术"
+msgstr ""
+
+#: templates/mbti/personalities/infp.html:55
+msgid "艺术家、诗人/小说作家、记者、娱乐人士、建筑师、演员、编辑、音乐家、信息制图设计师、编辑/艺术指导（杂志）、插画画家/漫画家"
+msgstr ""
+
+#: templates/mbti/personalities/infp.html:56
+msgid ""
+"INFP型人为艺术所吸引是由于他们有能力以富于创造的个人方式来表达他们自己和他们的想法。以艺术为工作具有个人的自由和灵活性，这是INFP型人信奉的生活方式。无论是写文章、画画还是用其他手段来工作，无论是进行设计还是作为演员或音乐家运用他们自己的身体而工作，INFP型人都力求创造独到的成果，这是他们心声的真实表现。许多INFP型人把自己描述为“内心深沉”的艺术家，即使他们并不以艺术为生。一些"
+" INFP型人甚至会说，作艺术家并不是他们做出的选择，而是他们必须背负的十字架。"
+msgstr ""
+
+#: templates/mbti/personalities/infp.html:57
+msgid "教育/咨询职业"
+msgstr ""
+
+#: templates/mbti/personalities/infp.html:57
+msgid "人文/艺术大学教授、调研员、心理学家、顾问、社会工作者、图书管理员、教育顾问、特殊教育老师、双语种教育老师、儿童早期教育老师、雇员帮助顾问、儿童福利顾问、酒精和毒品禁戒顾问、翻译/口译、法律调停人、社会工作者（老年人和儿童日常护理问题）"
+msgstr ""
+
+#: templates/mbti/personalities/infp.html:58
+msgid "教育和咨询行业都是可以使INFP型人为帮助他人成长和发掘人性潜能而工作的领域。INFP型人为改善他人生活质量的愿望和努力的确非常崇高。他们更喜欢大学，而不是小学或中学，因为大学里来自学生们的动力更强大。他们喜欢学习的过程，喜欢做为调查员或图书管理员来探求更深刻而更有意义的理解。INFP型人是富于同情心而具洞察力的顾问，心理学家，以及社会工作者，力求帮助他们的客户在自己的社会关系和生活范围里获得自我理解和和谐。作为顾问，他们高兴的是，在理解他人的时候他们也逐渐理解了自己。"
+msgstr ""
+
+#: templates/mbti/personalities/infp.html:59
+msgid "宗教职业"
+msgstr ""
+
+#: templates/mbti/personalities/infp.html:59
+msgid "牧师、宗教教育工作者、传教士、教堂工作人员"
+msgstr ""
+
+#: templates/mbti/personalities/infp.html:60
+msgid "对于许多INFP型人，献身宗教事业是很值得的。他们乐于帮助人们发展精神世界，在为自己和他人的梦想奋斗并得以实现的过程中他们深感快乐。他们往往喜欢一个对一个的交流，但随着经历增多，他们也渐渐乐于传道和做报告了。对于INFP型人，最根本的地方在于从事与他们内心价值观念和信仰一致的工作，往往宗教领域的职业可以满足这一点。"
+msgstr ""
+
+#: templates/mbti/personalities/infp.html:61
+msgid "医疗保健"
+msgstr ""
+
+#: templates/mbti/personalities/infp.html:61
+msgid "饮食学家/营养学家、理疗医生、家庭健康社会工作者、职业治疗医生、按摩专家、全面健康医生、语言病理学家/听觉病理学家、验光师/配镜师"
+msgstr ""
+
+#: templates/mbti/personalities/infp.html:62
+msgid "保健领域吸引INFP型人的方面在于，它能够让他们对客户或病人进行亲切而亲密的工作。INFP型人一般都会喜欢这样的职业给予他们的自主性，他们可以自己开业，或者作一家大型健康护理机构的顾问。理疗、全身治疗以及按摩的诊断治疗工作具有创造性和精神因素，这些都令人满意，它们运用了INFP型人的直觉和情感倾向。"
+msgstr ""
+
+#: templates/mbti/personalities/infp.html:64
+msgid "INFP始终以一种平静快乐的姿态出现在世人面前。他们待人平静和蔼，不带过多的诉求。事实上，INFP的内心世界是十分复杂的。在人际交往的过程中，这种复杂会让他们表现出比其他性格类型人群更多的爱与关怀。INFP不是对任何人都会表现出这种关爱，而且在内部情感表达上他们也趋于保守。他们内心深处的这种爱与关怀只会对少数几个于他们关系至亲的人面前展现出来。INFP们通常在与他们的密友交往过程中，常会表现出惬意、支持和帮助的态度。由于内向感受在其性格中起到了主导作用，他们对于别人的感受非常的敏感准确，并会对他人的感受表现出诚挚的关注和呵护。要他们信任他人是一个漫长的过程，他们在感情的初期会显得十分小心谨慎，但是一旦认真的进入一段感情之后，他们会表现出绝对的忠诚。由于他们内在的坚定核心价值，他们十分重视自己感情中的深度与真诚度。对于那些能够理解和接受他们的观点的人，INFP会表现出极大的推崇。INFP在多数情况下会表现出很强的适应性和同质性，但是如果对方的观点与自己的核心价值发生冲突的时候，他们会收起温和的态度，转而成为自己核心价值坚强的守护者。在这种情况下，他们会变得异常地严厉和苛刻。"
+msgstr ""
+
+#: templates/mbti/personalities/infp.html:65
+msgid ""
+"多数INFP在情感问题上会显出如下优点，对他人热情的关心及呵护，能积极感知他人的感受，忠诚专一，他们希望将关系维系终生，擅长关爱及呵护，努力寻求双赢的局面，扶住他人，鼓舞人心，能够认清并尊重他人对空间的需要，能够很好地表达自己"
+" 能屈能伸，性格多样"
+msgstr ""
+
+#: templates/mbti/personalities/infp.html:66
+msgid "同时INFP也趋于内向保守，不希望别人侵占他们的私人空间，极度厌恶矛盾，极度厌恶批评，对于表扬和正面评价有着极强的需要，在压力情境下会感情用事，在感情失败之后，很难走出阴影，很难批评或惩罚他人，在情感表达上十分保守，完美主义倾向让他们对自己缺乏足够的信任，遇到问题容易自责，凡事喜欢一肩挑。"
+msgstr ""
+
+#: templates/mbti/personalities/infp.html:67
+msgid "INFP们对于自己的爱人有着极强的忠诚心和责任感。由于性格中的感知主导，和谐温暖的感受对INFP们显得十分重要。他们对于负责关爱的感情有着自己的需要。如果他们的感情中没有这些元素，那么他们只有两种选择，积极寻找这种感情或者就用幻想来麻痹自己的这种需要。"
+msgstr ""
+
+#: templates/mbti/personalities/infp.html:68
+msgid "INFP们的理想主义和浪漫主义情怀常常让他们对感情或情境有一种“完美情结”。他们也会用将他们的爱侣浪漫化，使之拥有自己所不具有的特质。多数INFP都会有这样一个问题：他们很难降低他们对现实生活那些不切实际的浪漫态度。正因为这样，所以他们总是对自己和他们的朋友表现出阴晴不定的态度。然而，INFP对他们爱侣的真挚热爱以及他们对于矛盾的极度厌恶让他们不得不表现出对于感情的忠诚，但是他们的脑海可能会久久得不到平静。"
+msgstr ""
+
+#: templates/mbti/personalities/infp.html:69
+msgid "与那些对爱人充满敬意的性格类型不同，INFP的这种尊重往往不会在感情中出现变质的情况。INFP们对于自己的想法会贯彻到底，努力实现尊重爱人这个大目标。这样做的结果通常是，INFP对其爱侣表现出认同，骄傲和关爱这些情愫，而这一切都是经得起时间的考验的。"
+msgstr ""
+
+#: templates/mbti/personalities/infp.html:70
+msgid "INFP对于管理类事物（像付账单及清理家居之类的）通常没有什么兴趣，但是如果必须要他们完成的话，他们会完成得十分出色。只要他们用心，他们绝对是理财方面的一把好手。INFP的一个大问题就是他们对矛盾和批评的极度厌恶。INFP会迅速找出批评性言论中对方的个人观点，无论这种批评中是否真正包含个人因素。他们将各种批评都视为对他们性格的一种攻击，在这种情况下，他们通常会变得失去理性并为个人情感所支配。这在INFP与思考和判断型的人交往过程中会成为一个很大的问题。这种“思辨者”在考量问题时会采取一种客观坚决的态度，而这种态度常会为他们的言论带来一个观点。如果这个观点带有负面性，那么“思辨者”的态度很可能会对INFP构成威胁。这种情况下，INFP会给予感性的回复，并将这种负面态度视为对自身性格的一种抨击。"
+msgstr ""
+
+#: templates/mbti/personalities/infp.html:71
+msgid "对于那些感知官能主导十分严重的INFP来说，如果他们缺乏成熟的直觉官能来帮助他们获取做出决策所需足够的信息，那么他们对矛盾和批评的反感会成为他们亲密关系中的一个重大隐患。在矛盾情境中，这些INFP们的反应会带上极为强烈的情感压力色彩，这常会让他们表现出不知所措的状态。由于他们缺乏寻找措施的基础，他们可能会采取任何可能的方式来摆脱这种矛盾，这么做通常意味着对他人缺乏理性的攻击，或者利用一些罪恶的手段来迫使自己的伴侣为他们提供需要的支持。这种行为对于健康持久的情感会产生极为负面的影响。"
+msgstr ""
+
+#: templates/mbti/personalities/infp.html:72
+msgid "如果他们能认清自己的这种趋势，他们就能更为客观的认识他人的批评。他们也应该记住，矛盾情境的产生不一定都是他们的问题，而且就算这种局面产生了也绝对不是世界末日。矛盾只是生活的一个组成部分，及时正视并解决这种矛盾能让你在萌芽状态就将这种问题解决，以免将来受其拖累。"
+msgstr ""
+
+#: templates/mbti/personalities/infp.html:73
+msgid "INFP对于自己和他人的私密空间有着明晰的认识。他们非常重视自己的个人空间以及能够做自己事情的自由。他们很珍视那些能认清INFP本质，并尊重他们独特风格和观点的伴侣。同时他们对于对方的隐私和独立也会给予足够的尊重，事实上，INFP不仅会对对方的观点或目标表示尊重，他们还会不遗余力地为对方提供支持。"
+msgstr ""
+
+#: templates/mbti/personalities/infp.html:74
+msgid "总得来说，INFP们在爱情中时刻传达着温暖的关怀和爱意，他们将感情的健康性视为生活中的重心。尽管在刚开始的接触中，他们会表现出小心谨慎的试探状态，但是经过一段时间之后他们对爱情的忠贞不渝就会显露无疑，而这常能够持续一生。他们对待感情的态度十分认真，并会为感情的成功倾注大量的精力。"
+msgstr ""
+
+#: templates/mbti/personalities/infp.html:75
+msgid "恋爱类型"
+msgstr ""
+
+#: templates/mbti/personalities/infp.html:76
+msgid "许多研究发现，一个男性哲学家型（INFP）最有可能和他的镜子影像结婚：也就是娶一个女性哲学家型。同时，研究也指出不管是男性或女性哲学家型，最快乐的事就是和同一种恋爱类型的人结婚。与哲学家型的人结婚的哲学家型，比起与其他任何一种恋爱类型结婚的哲学家型，都显现出最小的冲突。"
+msgstr ""
+
+#: templates/mbti/personalities/infp.html:77
+msgid "女性哲学家型"
+msgstr ""
+
+#: templates/mbti/personalities/infp.html:77
+msgid "你与哲学家型的另一半在一起会很快乐，同时，也可以与作家型(INFJ)、教育家型(ENFJ)或记者型(ENFP)处得很好。由于教育家型和记者型拥有外向的特质，他们可以引导出你社会化的一面，也可平衡你原本内向的特性。"
+msgstr ""
+
+#: templates/mbti/personalities/infp.html:78
+msgid "男性哲学家型"
+msgstr ""
+
+#: templates/mbti/personalities/infp.html:78
+msgid "你最好的伴侣是女性哲学家型或是女性作家型(INFJ)。女性作家型是一个有智慧、并具有反省能力的女性，她可以提供予你未来成功所需之要件。有一项警告：请确定她在果断(J)偏向上不是太强烈；否则，她对你的随兴作风也许会大有批评。"
+msgstr ""
+
+#: templates/mbti/personalities/infp.html:79
+msgid "有趣细节"
+msgstr ""
+
+#: templates/mbti/personalities/infp.html:80
+msgid "具有的性格特征包括：艺术的，深沉的，粗心的，敏感的，灵活的，善于欣赏的。"
+msgstr ""
+
+#: templates/mbti/personalities/infp.html:81
+msgid "在所有类型中最不可能得心脏方面的疾病。"
+msgstr ""
+
+#: templates/mbti/personalities/infp.html:82
+msgid "男性最不可能反映慢性疼痛。"
+msgstr ""
+
+#: templates/mbti/personalities/infp.html:83
+msgid "在所有类型中，具有第二高的婚姻不满意率。"
+msgstr ""
+
+#: templates/mbti/personalities/infp.html:84
+msgid "在所有人中最有可能在大学期间产生自杀意向。"
+msgstr ""
+
+#: templates/mbti/personalities/infp.html:85
+msgid "在学习一门外语时比大部分人更容易成功。"
+msgstr ""
+
+#: templates/mbti/personalities/infp.html:86
+msgid "在所有的类型中，最容易对自己的工作不满意。"
+msgstr ""
+
+#: templates/mbti/personalities/infp.html:87
+msgid "个人价值观包括强调自主权与创造性。"
+msgstr ""
+
+#: templates/mbti/personalities/infp.html:88
+msgid "在写作，顾问，艺术等职业领域有着超出平均的杰出代表率。"
+msgstr ""
+
+#: templates/mbti/personalities/intj.html:5
+msgid "专家（策略家）型人格"
+msgstr ""
+
+#: templates/mbti/personalities/intj.html:9
+msgid ""
+"INTJ型的人是完美主义者。他们强烈地要求个人自由和能力，同时在他们独创的思想中，不可动摇的信仰促使他们达到目标。 "
+"INTJ型的人思维严谨、有逻辑性、足智多谋，他们能够看到新计划实行后的结果和生活中转变为真实物质的理论体系。他们对自己和别人都很苛求，往往几乎同样强硬地逼迫别人和自己。他们并不十分受冷漠与批评的干扰，作为所有性格类型中最独立的，INTJ型的人更喜欢以自己的方式行事。面对相反意见，他们通常持怀疑态度，十分坚定和坚决。"
+msgstr ""
+
+#: templates/mbti/personalities/intj.html:11
+#, python-format
+msgid "INTJ（内倾/直觉/思考/判断）是迈尔斯·布里格斯性格分类法中十六种人格类型之一，在柯尔塞气质类型测试中被称为策划者(Mastermind)，属于理性者的四种类型之一。INTJ是十六种类型中最稀有的类型之一，所占的人口比例仅仅只有1%%。"
+msgstr ""
+
+#: templates/mbti/personalities/intj.html:12
+msgid "INTJ人群是完美主义者，他们看似有着永无止境的能力去改善任何他们感兴趣的事物。与理想主义者截然不同，INTJ们通过实事求是的实用主义理念与行动来追求完美的结果。"
+msgstr ""
+
+#: templates/mbti/personalities/intj.html:13
+msgid "INTJ这类型的人群被誉为系统的建设者，可能部分因为他们拥有不寻常的集合虚幻性和确定性的显著特点。无论在何种体系下工作，对INTJ人群来说在思想中是一样的，只因为他们是拥有INTJ性格的人群。完美主义并且藐视权威可能会在现实生活中体现，所以对INTJ人群来说他们可以在一个项目中对自己和他人毫不留情。任何松懈的人，包括上司，将会失去INTJ人群对他们的尊敬——并且通常INTJ人群会让他们意识到这一点。经常表现出自我的另一面。因为isfp型的人不喜欢直接地自我表达，所以常常被误解。"
+msgstr ""
+
+#: templates/mbti/personalities/intj.html:14
+msgid "INTJ人群也是可以作出重大决定而不需询问他们的上司或同事的人群。另一个方面，他们能够小心谨慎公平地将一个项目中的个人贡献分清。他们天生具有抓住机遇的天赋，而有些机遇甚至其他人都没有注意到。"
+msgstr ""
+
+#: templates/mbti/personalities/intj.html:15
+msgid "典型的INTJ人群择业的方向是在科学和工程方面的，但是他们也可能致力于那些需要智慧与犀利言辞并重的领域（例如，律师，学术界的某些领域）。如果他们愿意花时间去扩展他们的能力，INTJ人群可以从事管理，（无论是出于个人的野心或愿望）很多INTJ人群觉得学习如何假意的因循守旧是很有利的，因为这可以在某种程度上掩饰他们内在的异常性格。"
+msgstr ""
+
+#: templates/mbti/personalities/intj.html:16
+#: templates/mbti/personalities/isfp.html:15
+msgid "处事特点"
+msgstr ""
+
+#: templates/mbti/personalities/intj.html:17
+msgid "具有独特的思想、伟大的远见和梦想。他们天生精于理论，对于复杂而综合的概念运转灵活。他们是优秀的战略思想家，通常能清楚地看到任何局势的利处和缺陷。对于感兴趣的问题，他们是很好的、具有远见和见解的组织者。如果是他们自己形成的看法和计划，他们会投入不可思议的专心、注意力和能量、积极性。依靠到达或超过自己的高标准的决心和坚韧不拔，他们获得许多成就。"
+msgstr ""
+
+#: templates/mbti/personalities/intj.html:18
+msgid "由于擅长战略规划，所以理性者领导常常都会对机构的整体面貌及其长期发展形势有一个预告的认识，或者说先见之明。他们往往高瞻远瞩，考虑周全，决不会在计划中遗漏任何重要的环节或步骤。鉴于他们从很早便开始使用连贯、易理解的语言来进行表达，并且一直都坚持这一语言表达习惯，因此，INTJ型领导通常都能够清晰明确地向下属表达自己的预见，并用这美好的想法感染他们，使他们满腔热情地投入到自己预想的事业当中。"
+msgstr ""
+
+#: templates/mbti/personalities/intj.html:19
+msgid ""
+"INTJ型的人思维严谨、有逻辑性、足智多谋，他们能够看到新计划实行后的结果和生活中转变为真实物质的理论体系。他们对自己和别人都很苛求，往往几乎同样强硬地逼迫别人和自己。他们并不十分受冷漠与批评的干扰，作为所有性格类型中最独立的，INTJ型的人更喜欢以自己的方式行事。面对相反意见，他们通常持怀疑态度，十分坚定和坚决。权威本身不能强制他们，只有他们认为这些规则对自己的更重要的目标有用时，才会去遵守。在实现自己的想法和达成自己的目标时有创新的想法和非凡的动力。能很快洞察到外界事物间的规律并形成长期的远景计划。一旦决定做一件事就会开始规划并直到完成为止。多疑、独立，对于自己和他人能力和表现的要求都非常高。INTJ型的人是完美主义者。他们强烈地要求个人自由和能力，同时在他们独创的思想中，不可动摇的信仰促使他们达到目标。他们是"
+" "
+"优秀的战略思想家，通常能清楚地看到任何局势的利处和缺陷。对于感兴趣的问题，他们是出色的、具有远见和见解的组织者。如果是他们自己形成的看法和计划，他们会投入不可思议的注意力、能量和积极性。"
+msgstr ""
+
+#: templates/mbti/personalities/intj.html:20
+msgid ""
+"“概念主义者”型的人自信、有智慧、富有想像力。他们的原则是“所有的事情都要做到最好”。“概念主义者”是最独立的一种人。他们工作原则性强，标准高，对自己和对别人的要求都很严格。他们不会被别人的冷"
+" "
+"遇和批评干扰，喜欢以自己的方式做事。“概念主义者”型的人天生好奇，无论是由于工作本身的需要还是出于长远的考虑，他们很喜欢不断地吸取知识，他们因此而常常看"
+" "
+"得到同一问题的多个不同的方面，习惯于全面地、概括地思考问题，和一分为二地看待问题。他们很善于发现事物的可能性，理解事物的复杂性，喜欢进行逻辑的分析，从而对真实或假设的问题构思出解决方案。“概念主义者”喜欢能够提供自由、变化和需要有较高的智力才能完成的工作，不喜欢简单、重复的工作。他们喜欢看到自己的想法"
+" "
+"能够得到实施。“概念主义者”会对那些他们认为不够能干的人不耐烦，喜欢与很有能力的上司、下属、同事共事。许多“概念主义者”型的人推崇权力，易于被有权力的人和权力地位所吸引。"
+msgstr ""
+
+#: templates/mbti/personalities/intj.html:21
+msgid "他们善于分析、总结、判断，善于从整体上把握事物，喜欢追根究底，力图抓住事物的本质，对文字、语言敏感，抽象思维能力强，能理解复杂的理论概念，善于将事情概念化，善于从中推断出原则或预测趋势，擅长策略性思维，会接受建设性的批评，而不把它当作针对个人的问题"
+msgstr ""
+
+#: templates/mbti/personalities/intj.html:23
+msgid "考虑问题理智、清晰、简洁，不受他人影响，客观的批判一切，运用高度理性的思维做出判断，不以情感为依据。用批判的眼光审视一切，如果形势需要，会非常坚强和果断。"
+msgstr ""
+
+#: templates/mbti/personalities/intj.html:24
+msgid "INTJ型的人不屈从于权威，并且很聪明，有判断力，对自己要求严格，近乎完美，甚至也这样去要求别人，尤其讨厌那些不知所措、混乱和低效率的人。他们有很强的自制力，以自己的方式做事，不会被别人的冷遇和批评干扰，是所有性格中最独立的。"
+msgstr ""
+
+#: templates/mbti/personalities/intj.html:25
+msgid "优秀的策略家和富有远见的规划者，高度重视知识，能够很快将获取的信息进行系统整合，把情况的有利与不利方面看的很清楚。具有独特的、创造性的观点，喜欢来自多方面的挑战。在INTJ型感兴趣的领域里，他们会投入令人难以置信的精力、专心和动力。"
+msgstr ""
+
+#: templates/mbti/personalities/intj.html:27
+msgid "INTJ型常常只注重自己，很少去理解他人，自以为是，对他人没有耐心，总是想当然的把自己的观点强加给别人，制定不切实际的高标准"
+msgstr ""
+
+#: templates/mbti/personalities/intj.html:28
+msgid "过于注重远见卓识，很容易忽略和错过与自己理论模式不符的细节和现象；爱玩弄智力游戏，说些对他人没有意义、似是而非的话语。"
+msgstr ""
+
+#: templates/mbti/personalities/intj.html:29
+msgid "过分独立的个性和工作习惯，使得INTJ型总是“拒绝”别人的参与和帮助，难以发现自己计划中的缺陷。"
+msgstr ""
+
+#: templates/mbti/personalities/intj.html:30
+msgid "有时会过于固执和死板，沉迷于一些出色的但不重要的想法中，并且事事要求完美。"
+msgstr ""
+
+#: templates/mbti/personalities/intj.html:31
+msgid "在处理个人关系，特别是在爱情方面，他们缺乏罗曼蒂克。对于复杂的事，INTJ人群通常是那种特别自我的人群，他们很习惯的表现出冷漠，而这一点容易被其他人误解。"
+msgstr ""
+
+#: templates/mbti/personalities/intj.html:32
+msgid "生活"
+msgstr ""
+
+#: templates/mbti/personalities/intj.html:33
+msgid "INTJ觉得不值得和“俗人”交往，只要保持平淡必要关系即可。他们很知道“俗人”不会喜欢自己。喜欢分析、评判他人，但是更喜欢分析、批判自己。认为别人很俗，但对自己的评价也极为挑剔。不是自恋，只是完美主义。"
+msgstr ""
+
+#: templates/mbti/personalities/intj.html:34
+msgid "INTJ有理性没人性，置身人群像在外太空。对判定无意义和无价值的信息没有交流欲，不关注或远离。并非反感，而是绝对否定。不喜欢说废话，一般说出的话都很精。不喜欢聚会，是真的从心底不喜欢，在没有目的计划的聚会上，INTJ很难获得感兴趣的信息，进而会觉得浪费时间。更关心的是未来的可能性和计划，对于过去的事物，除了能够被提炼成“有用信息”的外，INTJ是不会关心的。认为最安全的方式，是永远只把注意力放在自己身上。因为自己是唯一不会让自己失望的。对自己以外的事大部分时候都显得漫不经心。"
+msgstr ""
+
+#: templates/mbti/personalities/intj.html:35
+msgid "INTJ其实能够认识自己的情绪或别人的情绪，只是不愿意去管理自己情绪，更不愿意去取悦别人。对在意的人情商会很高，不高是因为不在意。"
+msgstr ""
+
+#: templates/mbti/personalities/intj.html:36
+msgid "总是太严肃，总会让大家开心的谈话冷场。太关注自我，永远在考虑他们自己的事情。喜欢嘲笑，经常一副愤世嫉俗的样子。眼高手低，现在的事还没做好，就光想未来的事。没有幽默感，不会欣赏生活中的乐趣。忽冷忽热，不关心别人。"
+msgstr ""
+
+#: templates/mbti/personalities/intj.html:37
+msgid "看法"
+msgstr ""
+
+#: templates/mbti/personalities/intj.html:38
+msgid "INTJ总体属于喜欢自己跟自己较劲的人，在旁人看来觉得他的生活和工作会很累。他们自己可能不觉得，沉浸于自己的世界中。周围人很难理解为什么一个熬夜多日做出的图纸会带来任何心灵的喜悦，特别是周围一堆人都是E的时候。"
+msgstr ""
+
+#: templates/mbti/personalities/intj.html:39
+msgid "INTJ的I通常很明显能在人多场合看出来，但是人少的群体中，INTJ可能会很主动积极大胆发言，做一个主导者。其实INTJ的权力欲望算很强的，完美主义其实就是追逐权力的极致。这种权力并非单单是俗称的官瘾，而是对事物的终极掌控者。"
+msgstr ""
+
+#: templates/mbti/personalities/intj.html:40
+#, python-format
+msgid "INTJ一个人的时候，基本上没有停止思考。而且往往他想的是极有逻辑性和哲理的大东西，诸如哪个超市半价之类的他是绝对不会浪费脑细胞的。我发现INTJ往往在做一件平常事的时候，脑子中想的完全是别的事，而且抽象，诸如生死、功成名就或宇宙奥秘等。所以INTJ的T，thinking给人印象深刻，基本上会T的人都能在人群中一眼认出。他们喜欢分析，丝丝入扣的说话，情绪上有克制，好压抑自己。因为理性使然，所以面具非常厚。基本上会T的人，自己对自己的评价和别人对他的评价可以说是天壤之别。原因就在于，T中的思维逻辑不同于大众。INTJ对自己的评价往往较高，觉得有才华且卓尔不群，或者觉得特别个性因而自命不凡。我用自命不凡这个词不是打击INTJ，而是事实如此。因为世人缺乏对才华的客观评价，那么这些都是相对的。我也认为能静得下来用直觉思考和判断的人也许会更加饱读诗书或富含思辨。但是INTJ的聪明才智未必会被目前主流的社会认可。INTJ也许常会挑战才能不及他的上司，并且内心冷笑这样的人也能上位；然而，这个社会总体架构不是为1%%的INTJ设立了。INTJ倘若明白这一点，事情会好办的多。"
+msgstr ""
+
+#: templates/mbti/personalities/intj.html:41
+msgid "INTJ的N是非常可贵的一点，能倾听内心声音的人不多，INTJ可以把这个发挥到极致。N是做咨询顾问非常看中的一点，我以前以为做顾问T最重要。可后来接触到不少杰出顾问，我发现N才是本质的区别。同样的问题，几乎是一触即发，优秀的INTJ可以直接抛出一个答案，然后再用T去圆这个说。这种直觉能力无法培养，甚至可以说是一种天赋。INTJ应好好利用N的天赋，而不是简单的纠缠于T。"
+msgstr ""
+
+#: templates/mbti/personalities/intj.html:42
+msgid "J是INTJ让人觉得冷漠的原因之一，无情冷血的结论和做事方式，因为他们内心做了判断。耶稣说过任何人无罪才能论断别人；但INTJ无时无刻不在论断。几乎对于任何一件事，假以时日，INTJ可以从无知变成专家，而且还是很有个人观点的专家。一般他们下了判断后，要改变则很难。除非呈递大量证据，不然INTJ的J是非常坚固坚强坚定的。我对INTJ的N，T，J都十分赞赏，但是I也许会使得NTJ的发挥走向错误的方向。"
+msgstr ""
+
+#: templates/mbti/personalities/intj.html:43
+msgid "缺乏沟通往往造成I的一面缺点越来越大，NTJ是随之而来的思考直觉判断失误。E或I是接触万事万物的第一面，选择开放式的E还是漏斗式的I，这是个问题。"
+msgstr ""
+
+#: templates/mbti/personalities/intj.html:44
+msgid "INTJ的职场生涯会充满明显的技术性倾向，无论什么行业，INTJ应该是那个工种里的技术核心。就算没有技术的东西，他也有一套理论来构建。这是INTJ天生的战略思维，所以INTJ做行业研究员或者咨询业会比较成功。另外做医生也很不错。金钱对于INTJ只是评定其工作的一个方面，如果一个工作没有成就感，他会沮丧。另外，INTJ确实比较适合从事“物”的工作；如果是“人”的工作，最好是一定时期小环境内的。因为INTJ似乎需要通过客观的东西展现自我达到工作的满足，不然它会一直感觉怀才不遇。"
+msgstr ""
+
+#: templates/mbti/personalities/intj.html:45
+msgid "最后一点，就是INTJ把自己管得太紧，要求太高，一旦达不到心理就失衡。觉得身边这个不好那个不好，其实最终是自己的问题。其实INTJ是有才华的，只要不那么求全，总是能慢慢上道的。太苛求完美，太过于着急，对自己职业生涯一点好处也没有。"
+msgstr ""
+
+#: templates/mbti/personalities/intj.html:46
+msgid "领导能力"
+msgstr ""
+
+#: templates/mbti/personalities/intj.html:47
+msgid "很少有什么事能难住INTJ(注释一下，这个事主要指的是工作，感情方面的事情的处理能力需看每个INTJ个体的认知功能的发展情况来定，认知功能发展不完善会很难处理感情问题)。因此这类人在公司中通常都能得到很快的提升，他们的沉着表明他们具备了杰出的领导能力。与其他类型的领导者不同，INTJ们通常都作为一个冷静的旁观者出现在组织里，但如果发现团队缺少领导者或者现任领导者能力不足，那么他们会毫不犹豫的成为新的领导者。我们确信在日本企业的领导层中，这种类型的人占主导地位。沉着使他们有能力将已有的想法在各个方面进行提升，从设计，生产到市场推广。这一能力成为20世纪末日本在国际市场上地位不断提升的关键因素。一位INTJ型的日本商人甚至对MBTI进行了改进和提高。日本如今是使用类型观察的第二大国，仅次于美国。"
+msgstr ""
+
+#: templates/mbti/personalities/intj.html:48
+msgid "自信务实"
+msgstr ""
+
+#: templates/mbti/personalities/intj.html:48
+msgid "这四种倾向是大多数人寻求自信和力量所依靠的性格特征，尤其是公司梯形结构中那些上层人物。INTJ不会像外向性格的人那样不断打扰我们，他们会通过将所有事物很好地掌控在手中来传达他的自信。与关注细节和具体事物的感觉型(S)人相比，他们会将事实转化为一幅宏观的蓝图，并给出其发展前景。有时候主观性更和人意，但在实际商业活动中我们更讲究客观性，也就是更务实。我们社会的运行使J型人得到偏爱，整个社会也是一种结果导向型的模式。INTJ型的人将四种特质整合在一起后不仅表面看起来吸引人，同时他们也确实是领导和决策层能够信赖和依靠的对象。"
+msgstr ""
+
+#: templates/mbti/personalities/intj.html:49
+msgid "独立自主"
+msgstr ""
+
+#: templates/mbti/personalities/intj.html:49
+msgid "尽管很难用一个词去形容某个类型的人，但“独立自主”可以对INTJ型的人作一个最好的概括。独立自主是激发他们前进的动力。如果可能，INTJ希望每个人都能独立自主。这种独立意识可能与他们同时希望掌控周围环境的需求相冲突。因此，作为INTJ的同事或下属，就必须明白“独立性”是终极目标，但这种独立性的获得必须得到INTJ的认可。这一矛盾会带来一些信息的复杂化。表面上INTJ的口头指示赋予的是灵活性和自由度，如：“你可以获得充足的时间，采用你认为最好的方式来完成这项工作”，而这句话的另一层意思是“尽快完成它并把它做好”。这种信息会使INTJ型人I感觉，而后者却经常要求可靠和准时。如果INTJ把真实意思表达清楚的话，就应该是“如果每次你都能又快又好地完成任务，那么你就能获得更多的灵活性和自由发挥的空间”，这样就不会产生矛盾了。"
+msgstr ""
+
+#: templates/mbti/personalities/intj.html:50
+msgid "掌控全局"
+msgstr ""
+
+#: templates/mbti/personalities/intj.html:50
+msgid "作为天生的概念专家，INTJ是完美的思考者，对未来充满兴趣。他们受丰富的想象所激励，同时骨子里又有很强的责任感。通常，他们会承担起解决复杂问题的责任。并施展他们创造性的才能担当起领导者的工作。有人曾经说过，社会中的成功人士通常都是那些独立的(I)，有预见能力的(N)，实事求是的(T)和能掌控时局(J)的人。这类人能够被委以重任，他们不会总是拿自己的需要来烦扰你。INTJ型的管理者也是永远的学生。INTJ会不断地探索和追究“可能会怎样”，他们的直觉能够很好地容纳系统中的新技术，程序，动机和方法。他们倾向于对事物不断做出改进。即使那些东西都运转良好，他们也会去改革它。这种倾向意味着工作中的每一项事物都会被拿去作一番改进。对每一个项目，INTJ会不断地进行评估，审查，甚至修正。即使有命令要求维持现状不变，INTJ也不会停止在维持现状的基础上做出细微改进的努力。"
+msgstr ""
+
+#: templates/mbti/personalities/intj.html:51
+msgid "面临挑战"
+msgstr ""
+
+#: templates/mbti/personalities/intj.html:51
+msgid "INTJ女性在工作中面临着特殊的挑战。上面所描述的那些特点，如独立，客观，控制力强等。都是与传统对女性的要求背道而驰的。INTJ女性对传统的挑战以及不断改进革新的特质会在男性主导的职场中遇到麻烦。这种冲突会带来两种性别的不满和拒绝：男性无法理解也不知道该怎么去处理INTJ女性独立行事的风格;而其他女性将之看作高傲自大，对他人漠不关心的人。现实中，INTJ女性在与那些具有传统女性特征的女性交往时通常都缺乏耐心。令更多人无法忍受的是INTJ女性的冷漠：工作中她总是十分谨慎并极端专业，十分注意自己的言行。很少谈及私人生活并且将它和工作严格分开。她们谨慎，专业的工作态度以及表面上封闭而自我的私人生活使他们在同事中很难赢得同盟者。尤其是INTJ女性，她们总是孤独地高高在上。"
+msgstr ""
+
+#: templates/mbti/personalities/intj.html:52
+msgid "isfp型的人喜欢实际工作，不喜欢理论工作。他们倾向于喜欢运用实际的积极的技术，户外工作的机会尤其为isfp型的人喜欢，他们对工作中的变化和种类表现出极大的兴趣。"
+msgstr ""
+
+#: templates/mbti/personalities/intj.html:53
+msgid "精细管理"
+msgstr ""
+
+#: templates/mbti/personalities/intj.html:53
+#, python-format
+msgid "策划者的人，在精细管理方面，远远超出其他人。每一步计划都要与下一步计划相协调，并且可能会受制于无法预知的困难。他们本性果断、善于谋划且矜持的个性，决定了他们更倾向于策划者的角色。他们不超过总人口的1%%，而且很难遇到。他们虽然是极有能力的领导者，却并不热衷于进入管理层，而宁愿躲在僻静处，除非领导者过于无能。但是，他们一旦主管工作，就是个彻头彻尾的实用主义者，将现实看做不过是施展和精练他们战略才能的象棋棋盘而已。在制定计划时，他们思想开明、愿意接受一切有价值的建议，富有成效的理论很快便得以应用。对他们来说，次序不是一成不变的，是可以改进的。只要是有意义的，都会被采纳，相反则不然。策划者往往比其他理性者更为自信，通常显示出非常坚强的意志。且看上去很容易做出决定，实际上，他们在安排事物并做出决定之前，几乎片刻不能休息。他们有着某种完成计划计划的动力，总是从长远的效果考虑，似乎是思想本身给他们带来了力量。逆境强烈刺激着他们，他们热衷于对一个需要以创造性解决的难题做出响应。无论在哪里，哪怕是最微小的工作，他们都会建立起数据和人文系统。他们通常是被人推荐到负责人岗位上的，因为他们追求目标持久、努力、坚定，毫不吝啬他们自己的时间和精力，同时也能充分发挥同事和雇员的潜力。他们习惯于描述积极的本性，避而不谈消极本性，更倾向于推动组织的发展，而不去思考过往的错误。他们认定，运转良好的组织中，内在和外部的连贯性都是不可或缺的。"
+msgstr ""
+
+#: templates/mbti/personalities/intj.html:54
+msgid "慧眼识人"
+msgstr ""
+
+#: templates/mbti/personalities/intj.html:54
+msgid ""
+"策划者是所有类型人中，从学校获益最大的受益者。工作上他们倾向于激励他人，也像对自己所要求的那样努力，因而往往显得苛求和难以满足。同事们认为策划者能彻底的识破他们，并找到他们的缺陷，所以，他们之间存在一种心理距离，容易让人有无法胜任的感觉。"
+" "
+"同时，作为领导者的INTJ有着精确识别团队每个人能力大小的慧眼，并不带任何偏见的将他们任命在各自最适合的岗位上。他们往往不被同事所理解，被人认为是过分冷静的，幸运的是如果他们觉得自己是正确的，对于同事的批评和误解，他们就不会特别的困扰。总而言之，他们是忠诚的，是对组织的，而非内部人员的。这项特质，使得他们在人员变动的时候，仍能毫不困难的继续工作。"
+msgstr ""
+
+#: templates/mbti/personalities/intj.html:55
+msgid "协调能力"
+msgstr ""
+
+#: templates/mbti/personalities/intj.html:55
+msgid "对于INTJ型的人来说，增加影响在于对次要的观点做出让步以赢得更重要的东西。这也会减少INTJ型的人变得太固执的可能性。当他们努力采用一种更易被接受的方式生活和与人相处时，INTJ型的人会得到更多的平衡、自信，成功地使自己更多的创新被社会接受。INTJ在对待事物上注重其各种可能性(N)，并将这些可能性进行处理，将之概念化，系统化，最终转化为客观的决策(T)。这些决策很容易得到贯彻实施，因为他们平时的生活方式就是非常有条理，有计划的(J)。他们的内向(I)使他们的内心世界成为各种想法的舞台，这些想法大大多于已付诸实践的愿望。这四种倾向结合在一起使INTJ型的人自信，沉稳，称职，有敏锐的洞察力并不断自我肯定。"
+msgstr ""
+
+#: templates/mbti/personalities/intj.html:57
+msgid "证券投资和金融分析员、知识产权律师、投资银行家、经济学家、企业家、心脏病专家、艺术家、经济学者、各类发明家、医学专家、各类科学家、国际银行业务职员、金融规划师、网络工程师、数据库专家、研究所研究人员、系统分析员、计算机程序员、研究开发部经理、各类技术顾问、技术专家、投资专家、法律顾问、精神病专家、投资银行研究员、首席财政执行官、设计工程师、财务计划人、企业并购专家、建筑设计师、社论作家、媒体策划"
+msgstr ""
+
+#: templates/mbti/personalities/intp.html:5
+msgid "学者型人格"
+msgstr ""
+
+#: templates/mbti/personalities/intp.html:9
+msgid ""
+"INTP（内向/直觉/理性/理解）是一种基于荣格的分析心理学所发展出来的MBTI、Keirsey Temperament "
+"Sorter及社会人格学的人格型态。"
+msgstr ""
+
+#: templates/mbti/personalities/intp.html:11
+msgid "INTP是自由的创意者，是思绪飞扬的学者，他们很容易转移注意力，却有着无穷的创造力。对抽象概念的喜好以及深入理解，使他们可以从事具有创造性和挑战性的任何工作。"
+msgstr ""
+
+#: templates/mbti/personalities/intp.html:12
+msgid "他们喜欢冲动，容易有想法，而且这些想法可能是非常天才的。有时候这些想法也可能让INTP迷失，因为他们总不断有新的想法出来。"
+msgstr ""
+
+#: templates/mbti/personalities/intp.html:13
+msgid "INTP对于机械式的工作有太多细节或者规定的执行期限，他们就会觉得很沮丧。遇到期限时，他们会不断要求延期"
+msgstr ""
+
+#: templates/mbti/personalities/intp.html:14
+msgid "INTP们几乎都有自己擅长的一个或多个相关领域，可以用天赋异禀来形容，一旦幸运地从事到了合乎他们胃口的行业，他们在专业上凭借超群的悟性可以用很短的时间达到很多人可能花掉数年数十年甚至一辈子也无法企及的高度。然而在这些令他们光芒万丈的领域之外的其他田地里，由于长期的荒疏，很多对于常人来说根本不是问题的问题却可以把他们难倒，比如日常生活，也许一件冷不丁跳出来的家务小事就可以暴露出他们笨拙不堪的一面，立马从天才变成白痴。"
+msgstr ""
+
+#: templates/mbti/personalities/intp.html:15
+msgid "INTP的特点会使这一类人愿意追求冒险，但这有可能与他们喜欢独处思考的偏好冲突。对于INTP来说，外面的世界很精彩，但有会干扰INTP内向世界的自省。"
+msgstr ""
+
+#: templates/mbti/personalities/intp.html:16
+msgid "INTP会碰到性别问题，而且具体情况会有不同。对女性INTP来说，她们会经常处于一种两难境地：社会对女性的传统界定和她们的自然偏好总是背道而驰。例如，INTP可能是独立的，反权威，爱争论，有时候也可能会有些社交障碍（这和她们I的强度有关），而且她们往往对社会传统习俗的忽视。当这些与她们INT的智慧，不以为意等特征相结合时，我们可以想象INTP女性可能陷入的困境。而由于INTP女性的不善于表述会使这种困境变得更加复杂。在需要智慧投入的情况里，INTP女性可能会获胜，但却是以疏远他人为代价的。"
+msgstr ""
+
+#: templates/mbti/personalities/intp.html:17
+msgid "一般来说，INTP在决定投入某个项目之前，会进行充分的准备工作。这时因为，第一，她们不希望表现得不得力；第二，这些准备工作——研究，阅读，把事情规划好是INTP喜欢做的；第三，INTP需要一个良好的切入点。"
+msgstr ""
+
+#: templates/mbti/personalities/intp.html:18
+msgid "在一个不欣赏甚至怀疑的环境里，女性的处境可能会更难。人们会崇敬一个敏锐，冷静的人，但如果是个女人的话，人们就会觉得她有点冷漠无情，无视别人的情感需求，像个老学究，没有女性的温柔。"
+msgstr ""
+
+#: templates/mbti/personalities/intp.html:19
+msgid "男性INTP的处境相对容易些，因为冷静是社会对男性的要求。既便如此，他们也会遇到些问题。例如，他们随和善变的个性可能会与大多数企业里的TJ经理产生矛盾。INTP常被提醒要脚踏实地，“不要做白日梦了，赶快回去工作吧”，或者“希望你能够遵守规则”。"
+msgstr ""
+
+#: templates/mbti/personalities/intp.html:20
+msgid "另一个问题是，INTP缺乏社会意识，通常INTP不擅长社交。这一点在男性中表现得更突出，女性则相对比较容易调整。INTP对公司的聚会或者其他社交活动可能没有什么热情，这就会让同事觉得他们不合群。其实，他们并不是不想参与其中，如果他们觉得这种聚会还是可以忍受的，他们甚至也会乐在其中呢。但是如果活动持续时间太长，或者聚会中没有什么让他们觉得有意义的对话和交流，他们就会觉得是浪费时间。所以，INTP宁可继续工作，在自己的世界里寻找“有意义的对话”，无论男女，INTP最后都可能会产生愧疚感，因为他们没有履行自己的社会责任。但是如果一定要他们履行这种责任，他们可能就会想“我又陷入困境了”。"
+msgstr ""
+
+#: templates/mbti/personalities/intp.html:21
+msgid "在工作中，INTP是思想的源泉，他们独自工作时效率最高，而且他们常表现出创造性，精力充沛，充满乐趣。他们喜欢新的项目和头脑风暴，对INTP来说，生命和工作是一次智慧的挑战，在做事之前要仔细，投入地思考再三。他们喜欢用文字表述得清楚精确，不能忍受模棱两可的观点，或者那些前后矛盾的理论陈述：譬如既赞成又反对。"
+msgstr ""
+
+#: templates/mbti/personalities/intp.html:22
+msgid "总体来说，和INTP类型的人一起工作比较容易，他们喜欢在工作中寻找乐趣，独立思考，喜欢自主性强的工作。他们把生活看作是学习。因此，任何能够开发智力的活动都极具价值，从动手拆装到起草项目建议书，都是一个个学习和成长的机会。这是激励INTP的主要驱动力。"
+msgstr ""
+
+#: templates/mbti/personalities/intp.html:23
+msgid "对INTP类型的人来说，最重要的是自己的隐私不受侵犯，并以自己独特的方式解决复杂的问题。INTP人勤于思考和分析，有时他们甚至会把周围的世界忘得一干二净而沉浸于深深的思索中。"
+msgstr ""
+
+#: templates/mbti/personalities/intp.html:24
+msgid "对INTP人更精确一点的描述是：若有人的理解稍有偏颇，他们就会想方设法指正出来。也正是INTP人的这种敏锐的辨别力使得他们在诸如语法学、语言学等方面比别人有天生的优势。"
+msgstr ""
+
+#: templates/mbti/personalities/intp.html:25
+msgid "在大多数情况下，INTP人能随遇而安、通情达理，他们不愿在众目睽睽下表现自己；除非当他们的原则遭到破坏时，他们才会直言不讳、坦率地站出来说话，然后马上回到友好的气氛中默默无闻。"
+msgstr ""
+
+#: templates/mbti/personalities/intp.html:26
+msgid "INTP人总会有一种失败感，担心在接下来的事情中会失败。他们在辩论时，与其是在说服对方，还不如是在说服他们自己。就这一点而言，INTJ人是完全不同于INTP人的，他们对自己的能力相当有信心，只要是自己深信的，他们就敢于去做。"
+msgstr ""
+
+#: templates/mbti/personalities/intp.html:27
+msgid "INTP的能量源泉是内向的，自省的（I）。他们对世界的印象是概念性的，抽象的和随意的，有着无穷的可能性（N），这也是决策的基础。他们的决策是客观的，严格考虑因果联系（T）。这一切形成了一种灵活，随性，适应性很强的生活方式（P）。"
+msgstr ""
+
+#: templates/mbti/personalities/intp.html:28
+msgid "所以复杂的系统，诸如数学、语言、计算机都是INTP人所喜欢并愿意努力去尝试的。对系统的了解、探索、掌握和操纵往往是INTP人无意识的行为，他们能完全忘我地将奇妙的逻辑系统、相互联系的子系统与环境分离并表达出来；对他们而言，完成任务只是次要的。"
+msgstr ""
+
+#: templates/mbti/personalities/intp.html:29
+msgid "描述"
+msgstr ""
+
+#: templates/mbti/personalities/intp.html:30
+msgid "独立而沉静；思维宽广而富有创新精神；好奇而进取；理智随和而适应能力强；有主见而不盲目附从。INTP型的人是理性的问题解决者。他们很有才智和条理性，表现出突出的创造才华。INTP型的人外表平静、缄默、超然；但内心却专心致志于分析问题。他们苛求、精细、惯于怀疑。他们努力寻找和利用原则以理解许多想法。他们喜欢有条理和目的的交谈，而且可能会仅仅为了高兴争论一些无益而琐细的问题。只有有条理的推理才会使他们信服。"
+msgstr ""
+
+#: templates/mbti/personalities/intp.html:31
+msgid "通常INTP型的人是足智多谋、有独立见解的思考者。他们重视才智，对于个人能力有强烈的欲望，有能力也很感兴趣向他人挑战。INTP型的人最主要的兴趣在于理解除了能够准确知道、接受和明显的事物之外的可能性。他们乐于为了改进事物的状况或解决难题而发展模式。他们的思考方式极端复杂，能更好地组织概念和想法而不是人。有时，他们的想法过于复杂以致很难向别人表达和被人理解。INTP型的人十分独立，喜欢冒险和富有想象力的活动。他们灵活易变、思维开阔，更感兴趣的是发现有创见而且合理的解决方法，而不是仅仅看到眼前现成的解决方式。"
+msgstr ""
+
+#: templates/mbti/personalities/intp.html:32
+msgid "INTP型的人几乎没有情绪，无视批评和赞美，生性喜欢当旁观者。他们没有要影响别人的强烈动力，也没有伤害或冒犯他人的意图，INTP对他人感受的关注度正常情况下基本是零，更多时候他们只想表达自己真实的看法而已。他们通过逻辑推理过程与感受自我成长获得成就感。"
+msgstr ""
+
+#: templates/mbti/personalities/intp.html:33
+#: templates/mbti/personalities/isfj.html:34
+#: templates/mbti/personalities/istp.html:17
+msgid "认知功能"
+msgstr ""
+
+#: templates/mbti/personalities/intp.html:34
+msgid ""
+"寻求精确，比如表达一个概念最合适的词。它注意到事物本质之间微不足道的差别，然后将它们分析并归类。Ti细查一个问题的每一面，寻找解决问题最不费力、风险最小的方法。它用模型甄别出逻辑上的不一致。冷静、明晰，注意将现实粘合在一起的力量。作为内倾思考型，INTP的精力和时间主要用于管理内在的、逻辑性世界里的原则(事物的本质，事物的原生规则)。"
+" 并将其概括化为可以理解。作为主导功能的Ti更倾向于与广义逻辑相似。"
+msgstr ""
+
+#: templates/mbti/personalities/intp.html:35
+msgid "寻找并解释隐含意义，用“如果”开头的问题来探索选择，允许多种可能性共存。这种想象中的游戏把直觉和来自多种不同来源的经验和想法结合在一起成为新的，这可能成为行动的催化剂。让INTP能够领会他们周围世界的格局。他们用他们的直觉把经验性的数据变成连贯的图片，由此则可以得出一般原则。INTP经常为一个问题苦思很久，直到最后靠着一瞬间的洞察力得出答案。"
+msgstr ""
+
+#: templates/mbti/personalities/intp.html:36
+msgid "收集关于当下的数据，然后把它们和过去的经验比较，这过程有时候随着记忆唤起与之关联的感觉，就好像再体验一遍过去。为寻求保护那些熟悉的东西，回溯历史，用以形成对未来的期望和目标。给了INTP热衷于观察的潜力。他们利用这个功能来收集基于经验的数据，利用物质工具，察觉物质上的关系，以及用一个充裕的感官空间来支撑他们的内在逻辑。"
+msgstr ""
+
+#: templates/mbti/personalities/intp.html:37
+msgid "寻找社会上的联系，并用礼貌、体贴、得体的举止营造和谐的沟通。对他人明确（或暗示）的需求作出回应，甚至可能会制造内在自我需求和欲望的冲突来满足别人。让INTP在群体中渴望和谐。当他们最感放松的时候，或当他们在团体中有一个明确界定的角色时，INTP们可以是迷人而直率的朋友。然而，当在压力下时，INTP可能会感觉和周边的人失去了联系，无法用他们的外倾情感和他人交流。作为他们的弱势功能，情感可能是个弱点：当被威胁的时候，它将会躲到毫无感情的逻辑之后。这可能会让他们抑制情感，好保存理智和和谐；但是当无法控制这些隐藏情感的时候，它们将会导致不恰当的突然爆发。"
+msgstr ""
+
+#: templates/mbti/personalities/intp.html:38
+msgid "后来的人格类型研究者（特别是琳达·V·贝伦斯）在这个降序排列中添加了四个附加功能。这些功能被称为隐藏功能，因为一个人并不自然地倾向于它们，但在压力之下它们也会浮现。对INTP来说，这些隐藏功能是（按次序）"
+msgstr ""
+
+#: templates/mbti/personalities/intp.html:39
+msgid "组织、安排环境和想法，好成功达成目标。更倾向于逻辑中的推理和狭义逻辑，寻求行动、事件和结论的合理解释，并试图找到逻辑的错误和序列中的间隔。"
+msgstr ""
+
+#: templates/mbti/personalities/intp.html:40
+#: templates/mbti/personalities/istp.html:20
+msgid "将看起来矛盾的事物合成出先前无法想象的成果，同时它也被象征性的东西吸引。这些成果的实现通常伴随着需要行动来完成的确定性，同时其解决办法中可能包括复杂的系统或一般性的真理。"
+msgstr ""
+
+#: templates/mbti/personalities/intp.html:41
+msgid "集中于当下的、物质的世界所带来的体验和感觉。以对当下周遭事情的敏锐察觉，它带来关于前方的相对事实和细节，而且可能导致自发的行动。"
+msgstr ""
+
+#: templates/mbti/personalities/intp.html:42
+msgid "过滤信息，这种过滤的基础是缘于标准（经常是无形的）形成的判断。Fi时常协调价值观。在各种情形下，它天生地和微妙的差别相合，并知道什么是对什么是错。"
+msgstr ""
+
+#: templates/mbti/personalities/intp.html:43
+msgid "性格盲点"
+msgstr ""
+
+#: templates/mbti/personalities/intp.html:44
+msgid "因为INTP型的人过分依赖他们的理性分析，所以他们会忽视与别人有关的事物。如果某一方面不符合逻辑，即使对于他们来说很重要，他们也会冒险抛弃。承认自己所真正关心的，会有助于他们与真实的情感保持联系。"
+msgstr ""
+
+#: templates/mbti/personalities/intp.html:45
+msgid "INTP型的人精通于观察一种思想的缺陷，但对于表达自己的评价却沉默寡言。因为他们拒绝在整个计划中存在一点不符合逻辑的地方，所以他们在涉及计划某部分的一个细微错误之时迟滞不前，使整个方案难以完成。当他们把自己高度磨练过的批评性思考运用到周围的人身上时，他们的坦诚会变成一种无意的伤害。必须告诉他们，而且他们必须学会询问在情感上与别人相关的事务。"
+msgstr ""
+
+#: templates/mbti/personalities/intp.html:46
+msgid "因为INTP型的人喜爱解决问题，所以往往他们会对常规的细节缺少耐心，而且如果一个计划需要过多的细节或持久贯彻，他们会失去兴趣而永远完成不了计划。向外转移他们的能量会使他们获得充分的实际知识以产生可行的、让别人能接受的想法。"
+msgstr ""
+
+#: templates/mbti/personalities/intp.html:47
+msgid "当INTP型的人努力维持自己高标准的完美时，他们有时会感到困扰。学会与别人分享感受会帮助他们获得更现实和客观的见解。"
+msgstr ""
+
+#: templates/mbti/personalities/intp.html:49
+msgid "大多数象你这样特点的人喜欢在技术领域工作，运用自己独特的能力来分析复杂的系统，形成富有创意的解决办法。例如：软件设计师、网络管理员、电脑工程师、系统分析人员、研究开发专业人员战略策划、金融规划师、电脑漫画设计者、分析人员等。"
+msgstr ""
+
+#: templates/mbti/personalities/intp.html:50
+msgid "医学和科技领域能够充分发挥你出色的推断能力，站在行业的前沿与复杂高深的概念打交道，并带有一定的风险性也是你在工作中要求的。例如：物理学家、美容师、药剂师、兽医、生物学家等。"
+msgstr ""
+
+#: templates/mbti/personalities/intp.html:51
+msgid "你具有清晰的、逻辑性较强的思维和创造才能，在那些用这些方式来解决问题的专业和商业性领域工作对你也很有吸引力。例如：律师、经济学者、心理学者、建筑师、金融分析者、商业分析、情报专家、口笔译人员等。"
+msgstr ""
+
+#: templates/mbti/personalities/intp.html:52
+msgid "那些给你提供可以创造出完全新奇的东西的领域，那些可以经历许多不同事情的领域也是你需要考虑的。例如：摄影师、作家、艺术家、发明家、天文工作者、制片人、音乐组织者、美编等。"
+msgstr ""
+
+#: templates/mbti/personalities/intp.html:53
+msgid "职业满足会使你的工作主动性更强，积极性更高，更愿意去工作。以下不是简单的告诉你什么样的工作适合你，而是细化的帮你分析工作中的哪些特质对你重要，你还需要从中选出你认为最重要的，因为不同经历的人对特质的重要程度要求是不同的。每个岗位的工作内容都在随企业的发展而发展，不是一成不变的，有时候岗位的发展方向需要我们自己去争取。所以找到适合的工作不如找到适合自己发展的岗位更直接。这些特质可以帮助明确如何主动的发展或争取你岗位中的那些特质。"
+msgstr ""
+
+#: templates/mbti/personalities/intp.html:55
+msgid "关于伴侣"
+msgstr ""
+
+#: templates/mbti/personalities/intp.html:56
+msgid "作为一个学者型，你对恋人而言很可能是一个谜。你可以以非常敏锐且理性的思维，和任何人周旋在智慧的逻辑循环中。"
+msgstr ""
+
+#: templates/mbti/personalities/intp.html:57
+msgid "学者型对笨蛋可是一点耐心也没有。你的情人必须反应灵敏、有智慧、同时可以跟得上你兴奋且快速的大量想法和计划。外貌虽然有影响，但是当你在选择一个一辈子的伴侣时，最重要的是考量对方的智力。"
+msgstr ""
+
+#: templates/mbti/personalities/intp.html:58
+msgid "虽然你一开始被某人吸引时，在情感上也许会短暂失控，但是你很快地就会调整回来，重新开始逻辑性地思考。不管你的伴侣是多么的好或多么的吸引人，在你付出爱情之前，他或她必须先满足你对逻辑性的要求。"
+msgstr ""
+
+#: templates/mbti/personalities/intp.html:59
+msgid "相当多的学者型并不关注他们的情感面，也不注意伴侣对情感的需求。同时，由于本身内向的个性，学者型也许不能适应社会礼仪，而造成很尴尬、很愚笨、甚至让他们较懂人情世故的伴侣在别人面前丢脸。"
+msgstr ""
+
+#: templates/mbti/personalities/intp.html:60
+msgid "学者型可以是可塑性很高且很好的伴侣，只要他们能努力改善自身的缺点，并且善于利用他们人格中的长处，也就是超强的想像力和温顺的性格，来加强他们的人际关系。当他们这样做的时候，学者型将可以享受非常成功的感情和婚姻关系。"
+msgstr ""
+
+#: templates/mbti/personalities/intp.html:61
+#: templates/mbti/personalities/isfp.html:48
+#: templates/mbti/personalities/istj.html:92
+msgid "关于爱情"
+msgstr ""
+
+#: templates/mbti/personalities/intp.html:62
+msgid ""
+"感情中的优点: "
+"对身边的人有孩子一般纯净的爱和关心、通常很放松并容易相处，愿意顺从同伴、对感兴趣的事情充满激情、充满想象力和创造力、不会将矛盾和批评看作对自己的攻击、通常无欲无求，只要满足日常所需即可"
+msgstr ""
+
+#: templates/mbti/personalities/intp.html:63
+msgid ""
+"感情中的弱点: "
+"天生不易顾及对他人的感受，对他人的情感需求反应迟钝、天生不善于表达他们自己的感受和情绪、倾向于缺少对他人的信任，总是持有怀疑态度、通常不擅长务实的事物，例如理财，除非他们的工作涉及这一领域、很难离开一段没有未来的感情、倾向于以逃避来避免矛盾争吵，或者走向另一极端——大发雷霆"
+msgstr ""
+
+#: templates/mbti/personalities/intp.html:65
+msgid "急切地想知道盒子外面的世界，能想出一些新的可能性；能够理解非常复杂和高度抽象的概念；杰出的创造性地解决问题的技能，具有探险精神、创造意识以及克服困难的勇气；独立自主，能一个人工作，并且全神贯注；能够综合考虑和运用大量的信息；搜集所需用信息时理智的好奇心、独特的洞悉力；即使在压力很大的情况下也能逻辑地分析事物；喜欢能够学到新知识、掌握新技能的环境，学习新知识的信心和动力都很大；客观性；能够客观地分析和处理问题，而不是感情用事；对自己的想法和观点充满信心；能够有远见的分析问题，能够把握事情的全局，弄清行为和思想的长远影响；能灵活地适应新情况，有熟练的随机应变的能力；有稳定平和的心态；有冲劲和闯劲，不患得患失"
+msgstr ""
+
+#: templates/mbti/personalities/intp.html:67
+msgid "办事情可能条理不清，容易发生紊乱、过于自信；可能会不恰当地运用自己的能力和社会经历；对思维狭窄和思想固执的人缺乏耐心；不喜欢按传统的、公式化的方式来办事；做事容易丧失兴趣，主要问题一旦解决，兴趣便不复存在，不能实施并贯彻到底；不擅长于把复杂的思想和问题用简明的形式表现出来，并用简单的形式将其解决；可能过于理论化，而忽视或无视现实性，某些观点的实施不现实；不能严格要求自己只考虑且解决重要的细节性问题；不喜欢重复地做同一件事，对琐碎的日常工作缺乏耐心；对程式化的事情和固执的人缺乏耐心；你们的思想、观点对别人来说过于复杂、难以理解；对别人的情感、批评和要求反映迟钝；斗志不足，容易松懈，通常不愿付出过多的努力；在压力和挫折面前不够坚持"
+msgstr ""
+
+#: templates/mbti/personalities/intp.html:69
+msgid "INFJ成功的秘诀就是：更加有条理，尝试坚持计划；对他人要有耐心；体会他人感受和反应，增进自己的人际交往"
+msgstr ""
+
+#: templates/mbti/personalities/intp.html:70
+msgid "工作可以去挑战复杂的问题，可以尝试一些别出心裁的方法，并为找到更好的结果去冒险"
+msgstr ""
+
+#: templates/mbti/personalities/intp.html:71
+msgid "工作可以不断提高自己的能力和权力，与那些有才华的人们一起工作"
+msgstr ""
+
+#: templates/mbti/personalities/intp.html:72
+msgid "让你把精力投入到有创造性的、富于理论逻辑的过程，而不是最后的结果"
+msgstr ""
+
+#: templates/mbti/personalities/intp.html:73
+msgid "不需要花时间组织或管理其他人，调节人际关系"
+msgstr ""
+
+#: templates/mbti/personalities/intp.html:74
+msgid "工作环境灵活宽松，没有过多的限制、规则和烦琐的会议"
+msgstr ""
+
+#: templates/mbti/personalities/intp.html:75
+msgid "独立工作，需要有大量的不受打扰的时间，有较多的深入需要深入思考的事情"
+msgstr ""
+
+#: templates/mbti/personalities/isfj.html:5
+msgid "照顾者（保护者）型人格"
+msgstr ""
+
+#: templates/mbti/personalities/isfj.html:9
+msgid "ISFJ照顾者（保护者）型，作为一个ISFJ，你的首要生活模式注重内省，通过五感来直观具体地认识事物。你的次级生活模式是外向的，在这种模式中，你通过自己对事物的感觉或者它们是否符合你的价值体系来处理问题。天性热情、友好且认同他人，但对于自己的需求不够重视。"
+msgstr ""
+
+#: templates/mbti/personalities/isfj.html:11
+msgid "ISFJ所生活的世界实在而平和。他们非常热情亲切，总是愿意相信别人好的方面。他们重视和谐与合作，对他人的感受通常也会十分敏感。人们尊重ISFJ，不仅因为他们考虑周到、观察仔细，还因为他们总是能通过自己对别人良好的愿景来挖掘他人的潜力。"
+msgstr ""
+
+#: templates/mbti/personalities/isfj.html:12
+msgid "ISFJ的内心世界十分丰富，而旁人常常难以觉察到这一点。ISFJ们会不断吸收那些对自己来说重要的他人和情境的信息，并将这些信息储藏起来。由于ISFJ对于对自己的价值体系有重要意义的信息往往都有着极为出众的记忆能力，因此他们所储备的这些丰沛的信息常常极为准确。只要ISFJ为某个情境所动，他们就非常有可能在事情发生的数年之后还能记得当时的一个表情或一段谈话的细节，这种现象根本不足为奇。"
+msgstr ""
+
+#: templates/mbti/personalities/isfj.html:13
+msgid "ISFJ们对于事物有自己清楚的认识，这是他们不断努力获得的能力。他们重视安全感和友善的感觉，尊重传统及法律。他们相信现存的体系，认为它们之所以存在是因为能够正常运转。因此，他们不会尝试用新的方法来解决问题，除非让他们明确地看出其相对于旧方法的优势所在。"
+msgstr ""
+
+#: templates/mbti/personalities/isfj.html:14
+msgid "ISFJ学习的最佳途径就是实践，而非照本宣科或引用理论。正因为这样，在那些注重概念分析或理论的领域很难看见ISFJ的身影。他们重视实际应用。传统的高等教育由于需要和大量理论化及抽象化的内容打交道，因此对ISFJ来说是很是麻烦。如果ISFJ了解所做任务的实践应用，他们就能很快掌握。此外，一旦他们掌握如何工作，并理解其在实践方面的重要性，ISFJ就会忠实且不知疲倦地从一而终。ISFJ类人群是极端可靠的。"
+msgstr ""
+
+#: templates/mbti/personalities/isfj.html:15
+msgid "ISFJ有着极为成熟的空间感、功能感及美感。由此，他们的家居布置往往漂亮且实用。他们特别擅长内部设计装潢。ISFJ的这种特殊的能力，加上对别人的感受和愿望敏锐洞察力，让他们成为绝佳的“送礼者”——总能找到让别人爱不释手的物品。"
+msgstr ""
+
+#: templates/mbti/personalities/isfj.html:16
+msgid "相较之其他性格类型，ISFJ对于自身以及他人的内在感受极为敏感。他们通常不轻易流露自己的情感，而是将它们留在自己心里。因此一旦产生任何负面情感，这些情绪就可能在ISFJ体内慢慢滋长，并逐渐形成对他人固执的批判观念。而且，这些观念一旦形成就很难消减。许多ISFJ都学着表达自己，并为自己寻找发泄情绪的方式。"
+msgstr ""
+
+#: templates/mbti/personalities/isfj.html:17
+msgid "正如ISFJ不大会表达出自己的感受一样，对于他人的感受，即使了解，他们也往往采取闭口不提的态度。然而，当他们觉得别人真的需要帮助时，就会毫无保留地说出来。在这种情况下，ISFJ能够真正地帮助其他人认识到自己的感情。"
+msgstr ""
+
+#: templates/mbti/personalities/isfj.html:18
+msgid "ISFJ拥有强烈的责任感和使命感。他们对待自己的责任认真严肃，而且绝对会从一而终。正是出于这种原因，人们总会信任依赖于他们。每当别人要求他们做某事时，ISFJ很难拒绝对方，并可能因此而让自己负担过重。在这种情况下，ISFJ通常不会向别人表达自己的难处，不仅仅是因为他们强烈厌恶矛盾冲突，还因为他们总将他人的需要置于自己的需要之上。如果ISFJ希望避免过度劳作，或者不希望自己的劳作被别人认为是理所当然的话，就要学会认清、重视并表达自己自身的需要。"
+msgstr ""
+
+#: templates/mbti/personalities/isfj.html:19
+msgid "ISFJ们需要从他人那里得到正面的回馈。当缺少正面回馈，或者面对批评时，ISFJ会显得消沉，甚至可能会变得郁郁寡欢。当他们意志消沉或承受巨大压力之时，ISFJ就开始设想那些生活中可能会出现的致命错误。他们会强烈感到自己无能，并确信“一切都出错了”，或者“我什么也做不好”。"
+msgstr ""
+
+#: templates/mbti/personalities/isfj.html:20
+msgid "ISFJ热情、慷慨且值得依赖。他们拥有许多特殊的天赋，包括对他人的感知力以及保持事情正常运转的不凡能力。他们需要记住，不要对他人过分的挑剔；在无私地给予他人温暖和爱心的同时，记住要给自己也留一些。"
+msgstr ""
+
+#: templates/mbti/personalities/isfj.html:21
+#, python-format
+msgid "保护者最大的愿望是对他人有用并能够照顾他人，就是保护别人，使之远离生活中的缺陷和危险，即负责他人的安全，他们在这个过程中得到无限的满足。温和而有益的给人以安慰、默默的留意着安排适当的照管措施，用以保护那些对此有需要的人们的健康和福利。他们友善或重情意，所以更倾向于保管者的角色，并且，宁静斟酌的特点决定了他们似乎更于保护者而非供应者。他们占总人口的10%%，是件好事。因为他们在保护他人的过程中时刻保持着警觉状态，并严守诺言来履行保护家人、朋友、同事的义务。他们乐于帮助受压迫的人，比其他人对残疾人和贫穷者更好。"
+msgstr ""
+
+#: templates/mbti/personalities/isfj.html:22
+msgid "他们谨慎、不固定的从事其照顾工作，因此他们的努力有时并未被人意识到。他们不健谈，但，他们仍可能不知道疲倦的与人闲聊，只要谈论的话题和他们生活中的细节相关即可。可是他们在陌生人面前的羞怯表现往往被误认为是呆板，甚至是冷漠，而这些保护者实际上具有古道热肠，乐于无私的帮助有困难的人。不过，当人们在他们的帮助下脱离困境时，他们反而失去了兴趣。"
+msgstr ""
+
+#: templates/mbti/personalities/isfj.html:23
+msgid "他们的矜持应该被看做是一种表情，不是冷漠，而是真挚、严肃意识的表现。他们觉得，工作是有益的并需要去赢得。他们情愿工作很长很长时间，做别人不屑于作的零活。做事彻底和节省是他们的美德之一，一旦承担了某项工作，他们就会尽力完成。他们非常喜欢独立工作，实际上，当被置于某种权力地位时，他们甚至会觉得不自在。或许是愿意自己作每件事，而不是指挥别人去作吧。"
+msgstr ""
+
+#: templates/mbti/personalities/isfj.html:24
+msgid "因此，他们经常操劳过度，就像他们常常被误解一样，他们的贡献，常常被视作理所当然而得不到相应的感谢。这可能使他们产生愤慨的感觉，而且他们将这种情感尘封起来，忍受内心的苦恼，从而导致许多不必要的痛苦。"
+msgstr ""
+
+#: templates/mbti/personalities/isfj.html:25
+msgid "他们在工作中可以信赖，但在得不到尊重的情况下会显得很不快乐。如果有人违背规则，他们会变得悲哀和局促不安，尽管他们表现不出来，但这种痛楚可能郁结在心中，表现出疲惫和慢性胃功能紊乱。"
+msgstr ""
+
+#: templates/mbti/personalities/isfj.html:26
+msgid "适合的工作"
+msgstr ""
+
+#: templates/mbti/personalities/isfj.html:27
+msgid "监护人、私人秘书、图书馆管理员、中层管理者、私人医生、护士、保险代理人。"
+msgstr ""
+
+#: templates/mbti/personalities/isfj.html:28
+msgid "适合的伴侣：创业者"
+msgstr ""
+
+#: templates/mbti/personalities/isfj.html:29
+msgid "易于感到彼此很合适。创业者外向、坚强，往往得意于事业的高峰；而喜好隐居的、友善的保护者，为他们提供了一个安静的庇护所。"
+msgstr ""
+
+#: templates/mbti/personalities/isfj.html:31
+msgid "专心于伴侣和家庭，通常是极好的操持家务者。女性往往显现出对屋内布置的才能，并尽心尽力的履行主妇的责任；男性，管理资金和家里出现的一些小问题。作为父母，他们温和的对待孩子，并认为自己有责任促使孩子们遵守社会规范，让孩子们远离诡诈和危险。其实，保护者的父母，更应该懂得鼓励孩子的独立性。"
+msgstr ""
+
+#: templates/mbti/personalities/isfj.html:33
+msgid "否则提供适当的安全保障以及观察预防性措施的执行情况，都是为了保护他们所关心人员和财产安全。他们天生的谨慎和注重安全感，但没有谁能像他们给人安全感和承诺。安全是他们做事的最先考虑，领导者需要特别小心的感激这类人。管理者的角色在这类人的身上，通常表现得略微弱些，他们从事这些的机会也较少，也是注重实践，不重视效果。"
+msgstr ""
+
+#: templates/mbti/personalities/isfj.html:35
+msgid "主导：内向实感 · 次要：外向情感 · 辅助：内向思考 · 低级：外向直觉"
+msgstr ""
+
+#: templates/mbti/personalities/isfj.html:36
+msgid "ISFJ们对于人际关系极为重视，他们通常慷慨宽容、钟情且忠实，并会将他人的需要置于自己的需要之上。一些情况下，他们会有极大的情感上的需要，然而他们会自己的真实感受在别人面前隐藏起来。他们对于自己的承诺十分认真，寻求能够维系终生的情感。ISFJ非常可靠，他们会投入大量的精力为了使事情顺利进行。每当别人要求他们做某事时，ISFJ很难拒绝对方，也正因为如此，他们的努力常常被认为是理所当然的。"
+msgstr ""
+
+#: templates/mbti/personalities/isfj.html:37
+msgid "优点"
+msgstr ""
+
+#: templates/mbti/personalities/isfj.html:38
+msgid "天性热情、友好且认同他人"
+msgstr ""
+
+#: templates/mbti/personalities/isfj.html:39
+msgid "服务他人为主，希望取悦他人"
+msgstr ""
+
+#: templates/mbti/personalities/isfj.html:40
+msgid "会花大量的精力来实现自己的责任和义务"
+msgstr ""
+
+#: templates/mbti/personalities/isfj.html:41
+msgid "优秀的组织能力"
+msgstr ""
+
+#: templates/mbti/personalities/isfj.html:42
+msgid "对于自己的承诺十分认真，寻求能够相伴一生的伴侣"
+msgstr ""
+
+#: templates/mbti/personalities/isfj.html:43
+msgid "缺点"
+msgstr ""
+
+#: templates/mbti/personalities/isfj.html:44
+msgid "对于自己的需求不够重视"
+msgstr ""
+
+#: templates/mbti/personalities/isfj.html:45
+msgid "在接触新鲜事物时有一定的困难"
+msgstr ""
+
+#: templates/mbti/personalities/isfj.html:46
+msgid "极度厌恶冲突矛盾及批评"
+msgstr ""
+
+#: templates/mbti/personalities/isfj.html:47
+msgid "通常隐藏自己的需求，这可能会造成内心情感压抑导致挫败感"
+msgstr ""
+
+#: templates/mbti/personalities/isfj.html:48
+msgid "不擅结束一段不良的情感"
+msgstr ""
+
+#: templates/mbti/personalities/isfj.html:49
+msgid "很难走出一段失败感情的阴影"
+msgstr ""
+
+#: templates/mbti/personalities/isfj.html:50
+msgid "爱情观"
+msgstr ""
+
+#: templates/mbti/personalities/isfj.html:51
+msgid "ISFJ们对于感情十分投入。他们有着十分强烈的感情，但对这一点其它人往往一时难以察觉，除非有什么强烈的理由迫使他们一定要表达出来。正因为他们所拥有的强烈的感情，ISFJ会非常重视自己的婚恋关系（例外情况：当他们信仰上帝或其他宗教）。他们一生只希望能寻觅到一个配偶，一段终生的承诺。一旦ISFJ做出自己的承诺，就一定会对自己的伴侣专一不二。"
+msgstr ""
+
+#: templates/mbti/personalities/isfj.html:52
+msgid "ISFJ们很难让自己离开一段不好的感情，或者接受感情已经结束的事实。他们可能会将所有的罪责都揽到自己身上，还会想自己本应该做些什么让感情不至于结束。一旦他们觉得自己对失败的感情已尽到了一切责任和义务，就会完全受挫，难以接受失败的事实。他们是用情极度认真且专一的爱人，极有可能对自己故去的伴侣留存一种至死不渝的爱。"
+msgstr ""
+
+#: templates/mbti/personalities/isfj.html:53
+msgid "ISFJ通常非常无私，并总会将他人的需求至于自身需求之前。因此一旦他们被人利用，而且无法发泄自己强烈感情的时候，就非常有可能适得其反。在这种情况下，ISFJ内心的情感会一拥而上，由此对他人产生强烈的憎恶情绪。ISFJ们应该努力认清自己的需求，努力满足它们，而不应该总将别人的需求放在第一位。说到底，如果你连自己都照顾不好，你又怎么能照顾别人呢？"
+msgstr ""
+
+#: templates/mbti/personalities/isfj.html:54
+msgid "在性方面，ISFJ将性爱视为加强双方感情的有形方式。他们也会将其视为是一种职责，因此比起获取自身的满足感，他们更愿意先满足自己的爱人。虽然ISFJ在对爱意的言语表达上不是那么在行，但是他们通常会用自己的行动表明一切，并非常重视爱人对自己肯定的回应。"
+msgstr ""
+
+#: templates/mbti/personalities/isfj.html:55
+msgid "ISFJ热情而无私。对自己认定的职责，他们会花大量时间和精力来完成。当他人对ISFJ表现出感激之情时，他们会感到最大的满足。因此对ISFJ来说，爱人爱与感激的表达是对他们最好的礼物。"
+msgstr ""
+
+#: templates/mbti/personalities/isfj.html:56
+msgid "ISFJ们难以应对冲突和矛盾，通常情况下，他们宁可选择视若罔闻的方式来逃避这种情境。有些时候，直面冲突能够帮助我们更好地解决它。ISFJ应该意识到，直面冲突并表达自己的感受并不代表世界末日的来临。冲突并不一定是需要避免的“问题”，而且造成冲突的原因也不一定是ISFJ。ISFJ人群的一个通病就是避免表达自己的情感，直到达到自己忍受的极限。而一旦情绪爆发，他们会极端愤怒并说出让自己之后后悔的激烈言辞。其实，只要能够定期表达自己的情感，这种爆发是完全可以控制的。"
+msgstr ""
+
+#: templates/mbti/personalities/isfj.html:57
+msgid "总体而言，ISFJ传统而且顾家，他们将伴侣和家人的快乐视为自己生命中最重要的事情。ISFJ善于满足他人的日常所需，他们在关爱他人方面表现出的深度是十分罕见的，且是无法在大多其他性格类型身上找到的。他们会为感情的健康发展倾注大量的精力，并会尽自己全力来确保事情进展顺利。ISFJ绝对是可靠且充满爱情的爱人。"
+msgstr ""
+
+#: templates/mbti/personalities/isfj.html:58
+msgid "两个性格发展完整的个体固然可以拥有一段健康的恋情，但是ISFJ的最佳选择是ESTP或者ESFP。ISFJ的主导官能内向感知与主导官能是外向感知的另一半形成了完美的互补。虽然说任何性格类型的两个个体，只要性格发展完整都可以拥有一段健康的恋情。但是，与ISFJ更合适的天生伴侣为ESTP、ESFJ或ESFP型性格。ISFJ的主导官能为“内向实感”与这两种性格类型的主导官能“外向实感”最为匹配。"
+msgstr ""
+
+#: templates/mbti/personalities/isfj.html:59
+msgid "心理特点"
+msgstr ""
+
+#: templates/mbti/personalities/isfj.html:60
+msgid "收集储备有大而广的跟人有关的信息，对于重要的细节有着极强的记忆能力，对于周围事物观察细致——有着极佳的空间感和功能感，能够依靠他们来从头到尾完成事情，能够长时间的努力工作直到任务完成，实际稳重、脚踏实地——他们不喜欢跟理论及抽象思维打交道，重视安全、传统和平静的生活，以服务他人为生活重心，关注他人的需求，将他人的需求先于自己的来考虑，在实践中能够得到最佳的学习效果，认真严肃地对待自己的责任，在冲突和对峙情境中表现出极度不适。"
+msgstr ""
+
+#: templates/mbti/personalities/isfj.html:61
+msgid "ISFJ有两个基本的性格特质能够帮助他们认清自己的从业方向："
+msgstr ""
+
+#: templates/mbti/personalities/isfj.html:62
+msgid "1）对于其他人的感受十分感兴趣并有着极强的观察力"
+msgstr ""
+
+#: templates/mbti/personalities/isfj.html:63
+msgid "2）喜欢创造架构和秩序且擅长于此。理想情况下，ISFJ选择的职业应该选择能够发挥自己不凡的察言观色能力发掘他人所需，并能用自己绝佳的组织能力来创造有结构性计划或环境满足他人所需。他们绝佳的空间感和功能感，结合上它们对美的认识，也能够让他们在应用性的艺术工作中大展拳脚，比如内部装潢或服装设计。"
+msgstr ""
+
+#: templates/mbti/personalities/isfj.html:65
+msgid "CEO、创业、IT、室内装潢设计师、设计师、护士、主管及经理、行政助理、幼师/早教师、社工/咨询师、律师助理、神职人员/宗教工作者、办公室经理、零售商人、档案管理员、家政人员"
+msgstr ""
+
+#: templates/mbti/personalities/isfj.html:66
+msgid "不论你是正在寻找自己在世界中的位置的青年，抑或不再年轻且想要设法知道自己是否在正确的轨道上前行，你都必须认识你自己，并了解自己的性格特征。这些内在元素会对你在职业生涯中的成败起着决定性的作用。此外，了解什么才是对你最重要的，了解自己的长处和短处，并意识到了自己真正喜欢什么，那么你就拥有了足够的能力来找到适合你的职业之路了。"
+msgstr ""
+
+#: templates/mbti/personalities/isfj.html:67
+msgid "如何与ISFJ型的人相处"
+msgstr ""
+
+#: templates/mbti/personalities/isfj.html:68
+msgid "ISFJ型的人生活在完全现实的生活中，他们很难全面地观察问题，也很难预见情形的可能性结果，尤其是当他们不熟悉情形之时。他们需要看得更远些，想象如果以不同方式做事可能会产生怎样的后果。"
+msgstr ""
+
+#: templates/mbti/personalities/isfj.html:69
+msgid ""
+"ISFJ "
+"型的人为了自己和那些对其应负责的人，每天陷入了劳累和无终止的劳作中。他们常常过多地工作，亲自去做某件事以确保能够一丝不苟地完成。因为他们天生并不是过分自信或意志坚强，所以他们有被别人利用的危险。他们必须表达不断被各种事物缠绕的怨恨之情，所以他们没有发现自己已成为一种帮助的角色。而且他们还必须让其他人知道他们的需求和成就。"
+msgstr ""
+
+#: templates/mbti/personalities/isfj.html:70
+msgid "ISFJ型的人经常需要额外的时间以掌握技术性的内容。他们往往过多地计划，所以必须制定有助于重新调整他们那耗费过多、令人担心的精力的计划。ISFJ型的人必须寻找能够得到他们应得的、更多的快乐和放松的方法。"
+msgstr ""
+
+#: templates/mbti/personalities/isfp.html:5
+msgid "艺术家型人格"
+msgstr ""
+
+#: templates/mbti/personalities/isfp.html:9
+msgid ""
+"国际最为流行的职业人格评估工具MBTI分析中，16种人格类型中的一种，ISFP为艺术家型人格， "
+"具有以下特征：1.羞怯的、安宁和善地、敏感的、亲切的、且行事谦虚。2.喜于避开争论，不对他人强加已见或价值观。3.无意于领导却常是忠诚的追随者。4.办事不急躁，安于现状无意于以过度的急切或努力破坏现况，且非成果导向。5.喜欢有自由的空间及照自订的时程办事。"
+msgstr ""
+
+#: templates/mbti/personalities/isfp.html:11
+msgid "友好谦逊，感情投入；关心熟人，并能真挚的对待；对批评很敏感，容易受伤；温柔文静，谈吐文雅；很现实，但平易近人沉静，友善，敏感和仁慈。欣赏目前和他们周遭所发生的事情。喜欢有自己的空间，做事又能把握自己的时间。忠于自己的价值观，忠于自己所重视的人。不喜欢争论和冲突，不会强迫别人接受自己的意见或价值观。"
+msgstr ""
+
+#: templates/mbti/personalities/isfp.html:12
+msgid "ISFP型的人平和、敏感，他们保持着许多强烈的个人理想和自己的价值观。他们更多地是通过行为而不是言辞表达自己深沉的情感。"
+msgstr ""
+
+#: templates/mbti/personalities/isfp.html:13
+msgid "ISFP型的人谦虚而缄默，但实际上他们是具有巨大的友爱和热情之人，但是除了与他们相知和信赖的人在一起外，他们不经常表现出自我的另一面。因为ISFP型的人不喜欢直接地自我表达，所以常常被误解。"
+msgstr ""
+
+#: templates/mbti/personalities/isfp.html:14
+msgid "ISFP型的人耐心、灵活，很容易与他人相处，很少支配或控制别人。他们很客观，以一种相当实事求是的方式接受他人的行为。他们善于观察周围的人和物，却不寻求发现动机和含义。"
+msgstr ""
+
+#: templates/mbti/personalities/isfp.html:16
+msgid "因为ISFP型的人完全生活在目前之中，所以他们的准备或计划往往不会多于必需，他们是很好的短期计划制定者。因为他们完全投入于现在，喜欢享受目前的经历，而不继续向下一个目标冲刺，所以他们对完成工作感到很放松。"
+msgstr ""
+
+#: templates/mbti/personalities/isfp.html:17
+msgid "他们对于从经历中直接了解和感受的东西很感兴趣，常常富有艺术天赋和审美感，力求为自己创造一个美丽而隐蔽的环境。"
+msgstr ""
+
+#: templates/mbti/personalities/isfp.html:18
+msgid "没有想要成为领导者，ISFP型的人经常是忠诚的追随者和团体成员。因为他们利用个人的价值标准去判断生活中的每一件事，所以他们喜欢那些花费时间去认识他们和理解他们内心的忠诚之人。他们需要最基本的信任和理解，在生活中需要和睦的人际关系，对于冲突和分歧则很敏感。"
+msgstr ""
+
+#: templates/mbti/personalities/isfp.html:19
+msgid ""
+"对ISFP 类型的人来说，最重要的是能与周围的人和睦共处，与周围环境和谐发展。ISFP 人是最早领略到各种盛景的人。许多人迫不及待的追逐时尚 "
+"，体验前卫，紧随潮流------ 有些甚至创造潮流。"
+msgstr ""
+
+#: templates/mbti/personalities/isfp.html:20
+msgid ""
+"ISFP 人的生活着眼于眼前。他们渴求自由，当不受约束时他们显得很松散。那些一直压抑着这种情绪的ISFP人 "
+"，他们的内心会感到很郁闷，最终可能会强烈地宣泄出来。"
+msgstr ""
+
+#: templates/mbti/personalities/isfp.html:21
+msgid ""
+"初次见面时，ISFP "
+"人可能很讨人喜欢，很会逢迎人，他们会说一些事实或并非事实的恭维话。可等下一次见面时，同样一个人，可能就会显得很冷淡。一些ISFP "
+"类型的男性非常具有竞争力，尤其在运动或桌球上，要让他们输上一局可能会很难。这种在其他SP "
+"类型人中也有的本性----竞争性，使他们认为自己是幸运的，并勇于冒险。"
+msgstr ""
+
+#: templates/mbti/personalities/isfp.html:22
+msgid ""
+"ISFP 人 和INFP 人一样会经常感到困惑 ，但INFP 人比ISFP "
+"人更会幻想，他们对诗歌、散文和哲学有更多的追求；而ISFP人一般不愿在这些方面写书立著，甚至谈及，他们愿实实在在得生活。"
+msgstr ""
+
+#: templates/mbti/personalities/isfp.html:24
+msgid "注重组织成员的需要和要求；采取行动以确保他人的适意感；在工作中注入轻松愉快；借助其合作的天性把人和事组织在一切；关注组织中人的因素。"
+msgstr ""
+
+#: templates/mbti/personalities/isfp.html:26
+msgid "喜欢采用合作的团队方式；运用相互间的情感交流作为激励他人的手段；更倾向于赞扬而非批评；凭借对他人的良好意愿，温和地说服他人；能应付情境并适应情境的要求。"
+msgstr ""
+
+#: templates/mbti/personalities/isfp.html:27
+#: templates/mbti/personalities/istj.html:85
+msgid "潜在缺陷"
+msgstr ""
+
+#: templates/mbti/personalities/isfp.html:28
+msgid "过于轻信别人并容易上当；即使在必要时也不批评他人，而只是过分地责难自己；没有看到现实背后的东西，全方位地审时度势；太容易受伤害和退缩。"
+msgstr ""
+
+#: templates/mbti/personalities/isfp.html:29
+msgid "适合的工作环境"
+msgstr ""
+
+#: templates/mbti/personalities/isfp.html:30
+msgid "需要默默地积极工作的合作的同事；照顾个人的隐私空间；有礼貌的同事；人员导向。"
+msgstr ""
+
+#: templates/mbti/personalities/isfp.html:32
+msgid "高度的敏感天性使ISFP型的人清楚地了解别人的需求，他们有时过度地工作以满足那些需求，以致于在这一过程中忽略了自我。他们必须更多地关心自己而不是别人。"
+msgstr ""
+
+#: templates/mbti/personalities/isfp.html:33
+msgid "因为他们完全把注意力集中于现在他们的经历，所以往往无法看得更远，从而丧失了更广泛的视野。有时他们很难理解一个较为复杂的环境事务。因为他们通常不会寻找或观察在目前不存在的可能发生的事物，所以他们往往不会事先准备，也很难有条理地安排时间和资财。他们本来是应该努力工作以约束自己的冲动，从而完成任务和享受——段安静时光，或是参加一项自己喜欢的活动。"
+msgstr ""
+
+#: templates/mbti/personalities/isfp.html:34
+msgid "ISFP型的人往往做个人的反省，然后变得很生气和失望，所以说他们是很容易受别人影响的。由于他们总是按人和事物所呈现的表象来认识他们，却从来不会预想其中的不良动机或从中推断出其他的内容，所以人们常认为他们过于信任他人，很容易上当受骗。他们必须对自己的需求更加关心，进一步考虑他人行为的含义。对自己的分析更多地具有怀疑精神和客观性，会使他们的判断力更出色。"
+msgstr ""
+
+#: templates/mbti/personalities/isfp.html:36
+msgid "工艺部门"
+msgstr ""
+
+#: templates/mbti/personalities/isfp.html:36
+msgid "时装设计、木匠、珠宝商、园艺匠、织毯工人、陶工、漆匠、舞蹈员、内容/背景设计人员、厨师长"
+msgstr ""
+
+#: templates/mbti/personalities/isfp.html:37
+msgid "这些职业对ISFP型的人主要吸引力在于它们能提供用他们的双手创造外观以吸引人，更多的是有用在实际工作中，他们喜欢运用五种感觉，从事实际的工作。那些职业为，ISFP型的人提供了灵活的时间和自由安排工作的机会。大多数ISFP型的人喜欢自主，不必遵守管理规则。"
+msgstr ""
+
+#: templates/mbti/personalities/isfp.html:38
+msgid "健康护理部门"
+msgstr ""
+
+#: templates/mbti/personalities/isfp.html:38
+msgid "上门服务护士、运动专家、按摩医生、放射技师、医务助理、牙科助理/保健医师、兽医助理、动物护理人员/训练人员、家庭保健助理、初级保健大夫、饮食专家/营养学家、验光师/配镜师、运动心理专家、职业疗法医师、工艺师、药剂师、呼吸系统专家、执职行医护士"
+msgstr ""
+
+#: templates/mbti/personalities/isfp.html:39
+msgid "ISFP型的人常可以从健康护理业中获得满足感，尤其是那些能让他们直接同用户和患者打交道的工作。他们喜欢许多治疗工作的亲手参与的特征——在危机中或危机后，从身体到感情上帮助他人。他们通常善于观察，能对微小变化做出反应，喜欢解决短期问题。对于ISFP型的人而言，从这些职业以及其它任何职业获得满足感的最重要成分是能看到或体验对他们成就的反馈以及能意识到他们工作的重要性。"
+msgstr ""
+
+#: templates/mbti/personalities/isfp.html:40
+msgid "技术工作"
+msgstr ""
+
+#: templates/mbti/personalities/isfp.html:40
+msgid "调查员、计算机操作人员、林务员、植物学家、地质学家、技师、海洋生物学家"
+msgstr ""
+
+#: templates/mbti/personalities/isfp.html:41
+msgid "ISFP型的人喜欢实际工作，不喜欢理论工作。他们倾向于喜欢运用实际的积极的技术，户外工作的机会尤其为ISFP型的人喜欢，他们对工作中的变化和种类表现出极大的兴趣。"
+msgstr ""
+
+#: templates/mbti/personalities/isfp.html:42
+msgid "销售/服务业"
+msgstr ""
+
+#: templates/mbti/personalities/isfp.html:42
+msgid "教师：初级(自然科学/艺术)、警察/劳改官员、紧急热线电话操作员、清洁服务人员、仓库保管员、侍者、美容师、旅行用品推销、优质用户销售代表、商业计划人员、体育设备推销、家用保健品推销、家庭保健护理人员、儿童福利咨询人员、戒酒戒毒顾问、社会工作人员(老人、儿童日常护理问题)"
+msgstr ""
+
+#: templates/mbti/personalities/isfp.html:43
+msgid "许多ISFP型的人在服务部门找到了让他们满意的工作。让他们从事满足人或动物的需要的工作最值得干。他们喜欢能分享他们价值观，培养和鼓励人际和谐、合作，以及能认可他们的成绩的工作环境。许多ISFP型的人喜欢处在特定的主观环境，通常和小孩在一起，在这种环境中，他们有机会表露自然性和乐趣。"
+msgstr ""
+
+#: templates/mbti/personalities/isfp.html:44
+msgid "记帐员、司法员、打字员、职员监督人员、经理人员、律师帮办"
+msgstr ""
+
+#: templates/mbti/personalities/isfp.html:45
+msgid "职员工作，如果是处于一种适合的环境，也能给ISFP型的人提供满足。关键因素是在一种积极支持的气氛中运用他们实际技能的能力。当作为小组一部分而工作，或处于一种能尊重个人隐私和成长的稳定环境中时，ISFP型的人工作总很出色。他们喜欢能让他们创造和保持愉快的、个性化的工作环境的职业部门。"
+msgstr ""
+
+#: templates/mbti/personalities/isfp.html:47
+msgid "学会声明自己的主张；脚踏实地，在更广阔的背景下考虑问题；不要太个人化地看待事物。需要发展怀疑和分析信息的方法，而不是一味接受；需要学会在他人自鸣得意时作出否定性反馈；需要发展一个更加未来导向的前景；需要更果敢和更直接地对待他人。"
+msgstr ""
+
+#: templates/mbti/personalities/isfp.html:49
+msgid "你是天生的芳香剂，善于安抚别人，带给别人快乐，教导另一半如何欣赏大自然和一切的生命。但是，在为其他人带来快乐的同时，你也很容易感到悲伤。"
+msgstr ""
+
+#: templates/mbti/personalities/isfp.html:50
+msgid "恋爱对你而言，是一种“要不就是拥有全世界，要不就一无所有”的经验。由于你倾向于把自己封闭在你的小世界里，以执著的心去感受爱情，所以也有可能因为爱情而受伤害。"
+msgstr ""
+
+#: templates/mbti/personalities/isfp.html:51
+msgid "为了取悦你的爱人及维系这段感情，你有可能会做出生活中的改变，比如搬家、换工作或是向你的老朋友道再见。"
+msgstr ""
+
+#: templates/mbti/personalities/isfp.html:52
+msgid "如果你的爱人刚好是那种没有回应且要求很多的人，你可能会受到他的责难和命令，因为你会为了爱情做任何事情。"
+msgstr ""
+
+#: templates/mbti/personalities/isfp.html:53
+msgid "作为一个艺术家型，奉献和柔顺是你带给一段感情最重要的两个特质。你真心且几近天真地表达爱意，会让那个真正适合的情人(和你自己)非常快乐。"
+msgstr ""
+
+#: templates/mbti/personalities/isfp.html:54
+msgid "但必须确定你选择了一个相配的伴侣，因为一旦陷入爱情，你就等于坐上了一列几乎停不下来的过山车。"
+msgstr ""
+
+#: templates/mbti/personalities/istj.html:5
+msgid "公务员型人格"
+msgstr ""
+
+#: templates/mbti/personalities/istj.html:9
+msgid ""
+"ISTJ（内倾、感觉、思维和判断）ISTJ型的人是严肃的、有责任心的和通情达理的社会坚定分子。他们值得信赖，他们重视承诺，对他们来说，言语就是庄严的宣誓。"
+" "
+"ISTJ型的人工作缜密，讲求实际，很有头脑也很现实。他们具有很强的集中力、条理性和准确性。无论他们做什么，都相当有条理和可靠。他们具有坚定不移、深思熟虑的思想，一旦他们着手自己相信是最好的行动方法时，就很难转变或变得沮丧。"
+msgstr ""
+
+#: templates/mbti/personalities/istj.html:11
+msgid "ISTJ型的人特别安静和勤奋，对于细节有很强的记忆和判断。他们能够引证准确的事实支持自己的观点，把过去的经历运用到现在的决策中。他们重视和利用符合逻辑、客观的分析，以坚持不懈的态度准时地完成工作，并且总是安排有序，很有条理。他们重视必要的理论体系和传统惯例，对于那些不是如此做事的人则很不耐烦。"
+msgstr ""
+
+#: templates/mbti/personalities/istj.html:12
+msgid "ISTJ型的人总是很传统、谨小慎微。他们聆听和喜欢确实、清晰地陈述事物。ISTJ型的人天生不喜欢显露，即使危机之时，也显得很平静。他们总是显得责无旁贷、坚定不变，但是在他们冷静的外表之下，也许有强烈却很少表露的反应。"
+msgstr ""
+
+#: templates/mbti/personalities/istj.html:13
+msgid "功能运用"
+msgstr ""
+
+#: templates/mbti/personalities/istj.html:14
+msgid "外向与内向是指我们心理能量的作用方向，判断与知觉是我们做事的两种方式。心理学称之为“态度”。感觉与直觉是我们获取信息的方式，思考和情感是做决定的方式，心理学称之为“功能”，功能是人格理论的精髓、核心。"
+msgstr ""
+
+#: templates/mbti/personalities/istj.html:15
+msgid "每一个人在都会用到四种功能，但对功能应用的喜好程度不一样。等级中第一位的称为“主导功能”，第二位的称为“辅助功能”。每个人都需要运用到这两个过程。"
+msgstr ""
+
+#: templates/mbti/personalities/istj.html:16
+msgid "有效地使用你的类型：ISTJ型的人主导功能是（关注细节），辅助功能是思维。他们倾向于：注意细节、重视实际、能记住琐碎细节、耐得住烦闷的工作、有耐性、细心有系统。"
+msgstr ""
+
+#: templates/mbti/personalities/istj.html:17
+msgid "合乎逻辑擅于分析、客观、公正、有逻辑系统的思考、具拟判能力、坚定。"
+msgstr ""
+
+#: templates/mbti/personalities/istj.html:18
+msgid "ISTJ型的人比较少地使用他们的第三、第四功能—情感和直觉。即使在需要这些功能的场合，他们仍然无法有效使用。"
+msgstr ""
+
+#: templates/mbti/personalities/istj.html:19
+msgid "作为一个ISTJ型的人：如果你过多的使用感觉功能，你可能失去整体的概念、想不出各种可能解决的途径、不住直觉、不求创新、无法应付太复杂的工作、不喜欢预测未来。如果你过多的使用思考功能，你可能在需要的时间忘记去称赞他人，或忽视你决策对其它人的影响。"
+msgstr ""
+
+#: templates/mbti/personalities/istj.html:20
+msgid "问题解决"
+msgstr ""
+
+#: templates/mbti/personalities/istj.html:21
+msgid "每个人都会用自己的方式进行决策，决策通常来自于你的主导功能，并且完全忽视你的第四功能。你的功能运用如下："
+msgstr ""
+
+#: templates/mbti/personalities/istj.html:22
+msgid "主导功能 感觉"
+msgstr ""
+
+#: templates/mbti/personalities/istj.html:23
+msgid "辅助功能 思维"
+msgstr ""
+
+#: templates/mbti/personalities/istj.html:24
+msgid "第三功能 情感"
+msgstr ""
+
+#: templates/mbti/personalities/istj.html:25
+msgid "第四功能 直觉"
+msgstr ""
+
+#: templates/mbti/personalities/istj.html:26
+msgid "一个好的决策通常来自于四个功能的合理运用。当你尝试去解决问题时，你可以利用上表指导这个过程，但在整个的执行过程是非常困难的，因为每个人都不愿意用他不喜欢的功能去解决问题。就算你有意识地努力运用所有这些功能，你也不可能会在“真实生活”中以这种顺序运用它们。关键是要利用它们提醒自己，完善决策，就算你不按这种方式行事。"
+msgstr ""
+
+#: templates/mbti/personalities/istj.html:27
+msgid "工作中选择符合你的主导功能和辅助功能的岗位是非常重要的。第三功能要经过发展锻炼才能合适运用，第四功能可能永远不会在你的职业生涯中起到关键作用，因此你应当避免那种要求长期使用它的工作。"
+msgstr ""
+
+#: templates/mbti/personalities/istj.html:29
+msgid "ISTJ型人的一个普遍问题是在计划的细节和每日运行中丧失了自我的倾向。一旦沉浸其中，他们很固执僵化，不愿意适应或接受另外的观点。如果没有看到新想法的直接和有效的运用，他们往往会产生怀疑、他们必须花时间注意全部的客观事情，考虑他们可能没有考虑的可选择的情况，收集范围更广泛的信息，有意识地努力对他们的行为的未来含义做出预测，能够在各方面都增进ISTJ型人的影响。"
+msgstr ""
+
+#: templates/mbti/personalities/istj.html:30
+msgid "有时ISTJ型的人很难理解其他人的需求，尤其是那些与自己差异很大的需求。因为他们对自己的反响很隐蔽，所以他们被视为冷静而无情。他们必须直接地表达出对他人的欣赏，而不是仅仅保留在内心。"
+msgstr ""
+
+#: templates/mbti/personalities/istj.html:31
+msgid "因为ISTJ型的人很有条理，所以他们希望别人也如此。他们冒险把自己的判断强加于别人，无视那些不是十分自信的人的意见。他们强求别人按照他们的方法做事，阻止运用那些更有创造性的、新颖的方法。他们应该对未经考验和非传统的方式持开放的态度，这样才会对人们的差异更加容忍，最终才能做出有效的抉择。"
+msgstr ""
+
+#: templates/mbti/personalities/istj.html:33
+msgid "办事精确，希望第一次就能把工作做好；"
+msgstr ""
+
+#: templates/mbti/personalities/istj.html:34
+msgid "乐意遵循确定的日常安排和传统的方针政策；"
+msgstr ""
+
+#: templates/mbti/personalities/istj.html:35
+msgid "每次都能十分专注地把注意力集中在一个项目或任务上；"
+msgstr ""
+
+#: templates/mbti/personalities/istj.html:36
+msgid "能够独立地工作；"
+msgstr ""
+
+#: templates/mbti/personalities/istj.html:37
+msgid "灵敏的组织能力；"
+msgstr ""
+
+#: templates/mbti/personalities/istj.html:38
+msgid "一丝不苟、认真专注地对待具体问题：事实和细节；"
+msgstr ""
+
+#: templates/mbti/personalities/istj.html:39
+msgid "相信传统模式的可取之处，并且能够遵循传统模式；"
+msgstr ""
+
+#: templates/mbti/personalities/istj.html:40
+msgid "非常强的责任意识；别人可以信任你去实现自己的诺言；"
+msgstr ""
+
+#: templates/mbti/personalities/istj.html:41
+msgid "明白清晰的工作条理；认为高效率和多成果是很重要的；"
+msgstr ""
+
+#: templates/mbti/personalities/istj.html:42
+msgid "对实现目标有毅力和决心；"
+msgstr ""
+
+#: templates/mbti/personalities/istj.html:43
+msgid "通情达理，视角现实。"
+msgstr ""
+
+#: templates/mbti/personalities/istj.html:44
+msgid "工作劣势"
+msgstr ""
+
+#: templates/mbti/personalities/istj.html:45
+msgid "不愿意尝试、接受新的和未经考验的观点和想法；"
+msgstr ""
+
+#: templates/mbti/personalities/istj.html:46
+msgid "对变动感到不安；排斥革新；"
+msgstr ""
+
+#: templates/mbti/personalities/istj.html:47
+msgid "对需要很长时间才能完成的任务缺乏耐心；"
+msgstr ""
+
+#: templates/mbti/personalities/istj.html:48
+msgid "有时会由于近期目标而忽略长远需要；"
+msgstr ""
+
+#: templates/mbti/personalities/istj.html:49
+msgid "办事死板；必要的时候难以或不愿意适应新情况；"
+msgstr ""
+
+#: templates/mbti/personalities/istj.html:50
+msgid "难以看到问题的整体以及行为的长远影响；"
+msgstr ""
+
+#: templates/mbti/personalities/istj.html:51
+msgid "对于方针或决定将会对别人造成什么样的影响缺乏敏感；"
+msgstr ""
+
+#: templates/mbti/personalities/istj.html:52
+msgid "需要的时候不愿意改变努力的方向或调整投入的多少；"
+msgstr ""
+
+#: templates/mbti/personalities/istj.html:53
+msgid "不愿意促成必要的改变，也不愿意支持经过仔细考虑的风险行为。"
+msgstr ""
+
+#: templates/mbti/personalities/istj.html:55
+msgid "研究发现：职业满足会使你的工作主动性更强，积极性更高，更愿意去工作。以下不是简单的告诉你什么样的工作适合你，而是细化的帮你分析工作中的哪些特质对你重要，你还需要从中选出你认为最重要的，因为不同经历的人对特质的重要程度要求是不同的。每个岗位的工作内容都在随企业的发展而发展，不是一成不变的，有时候岗位的发展方向需要我们自己去争取。所以找到适合的工作不如找到适合自己发展的岗位更直接。这些特质可以帮助明确如何主动的发展或争取你岗位中的那些特质。"
+msgstr ""
+
+#: templates/mbti/personalities/istj.html:56
+msgid "下面的条目从各个侧面上认证了您怎样才能受到真正的职业满足，看完这些条目之后，我们建议您根据它们对您的重要程序进行排序，排序的时候，回想一下您过去的学习、工作经历以及当前学习环境和工作感受，并思考：“哪一些是令你感到特别满意，有哪些令你极其不高兴”。试着寻找贯穿这些经历的主题。"
+msgstr ""
+
+#: templates/mbti/personalities/istj.html:57
+msgid "你的岗位特质："
+msgstr ""
+
+#: templates/mbti/personalities/istj.html:58
+msgid "1. 本质上是技术性的，能让你依靠自己的能力来使用和了解重要的事实和细节。"
+msgstr ""
+
+#: templates/mbti/personalities/istj.html:59
+msgid "2. 涉及很多实际的产品和服务。这些产品或服务是通过严谨周密、合乎逻辑且效率高的方法——最好是运用标准化的工作程序来生产或实现的。"
+msgstr ""
+
+#: templates/mbti/personalities/istj.html:60
+msgid "3. 能让我有大量的时间独立地工作，运用杰出的集中注意力的能力来完成项目和（或）任务。"
+msgstr ""
+
+#: templates/mbti/personalities/istj.html:61
+msgid "4. 是在一个稳定和标准化的环境中完成的，做这些工作时我不必去冒不必要的风险、运用未经检验过的或实验性的方法。"
+msgstr ""
+
+#: templates/mbti/personalities/istj.html:62
+msgid "5. 能看得见的而且可以衡量的结果，而且需要和重视运用精确的标准来评估工作的多少或好坏。"
+msgstr ""
+
+#: templates/mbti/personalities/istj.html:63
+msgid "6. 有明确的目标、清晰的组织制度和模式。"
+msgstr ""
+
+#: templates/mbti/personalities/istj.html:64
+msgid "7. 在演示或递交工作成果之前能让我有充足的时间来准备，最好是单独进行或小组进行。"
+msgstr ""
+
+#: templates/mbti/personalities/istj.html:65
+msgid ""
+"8. "
+"能让我具有越来越大的职责和权力，而且只要要求我参与很少的社会政治方面的活动；我的工作表现是根据我完成工作任务的多少或实现工作目标的好坏来衡量的，而且我的努力和贡献很受欣赏和重视。"
+msgstr ""
+
+#: templates/mbti/personalities/istj.html:66
+msgid "9. 在工作过程或气氛中，我的现实的判断和过去的经历很受重视和嘉奖。"
+msgstr ""
+
+#: templates/mbti/personalities/istj.html:67
+msgid "10. 能让我拥有必要的资源（人力方面和财力方面）和材料来订立正式的目标，并且实现这些目标。"
+msgstr ""
+
+#: templates/mbti/personalities/istj.html:69
+msgid "审计员、公司经理、会计、管理者/监督人、文字信息处理专家、效率专家/效率分析者、保险业主(保险商)、后勤供给经理、制定规章制度的官员、信息总管、会计/保险统计员"
+msgstr ""
+
+#: templates/mbti/personalities/istj.html:70
+msgid "ISTJ经常喜欢与商业有关的一些职业，他们在管理系统和使事物正常运行方面有出色的才能。他们经常喜欢到传统的、已经建立多年的团体或公司去工作，他们的加盟有助于团体或公司机构的正常运行。他们工作富有效率，他们认真而详尽地记录各种花销和税务，不允许有任何未经检查或未经修正的错误或遗漏出现。作为管理者，他们为每一名雇员制定清晰的工作权限、建立起一整套标准的规则。他们喜欢能够生产出具体产品或提供具体服务的商业工作。"
+msgstr ""
+
+#: templates/mbti/personalities/istj.html:71
+msgid "销售/服务"
+msgstr ""
+
+#: templates/mbti/personalities/istj.html:71
+msgid "察局高级职员/侦探、情报检索服务社代理人、政府雇员、陆军军官、管教人员、房地产代理商、体育设备/商品销售商、教养所所长"
+msgstr ""
+
+#: templates/mbti/personalities/istj.html:72
+msgid "市政服务工作能够满足ISTJ服务于社区的愿望。他们喜欢维护服务或保护所有人的社会系统。他们喜欢在制度分明的环境中工作。无论是发布命令还是接受命令他们都做得很好。他们运用自己的知识和过去的经验果断地、有效地处理当前的问题。他们对事实和细节有非常好的记忆力，无论做什么，他们都用自己的实践经验作出判断。他们喜欢销售真实有形的产品，从中他们可以获得个人收益。"
+msgstr ""
+
+#: templates/mbti/personalities/istj.html:73
+msgid "金融"
+msgstr ""
+
+#: templates/mbti/personalities/istj.html:73
+msgid "银行查帐员、投资担保人、税收监察员、预算分析员、股票经纪人、房地产策划人、信贷分析员"
+msgstr ""
+
+#: templates/mbti/personalities/istj.html:74
+msgid "ISTJ拥有数学方面的天才。他们能记住有关事实和细节的数字，并能在必要时引用它们来支持自己的观点。他们不会轻易转移注意力，工作时特别专心、辛苦，工作成果既准确又细致。金融领域的职业需要以下才能：能很好地独立工作；能够吸收大量数据；能够进行精确的计算，这些都是ISTJ所具有的。"
+msgstr ""
+
+#: templates/mbti/personalities/istj.html:75
+msgid "教育"
+msgstr ""
+
+#: templates/mbti/personalities/istj.html:75
+msgid "学校校长、技术/工业/数学/物理老师、图书管理员、管理者"
+msgstr ""
+
+#: templates/mbti/personalities/istj.html:76
+msgid "教育领域的职业对ISTJ是非常适合的，尤其是那些管理和技术方面的工作。ISTJ能够很好地管理学校或课程的运行。他们通过实践寻找维持系统运行的可能性和方法。管理方面和图书馆方面的职业使ISTJ能够独力工作，运用他们客观的分析能力处理数据，如考试成绩、预算等。教书对ISTJ也很适合，特别是一些技术和实践的科目能为他们提供很多学习和教授的机会。"
+msgstr ""
+
+#: templates/mbti/personalities/istj.html:77
+msgid "法律/技术"
+msgstr ""
+
+#: templates/mbti/personalities/istj.html:77
+msgid "法律调查员、电工、工程师、机械师、计算机程序设计员、科学作家、律师秘书/律师专职助手、药品经销商/调查员、脑电图技术专家/技师、地质学家、气象学家、航空机械师、机械/工业/电子工程师、农业科学家"
+msgstr ""
+
+#: templates/mbti/personalities/istj.html:78
+msgid "这些职业为ISTJ提供了运用他们技术才能的机会，而且他们的工作结果都是要求高度准确的产品。因为他们从不盲目地接受事物，所以他们能够抓住工作中的疏忽和纰漏，并且忠诚地遵循必要的程序和系统。上述职业中有很多还能为ISTJ提供独自工作的机会，让他们充分发挥专心工作的优点、出色的记忆力及各种技巧。"
+msgstr ""
+
+#: templates/mbti/personalities/istj.html:79
+msgid "保健"
+msgstr ""
+
+#: templates/mbti/personalities/istj.html:79
+msgid "兽医、普通外科医师、牙医、护理指导员、保健指导员、药剂师、实验室技术人员、医学研究者、最初保健护理医师、生物学和医学技术专家、运动生理学家、药剂师/配药技术员"
+msgstr ""
+
+#: templates/mbti/personalities/istj.html:80
+msgid "ISTJ经常投身于医药行业，特别喜欢就职于一些有着传统制度的医院。他们对病人保持密切的关心，耐心地倾听他们的诉说，并给他们提供一些有思想、有节制的建议，制定出恰当的治疗计划。ISTJ还是保健方面成功的指导者，他们尽心尽力地工作，承担应尽的义务，履行应负的责任。他们喜欢有条理的工作环境，在这种环境中他们能朝着目标前进，按时完成应做的工作。牙科和药剂学需要更多的技巧，因此为ISTJ所喜爱。因为他们善于抓住事实信息，并且能够永远保留这些信息。"
+msgstr ""
+
+#: templates/mbti/personalities/istj.html:81
+msgid "组织贡献"
+msgstr ""
+
+#: templates/mbti/personalities/istj.html:82
+msgid "行事坚定，按部就班；关注所管理事务的具体细节，小心谨慎；能恰当、得体地安排工作事务；讲信用、守承诺；在良好的组织机构中工作较佳。"
+msgstr ""
+
+#: templates/mbti/personalities/istj.html:84
+msgid "通常运用经验和对事实的把握作出决策；在履行职责时，表现可靠、稳定和始终如一；尊重传统和等级制度；欣赏和鼓励那些照规矩办事的人；关注当前的、实际存在的组织需求。"
+msgstr ""
+
+#: templates/mbti/personalities/istj.html:86
+msgid "忽略日常工作的长远影响；不注意微妙的人际信息；有时表现得不灵活，僵化；相对更期望他人循规蹈矩，而不鼓励创新。"
+msgstr ""
+
+#: templates/mbti/personalities/istj.html:87
+msgid "工作环境"
+msgstr ""
+
+#: templates/mbti/personalities/istj.html:88
+msgid "所在组织中，成员工作努力并且关注事实和结果；工作能够提供一定的安全感和稳定性，并能考虑个人隐私；领导认可和赞赏稳健的工作方式，结构化的有序的工作取向。"
+msgstr ""
+
+#: templates/mbti/personalities/istj.html:90
+msgid "要敢于探索新的可能性；更多考虑人性的因素；要乐于接受新事物。"
+msgstr ""
+
+#: templates/mbti/personalities/istj.html:91
+msgid "除了眼前的现实，需要关注问题的更广泛的枝节；需要考虑人的因素；需要尝试新的东西以避免墨守成规；需要对那些不太在意规则而努力创新的人保持足够耐心。"
+msgstr ""
+
+#: templates/mbti/personalities/istj.html:93
+msgid "最佳恋爱对象完美主义者"
+msgstr ""
+
+#: templates/mbti/personalities/istj.html:94
+msgid "若你是一个公务员型"
+msgstr ""
+
+#: templates/mbti/personalities/istj.html:95
+msgid "你是那种把文明的碎片粘合在一起的胶水。你的注册商标是任务、纪律、责任和组织。没有你忠心的付出，很多现存的成功企业、组织和团体都会瓦解成碎片。当你恋爱时，你是所有恋爱类型中最务实的一员，你对于过度的浪漫举动并不会有太多感动。你也不需要约会中持续的刺激。你会满足于一顿在家中的晚餐、一部有趣的影片和爱人的陪伴。"
+msgstr ""
+
+#: templates/mbti/personalities/istj.html:96
+msgid "谈到男女角色的定位时，你的价值观也是很传统的。你仍然认为一个丈夫应该挣钱养家，而一个妻子应该负责维系一个整洁有条理的家。你对安全感的强烈需求，使你避免开始一段感情的风险。你通常会和你已经认识很久的人发展恋情：同事、家族的朋友或同学。因为你是最终的“筑巢者”，在你让未来伴侣更靠近你之前，你要非常确定他是一个可以照顾你和养家活儿的人。"
+msgstr ""
+
+#: templates/mbti/personalities/istj.html:97
+msgid "你期望另一半拥有的特质，是忠诚、安全感和责任感。对于另一半提出的未来或崇高的理想你并不会特别感动；你要知道的是对方现在可以为一段认真的感情带来什么。"
+msgstr ""
+
+#: templates/mbti/personalities/istj.html:98
+msgid "你和女性公务员型或照顾者型(ISFJ)会有不错的感情关系。女性公务员型有规矩且经常具有责任感个性，可以完美地补足你对一个传统家庭的渴望。而照顾者型则是以她慈爱的方式，和“标准妈妈”的个性，来帮你建立梦想中家庭的女人。"
+msgstr ""
+
+#: templates/mbti/personalities/istj.html:99
+msgid "公务员型通常会被有任务、工作和责任的活动、组织或场所所吸引。你可以试试参加为邻居街坊维持治安和清洁的社区团体、慈善募款团体、家教协会会议、爱国组织、专业相关团体、政府机关、保龄球俱乐部、商业评议会和军队特别事件如空军表演和游行等等。(公务员型常常是很杰出的军事要员，因为他们非常忠贞、勤奋，同时很愿意配合命令。)"
+msgstr ""
+
+#: templates/mbti/personalities/istj.html:100
+msgid "如何与一个公务员型情人约会？"
+msgstr ""
+
+#: templates/mbti/personalities/istj.html:101
+msgid "让他们觉得被需要，或和他们一起为一个值得的目标努力，这样你就可以有一个冠冕堂皇的理由和他们认识。到图书馆去，并在那可爱的图书馆员帮你登录你借出去的书本时和他聊天。参加某次家教协会会议—那里通常都会有一些单亲父母—询问公务员型关系他们最感兴趣的儿童教育问题。"
+msgstr ""
+
+#: templates/mbti/personalities/istj.html:102
+msgid "你可以自愿参加一场政治活动，或参加睦邻计划的守夜活动，你会在过程中遇见很多任务意识很高的热心公务员型。你可以问一个公务员型关于一个很实务性的问题—如何计划或整理家里？如何修补某件东西？如何照顾小孩？或是如何填定表单？这个很负责任的公务员型会愿意帮助你的。一旦一个公务员型同意帮助你，这就是一个很好的开始。"
+msgstr ""
+
+#: templates/mbti/personalities/istj.html:103
+msgid ""
+"恋爱锦囊之一：强调你个性中的传统面，例如：男人：谈谈你在事业上的抱负，可以为你的家庭赚进多少钱，和以后想要拥有什么样的家。表达你要成为一位第一流的父亲和建立一个安全、富裕的家庭的愿望。"
+" "
+"女人：强调你家居生活的技巧或本事，例如厨艺、清理和缝纫。若你没有任何做家事的经验，现在是时候好好看看书或参加课程。谈谈你对小孩、安全感和传统的期望。注意：男性公务员型并不适合所有女人，但如果你准备接受一些老式的价值观，他对家庭生活稳定、保守的观念就会非常吸引你。"
+msgstr ""
+
+#: templates/mbti/personalities/istj.html:104
+msgid "恋爱锦囊之二：迎合公务员型对守时、整洁和组织的渴望。当你和公务员型约会时，永远要记得准时；对他而言，浪费时间和浪费食物一样糟糕。当你在他身旁时，请随时保持整洁，让喜爱整洁的公务员型留下良好印象。另外，若你打算邀请你的公务员型情人回家，请确定你的屋子一定要干净整齐。"
+msgstr ""
+
+#: templates/mbti/personalities/istj.html:105
+msgid "恋爱锦囊之三：帮忙公务员型情人打扫住处或请他帮你清理住处。若你真的想要捉住你的公务员型的心，为了迎合他对整洁和井然有序的欲望，你可以提出帮助他打扫住处的建议。你也可以请公务员型帮你打扫清理并且整理你的住处。若对方同意，准备一些零食和音乐，让那一天变成愉快的一天。警告：请确定当那个公务员型带着拖把、吸尘器和抹布抵达时，你的住处已经有相当程度的整洁。尽管他是来帮你整理住处的，他并不想看到真正的一团糟乱。一旦你的屋子合乎标准(以你的观点)，便可以邀请对方前来。当你的公务员型情人用惊人的清洁技巧，把你的屋子变成一般人难以达到的整洁标准时，让他自由发挥。"
+msgstr ""
+
+#: templates/mbti/personalities/istj.html:106
+msgid "如何和公务员型情人拥有美好的性关系？"
+msgstr ""
+
+#: templates/mbti/personalities/istj.html:107
+msgid "和一位公务员型典型的性关系是缓慢进展的。不要期待能和一位公务员型情人立即产生火花；当谈论到性和爱情时，他是所有恋爱类型中最保守谨慎的。"
+msgstr ""
+
+#: templates/mbti/personalities/istj.html:108
+msgid "性爱锦囊：在轻松的对话中先介绍一种新的姿势或技巧。在聊天当中，强调那种新技巧将如何地增进你们的感情，且会让两人更紧密地在一起。然后保持安静，让你的公务员型情人消化一下你刚才所讲的话。作为一个内向的理性者，公务员型情人需要时间考虑他取得的新信息。"
+msgstr ""
+
+#: templates/mbti/personalities/istj.html:109
+msgid "性爱锦囊：制订一份性爱时间表。为了帮助你的公务员型情人对新的性活动觉得安全，制订一份做爱时间表。虽然有一些恋爱类型会觉得这种有计划的方式很扫兴，但很多公务员型如果确实知道伴侣的期待(和何时发生)，会觉得舒服和安全。"
+msgstr ""
+
+#: templates/mbti/personalities/istj.html:110
+msgid "恋爱状态：是所有恋爱类型中最务实的一种，你不需要约会中的持续刺激，对于过度夸张的浪漫举动你也不会有太多的感动。你会满足于家中的一顿晚餐、一次散步，或者恋人的陪伴。在性别的角色分工上，你的观念也很传统，你认为丈夫应该挣钱养家，妻子应该负责家务，保持家里整洁有序。你一般不会对异性一见钟情，属于日久生情型，通常和认识很久的人发展恋情，如同学、同事、朋友等。你很重视伴侣的忠诚、安全感和责任感，通常在对对方的这些方面进行考察之后，才确定双方的关系。你可能会对伴侣规划的远大理想和宏伟目标兴趣不大，而更感兴趣于对方现在可以为这段关系做哪些事情。"
+msgstr ""
+
+#: templates/mbti/personalities/istp.html:5
+msgid "巧匠型人格"
+msgstr ""
+
+#: templates/mbti/personalities/istp.html:9
+msgid "ISTP(内倾/感觉/思考/理解)是迈尔斯·布里格斯性格分类法中十六种人格类型之一，在柯尔塞气质类型测试中被称为巧匠，属于工匠的四种类型之一。ISTP倾向于宁静和有所保留。于社交中，他们消耗能量。相比关心抽象事物，ISTP更加关心于具体事物。他们更倾向于关注细节而不是整体，关注最切近的现实而非未来的可能性。ISTP通常认为客观标准高于个人偏好。在做决定的时候，他们通常更多地基于逻辑，而不是对人情世故的考虑。ISTP会保留意见或推迟作出重要的决定，更倾向于“开放选择权”，更能应对变化。"
+msgstr ""
+
+#: templates/mbti/personalities/istp.html:11
+msgid "ISTP们擅长于分析情形接近问题的核心，因此他们可以即刻完成功能性的补救，这让他们完美地适合工程学的领域。他们是天生安静的人，对理解系统如何运行感兴趣，专注于有效率的操作和结构。他们对新的信息和途径保持开放。但同他们表面上超然的天性不同，ISTP们通常有能力对他们周围的世界作出幽默而充满洞察力的观测。私下里他们也可能是冒险者，喜欢高速度或高风险的娱乐（比如蹦极、滑翔、竞速运动、摩托车运动和跳伞），运动（如滑雪、彩弹球、冰壶以及水肺潜水）或事业（比如航空和消防）。"
+msgstr ""
+
+#: templates/mbti/personalities/istp.html:12
+msgid "ISTP们有时候可能在行动时不顾及过程、方向、礼节甚至他们自己的安全。他们看起来十分随意的举动事实上基于在行动和观察中长久以来积累的广泛知识。ISTP们喜欢自给自足，在他们自己对问题解决方式的改进中充满了骄傲。"
+msgstr ""
+
+#: templates/mbti/personalities/istp.html:13
+msgid "ISTP们同意别人按他们自己的方式过活，只要别人能够包容他们。ISTP们可以默不作声地容忍一定范围内的不公平——但如果他们自己的“领土”被侵犯、蚕食或亵渎，他们将守卫那些他们正当地认为属于自己的东西。"
+msgstr ""
+
+#: templates/mbti/personalities/istp.html:14
+msgid "ISTP们精通运用每一种工具——艺术的、技术的甚至是武器。虽然他们是内向型，在他们和别人的交流中他们通常占据主动权，可能对他人造成强烈影响。他们专注于高效和巧妙地完成工作。"
+msgstr ""
+
+#: templates/mbti/personalities/istp.html:15
+msgid "为了精通他们感兴趣的工具，ISTP们需要一定程度上的隔绝来练习。这给了他们其它类型望尘莫及的精湛技艺。"
+msgstr ""
+
+#: templates/mbti/personalities/istp.html:16
+msgid "具有逻辑性、实际、务实、娴静、谦逊以及独立；现实主义、注重实效、孤僻；冲动及对自然世界的好奇；灵活和足智多谋；客观而不诉诸感情的。"
+msgstr ""
+
+#: templates/mbti/personalities/istp.html:18
+msgid "主导功能：内倾思考。"
+msgstr ""
+
+#: templates/mbti/personalities/istp.html:18
+msgid "寻求精确，比如表达一个概念最合适的词。它注意到事物本质之间微不足道的差别，然后将它们分析并归类。细查一个问题的每一面，寻找解决问题最不费力、风险最小的方法。它用模型甄别出逻辑上的不一致。"
+msgstr ""
+
+#: templates/mbti/personalities/istp.html:19
+msgid "辅助功能：外倾感觉"
+msgstr ""
+
+#: templates/mbti/personalities/istp.html:19
+msgid "集中于当下的、物质的世界所带来。以对当下周遭事情的敏锐察觉，它带来关于前方的相对事实和细节，而且可能导致自发的行动。"
+msgstr ""
+
+#: templates/mbti/personalities/istp.html:20
+msgid "第三功能：内倾直觉"
+msgstr ""
+
+#: templates/mbti/personalities/istp.html:21
+msgid "第四功能：外倾情感"
+msgstr ""
+
+#: templates/mbti/personalities/istp.html:21
+msgid "寻找社会上的联系，并用礼貌、体贴、得体的举止营造和谐的沟通。对他人明确（或暗示）的需求作出回应，甚至可能会制造内在自我需求和欲望的冲突来满足别人。"
+msgstr ""
+
+#: templates/mbti/personalities/istp.html:23
+msgid "由于ISTP型的人总是独自地做出判断，他们不愿意把具体情况甚至是最重要的部分告诉他人，使得周围的人对所发生的事一无所知。他们不喜欢与别人分享自己的反应、情感和担忧。因此他们需要接受一个事实，即别人需要知道ISTP型人的情况。他们还应意识到只有他们自己才能给别人一个精确的解释。"
+msgstr ""
+
+#: templates/mbti/personalities/istp.html:24
+msgid "ISTP型的人非常实际，他们通常能在所有的事情上找到节省力气的方法。由于他们向往拥有空闲时间，他们往往只做一些必要的准备，或者可能不会等到把事情解决。这使他们有时会偷工减料。设计一个计划，完成所有的步骤和细节，可以帮助他们克服自己主动性的缺乏，并减少经常性的漠不关心。"
+msgstr ""
+
+#: templates/mbti/personalities/istp.html:25
+msgid "ISTP型的人通常很留意那些令人感兴趣的新事物，并对所有的选择都持开放态度，所以他们可能不善于做决定。对刺激的追求可能使他们变得鲁莽、轻率而且容易厌烦。设定目标，并认真地给自己定一些约束，可以使他们避免频繁的失望和无规律的生活习惯所带来的危害。"
+msgstr ""
+
+#: templates/mbti/personalities/istp.html:27
+msgid "信息服务业、计算机程序员、软件开发、律师助理、消防员、药剂师、证券分析员、银行职员、管理顾问、财务顾问、电子专业人士、技术培训人员、海洋生物学者、后勤与供应经理、经济学者、贸易、商品经销商/产品代理商（有形产品）、警察、侦探、体育工作者、赛车手、飞行员、雕塑家、手工制作、画家"
+msgstr ""
+
