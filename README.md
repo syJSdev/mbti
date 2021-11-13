@@ -16,8 +16,10 @@ MBTI 职业性格测试
 
 ```
 # create your virtualenv then ...
+virtualenv venv --python=python2.7
+source venv/bin/activate
 pip install -r requirements.txt
-python server.py
+venv/bin/python server.py
 ```
 
 # Stargazers over time
