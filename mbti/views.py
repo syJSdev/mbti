@@ -52,7 +52,7 @@ def test():
         answers = json.loads(request.values.get('answers'))
         result = get_result(answers)
         flash(_("测试完成，你的性格分析结果为:") + result)
-        incr_tested_count()
+        incr_tested_count(result)
         return result.lower()
     questions = get_questions()
     random.shuffle(questions)

@@ -1,6 +1,7 @@
 #-*- coding:utf-8 -*-
 from __future__ import unicode_literals
 
+import json
 import os
 import threading
 from collections import Counter
@@ -54,27 +55,39 @@ def get_tested_count():
     try:
         root_path = os.path.dirname(os.path.dirname(
             os.path.realpath(__file__)))
-        tested_count_file = os.path.join(root_path, 'tested_count.txt')
-        with open(tested_count_file) as txt:
-            count = int(txt.read().strip())
-            return count
+        tested_result_file_path = os.path.join(root_path, 'tested_result.json')
+        with open(tested_result_file_path, 'r') as tested_result_file:
+            tested_result = json.load(tested_result_file)
+            return sum(count for count in tested_result.values())
     except Exception as e:
         print(e)
         return 0
 
 
-def incr_tested_count():
+def incr_tested_count(result):
     '''完成测试人数 +1'''
     tested_count_lock.acquire()
     try:
         root_path = os.path.dirname(os.path.dirname(
             os.path.realpath(__file__)))
-        tested_count_file = os.path.join(root_path, 'tested_count.txt')
-        count = 1
-        if os.path.isfile(tested_count_file):
-            count = get_tested_count() + 1
-        with open(tested_count_file, "w") as txt:
-            txt.write(str(count))
+        tested_result_file_path = os.path.join(root_path, 'tested_result.json')
+        if not os.path.exists(tested_result_file_path):
+            with open(tested_result_file_path, 'w') as tested_result_file:
+                tested_result = {result: 1}
+                json.dump(tested_result,
+                          tested_result_file,
+                          ensure_ascii=False,
+                          indent=4)
+        else:
+            with open(tested_result_file_path, 'r+') as tested_result_file:
+                tested_result = json.load(tested_result_file)
+                incred = tested_result.get(result, 0) + 1
+                tested_result[result] = incred
+                tested_result_file.seek(0)
+                json.dump(tested_result,
+                          tested_result_file,
+                          ensure_ascii=False,
+                          indent=4)
     except Exception as e:
         print(e)
     finally:
