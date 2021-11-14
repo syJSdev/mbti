@@ -18,7 +18,8 @@ MBTI_BP = Blueprint('mbti', __name__)
 @MBTI_BP.route('/')
 def welcome():
     #  return render_template('mbti/welcome.html')
-    return render_template('mbti/home.html')
+    tested_count = get_tested_count()
+    return render_template('mbti/home.html', tested_count=tested_count)
 
 
 @MBTI_BP.route('/home/')
