@@ -2,11 +2,15 @@
 from __future__ import unicode_literals
 
 import os
+import threading
 from collections import Counter
 
 from more_itertools import flatten
 
 from models import QUESTIONS, TYPES_DESC
+
+# 完成测试的人数锁
+tested_count_lock = threading.Lock()
 
 
 def get_questions():
@@ -43,6 +47,38 @@ def get_result(answers):
 def get_types_desc():
     '''十六种人格简要描述'''
     return sorted(TYPES_DESC.items(), key=lambda i: i[0])
+
+
+def get_tested_count():
+    '''获取完成测试的人数'''
+    try:
+        root_path = os.path.dirname(os.path.dirname(
+            os.path.realpath(__file__)))
+        tested_count_file = os.path.join(root_path, 'tested_count.txt')
+        with open(tested_count_file) as txt:
+            count = int(txt.read().strip())
+            return count
+    except Exception as e:
+        print(e)
+        return 0
+
+
+def incr_tested_count():
+    '''完成测试人数 +1'''
+    tested_count_lock.acquire()
+    try:
+        root_path = os.path.dirname(os.path.dirname(
+            os.path.realpath(__file__)))
+        tested_count_file = os.path.join(root_path, 'tested_count.txt')
+        count = 1
+        if os.path.isfile(tested_count_file):
+            count = get_tested_count() + 1
+        with open(tested_count_file, "w") as txt:
+            txt.write(str(count))
+    except Exception as e:
+        print(e)
+    finally:
+        tested_count_lock.release()
 
 
 if __name__ == '__main__':
