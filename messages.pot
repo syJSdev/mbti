@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2021-11-14 21:24+0800\n"
+"POT-Creation-Date: 2021-11-14 23:29+0800\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -937,6 +937,10 @@ msgstr ""
 msgid "考虑他人的感受和意见"
 msgstr ""
 
+#: mbti/views.py:54
+msgid "测试完成，你的性格分析结果为:"
+msgstr ""
+
 #: templates/base.html:10
 msgid "MBTI测试"
 msgstr ""
@@ -1041,7 +1045,15 @@ msgstr ""
 msgid "测试结果仅供参考！如果本网站对您有帮助，您喜欢的话，请帮忙多多点击网站上的广告，感谢！"
 msgstr ""
 
-#: templates/mbti/home.html:59
+#: templates/mbti/home.html:55
+msgid "网站目前已帮助"
+msgstr ""
+
+#: templates/mbti/home.html:55
+msgid "人完成测试！"
+msgstr ""
+
+#: templates/mbti/home.html:63
 msgid "开始"
 msgstr ""
 

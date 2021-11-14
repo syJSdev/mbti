@@ -7,8 +7,10 @@ import random
 import settings
 from flask import (Blueprint, abort, flash, make_response, redirect,
                    render_template, request, send_from_directory)
+from flask_babel import gettext as _
 
-from utils import get_questions, get_result, get_types_desc
+from utils import (get_questions, get_result, get_tested_count, get_types_desc,
+                   incr_tested_count)
 
 MBTI_BP = Blueprint('mbti', __name__)
 
@@ -22,7 +24,8 @@ def welcome():
 @MBTI_BP.route('/home/')
 def home():
     '''首页'''
-    return render_template('mbti/home.html')
+    tested_count = get_tested_count()
+    return render_template('mbti/home.html', tested_count=tested_count)
 
 
 @MBTI_BP.route('/about/')
@@ -48,7 +51,8 @@ def test():
     if request.method == "POST":
         answers = json.loads(request.values.get('answers'))
         result = get_result(answers)
-        flash('测试完成，你的性格分析结果为{}型'.format(result))
+        flash(_("测试完成，你的性格分析结果为:") + result)
+        incr_tested_count()
         return result.lower()
     questions = get_questions()
     random.shuffle(questions)

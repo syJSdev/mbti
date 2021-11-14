@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2021-11-14 21:24+0800\n"
+"POT-Creation-Date: 2021-11-14 23:29+0800\n"
 "PO-Revision-Date: 2021-11-13 16:27+0800\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language: en\n"
@@ -287,7 +287,7 @@ msgstr "Where do I tend to get strength?"
 
 #: mbti/models.py:107
 msgid "别人"
-msgstr "others"
+msgstr "Others"
 
 #: mbti/models.py:109
 msgid "我自己的想法"
@@ -1067,6 +1067,10 @@ msgstr "According to the facts"
 msgid "考虑他人的感受和意见"
 msgstr "Consider other people's feelings and opinions"
 
+#: mbti/views.py:54
+msgid "测试完成，你的性格分析结果为:"
+msgstr "Test complete, your personality analysis results are:"
+
 #: templates/base.html:10
 msgid "MBTI测试"
 msgstr "MBTI TEST"
@@ -1205,7 +1209,15 @@ msgstr ""
 "you and you like it, please click on the advertisements on the website. "
 "Thank you!"
 
-#: templates/mbti/home.html:59
+#: templates/mbti/home.html:55
+msgid "网站目前已帮助"
+msgstr "The website has helped"
+
+#: templates/mbti/home.html:55
+msgid "人完成测试！"
+msgstr "people complete the test!"
+
+#: templates/mbti/home.html:63
 msgid "开始"
 msgstr "START"
 
@@ -5358,7 +5370,9 @@ msgstr ""
 
 #: templates/mbti/personalities/infp.html:45
 msgid "10、允许我为实现我的理想而工作，且工作上不要受到政治的、经济的或别的方面的障碍的限制。"
-msgstr "10. Allow me to work for the realization of my ideals without being limited by political, economic or other obstacles."
+msgstr ""
+"10. Allow me to work for the realization of my ideals without being "
+"limited by political, economic or other obstacles."
 
 #: templates/mbti/personalities/infp.html:46
 #: templates/mbti/personalities/isfp.html:23
@@ -6384,7 +6398,10 @@ msgstr ""
 
 #: templates/mbti/personalities/intp.html:12
 msgid "他们喜欢冲动，容易有想法，而且这些想法可能是非常天才的。有时候这些想法也可能让INTP迷失，因为他们总不断有新的想法出来。"
-msgstr "They are impulsive and easy to have ideas, and these ideas may be very talented. Sometimes these ideas may also make INTP lose its way, because they always have new ideas."
+msgstr ""
+"They are impulsive and easy to have ideas, and these ideas may be very "
+"talented. Sometimes these ideas may also make INTP lose its way, because "
+"they always have new ideas."
 
 #: templates/mbti/personalities/intp.html:13
 msgid "INTP对于机械式的工作有太多细节或者规定的执行期限，他们就会觉得很沮丧。遇到期限时，他们会不断要求延期"
@@ -7427,7 +7444,12 @@ msgstr "How to get along with ISFJ type people"
 
 #: templates/mbti/personalities/isfj.html:68
 msgid "ISFJ型的人生活在完全现实的生活中，他们很难全面地观察问题，也很难预见情形的可能性结果，尤其是当他们不熟悉情形之时。他们需要看得更远些，想象如果以不同方式做事可能会产生怎样的后果。"
-msgstr "ISFJ people live in a completely real life. It is difficult for them to observe problems comprehensively and predict the possible results of the situation, especially when they are not familiar with the situation. They need to look further and imagine the consequences if they do things in different ways."
+msgstr ""
+"ISFJ people live in a completely real life. It is difficult for them to "
+"observe problems comprehensively and predict the possible results of the "
+"situation, especially when they are not familiar with the situation. They"
+" need to look further and imagine the consequences if they do things in "
+"different ways."
 
 #: templates/mbti/personalities/isfj.html:69
 msgid ""
@@ -8715,3 +8737,6 @@ msgstr ""
 
 #~ msgid "点击/下划查看MBTI性格详情"
 #~ msgstr "Click / underline to view MBTI personality details"
+
+#~ msgid "测试完成，你的性格分析结果为{}"
+#~ msgstr ""
