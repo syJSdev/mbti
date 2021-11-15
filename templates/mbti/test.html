@@ -8,24 +8,36 @@
     {% for question in questions %}
     <form class="ac-custom ac-radio ac-circle" autocomplete="off" style="display: {% if loop.index == 1 %}block{% else %}none{% endif %}">
         <h2>{{ loop.index }}. {{ _(question['question']) }}</h2>
-            <ul>
-                <li>
-                    <input id="choice_a" name="answer" value="{{ question.choice_a.value }}" type="radio">
-                        <label for="choice_a">
-                            {{ _(question.choice_a.text) }}
-                        </label>
-                        <svg viewBox="0 0 100 100"></svg>
-                </li>
-                <li>
-                    <input id="choice_b" name="answer" value="{{ question.choice_b.value }}" type="radio">
-                        <label for="choice_b">
-                            {{ _(question.choice_b.text) }}
-                        </label>
-                        <svg viewBox="0 0 100 100"></svg>
-                </li>
-            </ul>
-        </form>
+        <ul>
+            <li>
+                <input id="choice_a" name="answer" value="{{ question.choice_a.value }}" type="radio">
+                    <label for="choice_a">
+                        {{ _(question.choice_a.text) }}
+                    </label>
+                    <svg viewBox="0 0 100 100"></svg>
+            </li>
+            <li>
+                <input id="choice_b" name="answer" value="{{ question.choice_b.value }}" type="radio">
+                    <label for="choice_b">
+                        {{ _(question.choice_b.text) }}
+                    </label>
+                    <svg viewBox="0 0 100 100"></svg>
+            </li>
+        </ul>
+    </form>
     {% endfor %}
+    <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-3022214826355647"
+     crossorigin="anonymous"></script>
+    <!-- 1 -->
+    <ins class="adsbygoogle"
+        style="display:block"
+        data-ad-client="ca-pub-3022214826355647"
+        data-ad-slot="8641650153"
+        data-ad-format="auto"
+        data-full-width-responsive="true"></ins>
+    <script>
+        (adsbygoogle = window.adsbygoogle || []).push({});
+    </script>
 {% endblock %}
 
 {% block js %}
