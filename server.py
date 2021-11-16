@@ -33,7 +33,7 @@ def get_locale():
     # https://www.science.co.il/language/Locale-codes.php
     locale = request.cookies.get(settings.LOCALE_COOKIE_KEY)
     if locale == "":
-        locale = request.accept_languages.best_match(['zh', 'en', 'ko'])
+        locale = request.accept_languages.best_match(['zh', 'en', 'ko', 'de'])
     return locale
 
 
