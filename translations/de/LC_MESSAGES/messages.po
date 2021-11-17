@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2021-11-14 23:29+0800\n"
-"PO-Revision-Date: 2021-11-16 22:38+0800\n"
+"PO-Revision-Date: 2021-11-17 09:24+0800\n"
 "Language: de\n"
 "Language-Team: de <LL@li.org>\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
@@ -458,624 +458,624 @@ msgstr "Lassen Sie den Termin natürlich stattfinden, ohne zu viele Pläne zu ma
 
 #: mbti/models.py:244
 msgid "我选择的生活循环着："
-msgstr ""
+msgstr "Der Zyklus des Lebens, den ich wähle, ist:"
 
 #: mbti/models.py:245
 msgid "日程表和组织"
-msgstr ""
+msgstr "Zeitpläne und Organisationen"
 
 #: mbti/models.py:247
 msgid "自然发生和弹性"
-msgstr ""
+msgstr "Natürliches Vorkommen und Elastizität"
 
 #: mbti/models.py:250
 msgid "哪一项较为常见："
-msgstr ""
+msgstr "Was ist häufiger:"
 
 #: mbti/models.py:251
 msgid "我准时出席而其它人迟到"
-msgstr ""
+msgstr "Ich erschien pünktlich und die anderen waren zu spät"
 
 #: mbti/models.py:253
 msgid "其它人都准则出席而我迟到"
-msgstr ""
+msgstr "Alle anderen waren anwesend und ich kam zu spät"
 
 #: mbti/models.py:256
 msgid "我喜欢："
-msgstr ""
+msgstr "Ich mag es:"
 
 #: mbti/models.py:257
 msgid "下定决心并且做出最后肯定的结论"
-msgstr ""
+msgstr "Entscheiden Sie sich und kommen Sie zu einem endgültigen und positiven Abschluss"
 
 #: mbti/models.py:259
 msgid "开放我的选择并且持续收集信息"
-msgstr ""
+msgstr "Öffne meine Auswahlmöglichkeiten und sammle weiterhin Informationen"
 
 #: mbti/models.py:262
 msgid "我是这类型的人："
-msgstr ""
+msgstr "Ich bin diese Art von Person:"
 
 #: mbti/models.py:263
 msgid "喜欢在一个时间里专心于一件事情直到完成"
-msgstr ""
+msgstr "Konzentrieren Sie sich gerne auf eine Sache in einer Zeit, bis es fertig ist"
 
 #: mbti/models.py:265
 msgid "享受同时进行好几件事情"
-msgstr ""
+msgstr "Genießen Sie es, mehrere Dinge gleichzeitig zu tun"
 
 #: mbti/models.py:268
 msgid "当你要外出一整天，你会"
-msgstr ""
+msgstr "Wenn du den ganzen Tag ausgehen gehst, wirst du"
 
 #: mbti/models.py:269
 msgid "计划你要做什么和在什么时候做"
-msgstr ""
+msgstr "Planen Sie, was Sie wann tun möchten"
 
 #: mbti/models.py:271
 msgid "说去就去"
-msgstr ""
+msgstr "Geh, wenn du es sagst"
 
 #: mbti/models.py:274
 msgid "你认为自己是一个"
-msgstr ""
+msgstr "Du denkst, du bist einer"
 
 #: mbti/models.py:275
 msgid "较为随兴所至的人"
-msgstr ""
+msgstr "Eine lässigere Person"
 
 #: mbti/models.py:277
 msgid "较为有条理的人"
-msgstr ""
+msgstr "Eine besser organisierte Person"
 
 #: mbti/models.py:280
 msgid "假如你是一位老师，你会选教"
-msgstr ""
+msgstr "Wenn du ein Lehrer wärst, würdest du dich dafür entscheiden, zu unterrichten"
 
 #: mbti/models.py:281
 msgid "以事实为主的课程"
-msgstr ""
+msgstr "Faktenbasierte Kurse"
 
 #: mbti/models.py:283
 msgid "涉及理论的课程"
-msgstr ""
+msgstr "Theoretische Kurse"
 
 #: mbti/models.py:286
 msgid "你通常:"
-msgstr ""
+msgstr "Sie normalerweise:"
 
 #: mbti/models.py:287
 msgid "与人容易混熟"
-msgstr ""
+msgstr "Es ist einfach, Menschen kennenzulernen"
 
 #: mbti/models.py:289
 msgid "比较沉静或矜持"
-msgstr ""
+msgstr "Ruhiger oder zurückhaltender"
 
 #: mbti/models.py:292
 msgid "一般来说，你和哪些人比较合得来"
-msgstr ""
+msgstr "Im Allgemeinen sind Sie eher auf der Linie mit wem"
 
 #: mbti/models.py:293
 msgid "富于想象力的人"
-msgstr ""
+msgstr "Phantasievolle Menschen"
 
 #: mbti/models.py:295
 msgid "现实的人"
-msgstr ""
+msgstr "realistische Menschen"
 
 #: mbti/models.py:298
 msgid "你是否经常让"
-msgstr ""
+msgstr "Lassen Sie oft"
 
 #: mbti/models.py:299
 msgid "你的情感支配你的理智"
-msgstr ""
+msgstr "Deine Emotionen dominieren deinen Verstand"
 
 #: mbti/models.py:301
 msgid "你的理智主宰你的情感"
-msgstr ""
+msgstr "Deine Vernunft dominiert deine Emotionen"
 
 #: mbti/models.py:304
 msgid "处理许多事情上，你会喜欢"
-msgstr ""
+msgstr "Beschäftigen Sie sich mit vielen Dingen, die Ihnen gefallen werden"
 
 #: mbti/models.py:305
 msgid "凭兴所至行事"
-msgstr ""
+msgstr "Handeln Sie mit Hilfe des Testaments"
 
 #: mbti/models.py:307
 msgid "按照计划行事"
-msgstr ""
+msgstr "Folgen Sie dem Plan"
 
 #: mbti/models.py:310 mbti/models.py:478
 msgid "你是否"
-msgstr ""
+msgstr "Tun Sie"
 
 #: mbti/models.py:311
 msgid "容易让人了解"
-msgstr ""
+msgstr "Leicht verständlich"
 
 #: mbti/models.py:313
 msgid "难于让人了解"
-msgstr ""
+msgstr "Es ist schwer zu verstehen"
 
 #: mbti/models.py:316
 msgid "按照程序表做事"
-msgstr ""
+msgstr "Folgen Sie dem Zeitplan"
 
 #: mbti/models.py:317
 msgid "合你心意"
-msgstr ""
+msgstr "Es liegt bei Ihnen"
 
 #: mbti/models.py:319
 msgid "令你感到束缚"
-msgstr ""
+msgstr "Es gibt Ihnen das Gefühl, gebunden zu sein"
 
 #: mbti/models.py:322
 msgid "当你有一份特别的任务，你会喜欢"
-msgstr ""
+msgstr "Wenn Sie eine spezielle Aufgabe haben, wird es Ihnen gefallen"
 
 #: mbti/models.py:323
 msgid "开始前小心组织计划"
-msgstr ""
+msgstr "Organisieren Sie Ihren Plan sorgfältig, bevor Sie beginnen"
 
 #: mbti/models.py:325
 msgid "边做边找须做什么"
-msgstr ""
+msgstr "Finden Sie heraus, was zu tun ist, während Sie tun"
 
 #: mbti/models.py:328
 msgid "在大多数情况下，你会选择"
-msgstr ""
+msgstr "In den meisten Fällen wählen Sie"
 
 #: mbti/models.py:329
 msgid "顺其自然"
-msgstr ""
+msgstr "Loslassen"
 
 #: mbti/models.py:331
 msgid "按程序表做事"
-msgstr ""
+msgstr "Erledigen Sie die Dinge nach dem Zeitplan"
 
 #: mbti/models.py:334
 msgid "大多数人会说你是一个"
-msgstr ""
+msgstr "Die meisten Leute werden sagen, dass du einer bist"
 
 #: mbti/models.py:335
 msgid "重视自我隐私的人"
-msgstr ""
+msgstr "Menschen, die Wert auf Selbsterwödung legen"
 
 #: mbti/models.py:337
 msgid "非常坦率开放的人"
-msgstr ""
+msgstr "Sehr offene und offene Menschen"
 
 #: mbti/models.py:340
 msgid "你宁愿被人认为是一个"
-msgstr ""
+msgstr "Sie möchten lieber als einer betrachtet werden"
 
 #: mbti/models.py:341
 msgid "实事求是的人"
-msgstr ""
+msgstr "Ein Mann, der realistisch ist"
 
 #: mbti/models.py:343
 msgid "机灵的人"
-msgstr ""
+msgstr "ein kluger Mann"
 
 #: mbti/models.py:346
 msgid "在一大群人当中，通常是"
-msgstr ""
+msgstr "In einer großen Gruppe von Menschen, in der Regel"
 
 #: mbti/models.py:347
 msgid "你介绍大家认识"
-msgstr ""
+msgstr "Du stellst allen vor, sich kennenzulernen"
 
 #: mbti/models.py:349
 msgid "别人介绍你"
-msgstr ""
+msgstr "Sie werden vorgestellt"
 
 #: mbti/models.py:352
 msgid "你会跟哪些人做朋友"
-msgstr ""
+msgstr "Mit wem würdest du befreundet sein?"
 
 #: mbti/models.py:353
 msgid "常提出新主意的"
-msgstr ""
+msgstr "Oft werden neue Ideen vorgebracht"
 
 #: mbti/models.py:355
 msgid "脚踏实地的"
-msgstr ""
+msgstr "Bodenständig"
 
 #: mbti/models.py:358
 msgid "你倾向"
-msgstr ""
+msgstr "Sie tendieren"
 
 #: mbti/models.py:359
 msgid "重视感情多于逻辑"
-msgstr ""
+msgstr "Achten Sie mehr auf Gefühle als auf Logik"
 
 #: mbti/models.py:361
 msgid "重视逻辑多于感情"
-msgstr ""
+msgstr "Schenken Sie der Logik mehr Aufmerksamkeit als der Emotion"
 
 #: mbti/models.py:364 mbti/models.py:376
 msgid "你比较喜欢"
-msgstr ""
+msgstr "Sie bevorzugen es"
 
 #: mbti/models.py:365
 msgid "坐观事情发展才作计划"
-msgstr ""
+msgstr "Lehnen Sie sich zurück und beobachten Sie, wie sich die Dinge entwickeln, bevor Sie einen Plan machen"
 
 #: mbti/models.py:367
 msgid "很早就作计划"
-msgstr ""
+msgstr "Frühzeitig planen"
 
 #: mbti/models.py:370
 msgid "你喜欢花很多的时间"
-msgstr ""
+msgstr "Sie verbringen gerne viel Zeit"
 
 #: mbti/models.py:371
 msgid "一个人独处"
-msgstr ""
+msgstr "Eine Person allein"
 
 #: mbti/models.py:373
 msgid "和别人在一起"
-msgstr ""
+msgstr "Sei mit jemand anderem zusammen"
 
 #: mbti/models.py:377
 msgid "很早便把约会、社交聚集等事情安排妥当"
-msgstr ""
+msgstr "Holen Sie sich Dating, Social Gathering usw. frühzeitig"
 
 #: mbti/models.py:379
 msgid "无拘无束，看当时有什么好玩就做什么"
-msgstr ""
+msgstr "Fühlen Sie sich frei, alles zu tun, was Sie tun möchten, wenn Sie Spaß haben"
 
 #: mbti/models.py:382
 msgid "计划一个旅程时，你较喜欢"
-msgstr ""
+msgstr "Wenn Sie eine Reise planen, bevorzugen Sie es"
 
 #: mbti/models.py:383
 msgid "大部分的时间都是跟当天的感觉行事"
-msgstr ""
+msgstr "Meistens geht es darum, wie du dich an diesem Tag fühlst"
 
 #: mbti/models.py:385
 msgid "事先知道大部分的日子会做什么"
-msgstr ""
+msgstr "Wissen Sie im Voraus, was Sie an den meisten Tagen tun werden"
 
 #: mbti/models.py:388
 msgid "你刚认识的朋友能否说出你的兴趣"
-msgstr ""
+msgstr "Kann mir ein Freund, den du gerade getroffen hast, deine Interessen mitteilen?"
 
 #: mbti/models.py:389
 msgid "马上可以"
-msgstr ""
+msgstr "Ich kann es sofort tun"
 
 #: mbti/models.py:391
 msgid "要待他们真正了解你之后才可以"
-msgstr ""
+msgstr "Es wird nicht sein, bis sie dich wirklich kennen"
 
 #: mbti/models.py:394
 msgid "你通常较喜欢的科目是"
-msgstr ""
+msgstr "Ihr übliches Lieblingsthema ist"
 
 #: mbti/models.py:395
 msgid "讲授概念和原则的"
-msgstr ""
+msgstr "Konzepte und Prinzipien vermitteln"
 
 #: mbti/models.py:397
 msgid "讲授事实和数据的"
-msgstr ""
+msgstr "Fakten und Daten vermitteln"
 
 #: mbti/models.py:400
 msgid "哪个是较高的赞誉，或称许为"
-msgstr ""
+msgstr "Was ist das höhere Lob oder Lob"
 
 #: mbti/models.py:401
 msgid "一贯感性的人"
-msgstr ""
+msgstr "Eine Person, die schon immer emotional war"
 
 #: mbti/models.py:403
 msgid "一贯理性的人"
-msgstr ""
+msgstr "Ein Mann, der schon immer rational war"
 
 #: mbti/models.py:406
 msgid "你认为按照程序表做事"
-msgstr ""
+msgstr "Sie denken, Sie sollten den Zeitplan befolgen"
 
 #: mbti/models.py:407
 msgid "有时是需要的，但一般来说你不大喜欢这样做"
-msgstr ""
+msgstr "Manchmal wird es benötigt, aber im Allgemeinen gefällt es Ihnen nicht"
 
 #: mbti/models.py:409
 msgid "大多数情况下是有帮助而且是你喜欢做的"
-msgstr ""
+msgstr "Meistens ist es hilfreich und Sie tun es gerne"
 
 #: mbti/models.py:412
 msgid "和一群人在一起，你通常会选"
-msgstr ""
+msgstr "Bei einer Gruppe von Personen wählen Sie normalerweise"
 
 #: mbti/models.py:413
 msgid "跟你很熟悉的个别人谈话"
-msgstr ""
+msgstr "Sprich mit jemandem, den du sehr gut kennst"
 
 #: mbti/models.py:415
 msgid "参与大伙的谈话"
-msgstr ""
+msgstr "Nehmen Sie am Gespräch der Gruppe teil"
 
 #: mbti/models.py:418
 msgid "在社交聚会上，你会"
-msgstr ""
+msgstr "Bei gesellschaftlichen Zusammenkünften werden Sie"
 
 #: mbti/models.py:419
 msgid "是说话很多的一个"
-msgstr ""
+msgstr "Ist einer, der viel spricht"
 
 #: mbti/models.py:421
 msgid "让别人多说话"
-msgstr ""
+msgstr "Lassen Sie andere mehr reden"
 
 #: mbti/models.py:424
 msgid "把周末期间要完成的事列成清单，这个主意会"
-msgstr ""
+msgstr "Die Idee, eine Liste von Dingen zu erstellen, die am Wochenende erledigt werden müssen, wird"
 
 #: mbti/models.py:425
 msgid "合你意"
-msgstr ""
+msgstr "Es liegt bei Ihnen"
 
 #: mbti/models.py:427
 msgid "使你提不起劲"
-msgstr ""
+msgstr "Es macht dich unfähig, deine Energie zu heben"
 
 #: mbti/models.py:430
 msgid "哪个是较高的赞誉"
-msgstr ""
+msgstr "Was ist das höhere Lob"
 
 #: mbti/models.py:431
 msgid "能干的"
-msgstr ""
+msgstr "Kompetent"
 
 #: mbti/models.py:433
 msgid "富有同情心"
-msgstr ""
+msgstr "Mitleidig"
 
 #: mbti/models.py:436
 msgid "你通常喜欢"
-msgstr ""
+msgstr "Normalerweise gefällt es Ihnen"
 
 #: mbti/models.py:437
 msgid "事先安排你的社交约会"
-msgstr ""
+msgstr "Planen Sie Ihre sozialen Termine im Voraus"
 
 #: mbti/models.py:439
 msgid "随兴之所至做事"
-msgstr ""
+msgstr "Tun Sie, was Sie tun möchten"
 
 #: mbti/models.py:442
 msgid "总的说来，要做一个大型作业时，你会选"
-msgstr ""
+msgstr "Im Allgemeinen, wenn Sie einen großen Job machen, werden Sie wählen"
 
 #: mbti/models.py:443
 msgid "边做边想该做什么"
-msgstr ""
+msgstr "Überlegen Sie, was zu tun ist, während Sie es tun"
 
 #: mbti/models.py:445
 msgid "首先把工作按步细分"
-msgstr ""
+msgstr "Brechen Sie zunächst die Arbeit Schritt für Schritt auf"
 
 #: mbti/models.py:448
 msgid "你能否滔滔不绝地与人聊天"
-msgstr ""
+msgstr "Kannst du endlos mit Menschen sprechen?"
 
 #: mbti/models.py:449
 msgid "只限于跟你有共同兴趣的人"
-msgstr ""
+msgstr "Nur für Personen, die Ihre Interessen teilen"
 
 #: mbti/models.py:451
 msgid "几乎跟任何人都可以"
-msgstr ""
+msgstr "Fast jeder kann"
 
 #: mbti/models.py:454
 msgid "你会"
-msgstr ""
+msgstr "Sie werden"
 
 #: mbti/models.py:455
 msgid "跟随一些证明有效的方法"
-msgstr ""
+msgstr "Folgen Sie einigen bewährten Methoden"
 
 #: mbti/models.py:457
 msgid "分析还有什么毛病，及针对尚未解决的难题"
-msgstr ""
+msgstr "Analysieren Sie, was sonst noch falsch ist und beheben Sie ungelöste Probleme"
 
 #: mbti/models.py:460
 msgid "为乐趣而阅读时，你会"
-msgstr ""
+msgstr "Wenn Sie zum Spaß lesen, werden Sie"
 
 #: mbti/models.py:461
 msgid "喜欢奇特或创新的表达方式"
-msgstr ""
+msgstr "Wie seltsame oder innovative Ausdrücke"
 
 #: mbti/models.py:463
 msgid "喜欢作者直话直说"
-msgstr ""
+msgstr "Ich mag es, wenn der Autor seine Stimme ertrpricht"
 
 #: mbti/models.py:466
 msgid "你宁愿替哪一类上司（或者老师）工作"
-msgstr ""
+msgstr "Für welche Art von Chef (oder Lehrer) würdest du lieber arbeiten?"
 
 #: mbti/models.py:467
 msgid "天性淳良，但常常前后不一的"
-msgstr ""
+msgstr "Die Natur ist gut, aber oft inkonsistent"
 
 #: mbti/models.py:469
 msgid "言词尖锐但永远合乎逻辑的"
-msgstr ""
+msgstr "Worte sind scharf, aber immer logisch"
 
 #: mbti/models.py:472
 msgid "你做事多数是"
-msgstr ""
+msgstr "Die meisten von euch tun Dinge"
 
 #: mbti/models.py:473
 msgid "按当天心情去做"
-msgstr ""
+msgstr "Tun Sie, was Sie an diesem Tag fühlen"
 
 #: mbti/models.py:475
 msgid "照拟好的程序表去做"
-msgstr ""
+msgstr "Machen Sie, was Sie Ihren Zeitplan planen"
 
 #: mbti/models.py:479
 msgid "可以和任何人按需求从容地交谈"
-msgstr ""
+msgstr "Sie können bei Bedarf mit jedem sprechen"
 
 #: mbti/models.py:481
 msgid "只是对某些人或在某种情况下才可以畅所欲言"
-msgstr ""
+msgstr "Es geht nur um jemanden oder unter bestimmten Umständen, dass Sie sich äußern können"
 
 #: mbti/models.py:484
 msgid "要作决定时，你认为比较重要的是"
-msgstr ""
+msgstr "Wenn Sie eine Entscheidung treffen, denken Sie, dass es wichtiger ist"
 
 #: mbti/models.py:485
 msgid "据事实衡量"
-msgstr ""
+msgstr "Gemessen an Fakten"
 
 #: mbti/models.py:487
 msgid "考虑他人的感受和意见"
-msgstr ""
+msgstr "Berücksichtigen Sie die Gefühle und Meinungen anderer Menschen"
 
 #: mbti/views.py:54
 msgid "测试完成，你的性格分析结果为:"
-msgstr ""
+msgstr "Sobald der Test abgeschlossen ist, sind Ihre Persönlichkeitsanalyseergebnisse:"
 
 #: templates/base.html:10
 msgid "MBTI测试"
-msgstr ""
+msgstr "MBTI-Test"
 
 #: templates/base.html:56
 msgid "MBTI职业性格在线测试"
-msgstr ""
+msgstr "MBTI Professional Persönlichkeit Online Test"
 
 #: templates/base.html:71 templates/mbti/home.html:2
 msgid "首页"
-msgstr ""
+msgstr "Heim"
 
 #: templates/base.html:74 templates/mbti/personalities/index.html:2
 msgid "MBTI十六种人格简介"
-msgstr ""
+msgstr "Einführung in MBTI sechzehn Persönlichkeiten"
 
 #: templates/base.html:77 templates/mbti/about.html:2
 msgid "关于"
-msgstr ""
+msgstr "betreffend"
 
 #: templates/base.html:80 templates/mbti/disqus.html:3
 msgid "留言板"
-msgstr ""
+msgstr "Message Board"
 
 #: templates/base.html:83
 msgid "网站语言"
-msgstr ""
+msgstr "Die Sprache der Website"
 
 #: templates/mbti/about.html:17
 msgid "爱自己吗？"
-msgstr ""
+msgstr "Sich selbst lieben?"
 
 #: templates/mbti/about.html:18
 msgid "爱。"
-msgstr ""
+msgstr "Liebe."
 
 #: templates/mbti/about.html:19
 msgid "那我就是你的情敌噜~"
-msgstr ""
+msgstr "Dann bin ich dein Feind"
 
 #: templates/mbti/about.html:21
 msgid "MBTI 职业性格测试是国际最为流行的职业人格评估工具，作为一种对个性的判断和分析，是一个理论模型，"
-msgstr ""
+msgstr "MBTI professioneller Persönlichkeitstest ist das beliebteste professionelle Persönlichkeitsbewertungsinstrument der Welt, als eine Art Persönlichkeitsurteil und -analyse, ist ein theoretisches Modell,"
 
 #: templates/mbti/about.html:22
 msgid "MBTI测试 是从纷繁复杂的个性特征中，归纳提炼出4个关键要素——动力、信息收集、决策方式、生活方式，进行分析判断，"
-msgstr ""
+msgstr "MBTI-Test wird aus den komplexen Persönlichkeitsmerkmalen zusammengefasst und extrahiert vier Schlüsselelemente - Motivation, Informationssammlung, Entscheidungsfindung, Lebensstil, Analyse und Urteil,"
 
 #: templates/mbti/about.html:23
 msgid "从而把不同个性的人区别开来。"
-msgstr ""
+msgstr "Das unterscheidet die Menschen voneinander."
 
 #: templates/mbti/about.html:24
 msgid "第一次听说是从一个朋友处听说的，网络上搜下发现要做一系列的题目，最后根据选择答案的结果来判断是什么人格"
-msgstr ""
+msgstr "Das erste Mal, als ich es hörte, war von einem Freund, die Netzwerksuche fand eine Reihe von Fragen, und schließlich nach den Ergebnissen der Wahl der Antworten, um zu beurteilen, welche Persönlichkeit"
 
 #: templates/mbti/about.html:25
 msgid "做题不方便，于是开发了这个网站可以在线MBTI测试，建议使用电脑浏览器访问，效果更加。"
-msgstr ""
+msgstr "Die Frage ist nicht bequem, so entwickelt diese Website kann Online-MBTI-Test sein, es wird empfohlen, einen Computer-Browser-Zugriff zu verwenden, der Effekt ist besser."
 
 #: templates/mbti/about.html:26
 msgid "MBTI测试结果解释均来自"
-msgstr ""
+msgstr "Die Erläuterung der MBTI-Testergebnisse stammt von"
 
 #: templates/mbti/about.html:26
 msgid "百度百科"
-msgstr ""
+msgstr "Baidu Enzyklopädisch"
 
 #: templates/mbti/about.html:27
 msgid "如果本网站对您有帮助，您喜欢的话，请帮忙多多点击网站上的广告。"
-msgstr ""
+msgstr "Wenn diese Website für Sie hilfreich ist, wenn Sie sie mögen, helfen Sie Ihnen bitte, mehr auf die Anzeigen auf der Website zu klicken."
 
 #: templates/mbti/about.html:28
 msgid "如果您愿意打赏，欢迎扫码捐杯咖啡，当然100不嫌多1毛不嫌少，感谢您的支持。"
-msgstr ""
+msgstr "Wenn Sie bereit sind zu belohnen, willkommen, Code Spende Tasse Kaffee zu fegen, natürlich, 100 nicht zu viel 1 Haar nicht zu wenig, danke für Ihre Unterstützung."
 
 #: templates/mbti/disqus.html:7
 msgid "留下你对MBTI测试的建议或评论"
-msgstr ""
+msgstr "Hinterlassen Sie Ihre Vorschläge oder Kommentare zu MBTI-Tests"
 
 #: templates/mbti/home.html:47
 msgid "MBTI测试前须知"
-msgstr ""
+msgstr "Was Sie vor dem MBTI-Test wissen sollten"
 
 #: templates/mbti/home.html:48
 msgid "参加测试的人员请务必诚实、独立地回答问题，只有如此，才能得到有效的结果。"
-msgstr ""
+msgstr "Die Teilnehmer des Tests müssen Fragen ehrlich und unabhängig beantworten, um effektive Ergebnisse zu erzielen."
 
 #: templates/mbti/home.html:49
 msgid "性格分析展示的是你的性格倾向，而不是你的知识、技能、经验。"
-msgstr ""
+msgstr "Die Persönlichkeitsanalyse zeigt Ihre Persönlichkeitstendenzen, nicht Ihr Wissen, Ihre Fähigkeiten und Ihre Erfahrung."
 
 #: templates/mbti/home.html:50
 msgid "MBTI提供的性格类型描述仅供测试者确定自己的性格类型之用，性格类型没有好坏，只有不同。每一种性格特征都有其价值和优点，也有缺点和需要注意的地方。清楚地了解自己的性格优劣势，有利于更好地发挥自己的特长，而尽可能的在为人处事中避免自己性格中的劣势，更好地和他人相处，更好地作重要的决策。"
-msgstr ""
+msgstr "MBTI bietet eine Beschreibung des Persönlichkeitstyps nur für den Tester, um seinen eigenen Persönlichkeitstyp zu bestimmen, Persönlichkeitstyp ist nicht gut oder schlecht, nur anders. Jedes Persönlichkeitsmerkmal hat seinen Wert und seine Vorteile sowie Mängel und Bereiche, auf die man achten muss. Ein klares Verständnis der eigenen Persönlichkeitsstärken und -schwächen, förderlich für eine bessere Nutzung der eigenen Stärken und so weit wie möglich im Verhalten des eigenen Charakters, um Schwächen zu vermeiden, besser mit anderen, bessere Entscheidungsfindung."
 
 #: templates/mbti/home.html:51
 msgid "共72题；所有题目没有对错之分，请根据自己的实际情况选择。"
-msgstr ""
+msgstr "Insgesamt 72 Fragen; alle Themen sind nicht richtig oder falsch, bitte wählen Sie nach ihrer eigenen Ist-Situation."
 
 #: templates/mbti/home.html:52
 msgid "测试结果仅供参考！如果本网站对您有帮助，您喜欢的话，请帮忙多多点击网站上的广告，感谢！"
-msgstr ""
+msgstr "Die Testergebnisse dienen nur zu Informationszwecken! Wenn diese Website für Sie hilfreich ist, wenn Sie sie mögen, helfen Sie bitte, mehr auf die Anzeigen auf der Website zu klicken, danke!"
 
 #: templates/mbti/home.html:55
 msgid "网站目前已帮助"
-msgstr ""
+msgstr "Die Website ist derzeit hilfreich"
 
 #: templates/mbti/home.html:55
 msgid "人完成测试！"
-msgstr ""
+msgstr "Die Leute machen den Test!"
 
 #: templates/mbti/home.html:63
 msgid "开始"
-msgstr ""
+msgstr "Anfangen"
 
 #: templates/mbti/test.html:2
 msgid "测试中"
-msgstr ""
+msgstr "Im Test"
 
 #: templates/mbti/personalities/base.html:13
 msgid "查看性格详情"
-msgstr ""
+msgstr "Persönlichkeitsdetails anzeigen"
 
 #: templates/mbti/personalities/base.html:21
 msgid "我要吐槽！！！"
-msgstr ""
+msgstr "Hinterlasse einen Kommentar"
 
 #: templates/mbti/personalities/enfj.html:4 templates/mbti/personalities/enfp.html:4 templates/mbti/personalities/entj.html:4 templates/mbti/personalities/entp.html:4 templates/mbti/personalities/esfj.html:4 templates/mbti/personalities/esfp.html:4 templates/mbti/personalities/estj.html:4 templates/mbti/personalities/estp.html:4 templates/mbti/personalities/infj.html:4 templates/mbti/personalities/infp.html:4 templates/mbti/personalities/intj.html:4 templates/mbti/personalities/intp.html:4 templates/mbti/personalities/isfj.html:4 templates/mbti/personalities/isfp.html:4 templates/mbti/personalities/istj.html:4
 #: templates/mbti/personalities/istp.html:4
 msgid "MBTI测试结果"
-msgstr ""
+msgstr "MBTI-Testergebnisse"
 
 #: templates/mbti/personalities/enfj.html:5
 msgid "教育家型人格"
