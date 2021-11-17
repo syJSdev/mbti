@@ -7,6 +7,7 @@ import random
 import settings
 from flask import (Blueprint, abort, flash, make_response, redirect,
                    render_template, request, send_from_directory)
+from flask_babel import force_locale
 from flask_babel import gettext as _
 
 from utils import (get_questions, get_result, get_tested_count, get_types_desc,
@@ -19,7 +20,18 @@ MBTI_BP = Blueprint('mbti', __name__)
 def welcome():
     #  return render_template('mbti/welcome.html')
     tested_count = get_tested_count()
-    return render_template('mbti/home.html', tested_count=tested_count)
+
+    arg_lang = request.args.get("lang")
+    if arg_lang in settings.SUPPORT_LANGS:
+        with force_locale(arg_lang):
+            resp = make_response(
+                render_template('mbti/home.html', tested_count=tested_count))
+            resp.set_cookie(settings.LOCALE_COOKIE_KEY, arg_lang)
+    else:
+        resp = make_response(
+            render_template('mbti/home.html', tested_count=tested_count))
+
+    return resp
 
 
 @MBTI_BP.route('/home/')
@@ -69,11 +81,3 @@ def messageboards():
 def ads_txt():
     '''google 广告 ads.txt'''
     return send_from_directory("static", "ads.txt")
-
-
-@MBTI_BP.route('/locale/<lang>')
-def locale(lang):
-    '''设置网站语言'''
-    resp = make_response(redirect("/"))
-    resp.set_cookie(settings.LOCALE_COOKIE_KEY, lang)
-    return resp
