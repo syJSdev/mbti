@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2021-11-17 09:29+0800\n"
-"PO-Revision-Date: 2021-11-17 09:46+0800\n"
+"PO-Revision-Date: 2021-11-17 23:41+0800\n"
 "Last-Translator: \n"
 "Language: ko\n"
 "Language-Team: ko <LL@li.org>\n"
@@ -1049,7 +1049,7 @@ msgstr "테스트 결과는 정보 제공목적으로만 제공됩니다! 이 �
 
 #: templates/mbti/home.html:55
 msgid "网站目前已帮助"
-msgstr "사 이 트 는 현재"
+msgstr "사 이 트 는 현재 이미"
 
 #: templates/mbti/home.html:55
 msgid "人完成测试！"
