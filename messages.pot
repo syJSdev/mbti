@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2021-11-14 23:29+0800\n"
+"POT-Creation-Date: 2021-11-17 09:29+0800\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -74,7 +74,9 @@ msgid "诚挚、爱说话、合作性高、受欢迎、光明正大的—天生�
 msgstr ""
 
 #: mbti/models.py:50
-msgid "热忱、易感应及负责任的--具能鼓励他人的领导风格。对别人所想或希求会表达真正关切且切实用心去处理。能怡然且技巧性地带领团体讨论或演示文稿提案。爱交际、受欢迎及富同情心。对称许及批评很在意。喜欢带引别人且能使别人或团体发挥潜能。"
+msgid ""
+"热忱、易感应及负责任的--"
+"具能鼓励他人的领导风格。对别人所想或希求会表达真正关切且切实用心去处理。能怡然且技巧性地带领团体讨论或演示文稿提案。爱交际、受欢迎及富同情心。对称许及批评很在意。喜欢带引别人且能使别人或团体发挥潜能。"
 msgstr ""
 
 #: mbti/models.py:53
@@ -937,7 +939,7 @@ msgstr ""
 msgid "考虑他人的感受和意见"
 msgstr ""
 
-#: mbti/views.py:54
+#: mbti/views.py:55
 msgid "测试完成，你的性格分析结果为:"
 msgstr ""
 
@@ -969,51 +971,51 @@ msgstr ""
 msgid "网站语言"
 msgstr ""
 
-#: templates/mbti/about.html:17
+#: templates/mbti/about.html:30
 msgid "爱自己吗？"
 msgstr ""
 
-#: templates/mbti/about.html:18
+#: templates/mbti/about.html:31
 msgid "爱。"
 msgstr ""
 
-#: templates/mbti/about.html:19
+#: templates/mbti/about.html:32
 msgid "那我就是你的情敌噜~"
 msgstr ""
 
-#: templates/mbti/about.html:21
+#: templates/mbti/about.html:34
 msgid "MBTI 职业性格测试是国际最为流行的职业人格评估工具，作为一种对个性的判断和分析，是一个理论模型，"
 msgstr ""
 
-#: templates/mbti/about.html:22
+#: templates/mbti/about.html:35
 msgid "MBTI测试 是从纷繁复杂的个性特征中，归纳提炼出4个关键要素——动力、信息收集、决策方式、生活方式，进行分析判断，"
 msgstr ""
 
-#: templates/mbti/about.html:23
+#: templates/mbti/about.html:36
 msgid "从而把不同个性的人区别开来。"
 msgstr ""
 
-#: templates/mbti/about.html:24
+#: templates/mbti/about.html:37
 msgid "第一次听说是从一个朋友处听说的，网络上搜下发现要做一系列的题目，最后根据选择答案的结果来判断是什么人格"
 msgstr ""
 
-#: templates/mbti/about.html:25
-msgid "做题不方便，于是开发了这个网站可以在线MBTI测试，建议使用电脑浏览器访问，效果更加。"
+#: templates/mbti/about.html:38
+msgid "做题不方便，于是开发了这个网站可以在线MBTI测试，建议使用电脑浏览器访问，效果更佳。"
 msgstr ""
 
-#: templates/mbti/about.html:26
+#: templates/mbti/about.html:39
 msgid "MBTI测试结果解释均来自"
 msgstr ""
 
-#: templates/mbti/about.html:26
+#: templates/mbti/about.html:39
 msgid "百度百科"
 msgstr ""
 
-#: templates/mbti/about.html:27
+#: templates/mbti/about.html:40
 msgid "如果本网站对您有帮助，您喜欢的话，请帮忙多多点击网站上的广告。"
 msgstr ""
 
-#: templates/mbti/about.html:28
+#: templates/mbti/about.html:41
 msgid "如果您愿意打赏，欢迎扫码捐杯咖啡，当然100不嫌多1毛不嫌少，感谢您的支持。"
 msgstr ""
 
@@ -1053,7 +1055,7 @@ msgstr ""
 msgid "人完成测试！"
 msgstr ""
 
-#: templates/mbti/home.html:63
+#: templates/mbti/home.html:76
 msgid "开始"
 msgstr ""
 
@@ -1061,11 +1063,11 @@ msgstr ""
 msgid "测试中"
 msgstr ""
 
-#: templates/mbti/personalities/base.html:13
+#: templates/mbti/personalities/base.html:24
 msgid "查看性格详情"
 msgstr ""
 
-#: templates/mbti/personalities/base.html:21
+#: templates/mbti/personalities/base.html:32
 msgid "我要吐槽！！！"
 msgstr ""
 
@@ -1831,7 +1833,9 @@ msgid "人际关系"
 msgstr ""
 
 #: templates/mbti/personalities/entp.html:14
-msgid "在人际关系方面他们能一下子与所爱的人亲密起来。有些人在私底下表达这种感情；而另外一些人，对亲人的亲密程度却表现的很公然，以致于那些平时只见得他们工作中的一面的共事者们大吃一惊。ENTP人也善于结交那些与他们一样聪明、一样有趣的人。除了以上两方面，人性的其他方面似乎都被ENTP人给淡忘了，除非当他们作听众时-------给人或好，或坏，或什么样的感觉都有可能。"
+msgid ""
+"在人际关系方面他们能一下子与所爱的人亲密起来。有些人在私底下表达这种感情；而另外一些人，对亲人的亲密程度却表现的很公然，以致于那些平时只见得他们工作中的一面的共事者们大吃一惊。ENTP人也善于结交那些与他们一样聪明、一样有趣的人。除了以上两方面，人性的其他方面似乎都被ENTP人给淡忘了，除非当他们作听众时"
+"-------给人或好，或坏，或什么样的感觉都有可能。"
 msgstr ""
 
 #: templates/mbti/personalities/entp.html:15
@@ -2429,7 +2433,7 @@ msgstr ""
 msgid "你把竞争和人员间的不同意见看成是创新和商业成功的驱动力。你喜欢鼓励讨论、争论、坦诚交流的企业文化，与其他人相比你也许会与你的同事保持相对较远的关系。你在生机盎然和进取的企业文化里工作状态最好。"
 msgstr ""
 
-#: templates/mbti/personalities/index.html:19
+#: templates/mbti/personalities/index.html:31
 msgid "点击查看详细介绍"
 msgstr ""
 
@@ -2567,7 +2571,9 @@ msgid "人力资源经理、职业分析家、公司/团队培训员、商品策
 msgstr ""
 
 #: templates/mbti/personalities/infj.html:34
-msgid "虽然INFJ不会大量涌向商界，但其中有些领域也能让INFJ获得职业满足感。以上职业要求他们对不同的人产生兴趣，能帮助别人找工作，营造有效的工作环境，以及解决以人为本的问题。INFJ可以在商界的这些工作里找到满足感。　运用你的长处其实很容易。"
+msgid ""
+"虽然INFJ不会大量涌向商界，但其中有些领域也能让INFJ获得职业满足感。以上职业要求他们对不同的人产生兴趣，能帮助别人找工作，营造有效的工作环境，以及解决以人为本的问题。INFJ可以在商界的这些工作里找到满足感。"
+"　运用你的长处其实很容易。"
 msgstr ""
 
 #: templates/mbti/personalities/infj.html:36
@@ -3985,8 +3991,8 @@ msgstr ""
 msgid ""
 "初次见面时，ISFP "
 "人可能很讨人喜欢，很会逢迎人，他们会说一些事实或并非事实的恭维话。可等下一次见面时，同样一个人，可能就会显得很冷淡。一些ISFP "
-"类型的男性非常具有竞争力，尤其在运动或桌球上，要让他们输上一局可能会很难。这种在其他SP "
-"类型人中也有的本性----竞争性，使他们认为自己是幸运的，并勇于冒险。"
+"类型的男性非常具有竞争力，尤其在运动或桌球上，要让他们输上一局可能会很难。这种在其他SP 类型人中也有的本性----"
+"竞争性，使他们认为自己是幸运的，并勇于冒险。"
 msgstr ""
 
 #: templates/mbti/personalities/isfp.html:22
