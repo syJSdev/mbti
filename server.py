@@ -29,12 +29,15 @@ def get_locale():
     babel实例提供了一个localeselector装饰器。为每个请求调用装饰器函数以选择用于该请求的语言。
     Flask中request对象的属性accept_languages用于处理客户端发送的带Accept-Language头部的请求
     best_match()方法中了，该方法将应用提供的语言列表作为参数并返回最佳选择。
-    '''
     # https://www.science.co.il/language/Locale-codes.php
-    locale = request.cookies.get(settings.LOCALE_COOKIE_KEY)
-    if locale == "":
-        locale = request.accept_languages.best_match(['zh', 'en', 'ko', 'de'])
-    return locale
+    '''
+    langs = ['zh', 'en', 'ko', 'de']
+
+    cookie_lang = request.cookies.get(settings.LOCALE_COOKIE_KEY)
+    if cookie_lang:
+        return cookie_lang
+
+    return request.accept_languages.best_match(langs)
 
 
 SERVER.register_blueprint(MBTI_BP)

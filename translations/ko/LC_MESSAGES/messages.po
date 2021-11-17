@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2021-11-17 09:29+0800\n"
-"PO-Revision-Date: 2021-11-17 23:41+0800\n"
+"PO-Revision-Date: 2021-11-18 00:10+0800\n"
 "Last-Translator: \n"
 "Language: ko\n"
 "Language-Team: ko <LL@li.org>\n"
@@ -957,7 +957,7 @@ msgstr "홈 페이지"
 
 #: templates/base.html:74 templates/mbti/personalities/index.html:2
 msgid "MBTI十六种人格简介"
-msgstr "MBTI 열여섯 성격 프로필"
+msgstr "인격 소개"
 
 #: templates/base.html:77 templates/mbti/about.html:2
 msgid "关于"
@@ -969,7 +969,7 @@ msgstr "메시지 보드"
 
 #: templates/base.html:83
 msgid "网站语言"
-msgstr "웹 사이트 언어입니다"
+msgstr "언어."
 
 #: templates/mbti/about.html:30
 msgid "爱自己吗？"

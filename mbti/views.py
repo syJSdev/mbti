@@ -25,8 +25,7 @@ def welcome():
 @MBTI_BP.route('/home/')
 def home():
     '''首页'''
-    tested_count = get_tested_count()
-    return render_template('mbti/home.html', tested_count=tested_count)
+    return redirect("/")
 
 
 @MBTI_BP.route('/about/')
