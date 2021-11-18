@@ -7,8 +7,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2021-11-17 09:29+0800\n"
-"PO-Revision-Date: 2021-11-18 00:10+0800\n"
+"POT-Creation-Date: 2021-11-18 22:58+0800\n"
+"PO-Revision-Date: 2021-11-18 23:10+0800\n"
 "Last-Translator: \n"
 "Language: ko\n"
 "Language-Team: ko <LL@li.org>\n"
@@ -939,83 +939,79 @@ msgstr "사실에 의해 측정"
 msgid "考虑他人的感受和意见"
 msgstr "다른 사람의 감정과 의견을 고려하십시오"
 
-#: mbti/views.py:55
+#: mbti/views.py:66
 msgid "测试完成，你的性格分析结果为:"
 msgstr "테스트가 완료되고 성격 분석 결과는 다음과 같습니다."
 
-#: templates/base.html:10
-msgid "MBTI测试"
-msgstr "MBTI 테스트"
+#: templates/base.html:10 templates/base.html:31
+msgid "MBTI性格测试"
+msgstr "MBTI 성격 테스트"
 
-#: templates/base.html:56
-msgid "MBTI职业性格在线测试"
-msgstr "MBTI 직업 성격 온라인 테스트"
-
-#: templates/base.html:71 templates/mbti/home.html:2
+#: templates/base.html:46 templates/mbti/home.html:2
 msgid "首页"
 msgstr "홈 페이지"
 
-#: templates/base.html:74 templates/mbti/personalities/index.html:2
-msgid "MBTI十六种人格简介"
-msgstr "인격 소개"
+#: templates/base.html:49
+msgid "MBTI十六型人格"
+msgstr "MBTI 인격"
 
-#: templates/base.html:77 templates/mbti/about.html:2
+#: templates/base.html:52 templates/mbti/about.html:2
 msgid "关于"
 msgstr "에 대해"
 
-#: templates/base.html:80 templates/mbti/disqus.html:3
+#: templates/base.html:55 templates/mbti/disqus.html:3
 msgid "留言板"
 msgstr "메시지 보드"
 
-#: templates/base.html:83
+#: templates/base.html:58
 msgid "网站语言"
 msgstr "언어."
 
-#: templates/mbti/about.html:30
+#: templates/mbti/about.html:19
 msgid "爱自己吗？"
 msgstr "당신은 자신을 사랑합니까?"
 
-#: templates/mbti/about.html:31
+#: templates/mbti/about.html:20
 msgid "爱。"
 msgstr "사랑."
 
-#: templates/mbti/about.html:32
+#: templates/mbti/about.html:21
 msgid "那我就是你的情敌噜~"
 msgstr "그럼 난 네 애적인 적이야~"
 
-#: templates/mbti/about.html:34
+#: templates/mbti/about.html:23
 msgid "MBTI 职业性格测试是国际最为流行的职业人格评估工具，作为一种对个性的判断和分析，是一个理论模型，"
 msgstr "MBTI 직업 성격 테스트는 세계에서 가장 인기있는 직업 성격 평가 도구이며, 성격 판단 및 분석의 일종으로, 이론적 모델입니다."
 
-#: templates/mbti/about.html:35
+#: templates/mbti/about.html:24
 msgid "MBTI测试 是从纷繁复杂的个性特征中，归纳提炼出4个关键要素——动力、信息收集、决策方式、生活方式，进行分析判断，"
 msgstr "MBTI 테스트는 역학, 정보 수집, 의사 결정 방법, 라이프 스타일, 분석 및 판단의 네 가지 핵심 요소를 요약하고 추출하는 복잡한 성격 특성입니다."
 
-#: templates/mbti/about.html:36
+#: templates/mbti/about.html:25
 msgid "从而把不同个性的人区别开来。"
 msgstr "따라서 다른 성격의 사람들을 구별 할 수 있습니다."
 
-#: templates/mbti/about.html:37
+#: templates/mbti/about.html:26
 msgid "第一次听说是从一个朋友处听说的，网络上搜下发现要做一系列的题目，最后根据选择答案的结果来判断是什么人格"
 msgstr "첫 번째 듣기는 친구로부터 들었다, 네트워크 검색은 주제의 시리즈를 할 것을 발견, 마지막으로 어떤 성격을 판단하기 위해 답변의 결과에 따라 선택"
 
-#: templates/mbti/about.html:38
+#: templates/mbti/about.html:27
 msgid "做题不方便，于是开发了这个网站可以在线MBTI测试，建议使用电脑浏览器访问，效果更佳。"
 msgstr "문제를 수행하는 것은 편리하지 않습니다, 그래서이 웹 사이트는 온라인 MBTI 테스트를 할 수 있습니다 개발, 컴퓨터 브라우저 액세스를 사용하는 것이 좋습니다, 더 나은 결과."
 
-#: templates/mbti/about.html:39
+#: templates/mbti/about.html:28
 msgid "MBTI测试结果解释均来自"
 msgstr "MBTI 테스트 결과는 모두 설명에서 파생됩니다"
 
-#: templates/mbti/about.html:39
+#: templates/mbti/about.html:28
 msgid "百度百科"
 msgstr "바이두 백과 사전"
 
-#: templates/mbti/about.html:40
+#: templates/mbti/about.html:29
 msgid "如果本网站对您有帮助，您喜欢的话，请帮忙多多点击网站上的广告。"
 msgstr "이 웹 사이트가 도움이되고 당신이 좋아하는 경우에, 더 많은 광고를 클릭하는 데 도움이하시기 바랍니다."
 
-#: templates/mbti/about.html:41
+#: templates/mbti/about.html:30
 msgid "如果您愿意打赏，欢迎扫码捐杯咖啡，当然100不嫌多1毛不嫌少，感谢您的支持。"
 msgstr "당신이 상을 기꺼이하는 경우, 커피 한 잔을 기부하는 코드를 스캔에 오신 것을 환영합니다, 물론 100 더 많은 1 털이 적은, 당신의 지원을 주셔서 감사합니다."
 
@@ -1055,7 +1051,7 @@ msgstr "사 이 트 는 현재 이미"
 msgid "人完成测试！"
 msgstr "명 이 테스트 를 완성 하 는 것 을 도 왔 습 니 다!"
 
-#: templates/mbti/home.html:76
+#: templates/mbti/home.html:67
 msgid "开始"
 msgstr "시작 하 다"
 
@@ -1063,11 +1059,11 @@ msgstr "시작 하 다"
 msgid "测试中"
 msgstr "테스트 중입니다"
 
-#: templates/mbti/personalities/base.html:24
+#: templates/mbti/personalities/base.html:13
 msgid "查看性格详情"
 msgstr "성격 세부 정보를 확인하십시오"
 
-#: templates/mbti/personalities/base.html:32
+#: templates/mbti/personalities/base.html:21
 msgid "我要吐槽！！！"
 msgstr "메시지를 남겼습니다"
 
@@ -2331,7 +2327,11 @@ msgstr "기존 검증된 접근 방식을 사용하여 비즈니스를 처리하
 msgid "你把竞争和人员间的不同意见看成是创新和商业成功的驱动力。你喜欢鼓励讨论、争论、坦诚交流的企业文化，与其他人相比你也许会与你的同事保持相对较远的关系。你在生机盎然和进取的企业文化里工作状态最好。"
 msgstr "경쟁과 사람들의 차이를 혁신과 비즈니스 성공의 원동력으로 생각합니다. 토론, 토론 및 솔직한 의사 소통을 장려하는 기업 문화를 좋아하며 다른 사람들보다 동료와 상대적으로 멀리 떨어져 있을 수 있습니다. 당신은 활기차고 진취적인 기업 문화에서 가장 잘 작동합니다."
 
-#: templates/mbti/personalities/index.html:31
+#: templates/mbti/personalities/index.html:2
+msgid "MBTI十六种人格简介"
+msgstr "인격 소개"
+
+#: templates/mbti/personalities/index.html:19
 msgid "点击查看详细介绍"
 msgstr "자세한 내용을 보려면 클릭하십시오"
 
@@ -4552,3 +4552,9 @@ msgstr "ISTP 유형 사람들은 일반적으로 흥미로운 새로운 것들�
 #: templates/mbti/personalities/istp.html:27
 msgid "信息服务业、计算机程序员、软件开发、律师助理、消防员、药剂师、证券分析员、银行职员、管理顾问、财务顾问、电子专业人士、技术培训人员、海洋生物学者、后勤与供应经理、经济学者、贸易、商品经销商/产品代理商（有形产品）、警察、侦探、体育工作者、赛车手、飞行员、雕塑家、手工制作、画家"
 msgstr "정보 서비스, 컴퓨터 프로그래머, 소프트웨어 개발, 준법률가, 소방관, 약사, 증권 분석가, 은행 직원, 관리 컨설턴트, 재무 고문, 전자 전문가, 기술 트레이너, 해양 생물학자, 물류 및 공급 관리자, 경제학자, 무역, 상품 유통 업체 / 제품 에이전트 (유형 제품), 경찰, 탐정, 스포츠 노동자, 레이서, 조종사, 조각가, 수제, 화가"
+
+#~ msgid "MBTI测试"
+#~ msgstr "MBTI 테스트"
+
+#~ msgid "MBTI职业性格在线测试"
+#~ msgstr "MBTI 직업 성격 온라인 테스트"
