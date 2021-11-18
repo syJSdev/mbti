@@ -7,8 +7,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2021-11-17 09:29+0800\n"
-"PO-Revision-Date: 2021-11-18 00:09+0800\n"
+"POT-Creation-Date: 2021-11-18 22:58+0800\n"
+"PO-Revision-Date: 2021-11-18 23:09+0800\n"
 "Last-Translator: \n"
 "Language: de\n"
 "Language-Team: de <LL@li.org>\n"
@@ -940,83 +940,79 @@ msgstr "Gemessen an Fakten"
 msgid "考虑他人的感受和意见"
 msgstr "Berücksichtigen Sie die Gefühle und Meinungen anderer Menschen"
 
-#: mbti/views.py:55
+#: mbti/views.py:66
 msgid "测试完成，你的性格分析结果为:"
 msgstr "Sobald der Test abgeschlossen ist, sind Ihre Persönlichkeitsanalyseergebnisse:"
 
-#: templates/base.html:10
-msgid "MBTI测试"
-msgstr "MBTI-Test"
+#: templates/base.html:10 templates/base.html:31
+msgid "MBTI性格测试"
+msgstr "MBTI Persönlichkeitstest"
 
-#: templates/base.html:56
-msgid "MBTI职业性格在线测试"
-msgstr "MBTI Professional Persönlichkeit Online Test"
-
-#: templates/base.html:71 templates/mbti/home.html:2
+#: templates/base.html:46 templates/mbti/home.html:2
 msgid "首页"
 msgstr "Heim"
 
-#: templates/base.html:74 templates/mbti/personalities/index.html:2
-msgid "MBTI十六种人格简介"
-msgstr "Profil der Persönlichkeit"
+#: templates/base.html:49
+msgid "MBTI十六型人格"
+msgstr "MBTI Persönlichkeit"
 
-#: templates/base.html:77 templates/mbti/about.html:2
+#: templates/base.html:52 templates/mbti/about.html:2
 msgid "关于"
 msgstr "betreffend"
 
-#: templates/base.html:80 templates/mbti/disqus.html:3
+#: templates/base.html:55 templates/mbti/disqus.html:3
 msgid "留言板"
-msgstr "Message Board"
+msgstr "MessageBoard"
 
-#: templates/base.html:83
+#: templates/base.html:58
 msgid "网站语言"
 msgstr "Sprache"
 
-#: templates/mbti/about.html:30
+#: templates/mbti/about.html:19
 msgid "爱自己吗？"
 msgstr "Sich selbst lieben?"
 
-#: templates/mbti/about.html:31
+#: templates/mbti/about.html:20
 msgid "爱。"
 msgstr "Liebe."
 
-#: templates/mbti/about.html:32
+#: templates/mbti/about.html:21
 msgid "那我就是你的情敌噜~"
 msgstr "Dann bin ich dein Feind"
 
-#: templates/mbti/about.html:34
+#: templates/mbti/about.html:23
 msgid "MBTI 职业性格测试是国际最为流行的职业人格评估工具，作为一种对个性的判断和分析，是一个理论模型，"
 msgstr "MBTI professioneller Persönlichkeitstest ist das beliebteste professionelle Persönlichkeitsbewertungsinstrument der Welt, als eine Art Persönlichkeitsurteil und -analyse, ist ein theoretisches Modell,"
 
-#: templates/mbti/about.html:35
+#: templates/mbti/about.html:24
 msgid "MBTI测试 是从纷繁复杂的个性特征中，归纳提炼出4个关键要素——动力、信息收集、决策方式、生活方式，进行分析判断，"
 msgstr "MBTI-Test wird aus den komplexen Persönlichkeitsmerkmalen zusammengefasst und extrahiert vier Schlüsselelemente - Motivation, Informationssammlung, Entscheidungsfindung, Lebensstil, Analyse und Urteil,"
 
-#: templates/mbti/about.html:36
+#: templates/mbti/about.html:25
 msgid "从而把不同个性的人区别开来。"
 msgstr "Das unterscheidet die Menschen voneinander."
 
-#: templates/mbti/about.html:37
+#: templates/mbti/about.html:26
 msgid "第一次听说是从一个朋友处听说的，网络上搜下发现要做一系列的题目，最后根据选择答案的结果来判断是什么人格"
 msgstr "Das erste Mal, als ich es hörte, war von einem Freund, die Netzwerksuche fand eine Reihe von Fragen, und schließlich nach den Ergebnissen der Wahl der Antworten, um zu beurteilen, welche Persönlichkeit"
 
-#: templates/mbti/about.html:38
+#: templates/mbti/about.html:27
 msgid "做题不方便，于是开发了这个网站可以在线MBTI测试，建议使用电脑浏览器访问，效果更佳。"
 msgstr "Die Frage ist nicht bequem, so entwickelt diese Website kann Online-MBTI-Test sein, es wird empfohlen, einen Computer-Browser-Zugriff zu verwenden, der Effekt ist besser."
 
-#: templates/mbti/about.html:39
+#: templates/mbti/about.html:28
 msgid "MBTI测试结果解释均来自"
 msgstr "Die Erläuterung der MBTI-Testergebnisse stammt von"
 
-#: templates/mbti/about.html:39
+#: templates/mbti/about.html:28
 msgid "百度百科"
 msgstr "Baidu Enzyklopädisch"
 
-#: templates/mbti/about.html:40
+#: templates/mbti/about.html:29
 msgid "如果本网站对您有帮助，您喜欢的话，请帮忙多多点击网站上的广告。"
 msgstr "Wenn diese Website für Sie hilfreich ist, wenn Sie sie mögen, helfen Sie Ihnen bitte, mehr auf die Anzeigen auf der Website zu klicken."
 
-#: templates/mbti/about.html:41
+#: templates/mbti/about.html:30
 msgid "如果您愿意打赏，欢迎扫码捐杯咖啡，当然100不嫌多1毛不嫌少，感谢您的支持。"
 msgstr "Wenn Sie bereit sind zu belohnen, willkommen, Code Spende Tasse Kaffee zu fegen, natürlich, 100 nicht zu viel 1 Haar nicht zu wenig, danke für Ihre Unterstützung."
 
@@ -1056,7 +1052,7 @@ msgstr "Die Website hat"
 msgid "人完成测试！"
 msgstr "Menschen geholfen, den Test abzuschließen!"
 
-#: templates/mbti/home.html:76
+#: templates/mbti/home.html:67
 msgid "开始"
 msgstr "Start"
 
@@ -1064,11 +1060,11 @@ msgstr "Start"
 msgid "测试中"
 msgstr "Im Test"
 
-#: templates/mbti/personalities/base.html:24
+#: templates/mbti/personalities/base.html:13
 msgid "查看性格详情"
 msgstr "Persönlichkeitsdetails anzeigen"
 
-#: templates/mbti/personalities/base.html:32
+#: templates/mbti/personalities/base.html:21
 msgid "我要吐槽！！！"
 msgstr "Hinterlasse einen Kommentar"
 
@@ -2400,7 +2396,11 @@ msgstr "Sie bevorzugen eine geschäftige, praxisorientierte Unternehmenskultur, 
 msgid "你把竞争和人员间的不同意见看成是创新和商业成功的驱动力。你喜欢鼓励讨论、争论、坦诚交流的企业文化，与其他人相比你也许会与你的同事保持相对较远的关系。你在生机盎然和进取的企业文化里工作状态最好。"
 msgstr "Sie sehen Wettbewerb und Uneinigkeit unter den Menschen als Treiber für Innovation und Geschäftserfolg. Sie mögen eine Kultur, die Diskussionen, Debatten und ehrliche Kommunikation fördert, und Sie haben möglicherweise eine relativ entfernte Beziehung zu Ihren Kollegen als andere. Sie arbeiten am besten in einer lebendigen und unternehmungslustigen Unternehmenskultur."
 
-#: templates/mbti/personalities/index.html:31
+#: templates/mbti/personalities/index.html:2
+msgid "MBTI十六种人格简介"
+msgstr "Profil der Persönlichkeit"
+
+#: templates/mbti/personalities/index.html:19
 msgid "点击查看详细介绍"
 msgstr "Klicken Sie hier für weitere Details"
 
@@ -4736,3 +4736,9 @@ msgstr "ISTP-Menschen achten in der Regel auf interessante neue Dinge und sind o
 #: templates/mbti/personalities/istp.html:27
 msgid "信息服务业、计算机程序员、软件开发、律师助理、消防员、药剂师、证券分析员、银行职员、管理顾问、财务顾问、电子专业人士、技术培训人员、海洋生物学者、后勤与供应经理、经济学者、贸易、商品经销商/产品代理商（有形产品）、警察、侦探、体育工作者、赛车手、飞行员、雕塑家、手工制作、画家"
 msgstr "Informationsdienste, Computerprogrammierer, Softwareentwicklung, Anwaltskanzleien, Feuerwehrleute, Apotheker, Wertpapieranalysten, Bankangestellte, Unternehmensberater, Finanzberater, Elektroniker, technische Ausbilder, Meeresbiologen, Logistik- und Versorgungsmanager, Ökonomen, Handel, Warenhändler / Produktagenten (greifbare Produkte), Polizei, Detectives Sportarbeiter, Rennfahrer, Piloten, Bildhauer, Kunsthandwerk, Maler"
+
+#~ msgid "MBTI测试"
+#~ msgstr "MBTI-Test"
+
+#~ msgid "MBTI职业性格在线测试"
+#~ msgstr "MBTI Professional Persönlichkeit Online Test"
