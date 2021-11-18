@@ -7,8 +7,9 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2021-11-17 09:29+0800\n"
-"PO-Revision-Date: 2021-11-17 09:46+0800\n"
+"POT-Creation-Date: 2021-11-18 22:58+0800\n"
+"PO-Revision-Date: 2021-11-18 23:06+0800\n"
+"Last-Translator: \n"
 "Language: en\n"
 "Language-Team: en <LL@li.org>\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
@@ -16,7 +17,6 @@ msgstr ""
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.9.1\n"
-"Last-Translator: \n"
 "X-Generator: Poedit 3.0\n"
 
 #: mbti/models.py:8
@@ -939,83 +939,79 @@ msgstr "According to the facts"
 msgid "考虑他人的感受和意见"
 msgstr "Consider other people's feelings and opinions"
 
-#: mbti/views.py:55
+#: mbti/views.py:66
 msgid "测试完成，你的性格分析结果为:"
 msgstr "Test complete, your personality analysis results are:"
 
-#: templates/base.html:10
-msgid "MBTI测试"
-msgstr "MBTI TEST"
+#: templates/base.html:10 templates/base.html:31
+msgid "MBTI性格测试"
+msgstr "MBTI Personality Test"
 
-#: templates/base.html:56
-msgid "MBTI职业性格在线测试"
-msgstr "Myers-Briggs Type Indicator Test"
-
-#: templates/base.html:71 templates/mbti/home.html:2
+#: templates/base.html:46 templates/mbti/home.html:2
 msgid "首页"
 msgstr "Home"
 
-#: templates/base.html:74 templates/mbti/personalities/index.html:2
-msgid "MBTI十六种人格简介"
-msgstr "Profiles"
+#: templates/base.html:49
+msgid "MBTI十六型人格"
+msgstr "MBTI Personalities"
 
-#: templates/base.html:77 templates/mbti/about.html:2
+#: templates/base.html:52 templates/mbti/about.html:2
 msgid "关于"
 msgstr "About"
 
-#: templates/base.html:80 templates/mbti/disqus.html:3
+#: templates/base.html:55 templates/mbti/disqus.html:3
 msgid "留言板"
 msgstr "MessageBoard"
 
-#: templates/base.html:83
+#: templates/base.html:58
 msgid "网站语言"
 msgstr "Language"
 
-#: templates/mbti/about.html:30
+#: templates/mbti/about.html:19
 msgid "爱自己吗？"
 msgstr "Love yourself?"
 
-#: templates/mbti/about.html:31
+#: templates/mbti/about.html:20
 msgid "爱。"
 msgstr "Love."
 
-#: templates/mbti/about.html:32
+#: templates/mbti/about.html:21
 msgid "那我就是你的情敌噜~"
 msgstr "Then I'm your rival, Lu~"
 
-#: templates/mbti/about.html:34
+#: templates/mbti/about.html:23
 msgid "MBTI 职业性格测试是国际最为流行的职业人格评估工具，作为一种对个性的判断和分析，是一个理论模型，"
 msgstr "MBTI is the most popular professional personality assessment tool in the world. As a judgment and analysis of personality, MBTI is a theoretical model,"
 
-#: templates/mbti/about.html:35
+#: templates/mbti/about.html:24
 msgid "MBTI测试 是从纷繁复杂的个性特征中，归纳提炼出4个关键要素——动力、信息收集、决策方式、生活方式，进行分析判断，"
 msgstr "MBTI test is to summarize and extract four key elements from the complex personality characteristics - motivation, information collection, decision-making style and lifestyle for analysis and judgment,"
 
-#: templates/mbti/about.html:36
+#: templates/mbti/about.html:25
 msgid "从而把不同个性的人区别开来。"
 msgstr "So as to distinguish people with different personalities."
 
-#: templates/mbti/about.html:37
+#: templates/mbti/about.html:26
 msgid "第一次听说是从一个朋友处听说的，网络上搜下发现要做一系列的题目，最后根据选择答案的结果来判断是什么人格"
 msgstr "The first time I heard it was from a friend. I found a series of questions to be done on the Internet. Finally, I judged what personality it was according to the result of choosing the answer"
 
-#: templates/mbti/about.html:38
+#: templates/mbti/about.html:27
 msgid "做题不方便，于是开发了这个网站可以在线MBTI测试，建议使用电脑浏览器访问，效果更佳。"
 msgstr "The question is not convenient, so developed this website can be online MBTI test, it is recommended to use a computer browser access, the effect is better."
 
-#: templates/mbti/about.html:39
+#: templates/mbti/about.html:28
 msgid "MBTI测试结果解释均来自"
 msgstr "MBTI test results are interpreted from"
 
-#: templates/mbti/about.html:39
+#: templates/mbti/about.html:28
 msgid "百度百科"
 msgstr "Baidu Encyclopedia"
 
-#: templates/mbti/about.html:40
+#: templates/mbti/about.html:29
 msgid "如果本网站对您有帮助，您喜欢的话，请帮忙多多点击网站上的广告。"
 msgstr "If this website is helpful to you and you like it, please click more advertisements on the website."
 
-#: templates/mbti/about.html:41
+#: templates/mbti/about.html:30
 msgid "如果您愿意打赏，欢迎扫码捐杯咖啡，当然100不嫌多1毛不嫌少，感谢您的支持。"
 msgstr "If you are willing to reward, you are welcome to scan the code and donate a cup of coffee. Of course, 100 is not too much and 10 cents is not too little. Thank you for your support."
 
@@ -1055,7 +1051,7 @@ msgstr "The website has helped"
 msgid "人完成测试！"
 msgstr "people complete the test!"
 
-#: templates/mbti/home.html:76
+#: templates/mbti/home.html:67
 msgid "开始"
 msgstr "START"
 
@@ -1063,11 +1059,11 @@ msgstr "START"
 msgid "测试中"
 msgstr "TESTING..."
 
-#: templates/mbti/personalities/base.html:24
+#: templates/mbti/personalities/base.html:13
 msgid "查看性格详情"
 msgstr "View personality details"
 
-#: templates/mbti/personalities/base.html:32
+#: templates/mbti/personalities/base.html:21
 msgid "我要吐槽！！！"
 msgstr "Message Board"
 
@@ -2377,7 +2373,11 @@ msgstr "You prefer a busy, hands-on corporate culture and deal with things in a 
 msgid "你把竞争和人员间的不同意见看成是创新和商业成功的驱动力。你喜欢鼓励讨论、争论、坦诚交流的企业文化，与其他人相比你也许会与你的同事保持相对较远的关系。你在生机盎然和进取的企业文化里工作状态最好。"
 msgstr "You see competition and differences of opinion among people as the driving forces of innovation and business success. You like a corporate culture that encourages discussion, debate and frank communication. Compared with others, you may maintain a relatively distant relationship with your colleagues. You work best in a vibrant and enterprising corporate culture."
 
-#: templates/mbti/personalities/index.html:31
+#: templates/mbti/personalities/index.html:2
+msgid "MBTI十六种人格简介"
+msgstr "Profiles"
+
+#: templates/mbti/personalities/index.html:19
 msgid "点击查看详细介绍"
 msgstr "Click to view the detailed introduction"
 
@@ -4655,3 +4655,9 @@ msgstr "Information services, computer programmers, software development, parale
 
 #~ msgid "点击/下划查看MBTI性格详情"
 #~ msgstr "Click / underline to view MBTI personality details"
+
+#~ msgid "MBTI测试"
+#~ msgstr "MBTI TEST"
+
+#~ msgid "MBTI职业性格在线测试"
+#~ msgstr "Myers-Briggs Type Indicator Test"
