@@ -9,42 +9,48 @@
 </div>
 
 <!-- disqus start -->
-<div  style="margin-top:100px;margin-bottom:100px;">
 
-<div class="section">
+<div class="section" style="margin-top:100px;margin-bottom:50px">
     <div id="cyReward" role="cylabs" data-use="reward"></div>
     <script type="text/javascript" charset="utf-8" src="https://cy-cdn.kuaizhan.com/js/??lib/jquery.js,changyan.labs.https.js?appid=cyvw0lGKV"></script>
 </div>
 
-<!--PC和WAP自适应版-->
-<div id="SOHUCS" ></div>
-<script type="text/javascript">
-(function(){
-var appid = 'cyvw0lGKV';
-var conf = 'prod_598b0f649121076264c6bebca5c49a19';
-var width = window.innerWidth || document.documentElement.clientWidth;
-if (width < 1000) {
-var head = document.getElementsByTagName('head')[0]||document.head||document.documentElement;
-var script = document.createElement('script');
-script.type = 'text/javascript';
-script.charset = 'utf-8';
-script.id = 'changyan_mobile_js';
-script.src = 'https://cy-cdn.kuaizhan.com/upload/mobile/wap-js/changyan_mobile.js?client_id=' + appid + '&conf=' + conf;
-head.appendChild(script);
-} else { var loadJs=function(d,a){var c=document.getElementsByTagName("head")[0]||document.head||document.documentElement;var b=document.createElement("script");b.setAttribute("type","text/javascript");b.setAttribute("charset","UTF-8");b.setAttribute("src",d);if(typeof a==="function"){if(window.attachEvent){b.onreadystatechange=function(){var e=b.readyState;if(e==="loaded"||e==="complete"){b.onreadystatechange=null;a()}}}else{b.onload=a}}c.appendChild(b)};loadJs("https://cy-cdn.kuaizhan.com/upload/changyan.js",function(){window.changyan.api.config({appid:appid,conf:conf})}); } })(); </script>
+<div>
+    <!--PC和WAP自适应版-->
+    <div id="SOHUCS" ></div>
+    <script type="text/javascript">
+    (function(){
+        var appid = 'cyvw0lGKV';
+        var conf = 'prod_598b0f649121076264c6bebca5c49a19';
+        var width = window.innerWidth || document.documentElement.clientWidth;
+        if (width < 1000) {
+            var head = document.getElementsByTagName('head')[0]||document.head||document.documentElement;
+            var script = document.createElement('script');
+            script.type = 'text/javascript';
+            script.charset = 'utf-8';
+            script.id = 'changyan_mobile_js';
+            script.src = 'https://cy-cdn.kuaizhan.com/upload/mobile/wap-js/changyan_mobile.js?client_id=' + appid + '&conf=' + conf;
+            head.appendChild(script);
+        } else {
+            var loadJs=function(d,a){var c=document.getElementsByTagName("head")[0]||document.head||document.documentElement;var b=document.createElement("script");b.setAttribute("type","text/javascript");b.setAttribute("charset","UTF-8");b.setAttribute("src",d);if(typeof a==="function"){if(window.attachEvent){b.onreadystatechange=function(){var e=b.readyState;if(e==="loaded"||e==="complete"){b.onreadystatechange=null;a()}}}else{b.onload=a}}c.appendChild(b)};loadJs("https://cy-cdn.kuaizhan.com/upload/changyan.js",function(){window.changyan.api.config({appid:appid,conf:conf})});
+        }
+    })();
+    </script>
 </div>
 <!-- disqus end -->
 
-<!--mbti性格留言板底部广告-->
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-3022214826355647"
-    crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-    style="display:block"
-    data-ad-format="fluid"
-    data-ad-layout-key="-fb+5w+4e-db+86"
-    data-ad-client="ca-pub-3022214826355647"
-    data-ad-slot="1030367917"></ins>
-<script>
-    (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+<div>
+    <!--mbti性格留言板底部广告-->
+    <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-3022214826355647"
+        crossorigin="anonymous"></script>
+    <ins class="adsbygoogle"
+        style="display:block"
+        data-ad-format="fluid"
+        data-ad-layout-key="-fb+5w+4e-db+86"
+        data-ad-client="ca-pub-3022214826355647"
+        data-ad-slot="1030367917"></ins>
+    <script>
+        (adsbygoogle = window.adsbygoogle || []).push({});
+    </script>
+</div>
 {% endblock %}
