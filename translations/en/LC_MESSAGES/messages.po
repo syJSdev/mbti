@@ -7,8 +7,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2021-11-19 12:29+0800\n"
-"PO-Revision-Date: 2021-11-18 23:06+0800\n"
+"POT-Creation-Date: 2021-11-19 12:40+0800\n"
+"PO-Revision-Date: 2021-11-19 12:39+0800\n"
 "Last-Translator: \n"
 "Language: en\n"
 "Language-Team: en <LL@li.org>\n"
@@ -1074,18 +1074,22 @@ msgid "测试完成，你的性格分析结果为:"
 msgstr "Test complete, your personality analysis results are:"
 
 #: templates/base.html:10
+msgid "MBTI测试"
+msgstr "MBTI Test"
+
+#: templates/base.html:10
 msgid "MBTI性格测试"
 msgstr "MBTI Personality Test"
 
-#: templates/base.html:10 templates/base.html:31 templates/mbti/home.html:2
+#: templates/base.html:10 templates/base.html:31
 msgid "MBTI职业性格测试"
-msgstr ""
+msgstr "MBTI Professional Personality Test"
 
-#: templates/base.html:10 templates/mbti/home.html:2
+#: templates/base.html:10
 msgid "免费版"
-msgstr ""
+msgstr "Free version"
 
-#: templates/base.html:46
+#: templates/base.html:46 templates/mbti/home.html:2
 msgid "首页"
 msgstr "Home"
 
@@ -1109,21 +1113,17 @@ msgstr "Home"
 msgid "MBTI十六型人格"
 msgstr "MBTI Personalities"
 
-#: templates/base.html:52
+#: templates/base.html:52 templates/mbti/about.html:2
 msgid "关于"
 msgstr "About"
 
-#: templates/base.html:55
+#: templates/base.html:55 templates/mbti/disqus.html:3
 msgid "留言板"
 msgstr "MessageBoard"
 
 #: templates/base.html:58
 msgid "网站语言"
 msgstr "Language"
-
-#: templates/mbti/about.html:2
-msgid "关于MBTI职业性格测试"
-msgstr ""
 
 #: templates/mbti/about.html:18
 msgid "爱自己吗？"
@@ -1190,17 +1190,13 @@ msgstr ""
 " a cup of coffee. Of course, 100 is not too much and 10 cents is not too "
 "little. Thank you for your support."
 
-#: templates/mbti/disqus.html:3
-msgid "MBTI测试留言板"
-msgstr ""
-
 #: templates/mbti/disqus.html:7
 msgid "留下你对MBTI测试的建议或评论"
 msgstr "Leave your suggestions or comments on MBTI testing"
 
 #: templates/mbti/home.html:47
 msgid "在MBTI职业性格测试前须知"
-msgstr ""
+msgstr "Need to know before the MBTI professional personality test"
 
 #: templates/mbti/home.html:48
 msgid "参加测试的人员请务必诚实、独立地回答问题，只有如此，才能得到有效的结果。"
@@ -1266,7 +1262,7 @@ msgstr "Message Board"
 
 #: templates/mbti/personalities/enfj.html:4
 msgid "MBTI职业性格测试结果"
-msgstr ""
+msgstr "MBTI professional personality test results"
 
 #: templates/mbti/personalities/enfj.html:5
 msgid "教育家型人格"
@@ -8760,12 +8756,12 @@ msgstr ""
 msgid "信息服务业、计算机程序员、软件开发、律师助理、消防员、药剂师、证券分析员、银行职员、管理顾问、财务顾问、电子专业人士、技术培训人员、海洋生物学者、后勤与供应经理、经济学者、贸易、商品经销商/产品代理商（有形产品）、警察、侦探、体育工作者、赛车手、飞行员、雕塑家、手工制作、画家"
 msgstr ""
 "Information services, computer programmers, software development, "
-"paralegals, firefighters, pharmacists, securities analysts, bank staff, "
-"management consultants, financial consultants, electronics professionals,"
-" technical trainers, marine biologists, logistics and supply managers, "
-"economists, trade, commodity dealers / Product Agents (tangible "
-"products), police, detectives Sports workers, racing drivers, pilots, "
-"sculptors, handicrafts, painters"
+"paralegals, firefighters, pharmacists, securities analysts, bank clerks, "
+"management consultants, financial advisers, electronic professionals, "
+"technical trainers, marine biologists, logistics and supply managers, "
+"economists, trade, commodity distributors/product agents (tangible "
+"products), police, detectives, sports workers, racers, pilots, sculptors,"
+" craftsmen, painters"
 
 #~ msgid "我是这种型的人："
 #~ msgstr "I am this type of person:"
@@ -8787,4 +8783,10 @@ msgstr ""
 
 #~ msgid "MBTI十六种人格简介"
 #~ msgstr "Profiles"
+
+#~ msgid "关于MBTI职业性格测试"
+#~ msgstr ""
+
+#~ msgid "MBTI测试留言板"
+#~ msgstr ""
 

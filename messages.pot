@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2021-11-19 12:31+0800\n"
+"POT-Creation-Date: 2021-11-19 12:40+0800\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -951,15 +951,15 @@ msgstr ""
 msgid "MBTI性格测试"
 msgstr ""
 
-#: templates/base.html:10 templates/base.html:31 templates/mbti/home.html:2
+#: templates/base.html:10 templates/base.html:31
 msgid "MBTI职业性格测试"
 msgstr ""
 
-#: templates/base.html:10 templates/mbti/home.html:2
+#: templates/base.html:10
 msgid "免费版"
 msgstr ""
 
-#: templates/base.html:46
+#: templates/base.html:46 templates/mbti/home.html:2
 msgid "首页"
 msgstr ""
 
@@ -983,20 +983,16 @@ msgstr ""
 msgid "MBTI十六型人格"
 msgstr ""
 
-#: templates/base.html:52
+#: templates/base.html:52 templates/mbti/about.html:2
 msgid "关于"
 msgstr ""
 
-#: templates/base.html:55
+#: templates/base.html:55 templates/mbti/disqus.html:3
 msgid "留言板"
 msgstr ""
 
 #: templates/base.html:58
 msgid "网站语言"
-msgstr ""
-
-#: templates/mbti/about.html:2
-msgid "关于MBTI职业性格测试"
 msgstr ""
 
 #: templates/mbti/about.html:18
@@ -1045,10 +1041,6 @@ msgstr ""
 
 #: templates/mbti/about.html:29
 msgid "如果您愿意打赏，欢迎扫码捐杯咖啡，当然100不嫌多1毛不嫌少，感谢您的支持。"
-msgstr ""
-
-#: templates/mbti/disqus.html:3
-msgid "MBTI测试留言板"
 msgstr ""
 
 #: templates/mbti/disqus.html:7
