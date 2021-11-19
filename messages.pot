@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2021-11-19 12:40+0800\n"
+"POT-Creation-Date: 2021-11-19 13:28+0800\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -1048,7 +1048,7 @@ msgid "留下你对MBTI测试的建议或评论"
 msgstr ""
 
 #: templates/mbti/home.html:47
-msgid "在MBTI职业性格测试前须知"
+msgid "MBTI职业性格测试前须知"
 msgstr ""
 
 #: templates/mbti/home.html:48
