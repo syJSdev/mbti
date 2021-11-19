@@ -26,8 +26,12 @@
         </ul>
     </form>
     {% endfor %}
-    <br>
-    <br>
+{% endblock %}
+
+{% block js %}
+    <script src="{{ url_for('static', filename='js/svgcheckbx.js') }}"></script>
+    <script src="{{ url_for('static', filename='js/test.js') }}"></script>
+
     <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-3022214826355647"
      crossorigin="anonymous"></script>
     <!-- mbti测试题目表单下方广告 -->
@@ -42,10 +46,4 @@
     <script>
         (adsbygoogle = window.adsbygoogle || []).push({});
     </script>
-    <br>
-{% endblock %}
-
-{% block js %}
-    <script src="{{ url_for('static', filename='js/svgcheckbx.js') }}"></script>
-    <script src="{{ url_for('static', filename='js/test.js') }}"></script>
 {% endblock %}
