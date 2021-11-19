@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2021-11-19 12:29+0800\n"
+"POT-Creation-Date: 2021-11-19 12:31+0800\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -941,6 +941,10 @@ msgstr ""
 
 #: mbti/views.py:66
 msgid "测试完成，你的性格分析结果为:"
+msgstr ""
+
+#: templates/base.html:10
+msgid "MBTI测试"
 msgstr ""
 
 #: templates/base.html:10
