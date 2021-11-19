@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2021-11-18 22:58+0800\n"
+"POT-Creation-Date: 2021-11-19 12:29+0800\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -74,7 +74,9 @@ msgid "诚挚、爱说话、合作性高、受欢迎、光明正大的—天生�
 msgstr ""
 
 #: mbti/models.py:50
-msgid "热忱、易感应及负责任的--具能鼓励他人的领导风格。对别人所想或希求会表达真正关切且切实用心去处理。能怡然且技巧性地带领团体讨论或演示文稿提案。爱交际、受欢迎及富同情心。对称许及批评很在意。喜欢带引别人且能使别人或团体发挥潜能。"
+msgid ""
+"热忱、易感应及负责任的--"
+"具能鼓励他人的领导风格。对别人所想或希求会表达真正关切且切实用心去处理。能怡然且技巧性地带领团体讨论或演示文稿提案。爱交际、受欢迎及富同情心。对称许及批评很在意。喜欢带引别人且能使别人或团体发挥潜能。"
 msgstr ""
 
 #: mbti/models.py:53
@@ -941,23 +943,47 @@ msgstr ""
 msgid "测试完成，你的性格分析结果为:"
 msgstr ""
 
-#: templates/base.html:10 templates/base.html:31
+#: templates/base.html:10
 msgid "MBTI性格测试"
 msgstr ""
 
-#: templates/base.html:46 templates/mbti/home.html:2
+#: templates/base.html:10 templates/base.html:31 templates/mbti/home.html:2
+msgid "MBTI职业性格测试"
+msgstr ""
+
+#: templates/base.html:10 templates/mbti/home.html:2
+msgid "免费版"
+msgstr ""
+
+#: templates/base.html:46
 msgid "首页"
 msgstr ""
 
-#: templates/base.html:49
+#: templates/base.html:49 templates/mbti/personalities/enfj.html:2
+#: templates/mbti/personalities/enfp.html:2
+#: templates/mbti/personalities/entj.html:2
+#: templates/mbti/personalities/entp.html:2
+#: templates/mbti/personalities/esfj.html:2
+#: templates/mbti/personalities/esfp.html:2
+#: templates/mbti/personalities/estj.html:2
+#: templates/mbti/personalities/estp.html:2
+#: templates/mbti/personalities/index.html:2
+#: templates/mbti/personalities/infj.html:2
+#: templates/mbti/personalities/infp.html:2
+#: templates/mbti/personalities/intj.html:2
+#: templates/mbti/personalities/intp.html:2
+#: templates/mbti/personalities/isfj.html:2
+#: templates/mbti/personalities/isfp.html:2
+#: templates/mbti/personalities/istj.html:2
+#: templates/mbti/personalities/istp.html:2
 msgid "MBTI十六型人格"
 msgstr ""
 
-#: templates/base.html:52 templates/mbti/about.html:2
+#: templates/base.html:52
 msgid "关于"
 msgstr ""
 
-#: templates/base.html:55 templates/mbti/disqus.html:3
+#: templates/base.html:55
 msgid "留言板"
 msgstr ""
 
@@ -965,52 +991,60 @@ msgstr ""
 msgid "网站语言"
 msgstr ""
 
-#: templates/mbti/about.html:19
+#: templates/mbti/about.html:2
+msgid "关于MBTI职业性格测试"
+msgstr ""
+
+#: templates/mbti/about.html:18
 msgid "爱自己吗？"
 msgstr ""
 
-#: templates/mbti/about.html:20
+#: templates/mbti/about.html:19
 msgid "爱。"
 msgstr ""
 
-#: templates/mbti/about.html:21
+#: templates/mbti/about.html:20
 msgid "那我就是你的情敌噜~"
 msgstr ""
 
-#: templates/mbti/about.html:23
+#: templates/mbti/about.html:22
 msgid "MBTI 职业性格测试是国际最为流行的职业人格评估工具，作为一种对个性的判断和分析，是一个理论模型，"
 msgstr ""
 
-#: templates/mbti/about.html:24
+#: templates/mbti/about.html:23
 msgid "MBTI测试 是从纷繁复杂的个性特征中，归纳提炼出4个关键要素——动力、信息收集、决策方式、生活方式，进行分析判断，"
 msgstr ""
 
-#: templates/mbti/about.html:25
+#: templates/mbti/about.html:24
 msgid "从而把不同个性的人区别开来。"
 msgstr ""
 
-#: templates/mbti/about.html:26
+#: templates/mbti/about.html:25
 msgid "第一次听说是从一个朋友处听说的，网络上搜下发现要做一系列的题目，最后根据选择答案的结果来判断是什么人格"
 msgstr ""
 
-#: templates/mbti/about.html:27
+#: templates/mbti/about.html:26
 msgid "做题不方便，于是开发了这个网站可以在线MBTI测试，建议使用电脑浏览器访问，效果更佳。"
 msgstr ""
 
-#: templates/mbti/about.html:28
+#: templates/mbti/about.html:27
 msgid "MBTI测试结果解释均来自"
 msgstr ""
 
-#: templates/mbti/about.html:28
+#: templates/mbti/about.html:27
 msgid "百度百科"
 msgstr ""
 
-#: templates/mbti/about.html:29
+#: templates/mbti/about.html:28
 msgid "如果本网站对您有帮助，您喜欢的话，请帮忙多多点击网站上的广告。"
 msgstr ""
 
-#: templates/mbti/about.html:30
+#: templates/mbti/about.html:29
 msgid "如果您愿意打赏，欢迎扫码捐杯咖啡，当然100不嫌多1毛不嫌少，感谢您的支持。"
+msgstr ""
+
+#: templates/mbti/disqus.html:3
+msgid "MBTI测试留言板"
 msgstr ""
 
 #: templates/mbti/disqus.html:7
@@ -1018,7 +1052,7 @@ msgid "留下你对MBTI测试的建议或评论"
 msgstr ""
 
 #: templates/mbti/home.html:47
-msgid "MBTI测试前须知"
+msgid "在MBTI职业性格测试前须知"
 msgstr ""
 
 #: templates/mbti/home.html:48
@@ -1030,7 +1064,7 @@ msgid "性格分析展示的是你的性格倾向，而不是你的知识、技�
 msgstr ""
 
 #: templates/mbti/home.html:50
-msgid "MBTI提供的性格类型描述仅供测试者确定自己的性格类型之用，性格类型没有好坏，只有不同。每一种性格特征都有其价值和优点，也有缺点和需要注意的地方。清楚地了解自己的性格优劣势，有利于更好地发挥自己的特长，而尽可能的在为人处事中避免自己性格中的劣势，更好地和他人相处，更好地作重要的决策。"
+msgid "MBTI性格测试提供的性格类型描述仅供测试者确定自己的性格类型之用，性格类型没有好坏，只有不同。每一种性格特征都有其价值和优点，也有缺点和需要注意的地方。清楚地了解自己的性格优劣势，有利于更好地发挥自己的特长，而尽可能的在为人处事中避免自己性格中的劣势，更好地和他人相处，更好地作重要的决策。"
 msgstr ""
 
 #: templates/mbti/home.html:51
@@ -1066,22 +1100,7 @@ msgid "我要吐槽！！！"
 msgstr ""
 
 #: templates/mbti/personalities/enfj.html:4
-#: templates/mbti/personalities/enfp.html:4
-#: templates/mbti/personalities/entj.html:4
-#: templates/mbti/personalities/entp.html:4
-#: templates/mbti/personalities/esfj.html:4
-#: templates/mbti/personalities/esfp.html:4
-#: templates/mbti/personalities/estj.html:4
-#: templates/mbti/personalities/estp.html:4
-#: templates/mbti/personalities/infj.html:4
-#: templates/mbti/personalities/infp.html:4
-#: templates/mbti/personalities/intj.html:4
-#: templates/mbti/personalities/intp.html:4
-#: templates/mbti/personalities/isfj.html:4
-#: templates/mbti/personalities/isfp.html:4
-#: templates/mbti/personalities/istj.html:4
-#: templates/mbti/personalities/istp.html:4
-msgid "MBTI测试结果"
+msgid "MBTI职业性格测试结果"
 msgstr ""
 
 #: templates/mbti/personalities/enfj.html:5
@@ -1430,6 +1449,24 @@ msgstr ""
 
 #: templates/mbti/personalities/enfj.html:78
 msgid "教育家型情人的爱情是很炽烈的，他们不会羞于告诉他们的伴侣内心的感受。因此，当教育家型情人觉得他们的感情被伴侣的言语或行为威胁时，教育家型情人会很自然地表达他们受伤或生气的感受。同时，由于他们的情绪反应，教育家型会把冲突和否决看得非常严重，不管这是事实或只是他们以为如此。这样的结果造成他们很容易被伤害,而且怀恨许久。从正面的角度而言，教育家型相信婚姻，他们会是极富爱心并且愿意付出的配偶。同时，他们也是很有魅力的，和他们在一起是一件愉快的事。不仅如此，教育家型也常常可以激发他们的伴侣，带领他们的伴侣到达爱情和快乐的巅峰。当你遇到正确的教育家型情人时，你将沉浸在那种被爱、被取悦、有支持和关注的幸福感觉中。"
+msgstr ""
+
+#: templates/mbti/personalities/enfp.html:4
+#: templates/mbti/personalities/entj.html:4
+#: templates/mbti/personalities/entp.html:4
+#: templates/mbti/personalities/esfj.html:4
+#: templates/mbti/personalities/esfp.html:4
+#: templates/mbti/personalities/estj.html:4
+#: templates/mbti/personalities/estp.html:4
+#: templates/mbti/personalities/infj.html:4
+#: templates/mbti/personalities/infp.html:4
+#: templates/mbti/personalities/intj.html:4
+#: templates/mbti/personalities/intp.html:4
+#: templates/mbti/personalities/isfj.html:4
+#: templates/mbti/personalities/isfp.html:4
+#: templates/mbti/personalities/istj.html:4
+#: templates/mbti/personalities/istp.html:4
+msgid "MBTI测试结果"
 msgstr ""
 
 #: templates/mbti/personalities/enfp.html:5
@@ -1827,7 +1864,9 @@ msgid "人际关系"
 msgstr ""
 
 #: templates/mbti/personalities/entp.html:14
-msgid "在人际关系方面他们能一下子与所爱的人亲密起来。有些人在私底下表达这种感情；而另外一些人，对亲人的亲密程度却表现的很公然，以致于那些平时只见得他们工作中的一面的共事者们大吃一惊。ENTP人也善于结交那些与他们一样聪明、一样有趣的人。除了以上两方面，人性的其他方面似乎都被ENTP人给淡忘了，除非当他们作听众时-------给人或好，或坏，或什么样的感觉都有可能。"
+msgid ""
+"在人际关系方面他们能一下子与所爱的人亲密起来。有些人在私底下表达这种感情；而另外一些人，对亲人的亲密程度却表现的很公然，以致于那些平时只见得他们工作中的一面的共事者们大吃一惊。ENTP人也善于结交那些与他们一样聪明、一样有趣的人。除了以上两方面，人性的其他方面似乎都被ENTP人给淡忘了，除非当他们作听众时"
+"-------给人或好，或坏，或什么样的感觉都有可能。"
 msgstr ""
 
 #: templates/mbti/personalities/entp.html:15
@@ -2425,11 +2464,7 @@ msgstr ""
 msgid "你把竞争和人员间的不同意见看成是创新和商业成功的驱动力。你喜欢鼓励讨论、争论、坦诚交流的企业文化，与其他人相比你也许会与你的同事保持相对较远的关系。你在生机盎然和进取的企业文化里工作状态最好。"
 msgstr ""
 
-#: templates/mbti/personalities/index.html:2
-msgid "MBTI十六种人格简介"
-msgstr ""
-
-#: templates/mbti/personalities/index.html:19
+#: templates/mbti/personalities/index.html:31
 msgid "点击查看详细介绍"
 msgstr ""
 
@@ -2567,7 +2602,9 @@ msgid "人力资源经理、职业分析家、公司/团队培训员、商品策
 msgstr ""
 
 #: templates/mbti/personalities/infj.html:34
-msgid "虽然INFJ不会大量涌向商界，但其中有些领域也能让INFJ获得职业满足感。以上职业要求他们对不同的人产生兴趣，能帮助别人找工作，营造有效的工作环境，以及解决以人为本的问题。INFJ可以在商界的这些工作里找到满足感。　运用你的长处其实很容易。"
+msgid ""
+"虽然INFJ不会大量涌向商界，但其中有些领域也能让INFJ获得职业满足感。以上职业要求他们对不同的人产生兴趣，能帮助别人找工作，营造有效的工作环境，以及解决以人为本的问题。INFJ可以在商界的这些工作里找到满足感。"
+"　运用你的长处其实很容易。"
 msgstr ""
 
 #: templates/mbti/personalities/infj.html:36
@@ -3985,8 +4022,8 @@ msgstr ""
 msgid ""
 "初次见面时，ISFP "
 "人可能很讨人喜欢，很会逢迎人，他们会说一些事实或并非事实的恭维话。可等下一次见面时，同样一个人，可能就会显得很冷淡。一些ISFP "
-"类型的男性非常具有竞争力，尤其在运动或桌球上，要让他们输上一局可能会很难。这种在其他SP "
-"类型人中也有的本性----竞争性，使他们认为自己是幸运的，并勇于冒险。"
+"类型的男性非常具有竞争力，尤其在运动或桌球上，要让他们输上一局可能会很难。这种在其他SP 类型人中也有的本性----"
+"竞争性，使他们认为自己是幸运的，并勇于冒险。"
 msgstr ""
 
 #: templates/mbti/personalities/isfp.html:22
