@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2021-11-19 12:40+0800\n"
-"PO-Revision-Date: 2021-11-19 12:44+0800\n"
+"PO-Revision-Date: 2021-11-19 13:25+0800\n"
 "Last-Translator: \n"
 "Language: de\n"
 "Language-Team: de <LL@li.org>\n"
@@ -1060,9 +1060,8 @@ msgid "性格分析展示的是你的性格倾向，而不是你的知识、技�
 msgstr "Die Persönlichkeitsanalyse zeigt Ihre Persönlichkeitstendenzen, nicht Ihr Wissen, Ihre Fähigkeiten und Ihre Erfahrung."
 
 #: templates/mbti/home.html:50
-#, fuzzy
 msgid "MBTI性格测试提供的性格类型描述仅供测试者确定自己的性格类型之用，性格类型没有好坏，只有不同。每一种性格特征都有其价值和优点，也有缺点和需要注意的地方。清楚地了解自己的性格优劣势，有利于更好地发挥自己的特长，而尽可能的在为人处事中避免自己性格中的劣势，更好地和他人相处，更好地作重要的决策。"
-msgstr "MBTI bietet eine Beschreibung des Persönlichkeitstyps nur für den Tester, um seinen eigenen Persönlichkeitstyp zu bestimmen, Persönlichkeitstyp ist nicht gut oder schlecht, nur anders. Jedes Persönlichkeitsmerkmal hat seinen Wert und seine Vorteile sowie Mängel und Bereiche, auf die man achten muss. Ein klares Verständnis der eigenen Persönlichkeitsstärken und -schwächen, förderlich für eine bessere Nutzung der eigenen Stärken und so weit wie möglich im Verhalten des eigenen Charakters, um Schwächen zu vermeiden, besser mit anderen, bessere Entscheidungsfindung."
+msgstr "Die charaktertypische Beschreibung des MBTI-Persönlichkeitstests dient nur dem Tester, um seinen eigenen Persönlichkeitstyp zu bestimmen, der nicht gut oder schlecht ist, sondern nur anders. Jedes Persönlichkeitsmerkmal hat seinen Wert und seine Vorteile sowie Mängel und Bereiche, auf die man achten muss. Ein klares Verständnis der eigenen Persönlichkeitsstärken und -schwächen, förderlich für eine bessere Nutzung der eigenen Stärken und so weit wie möglich im Verhalten des eigenen Charakters, um Schwächen zu vermeiden, besser mit anderen, bessere Entscheidungsfindung."
 
 #: templates/mbti/home.html:51
 msgid "共72题；所有题目没有对错之分，请根据自己的实际情况选择。"
