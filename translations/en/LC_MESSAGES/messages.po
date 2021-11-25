@@ -8762,29 +8762,3 @@ msgstr ""
 "products), police, detectives, sports workers, racers, pilots, sculptors,"
 " craftsmen, painters"
 
-#~ msgid "我是这种型的人："
-#~ msgstr "I am this type of person:"
-
-#~ msgid "我是这样喜欢……的人："
-#~ msgstr "I am such a person who likes"
-
-#~ msgid "点击/下划查看MBTI性格详情"
-#~ msgstr "Click / underline to view MBTI personality details"
-
-#~ msgid "MBTI测试"
-#~ msgstr "MBTI TEST"
-
-#~ msgid "MBTI职业性格在线测试"
-#~ msgstr "Myers-Briggs Type Indicator Test"
-
-#~ msgid "MBTI测试前须知"
-#~ msgstr "Instructions before MBTI test"
-
-#~ msgid "MBTI十六种人格简介"
-#~ msgstr "Profiles"
-
-#~ msgid "关于MBTI职业性格测试"
-#~ msgstr ""
-
-#~ msgid "MBTI测试留言板"
-#~ msgstr ""

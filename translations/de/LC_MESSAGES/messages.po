@@ -9298,20 +9298,3 @@ msgstr ""
 "Polizei, Detectives Sportarbeiter, Rennfahrer, Piloten, Bildhauer, "
 "Kunsthandwerk, Maler"
 
-#~ msgid "MBTI测试"
-#~ msgstr "MBTI-Test"
-
-#~ msgid "MBTI职业性格在线测试"
-#~ msgstr "MBTI Professional Persönlichkeit Online Test"
-
-#~ msgid "MBTI测试前须知"
-#~ msgstr "Was Sie vor dem MBTI-Test wissen sollten"
-
-#~ msgid "MBTI十六种人格简介"
-#~ msgstr "Profil der Persönlichkeit"
-
-#~ msgid "关于MBTI职业性格测试"
-#~ msgstr ""
-
-#~ msgid "MBTI测试留言板"
-#~ msgstr ""

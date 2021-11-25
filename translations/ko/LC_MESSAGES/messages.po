@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2021-11-19 13:28+0800\n"
-"PO-Revision-Date: 2021-11-19 13:24+0800\n"
+"PO-Revision-Date: 2021-11-25 12:34+0800\n"
 "Last-Translator: \n"
 "Language: ko\n"
 "Language-Team: ko <LL@li.org>\n"
@@ -1060,7 +1060,7 @@ msgstr "메시지 보드"
 
 #: templates/base.html:58
 msgid "网站语言"
-msgstr "언어."
+msgstr "언어"
 
 #: templates/mbti/about.html:18
 msgid "爱自己吗？"
@@ -6704,20 +6704,3 @@ msgstr ""
 "고문, 전자 전문가, 기술 트레이너, 해양 생물학자, 물류 및 공급 관리자, 경제학자, 무역, 상품 유통 업체 / 제품 에이전트 "
 "(유형 제품), 경찰, 탐정, 스포츠 노동자, 레이서, 조종사, 조각가, 수제, 화가"
 
-#~ msgid "MBTI测试"
-#~ msgstr "MBTI 테스트"
-
-#~ msgid "MBTI职业性格在线测试"
-#~ msgstr "MBTI 직업 성격 온라인 테스트"
-
-#~ msgid "MBTI测试前须知"
-#~ msgstr "MBTI 테스트 전에 알아야 할 사항"
-
-#~ msgid "MBTI十六种人格简介"
-#~ msgstr "인격 소개"
-
-#~ msgid "关于MBTI职业性格测试"
-#~ msgstr ""
-
-#~ msgid "MBTI测试留言板"
-#~ msgstr ""
