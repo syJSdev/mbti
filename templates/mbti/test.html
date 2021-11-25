@@ -5,7 +5,24 @@
 {%endblock%}
 
 {% block container %}
-<div>
+<div style="margin-top:60px;margin-left:auto;margin-right:auto;">
+    <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-3022214826355647"
+     crossorigin="anonymous"></script>
+    <!-- mbti测试题目表单上方广告 -->
+    <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-3022214826355647"
+        crossorigin="anonymous"></script>
+    <ins class="adsbygoogle"
+        style="display:block"
+        data-ad-format="fluid"
+        data-ad-layout-key="-gw-3+1f-3d+2z"
+        data-ad-client="ca-pub-3022214826355647"
+        data-ad-slot="1517453072"></ins>
+    <script>
+        (adsbygoogle = window.adsbygoogle || []).push({});
+    </script>
+</div>
+
+<div style="margin-top:-60px;">
     {% for question in questions %}
     <form class="ac-custom ac-radio ac-circle" autocomplete="off" style="display: {% if loop.index == 1 %}block{% else %}none{% endif %}">
         <h2>{{ loop.index }}. {{ _(question['question']) }}</h2>
@@ -29,21 +46,13 @@
     {% endfor %}
 </div>
 
-<div style="margin-top:20px;margin-left:auto;margin-right:auto;margin-bottom:5px;">
-    <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-3022214826355647"
-     crossorigin="anonymous"></script>
-    <!-- mbti测试题目表单下方广告 -->
-    <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-3022214826355647"
-        crossorigin="anonymous"></script>
-    <ins class="adsbygoogle"
-        style="display:block"
-        data-ad-format="fluid"
-        data-ad-layout-key="-gw-3+1f-3d+2z"
-        data-ad-client="ca-pub-3022214826355647"
-        data-ad-slot="1517453072"></ins>
+<div style="margin-top:40px;margin-left:auto;margin-right:auto;margin-bottom:5px;">
+    <!-- cpu feeds block -->
+    <div class="cpu-feeds-block" data-site-id="275548247" data-block-id="92444"></div>
     <script>
-        (adsbygoogle = window.adsbygoogle || []).push({});
+        (function(){var url="//cpu.baidu.com";var getEntry=function(){var script=document.createElement("script");script.id="cpu-block-entry";script.src=url+"/js/cb.js";var scriptTag=document.getElementsByTagName("script")[0];scriptTag.parentNode.insertBefore(script,scriptTag)};var sentMsg=function(e){var msg={msg:e.toString()||"no err msg",line:e.lineno||-1};var img=document.createElement("img");img.src=url+"/msg?m=block&e="+encodeURIComponent(JSON.stringify(msg))};try{window.feedsbycpu=window.feedsbycpu||[];window.feedsbycpu.push({siteId:"275548247",blockId:"92444",display:"auto"});document.getElementById("cpu-block-entry")||getEntry()}catch(e){sentMsg(e)}})();
     </script>
+    <!-- cpu feeds block end-->
 </div>
 {% endblock %}
 
