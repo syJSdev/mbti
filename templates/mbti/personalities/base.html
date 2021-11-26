@@ -31,9 +31,15 @@
         </div>
     </article>
 </div>
-<div style="text-align: center;margin-bottom:180px;">
+<div style="text-align: center;margin-bottom:100px;">
     <a href="/messageboards/" class="btn btn-primary btn-lg">{{ _("我要吐槽！！！") }}</a>
 </div>
+<!-- cpu feeds block -->
+<div class="cpu-feeds-block" data-site-id="275548247" data-block-id="92443"></div>
+<script>
+    (function(){var url="//cpu.baidu.com";var getEntry=function(){var script=document.createElement("script");script.id="cpu-block-entry";script.src=url+"/js/cb.js";var scriptTag=document.getElementsByTagName("script")[0];scriptTag.parentNode.insertBefore(script,scriptTag)};var sentMsg=function(e){var msg={msg:e.toString()||"no err msg",line:e.lineno||-1};var img=document.createElement("img");img.src=url+"/msg?m=block&e="+encodeURIComponent(JSON.stringify(msg))};try{window.feedsbycpu=window.feedsbycpu||[];window.feedsbycpu.push({siteId:"275548247",blockId:"92443",display:"auto"});document.getElementById("cpu-block-entry")||getEntry()}catch(e){sentMsg(e)}})();
+</script>
+<!-- cpu feeds block end-->
 {% endblock %}
 {% block js %}
 <script src="{{ url_for('static', filename='js/classie.js') }}"></script>
