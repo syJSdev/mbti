@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2021-11-19 13:28+0800\n"
-"PO-Revision-Date: 2021-11-27 21:50+0800\n"
+"PO-Revision-Date: 2021-11-28 14:55+0800\n"
 "Last-Translator: \n"
 "Language: ja\n"
 "Language-Team: ja <LL@li.org>\n"
@@ -966,7 +966,7 @@ msgstr "ホーム"
 #: templates/base.html:49 templates/mbti/personalities/enfj.html:2 templates/mbti/personalities/enfp.html:2 templates/mbti/personalities/entj.html:2 templates/mbti/personalities/entp.html:2 templates/mbti/personalities/esfj.html:2 templates/mbti/personalities/esfp.html:2 templates/mbti/personalities/estj.html:2 templates/mbti/personalities/estp.html:2 templates/mbti/personalities/index.html:2 templates/mbti/personalities/infj.html:2 templates/mbti/personalities/infp.html:2 templates/mbti/personalities/intj.html:2 templates/mbti/personalities/intp.html:2 templates/mbti/personalities/isfj.html:2
 #: templates/mbti/personalities/isfp.html:2 templates/mbti/personalities/istj.html:2 templates/mbti/personalities/istp.html:2
 msgid "MBTI十六型人格"
-msgstr "MBTIタイプ16パーソナリティ"
+msgstr "16型人格"
 
 #: templates/base.html:52 templates/mbti/about.html:2
 msgid "关于"

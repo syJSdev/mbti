@@ -4,6 +4,14 @@
 {%endblock%}
 {% block container %}
 <div id="article" class="article intro-effect-jam3">
+    <div class="_3u0j8agm2a5"></div>
+    <script type="text/javascript">
+        (window.slotbydup = window.slotbydup || []).push({
+            id: "u6682232",
+            container: "_3u0j8agm2a5",
+            async: true
+        });
+    </script>
     <div class="header">
         <div class="title">
             <h1>{% block type %}{% endblock %}</h1>
@@ -31,15 +39,17 @@
         </div>
     </article>
 </div>
-<div style="text-align: center;margin-bottom:100px;">
+<div class="_a5y24m7wjbu"></div>
+<script type="text/javascript">
+    (window.slotbydup = window.slotbydup || []).push({
+        id: "u6682221",
+        container: "_a5y24m7wjbu",
+        async: true
+    });
+</script>
+<div style="text-align: center;margin-bottom:70px;">
     <a href="/messageboards/" class="btn btn-primary btn-lg">{{ _("我要吐槽！！！") }}</a>
 </div>
-<!-- cpu feeds block -->
-<div class="cpu-feeds-block" data-site-id="275548247" data-block-id="92443"></div>
-<script>
-    (function(){var url="//cpu.baidu.com";var getEntry=function(){var script=document.createElement("script");script.id="cpu-block-entry";script.src=url+"/js/cb.js";var scriptTag=document.getElementsByTagName("script")[0];scriptTag.parentNode.insertBefore(script,scriptTag)};var sentMsg=function(e){var msg={msg:e.toString()||"no err msg",line:e.lineno||-1};var img=document.createElement("img");img.src=url+"/msg?m=block&e="+encodeURIComponent(JSON.stringify(msg))};try{window.feedsbycpu=window.feedsbycpu||[];window.feedsbycpu.push({siteId:"275548247",blockId:"92443",display:"auto"});document.getElementById("cpu-block-entry")||getEntry()}catch(e){sentMsg(e)}})();
-</script>
-<!-- cpu feeds block end-->
 {% endblock %}
 {% block js %}
 <script src="{{ url_for('static', filename='js/classie.js') }}"></script>

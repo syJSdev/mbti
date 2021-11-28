@@ -7,7 +7,7 @@
 {% block container %}
 <div class="pi">
     <section id="grid" class="grid">
-        <div>
+        <div style="margin-top:90px;">
             <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-3022214826355647"
                 crossorigin="anonymous"></script>
             <!-- mbti性格简介列表顶部广告 -->
@@ -21,30 +21,60 @@
                 (adsbygoogle = window.adsbygoogle || []).push({});
             </script>
         </div>
-        {% for type, desc in types_desc %}
-        <a href="/personalities/{{ type }}/" data-path-hover="m 0,0 0,35.7775 c 24.580441,3.12569 55.897012,-8.199417 90,-8.199417 34.10299,0 65.41956,11.325107 90,8.199417 L 180,0 z">
-            <figure>
-                <img src="/static/img/{{ loop.index % 8 + 1 }}.png" />
-                <svg viewBox="0 0 180 210" preserveAspectRatio="none"><path d="m 0,0 0,171.14385 c 24.580441,15.47138 55.897012,24.75772 90,24.75772 34.10299,0 65.41956,-9.28634 90,-24.75772 L 180,0 0,0 z"/></svg>
-                <figcaption>
-                    <h2>{{ type }}</h2>
-                    <p>{{ _(desc) }}</p>
-                    <button>{{ _("点击查看详细介绍") }}</button>
-                </figcaption>
-            </figure>
-        </a>
-        {% endfor %}
-    </section>
-</div>
+        <br>
+        <div class="_xego4da4aw"></div>
+        <script type="text/javascript">
+            (window.slotbydup = window.slotbydup || []).push({
+                id: "u6682231",
+                container: "_xego4da4aw",
+                async: true
+            });
+        </script>
 
-<!--mbti性格简介列表底部广告-->
-<div stype="padding:5px;margin:20px">
-    <!-- cpu feeds block -->
-    <div class="cpu-feeds-block" data-site-id="275548247" data-block-id="92442"></div>
-    <script>
-        (function(){var url="//cpu.baidu.com";var getEntry=function(){var script=document.createElement("script");script.id="cpu-block-entry";script.src=url+"/js/cb.js";var scriptTag=document.getElementsByTagName("script")[0];scriptTag.parentNode.insertBefore(script,scriptTag)};var sentMsg=function(e){var msg={msg:e.toString()||"no err msg",line:e.lineno||-1};var img=document.createElement("img");img.src=url+"/msg?m=block&e="+encodeURIComponent(JSON.stringify(msg))};try{window.feedsbycpu=window.feedsbycpu||[];window.feedsbycpu.push({siteId:"275548247",blockId:"92442",display:"auto"});document.getElementById("cpu-block-entry")||getEntry()}catch(e){sentMsg(e)}})();
-    </script>
-    <!-- cpu feeds block end-->
+        <div>
+            {% for type, desc in types_desc %}
+            <a href="/personalities/{{ type }}/" data-path-hover="m 0,0 0,35.7775 c 24.580441,3.12569 55.897012,-8.199417 90,-8.199417 34.10299,0 65.41956,11.325107 90,8.199417 L 180,0 z">
+                <figure>
+                    <img src="/static/img/{{ loop.index % 8 + 1 }}.png" />
+                    <svg viewBox="0 0 180 210" preserveAspectRatio="none"><path d="m 0,0 0,171.14385 c 24.580441,15.47138 55.897012,24.75772 90,24.75772 34.10299,0 65.41956,-9.28634 90,-24.75772 L 180,0 0,0 z"/></svg>
+                    <figcaption>
+                        <h2>{{ type }}</h2>
+                        <p>{{ _(desc) }}</p>
+                        <button>{{ _("点击查看详细介绍") }}</button>
+                    </figcaption>
+                </figure>
+            </a>
+            {% endfor %}
+        </div>
+
+        <!--mbti性格简介列表底部广告-->
+        <div class="center">
+
+            <div class="_c4zaz2w96g8"></div>
+            <script type="text/javascript">
+                (window.slotbydup = window.slotbydup || []).push({
+                    id: "u6682235",
+                    container: "_c4zaz2w96g8",
+                    async: true
+                });
+            </script>
+
+            <div>
+                <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-3022214826355647"
+                    crossorigin="anonymous"></script>
+                <ins class="adsbygoogle"
+                    style="display:block"
+                    data-ad-format="fluid"
+                    data-ad-layout-key="-6t+ed+2i-1n-4w"
+                    data-ad-client="ca-pub-3022214826355647"
+                    data-ad-slot="8572325327"></ins>
+                <script>
+                    (adsbygoogle = window.adsbygoogle || []).push({});
+                </script>
+            </div>
+        </div>
+
+    </section>
 </div>
 {% endblock %}
 
