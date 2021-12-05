@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2021-11-19 13:28+0800\n"
-"PO-Revision-Date: 2021-12-05 15:57+0800\n"
+"PO-Revision-Date: 2021-12-05 21:34+0800\n"
 "Language: fr\n"
 "Language-Team: fr <LL@li.org>\n"
 "Plural-Forms: nplurals=2; plural=(n > 1);\n"
@@ -2075,125 +2075,134 @@ msgstr "Peu importe ce que vous faites, vous avez besoin de courage."
 
 #: templates/mbti/personalities/esfp.html:5
 msgid "表演者型人格"
-msgstr ""
+msgstr "Personnalité de type interprète"
 
 #: templates/mbti/personalities/esfp.html:9
 msgid "ESFP型的人乐意与人相处，有一种真正的生活热情。他们顽皮活泼，通过真诚和玩笑使别人感到事情更加有趣。 ESFP型的人脾气随和、适应性强，热情友好和慷慨大方。他们擅长交际，常常是别人的“注意中心”。他们热情而乐于合作地参加各种活动和节目，而且通常立刻能应对几种活动。"
-msgstr ""
+msgstr "Les gens de l’ESFP sont heureux de s’entendre avec les gens et ont une vraie passion pour la vie. Ils sont ludiques et vivants, rendant les choses plus intéressantes par la sincérité et les plaisanteries. Le type ESFP est facile à vivre, adaptable, chaleureux, convivial et généreux. Ils sont doués pour communiquer et sont souvent le « centre d’attention » des autres. Ils participent à diverses activités et programmes avec enthousiasme et coopération, et sont généralement en mesure de répondre à plusieurs activités immédiatement."
 
 #: templates/mbti/personalities/esfp.html:10
 msgid "外向，友善，包容。热爱生活、人类和物质上的享受。喜欢与别人共事。在工作上，讲究常识和实用性，注意现实的情况，使工作富趣味性。富灵活性、即兴性，自然不做作，易接受新朋友和适应新环境。与别人一起学习新技能可以达到最佳的学习效果。"
-msgstr ""
+msgstr "Extraverti, amical et inclusif. Aimer la vie, la jouissance humaine et matérielle. J’aime travailler avec les autres. Dans le travail, faites attention au bon sens et à la praticité, faites attention à la réalité de la situation, afin que le travail soit intéressant. Flexible, improvisé, naturellement impraticable, facile à accepter de nouveaux amis et à s’adapter à de nouveaux environnements. Apprendre de nouvelles compétences avec d’autres peut obtenir les meilleurs résultats."
 
 #: templates/mbti/personalities/esfp.html:11
 msgid ""
 "ESFP型的人是现实的观察者，他们按照事物的本身去对待并接受它们。他们往往信任自己能够听到、闻到、触摸和看到的事物，而不是依赖于理论上的解释。因为他们喜欢具体的事实，对于细节有很好的记忆力，所以他们能从亲身的经历中学到最好的东西。共同的感觉给予他们与人和物相处的实际能力。他们喜欢收集信息，从中观察可能自然出现的解决方法。 ESFP型的人对于自我和他人都能容忍和接受，往往不会试图把自己的愿望强加于他人。ESFP型的人通融和有同情心，通常许多人都真心地喜欢他们。他们能够让别人采纳他们的建议，所以他们很擅于帮助冲突的各方重归于好。他们寻求他人的陪伴，是很好的交淡者。他们乐于帮助旁人，偏好以真实有形的方式给予协助。ESFP型的人天真"
 "率直，很有魅力和说服力。他们喜欢意料不到的事情，喜欢寻找给他人带来愉快和意外惊喜的方法。"
 msgstr ""
+"Les personnes de type ESFP sont des observateurs de la vie réelle qui traitent et acceptent les choses en fonction d’eux. Ils ont tendance à faire confiance à ce qu’ils peuvent entendre, sentir, toucher et voir, plutôt que de se fier à des explications théoriques. Parce qu’ils aiment les faits spécifiques et ont de bons souvenirs des détails, ils peuvent apprendre le meilleur de leurs propres expériences. Un sentiment commun leur donne la capacité pratique de s’entendre avec les gens et les choses. Ils aiment recueillir des informations à partir desquelles voir les solutions qui peuvent se produire "
+"naturellement. Les personnes de type ESFP sont tolérantes et acceptables envers elles-mêmes et les autres, et n’essaient souvent pas d’imposer leurs propres souhaits aux autres. Les Espanype sont accommodants et compatissants, et souvent beaucoup de gens les aiment vraiment. Ils sont doués pour aider les parties au conflit à se remettre sur leurs gardes en faisant en sorte que leurs conseils soient suivis par d’autres. Ils cherchent la compagnie des autres et sont de bons accomanment. Ils sont heureux d’aider les autres et préfèrent aider d’une manière réelle et tangible. Le type ESPP est naïf, charmant et "
+"persuasif. Ils aiment les choses inattendues et trouvent des moyens de surprendre les autres."
 
 #: templates/mbti/personalities/esfp.html:12
 msgid "ESFP类型的人灵活、忍耐力强，实际，注重结果。觉得理论和抽象的解释非常无趣。喜欢积极地采取行动解决问题。注重当前，自然不做作，享受和他人在一起的时刻。喜欢物质享受和时尚。学习新事物最有效的方式是通过亲身感受和 练习。"
-msgstr ""
+msgstr "ESFP type de personnes flexibles, endurance, pratiques, axées sur les résultats. Je trouve les explications théoriques et abstraites très ennuyeuses. Aimer prendre des mesures positives pour résoudre les problèmes. Concentrez-vous sur le présent, naturellement ne le faites pas, profitez du moment avec les autres. Comme le plaisir matériel et la mode. Le moyen le plus efficace d’apprendre de nouvelles choses est par l’expérience personnelle et la pratique."
 
 #: templates/mbti/personalities/esfp.html:14
 msgid "表演者型——不间断地尝试新的挑战"
-msgstr ""
+msgstr "Type d’interprète - essayer constamment de nouveaux défis"
 
 #: templates/mbti/personalities/esfp.html:15
 msgid "你喜欢娱乐大众，尽其所有地带给他们(和你自己)最多的爱、欢笑和热情。作为一位表演者型，你渴望聚光灯，同时享受着和所有你那个欢乐圈子的人们往来、打交道。最不快乐的事情就是叫你一个人独处，但幸运地，你并不常落单。对于真正的表演者型而言，生活是一场永不停止的狂欢聚会。"
-msgstr ""
+msgstr "Vous aimez divertir les masses et leur donner (et à vous-même) le plus d’amour, de rire et d’enthousiasme de toutes les manières possibles. En tant qu’interprète, vous aspirez aux projecteurs et aimez interagir et traiter avec toutes les personnes de votre cercle heureux. La chose la moins heureuse est de vous dire d’être seul, mais heureusement, vous ne vous installez pas toujours. Pour un vrai interprète, la vie est une fête sans fin."
 
 #: templates/mbti/personalities/esfp.html:16 templates/mbti/personalities/estp.html:30
 msgid "可能的盲点"
-msgstr ""
+msgstr "Angles morts possibles"
 
 #: templates/mbti/personalities/esfp.html:17 templates/mbti/personalities/estp.html:31
 msgid "由于你关注外界各种变化信息，喜欢处理紧急情况，不愿意制订规划去预防紧急情况的发生。常常一次着手许多事情，超出自己的负荷，不能履行诺言，可能使周围的人陷入混乱。你需要试着找到一些能让自己按时完成任务的方法。"
-msgstr ""
+msgstr "Parce que vous êtes préoccupé par les divers changements dans l’information du monde extérieur, comme pour faire face aux urgences, ne voulez pas faire de plans pour prévenir les urgences. Souvent, commencer beaucoup de choses à la fois, sur leur propre charge, incapables de tenir leurs promesses, peut provoquer le chaos dans les gens autour d’eux. Vous devez essayer de trouver des moyens de faire la tâche à temps."
 
 #: templates/mbti/personalities/esfp.html:18
 msgid "你的注意力完全集中在有趣的活动上，喜欢不断地接受新的挑战，不愿意在沉闷的工作中消磨时间，难以估计自己行为带来的结果。你需要为自己订立一个行为标准。当情况环境转变时，你很容易忽视他人的情感，变得迟钝和鲁莽。"
-msgstr ""
+msgstr "Votre attention est entièrement concentrée sur des activités intéressantes, vous aimez accepter constamment de nouveaux défis, vous ne voulez pas passer du temps dans un travail morne et vous ne pouvez pas estimer les conséquences de vos actions. Vous devez établir une norme de conduite pour vous-même. Lorsque les circonstances changent, il est facile d’ignorer les émotions des autres et de devenir terne et imprudent."
 
 #: templates/mbti/personalities/esfp.html:19 templates/mbti/personalities/intp.html:64
 msgid "工作中的优势"
-msgstr ""
+msgstr "Avantages au travail"
 
 #: templates/mbti/personalities/esfp.html:20
 msgid "敏锐的观察力，对实际讯息的出色记忆力；明白该做什么，明白现实的对待完成工作的必要条件；在发动和促进项目时的愉快；精力充沛，工作时充满活力；随机应变的能力；能够使工作有趣和兴奋；参加团队工作的乐趣；实际、现实的观察力和丰富的常识；逐步上升的方式，你在工作中创造生动有趣的气氛；适应力，愿意冒险和尝试新事物；愿意接受不同和跟随潮流；有稳定平和的心态；有冲劲和闯劲，不患得患失"
 msgstr ""
+"Observation attentive, excellente mémoire des messages réels, compréhension de ce qu’il faut faire, compréhension de la réalité de ce qui est nécessaire pour faire le travail, plaisir de lancer et de promouvoir un projet, énergie au travail, capacité à s’adapter, être capable de rendre le travail intéressant et excitant, s’amuser à travailler en équipe, observation réelle et réaliste et riche bon sens, la façon dont vous travaillez d’une manière qui crée une atmosphère vivante et intéressante au travail; adaptabilité, volonté de prendre des risques et d’essayer de nouvelles choses; volonté d’accepter les "
+"différences et de suivre les tendances Avoir un état d’esprit stable et paisible; avoir de la motivation et de la motivation, ne pas souffrir de perte"
 
 #: templates/mbti/personalities/esfp.html:21 templates/mbti/personalities/intp.html:66
 msgid "工作中的劣势"
-msgstr ""
+msgstr "Faiblesses au travail"
 
 #: templates/mbti/personalities/esfp.html:22
 msgid "很难独自工作，尤其是长时间；不喜欢事先准备，在组织时间上有困难；对别人的感觉迟钝、麻木，或对别人的感觉过于疏忽；无法看到一时不存在的机会和选择；缺乏耐心和/或无法忍受行政细节和手续；很难作决定和/或优先考虑计划；易冲动，易受诱惑或迷惑；难以看到事情的长远影响；不喜欢过多的规矩和条条框框的官僚作风；抵抗制定长远目标，难以达到最后期限；斗志不足，容易松懈,通常不愿付出过多的努力；在压力和挫折面前不够坚持"
 msgstr ""
+"Il est difficile de travailler seul, surtout pendant de longues périodes, de ne pas être préparé à l’avance, d’avoir de la difficulté à organiser son temps, de se sentir terne, engourdi ou trop négligent envers les autres, de voir des opportunités et des choix qui n’existent pas pendant un certain temps, d’être patient et / ou incapable de tolérer les détails et les procédures administratifs, de prendre des décisions et / ou de hiérarchiser des plans, d’être impulsif, susceptible de tentation ou de confusion, de voir les effets à long terme des choses, de ne pas aimer les règles et règlements excessifs et "
+"de résister aux objectifs et aux délais à long terme. Manque d’esprit combatif, facile à détendre, généralement réticent à payer trop d’efforts;"
 
 #: templates/mbti/personalities/esfp.html:23 templates/mbti/personalities/estp.html:38 templates/mbti/personalities/istj.html:54
 msgid "岗位特质"
-msgstr ""
+msgstr "Caractéristiques de l’emploi"
 
 #: templates/mbti/personalities/esfp.html:24
 msgid "在一个没有太多的规则约束的环境中工作，完成自己的任务后可以享受自由的时间"
-msgstr ""
+msgstr "Travaillez dans un environnement qui n’a pas trop de contraintes de règles et profitez de temps libre après avoir terminé vos tâches"
 
 #: templates/mbti/personalities/esfp.html:25
 msgid "工作可以使发挥你“救火”的能力，利用直接的经验，寻找解决问题的最佳方案"
-msgstr ""
+msgstr "Le travail vous permet de développer votre capacité à « tirer », en utilisant l’expérience directe pour trouver la meilleure solution au problème"
 
 #: templates/mbti/personalities/esfp.html:26
 msgid "在工作中，接触真实的人和事务，进行有形产品的制造或服务，而不是理论和思想领域的"
-msgstr ""
+msgstr "Dans le travail, le contact avec des personnes et des affaires réelles, la fabrication ou le service de produits tangibles, plutôt que les champs théoriques et idéologiques"
 
 #: templates/mbti/personalities/esfp.html:27
 msgid "工作充满挑战，允许你用冒险的方式处理紧急情况"
-msgstr ""
+msgstr "Le travail est difficile et vous permet de prendre des risques en cas d’urgence"
 
 #: templates/mbti/personalities/esfp.html:28
 msgid "工作能发挥你敏锐的观察力、理解力以及对事实的记忆力"
-msgstr ""
+msgstr "Le travail peut faire ressortir votre observation, votre compréhension et votre mémoire des faits"
 
 #: templates/mbti/personalities/esfp.html:29
 msgid "工作能让你结识各种不同的人，并能与讲究实际、充满活力的同事坦诚相处"
-msgstr ""
+msgstr "Le travail vous permet de rencontrer une grande variété de personnes et d’être honnête avec des collègues pratiques et énergiques"
 
 #: templates/mbti/personalities/esfp.html:31
 msgid "多样性的服务领域，要求你在迅速改变的环境中快速思考/反应的服务领域可以满足你的好奇心和观察力，例如：警察、消防员、侦探、调查员、房地产经纪人、情报人员、稽查员、投资、保险经纪人、预算分析师等。"
-msgstr ""
+msgstr "Divers domaines de service qui vous obligent à penser / réagir rapidement dans un environnement en évolution rapide pour satisfaire votre curiosité et votre observation, tels que la police, les pompiers, les détectives, les enquêteurs, les agents immobiliers, les agents de renseignement, les inspecteurs, les investissements, les courtiers d’assurance, les analystes budgétaires, etc."
 
 #: templates/mbti/personalities/esfp.html:32
 msgid "你喜欢冒险，喜欢有一定刺激，所以某些娱乐性的工作会带给你职业满足。例如：记者、旅游代理、摄像、主持人、演员、拍卖行业等。"
-msgstr ""
+msgstr "Vous aimez prendre des risques et avoir un peu d’excitation, donc un travail divertissant vous donnera une satisfaction professionnelle. Par exemple : journalistes, agents de voyages, caméras, présentateurs, acteurs, industrie des ventes aux enchères, etc."
 
 #: templates/mbti/personalities/esfp.html:33
 msgid "你善于进行手工操作，这种操作可以带给你经济、技术的提高，且可以不断实践。例如：承包商、厨师、电器工程师、电信网络专家、后勤和供给人员、财务主管、运动生理学者、教师、园艺设计、摄影师、野外探险领导人。"
-msgstr ""
+msgstr "Vous êtes doué pour le fonctionnement manuel, ce qui peut vous apporter une amélioration économique, technique et peut continuer à pratiquer. Exemples : entrepreneurs, cuisiniers, ingénieurs électriciens, spécialistes des réseaux de télécommunications, personnel de logistique et d’approvisionnement, trésoriers, physiologistes de l’exercice, enseignants, conception horticole, photographes, leaders de l’exploration sur le terrain."
 
 #: templates/mbti/personalities/esfp.html:34
 msgid "那些过多约束的环境不是你需要考虑的工作环境，通常自由、多样化，能够提供冒险机会的工作对你更有适应性。例如：管理顾问、网络经销、汽车商人、特许经营、批发/零售商等。"
-msgstr ""
+msgstr "Ces environnements trop contraints ne sont pas l’environnement de travail que vous devez considérer, et souvent libres et diversifiés, et les emplois qui offrent des opportunités de prise de risque sont plus adaptables pour vous. Exemples : consultants en gestion, distribution en réseau, concessionnaires automobiles, franchisage, grossistes/détaillants, etc."
 
 #: templates/mbti/personalities/esfp.html:35 templates/mbti/personalities/infj.html:102 templates/mbti/personalities/infp.html:52 templates/mbti/personalities/intp.html:68 templates/mbti/personalities/isfp.html:46 templates/mbti/personalities/istj.html:89
 msgid "发展建议"
-msgstr ""
+msgstr "Propositions de développement"
 
 #: templates/mbti/personalities/esfp.html:36
 msgid "你成功的秘决在于： 全面审视现实情况，三思而后行；考虑别人的情感；分清事情的轻重缓急，作好计划，善始善终；需要抑制其独断而忽视他人感情的方面；需要在迅速决定之前，事先计划，考虑细节，三思而行；注意规划性，发展持之以恒；需要注意物质享受以外的东西；不要考虑在压力大的环境中工作在；适合的时候，主动承担一些工作对你的发展更有利；尽量思考成熟后再采取行动，碰到困难时，你需要坚持"
 msgstr ""
+"Le secret de votre succès est: jetez un regard complet sur la réalité, réfléchissez à deux fois, considérez les émotions des autres, hiérarchisez les choses, planifiez bien, commencez et terminez bien, supprimez leur arbitraire et ignorez les aspects émotionnels des autres, planifiez à l’avance, considérez les détails et réfléchissez à deux fois avant de prendre une décision rapide, faites attention à la planification, développez de manière cohérente, faites attention à des choses autres que le plaisir matériel, n’envisagez pas de travailler dans un environnement stressant et prenez l’initiative de prendre "
+"quelque chose de plus bénéfique pour votre développement le cas échéant. Essayez de penser mature avant d’agir, et lorsque vous rencontrez des difficultés, vous devez vous y tenir"
 
 #: templates/mbti/personalities/estj.html:5
 msgid "大男人型人格"
-msgstr ""
+msgstr "Personnalité de grand homme"
 
 #: templates/mbti/personalities/estj.html:9
 msgid "ESTJ代表：E外倾+S感觉+T思维+J判断。ESTJ的人们友好直率，精力充沛；能力强，效率高，有条理；现实敏感，对新观念及未经证实的观念多抱有怀疑的态度；诚实率真；决策迅速，固执己见，保守，认真可靠。"
-msgstr ""
+msgstr "ESTJ signifie : E-outward-S-feeling-T-thinking-J judgment. Les gens d’ESTJ sont amicaux et francs, énergiques, compétents, efficaces et organisés, réalistement sensibles, méfiants à l’égard des idées nouvelles et non prouvées, honnêtes et honnêtes, rapides, d’opinion, conservateurs et consciencieux."
 
 #: templates/mbti/personalities/estj.html:11
 msgid "讲求实际，注重现实，注重事实。果断，很快作出实际可行的决定。善于将项目和人组织起来将事情完成，并尽可能以最有效率的方法达到目的。能够注意日常例行工作的细节。有一套清晰的逻辑标准，有系统性地遵循， 并希望他人也同样遵循。会以较强硬的态度去执行计划。"
-msgstr ""
+msgstr "Soyez réaliste, réaliste et factuel. Prendre des décisions décisives et rapides et pratiques. Soyez bon dans l’organisation de projets et de personnes pour faire avancer les choses et les réaliser de la manière la plus efficace possible. Soyez capable de prêter attention aux détails de votre routine quotidienne. Il y a un ensemble clair de critères logiques à suivre systématiquement, et j’espère que d’autres suivront les mêmes. adoptera une ligne plus dure pour mettre en œuvre le plan."
 
 #: templates/mbti/personalities/estj.html:12
 msgid ""
@@ -2201,992 +2210,1116 @@ msgid ""
 "他们信服。同时，ESTJ型的人又很现实、有头脑、讲求实际。他们更感兴趣的是真实的事物，而不是诸如抽象的想法和理论等无形的东西。他们往往对那些认为没有实用价值的东西不感兴趣。他们知道自己周围将要发生的事情，而首要关心的则是目前。因为ESTJ型的人依照一套固定的规则生活，所以他们坚持不懈和值得依赖。他们往往很传统，有兴趣维护现存的制度。 虽然对于他们来说，感情生活和社会活动并不像生活的其他方面那样重要，但是对于亲情关系，他们却固守不变。他们不但能很轻松地判断别人，而且还是条理分明的纪律执行者。 ESTJ型的人直爽坦率，友善合群。通常他 们会很容易地了解事物，这是因为他们相信你看到的便是你得到的。对ESTJ类型的人来说，最重要的是做"
 "对事情，把握好事情的发展。ESTJ人做事讲究顺序和连续性。与他们外向的性格相一致的是，他们热心于对人的组织，即对人的监督管理。虽然他们喜欢根据自己的理论和战术性的议程组织和动员人员，他们还是愿意遵守一些规则，诸如传统惯例和上级命令等。"
 msgstr ""
+"Les personnes de type ESTJ travaillent efficacement, auto-responsables, supervisent le travail des autres, l’allocation raisonnable et l’élimination des ressources, le principal sous-distinct, bien organisé, peut formuler et respecter les règles, comme travailler dans un système sain, hiérarchique, les entreprises plus stables, ont tendance à choisir des affaires plus pragmatiques, principalement des produits tangibles, aiment travailler avec une attitude pour gagner, ne mettent pas particulièrement l’accent sur l’industrie ou les intérêts du travail, une vision plus professionnelle de chaque emploi. Les "
+"gens de type ESTJ sont très doués pour faire avancer les choses; ils aiment manipuler les situations et faire bouger les choses; ils ont le sens des responsabilités et tiennent leurs promesses. Ils aiment être organisés et peuvent se souvenir et organiser de nombreux détails. Ils commencent à atteindre leurs objectifs en temps opportun et de manière systématique, aussi efficacement et aussi efficacement que possible. Les gens de l’ESTJ sont obligés de prendre des décisions. Ils tirent souvent des conclusions basées sur leurs expériences passées. Ils sont objectifs, méthodiques et analytiques, et ont de "
+"solides capacités de raisonnement. En fait, il n’y a rien pour les convaincre, sauf la logique. En même temps, les personnes de type ESTJ sont très réalistes, intelligentes, pragmatiques. Ils sont plus intéressés par les choses réelles que par les intangibles tels que les idées et les théories abstraites. Souvent, ils ne s’intéressent pas aux choses qui, selon eux, n’ont aucune valeur pratique. Ils savent ce qui va se passer autour d’eux, et la principale préoccupation est le présent. Parce que les personnes de type ESTJ vivent selon un ensemble fixe de règles, elles sont persistantes et dignes de "
+"dépendance. Ils sont souvent très traditionnels et intéressés par le maintien du système existant. Bien que les activités émotionnelles et sociales ne soient pas aussi importantes pour eux que d’autres aspects de la vie, elles restent les mêmes pour les relations familiales. Non seulement ils peuvent facilement juger les autres, mais ils sont aussi des agents d’application de la discipline bien organisés. Personnes de type ESTJ hétéros et franches, amicales et en groupe. Habituellement, ils apprennent à connaître les choses facilement parce qu’ils croient que ce que vous voyez est ce que vous obtenez. Pour "
+"les personnes de type ESTJ, le plus important est de faire ce qu’il faut et de bien faire les choses. Les gens de l’ESTJ font les choses dans l’ordre et la continuité. Cohérents avec leur personnalité extravertie, ils sont passionnés par l’organisation des personnes, c’est-à-dire la supervision et la gestion des personnes. Bien qu’ils préfèrent organiser et mobiliser les gens en fonction de leurs agendas théoriques et tactiques, ils sont prêts à suivre des règles telles que les pratiques traditionnelles et les ordres supérieurs."
 
 #: templates/mbti/personalities/estj.html:13
 msgid "ESTJ人是合群的。他们在俱乐部、文化团体、教堂和其他服务机构中寻找志同道合的人为伴。同所有其他SJ类型的人一样，他们也追求归属感。因此，家庭生活是ESTJ人极其关注的事，参加婚礼、葬礼以及家庭联欢会都是他们必不可少的活动。"
-msgstr ""
+msgstr "Les gens de l’ESTJ sont dans le groupe. Ils recherchent des personnes partageant les mêmes idées dans les clubs, les groupes culturels, les églises et autres services. Comme tous les autres types de personnes SJ, ils poursuivent un sentiment d’appartenance. La vie de famille est donc une grande préoccupation pour les personnes de l’ESTJ, et assister à des mariages, des funérailles et des réunions de famille est une activité essentielle pour eux."
 
 #: templates/mbti/personalities/estj.html:14
 msgid "对ESTJ人来说，传统很重要。假日、生日、节日都是他们铭记着并必定会隆重地庆祝的。ESTJ人喜欢追根溯源，将家产追溯到他们尊敬的祖宗，既表达了他们对家族的尊重，又找到了归属感。"
-msgstr ""
+msgstr "Pour l’ESTJ, la tradition est importante. Les vacances, les anniversaires et les vacances sont toutes des choses dont ils se souviennent et qu’ils sont tenus de célébrer. Les gens de l’ESTJ aiment retracer leur famille jusqu’à leurs ancêtres respectés, exprimer leur respect pour la famille et trouver un sentiment d’appartenance."
 
 #: templates/mbti/personalities/estj.html:15
 msgid "提供服务------- 实质即为负责任的体现------- 是ESTJ人另一关注的事。他们喜欢提供和接受优质的服务。那些提供了可靠服务的ESTJ商人大大地提高了自己的形象。"
-msgstr ""
+msgstr "La ——— de la prestation de services est essentiellement une manifestation de responsabilité——— une autre préoccupation pour les gens de l’ESTJ. Ils aiment fournir et recevoir un service de qualité. Les marchands ESTJ qui fournissent des services fiables ont grandement amélioré leur image."
 
 #: templates/mbti/personalities/estj.html:16
 msgid "ESTJ人推崇职业道德。他们认为工作中应努力取得权利、职位和声望。懒惰是不会为他们接受，更不会赞赏的。ESTJ人坦率直言，有原则；只要他们认为是正确的，即使面对势不可挡的强势，他们也敢站出来说话。"
-msgstr ""
+msgstr "Les gens de l’ESTJ valorisent l’éthique professionnelle. Ils croient que des efforts devraient être faits pour obtenir des droits, des positions et du prestige dans leur travail. La paresse n’est pas acceptable pour eux, et encore moins appréciée. Les gens de l’ESTJ sont francs et fondés sur des principes; tant qu’ils pensent qu’ils ont raison, ils osent s’exprimer même face à une force imparable."
 
 #: templates/mbti/personalities/estj.html:18
 msgid "ESTJ常常会是政治掮客，或者那些在幕后操纵一切的政治家。他们可能是那些控制美国金融王朝的强盗资本家。他们信奉的是黑手党的哲学:我的地盘，我的人。他们是地狱的天使，是工会的领导人，是那种置于死地而后生的人。他们意志坚定但心地温和。他们是一手掌握控制权，一手把持公平原则的企业领导。他们是分户出售公寓的地产开发商，带头为无家可归者提供住房。"
 msgstr ""
+"Les ESTJ sont souvent des clients politiques, ou des politiciens qui manipulent tout dans les coulisses. Ils sont peut-être les capitalistes voleurs qui contrôlaient la dynastie financière américaine. Ils croient en la philosophie mafieuse : ma terre, mon peuple. Ce sont les Anges de l’Enfer, les dirigeants des syndicats, le genre de personnes qui vivent jusqu’à la mort. Ils sont déterminés mais doux d’esprit. Ce sont des leaders à une seule main avec le contrôle et d’une seule main sur le principe de l’équité. Ce sont des promoteurs immobiliers qui vendent des appartements dans des ménages séparés et "
+"ouvrent la voie au logement des sans-abri."
 
 #: templates/mbti/personalities/estj.html:20
 msgid "公司首席执行官、军官、预算分析师、药剂师、房地产经纪人、保险经纪人、教师（贸易/工商类）、物业管理、银行官员、项目经理、数据库经理、信息总监、后勤与供应经理、业务运作顾问、证券经纪人、电脑分析人员、保险代理、普通承包商、工厂主管、大中型外资企业员工、业务经理、中层经理（多分布在财务、营运、物流采购、销售管理、项目管理、工厂管理、人事行政部门）、职业经理人、各类中小型企业主管和业主"
 msgstr ""
+"Pdg, officier, analyste budgétaire, pharmacien, agent immobilier, courtier en assurance, enseignant (commerce / entreprise), gestion immobilière, agent bancaire, gestionnaire de projet, gestionnaire de base de données, directeur de l’information, responsable de la logistique et de l’approvisionnement, consultant en opérations commerciales, courtier en valeurs mobilières, analyste informatique, agent d’assurance, entrepreneur général, superviseur d’usine, employés de grandes et moyennes entreprises étrangères, gestionnaires d’entreprise, cadres intermédiaires (principalement répartis dans les finances, les "
+"opérations, l’approvisionnement logistique, la gestion des ventes, la gestion de projet, la gestion d’usine, Départements de l’administration du personnel), gestionnaires professionnels, chefs de divers types de petites et moyennes entreprises et propriétaires"
 
 #: templates/mbti/personalities/estj.html:21
 msgid "卓越领导"
-msgstr ""
+msgstr "Excellent leadership"
 
 #: templates/mbti/personalities/estj.html:22
 msgid ""
 "若你是一个大男人型，你在众人之间是一个卓越同时受尊重的个体，因为你能够在不引起众人骚动的状况下，把你心中的话表达出来。当然，那些尊重你的人也许会觉得恐惧，因为他们看不到你温柔的一面：只为了值得的人才付出的忠诚，也就是你为了支持和保护你的朋友、家庭和国家所奉献的一切忠诚。当你恋爱时对你而言，爱情是一件必须严肃看待的付出过程。一旦你对对方付出一切，你就已经决定了要和那个人共度余生。你也是那种喜欢控制生活中每件事情的人，包括爱情生活。你很有可能是那个负责计划大部分约会的人(除非你和一个同样强势的陆军元帅型或大男人型交往)，也是那个在婚后负责家事的人。由于你习惯直接的方式，可能会无意间伤害了你伴侣的感受。这种状况尤其"
 "会发生在当你的伴侣是其中一个感觉型的恋爱类型时。纵然如此，你并不认为你那直言不讳的语气是一段感情的障碍，你也无意要伤害对方。你只是以一种现实的方式和另一半交往，你希望打破那些繁文缛节，让双方可以共创一段成功感情、婚姻和家庭生活。"
 msgstr ""
+"Si vous êtes un grand homme, vous êtes un individu excellent et respecté parmi tous, parce que vous pouvez exprimer les mots dans votre cœur sans causer d’agitation. Bien sûr, ceux qui vous respectent peuvent avoir peur parce qu’ils ne peuvent pas voir votre côté doux: la loyauté seulement envers les gens dignes, c’est-à-dire toute la loyauté que vous donnez pour soutenir et protéger vos amis, votre famille et votre pays. L’amour est un processus qui doit être pris au sérieux lorsque vous êtes amoureux. Une fois que vous vous donnez tout l’un à l’autre, vous avez décidé de passer le reste de votre vie avec "
+"cette personne. Vous êtes aussi le genre de personne qui aime tout contrôler dans la vie, y compris la vie amoureuse. Vous êtes probablement celui qui est responsable de la planification de la plupart des rendez-vous (sauf si vous êtes en couple avec un maréchal de l’armée tout aussi puissant ou un grand homme) et celui qui est en charge de la famille après le mariage. Parce que vous êtes habitué à diriger, cela peut blesser par inadvertance les sentiments de votre partenaire. Cela se produit surtout lorsque votre partenaire est l’un des types sensoriels de relations. Même ainsi, vous ne voyez pas votre ton "
+"franc comme un obstacle à une relation, et vous n’avez aucune intention de blesser l’autre personne. Vous interagissez simplement avec votre moitié d’une manière réaliste et vous voulez briser la paperasserie afin qu’ils puissent créer une relation, un mariage et une vie de famille réussis."
 
 #: templates/mbti/personalities/estj.html:23
 msgid "若你是一个女性大男人型，你可以在任何地方、任何时候认识男人，但很多男人似乎都被你的直接态度吓跑。不管到哪里，总是遇到那种容易受惊吓的男人，他们无法看穿你“强悍”外表下温柔的内在。你最明智的选择是男性大男人型或是陆军元帅型(ENTJ)，只要他在直觉偏向上不会太强烈。若你的陆军元帅型是一个很强烈的直觉型，他也许会渐渐对你的务实面感到厌烦，而你最终有可能会因他疯狂的计划和设计抓狂。你和这两种男人其中一种交往的优点是，你可以因此享受一个高水准的生活。他们两人都可能受过良好教育，同时正在往成功的路径快速前进。缺点是，你有可能和另一半彼此竞争或相互较劲。一场思想的角力战也许会被引爆，以决定你们当中哪个才是最有成就的。"
 msgstr ""
+"Si vous êtes une grande femme, vous pouvez rencontrer des hommes n’importe où, n’importe quand, mais beaucoup d’hommes semblent être effrayés par votre attitude directe. Où que vous alliez, vous rencontrez toujours des hommes qui ont facilement peur, qui ne peuvent pas voir à travers le doux intérieur sous votre apparence « forte ». Votre choix le plus sage est homme-homme ou maréchal de l’armée (ENTJ), tant que son intuition n’est pas trop forte. Si votre maréchal de l’armée est un type intuitif très fort, il peut se lasser de votre côté pragmatique, et vous pouvez finir par être en colère contre sa "
+"planification et sa conception folles. L’un des avantages de votre interaction avec ces deux hommes est que vous pouvez ainsi profiter d’un niveau de vie élevé. Les deux peuvent être bien éduqués et avancent rapidement sur la voie du succès. L’inconvénient est que vous pouvez être en concurrence avec ou contre votre autre moitié. Une bataille d’idées peut être déclenché pour décider lequel d’entre vous est le plus accompli."
 
 #: templates/mbti/personalities/estp.html:5
 msgid "挑战者型人格"
-msgstr ""
+msgstr "Personnalité de challenger"
 
 #: templates/mbti/personalities/estp.html:9
 msgid "1.灵活、忍耐力强，实际，注重结果。"
-msgstr ""
+msgstr "1. Flexible, endurance, pratique, axé sur les résultats."
 
 #: templates/mbti/personalities/estp.html:10
 msgid "2.觉得理论和抽象的解释非常无趣。——并非所有人如此"
-msgstr ""
+msgstr "2. Je trouve les explications théoriques et abstraites très ennuyeuses. Tout le monde n’est pas comme ça"
 
 #: templates/mbti/personalities/estp.html:11
 msgid "3.喜欢积极地采取行动解决问题。"
-msgstr ""
+msgstr "3. Aimer prendre des mesures positives pour résoudre les problèmes."
 
 #: templates/mbti/personalities/estp.html:12
 msgid "4.注重当前，自然不做作，享受和他人在一起的时刻。"
-msgstr ""
+msgstr "4. Faites attention au présent, ne le faites naturellement pas, profitez du moment avec les autres."
 
 #: templates/mbti/personalities/estp.html:13
 msgid "5.喜欢物质享受和时尚。"
-msgstr ""
+msgstr "5. Comme le plaisir matériel et la mode."
 
 #: templates/mbti/personalities/estp.html:14
 msgid "6.学习新事物最有效的方式是通过亲身感受和练习。"
-msgstr ""
+msgstr "6. Le moyen le plus efficace d’apprendre de nouvelles choses est par l’expérience personnelle et la pratique."
 
 #: templates/mbti/personalities/estp.html:16
 msgid "1.ESTP型的人不会焦虑，因为他们是快乐的。"
-msgstr ""
+msgstr "1. Les gens de type ESTP ne s’inquiètent pas parce qu’ils sont heureux."
 
 #: templates/mbti/personalities/estp.html:17
 msgid "2.ESTP型的人活跃、随遇而安、天真率直。他们乐于享受现在的一切而不是为将来计划什么。"
-msgstr ""
+msgstr "2.ESTP type de personnes actives, faciles à rencontrer, naïves et franches. Ils apprécient tout maintenant plutôt que de planifier l’avenir."
 
 #: templates/mbti/personalities/estp.html:18
 msgid "3.ESTP型的人很现实，他们信任和依赖于自己对这个世界的感受。他们是好奇而热心的观察者。因为他们接受现在的一切，所以他们思维开阔，能够容忍自我和他人。"
-msgstr ""
+msgstr "3.Les personnes de type ESTP sont très réalistes, elles font confiance et comptent sur leurs propres sentiments sur le monde. Ce sont des observateurs curieux et enthousiastes. Parce qu’ils acceptent tout maintenant, ils sont ouverts d’esprit et tolérants envers eux-mêmes et les autres."
 
 #: templates/mbti/personalities/estp.html:19
 msgid "4.ESTP型的人喜欢处理、分解与恢复原状的真实事物。"
-msgstr ""
+msgstr "4. Les gens de l’ESTP aiment traiter, décomposer et restaurer la vraie chose."
 
 #: templates/mbti/personalities/estp.html:20
 msgid "5.ESTP型的人喜欢行动而不是漫谈，当问题出现时，他们乐于去处理。他们是优秀的解决问题的人，这是因为他们能够掌握必要的事实情况，然后找到符合逻辑的明智的解决途径，而无需浪费大量的努力或精力。"
-msgstr ""
+msgstr "5.Les gens de l’ESTP aiment agir plutôt que de parler, et quand des problèmes surviennent, ils sont heureux de les traiter. Ils sont de bons résolveurs de problèmes parce qu’ils sont capables de saisir les faits nécessaires et de trouver ensuite des solutions logiques et sensées sans gaspiller beaucoup d’efforts ou d’efforts."
 
 #: templates/mbti/personalities/estp.html:21
 msgid "6.ESTP型的人会成为适宜外交谈判的人，他们乐于尝试非传统的方法，而且常常能够说服别人给他们一个妥协的机会。"
-msgstr ""
+msgstr "6. Les personnes de type ESTP deviennent aptes aux négociations diplomatiques, elles sont prêtes à essayer des méthodes non traditionnelles et peuvent souvent persuader les autres de leur donner une chance de faire des compromis."
 
 #: templates/mbti/personalities/estp.html:22
 msgid "7.ESTP型的人能够理解晦涩的原则，在符合逻辑的基础上，而不是基于他们对事物的感受之上做出决定。因此，他们讲求实效，在情况必须时非常强硬。"
-msgstr ""
+msgstr "7.Les gens de l’ESTP peuvent comprendre des principes obscurs et prendre des décisions basées sur la logique, pas sur ce qu’ils pensent des choses. Ils sont donc pragmatiques et très durs lorsque les circonstances doivent l’être."
 
 #: templates/mbti/personalities/estp.html:23
 msgid "8.ESTP型的人在大多数的社交场合中，很友善，富有魅力、轻松自如而受 人欢迎。在任何有他们的场合中，他们总是爽直、多才多艺和有趣，总有没完没了的笑话和故事。他们善于通过缓和气氛以及使冲突的双方相互协调，从而化解紧张的局势"
-msgstr ""
+msgstr "8.PERSONNES DE TYPE ESTP dans la plupart des occasions sociales, très sympathiques, charmantes, détendues et populaires. Dans toutes les situations où ils les ont, ils sont toujours droits, polyvalents et drôles, avec des blagues et des histoires sans fin. Ils sont doués pour désamorcer les tensions en désamorcer l’atmosphère et en coordonnant les deux parties au conflit."
 
 #: templates/mbti/personalities/estp.html:25
 msgid "你是敏锐的发现者，善于看出眼前的需要，并迅速做出反应来满足这种需要，天生爱揽事并寻求满意的解决办法。你精力充沛，积极解决问题，很少被规则或标准程式框住。能够想出容易的办法去解决难办的事情，以此使自己的工作变得愉快。"
-msgstr ""
+msgstr "Vous êtes un découvreur passionné, doué pour voir les besoins immédiats et y répondre rapidement, attirer naturellement des événements et rechercher des solutions satisfaisantes. Vous êtes énergique, actif dans la résolution de problèmes et êtes rarement encadré par des règles ou des programmes standard. Soyez en mesure de rendre votre travail agréable en proposant des moyens faciles de résoudre des problèmes difficiles."
 
 #: templates/mbti/personalities/estp.html:26
 msgid "你天生的乐天派，积极活跃，随遇而安，乐于享受今天。对提供新经验的任何事物、活动、食物、服饰、人等都感兴趣，只愿享受今天，享受现在。"
-msgstr ""
+msgstr "Vous êtes naturellement Happy Days, actif, facile à rencontrer et heureux de profiter aujourd’hui. Intéressé par tout ce qui offre de nouvelles expériences, activités, nourriture, vêtements, personnes, etc., profitez simplement d’aujourd’hui et profitez du présent."
 
 #: templates/mbti/personalities/estp.html:27
 msgid "你好奇心强，思路开扩，容易接受事物，倾向于通过逻辑分析和推理做出决定，不会感情用事。如果形势需要，你会表现出坚韧的意志力。偏爱灵活地处理实际情况，而不是根据计划办事。"
-msgstr ""
+msgstr "Vous êtes curieux, ouvert d’esprit, réceptif aux choses et avez tendance à prendre des décisions par l’analyse logique et le raisonnement sans utilisation émotionnelle. Si la situation l’exige, vous ferez preuve de ténacité. Préférez faire face à la situation de manière flexible plutôt que de suivre le plan."
 
 #: templates/mbti/personalities/estp.html:28
 msgid "你长于行动，而非言语，喜欢处理各种事情，喜欢探求新方法。你具有创造性和适应性，有发明的才智和谋略，能够有效地缓解紧张氛，并使矛盾双方重归于好。"
-msgstr ""
+msgstr "Vous êtes plus long que l’action, pas les mots, vous aimez faire face à toutes sortes de choses, comme explorer de nouvelles façons. Vous êtes créatif et adaptable, avez un talent et une stratégie inventifs, pouvez efficacement apaiser l’atmosphère de tension et rendre les contradictions des deux côtés bonnes."
 
 #: templates/mbti/personalities/estp.html:29
 msgid "你性格外向，友好而迷人，很受欢迎，并且能在大多数社会情况中很放松自如。"
-msgstr ""
+msgstr "Vous êtes extraverti, amical et charmant, populaire et détendu dans la plupart des situations sociales."
 
 #: templates/mbti/personalities/estp.html:32
 msgid "你的注意力完全集中在有趣的活动上，喜欢不断地接受新的挑战，不愿意在目前沉闷的工作中消磨时间，难以估计自己行为带来的结果。你需要为自己订立一个行为标准。"
-msgstr ""
+msgstr "Votre attention est entièrement concentrée sur des activités intéressantes, vous aimez accepter constamment de nouveaux défis, vous ne voulez pas passer du temps dans votre travail morne actuel et vous ne pouvez pas estimer les conséquences de vos actions. Vous devez établir une norme de conduite pour vous-même."
 
 #: templates/mbti/personalities/estp.html:35
 msgid "敏锐的观察力，对实际讯息的出色记忆力、明白该做什么，明白现实的对待完成工作的必要条件、在发动和促进项目时的愉快、精力充沛，工作时充满活力、随机应变的能力、能够使工作有趣和兴奋、参加团队工作的乐趣、实际、现实的观察力和丰富的常识、逐步上升的方式，你在工作中创造生动有趣的气氛、适应力，愿意冒险和尝试新事物、愿意接受不同和跟随潮流、有稳定平和的心态、有冲劲和闯劲，不患得患失"
 msgstr ""
+"Observation attentive, excellente mémoire des messages réels, compréhension de ce qu’il faut faire, compréhension de la réalité de ce qui est nécessaire pour faire le travail, le plaisir et l’énergie de démarrer et de promouvoir un projet, la capacité d’être dynamique et flexible au travail, le plaisir de pouvoir rendre le travail intéressant et excitant, le plaisir de participer au travail d’équipe, l’observation pratique, réaliste et le riche bon sens, la façon dont vous vous élevez, vous créez une atmosphère vivante, adaptabilité, prêt à prendre des risques et à essayer de nouvelles choses, prêt à "
+"accepter des tendances différentes et à suivre, Avoir un état d’esprit stable et paisible, avoir de l’élan et de la motivation, ne pas souffrir de perte"
 
 #: templates/mbti/personalities/estp.html:37
 msgid "很难独自工作，尤其是长时间、不喜欢事先准备，在组织时间上有困难、对别人的感觉迟钝、麻木，或对别人的感觉过于疏忽、无法看到一时不存在的机会和选择、缺乏耐心和/或无法忍受行政细节和手续、很难作决定和/或优先考虑计划、易冲动，易受诱惑或迷惑、难以看到事情的长远影响、不喜欢过多的规矩和条条框框的官僚作风、抵抗制定长远目标，难以达到最后期限、斗志不足，容易松懈,通常不愿付出过多的努力、在压力和挫折面前不够坚持"
 msgstr ""
+"Il est difficile de travailler seul, surtout pendant de longues périodes, sans préparation préalable, avec des difficultés à organiser le temps, avec des difficultés à organiser le temps, engourdi ou trop négligent envers les autres, incapable de voir les opportunités et les choix qui n’existent pas pendant un certain temps, des détails et des procédures administratifs impatients et / ou insupportables, difficile de prendre des décisions et / ou de hiérarchiser les plans, impulsif, vulnérable à la tentation ou à la confusion, difficile de voir les effets à long terme des choses, n’aime pas les règles et "
+"règlements excessifs et résiste aux objectifs à long terme , manque d’esprit combatif, facile à détendre, ne veulent généralement pas payer trop d’efforts, face à la pression et à la frustration ne suffit pas à adhérer"
 
 #: templates/mbti/personalities/estp.html:39
 msgid "在一个没有太多的规则约束的环境中工作，完成自己的任务后可以享受自由的时间；工作可以使发挥你“救火”的能力，利用直接的经验，寻找解决问题的最佳方案；在工作中，接触真实的人和事务，进行有形产品的制造或服务，而不是理论和思想领域的；工作充满挑战，允许你用冒险的方式处理紧急情况；工作能发挥你敏锐的观察力、理解力以及对事实的记忆力；工作能让你结识各种不同的人，并能与讲究实际、充满活力的同事坦诚相处"
 msgstr ""
+"Travaillez dans un environnement qui n’a pas trop de règles et de conditions, profitez de temps libre après avoir terminé vos tâches, d’un travail qui vous permet de « combattre » et d’utiliser l’expérience directe pour trouver la meilleure solution aux problèmes; engagez-vous avec de vraies personnes et affaires au travail pour fabriquer ou servir des produits tangibles au lieu des domaines théoriques et idéologiques; le travail est difficile et vous permet de faire face aux urgences de manière risquée; le travail peut donner vie à votre observation, votre compréhension et votre mémoire des faits. Le "
+"travail vous permet de rencontrer une grande variété de personnes et d’être honnête avec des collègues pratiques et énergiques"
 
 #: templates/mbti/personalities/estp.html:41
 msgid "多样性的服务领域，要求你在迅速改变的环境中快速思考/反应的服务领域可以满足你的好奇心和观察力。"
-msgstr ""
+msgstr "Une gamme diversifiée de domaines de service qui vous obligent à être rapide à penser / réagir dans un environnement en évolution rapide pour satisfaire votre curiosité et votre observation."
 
 #: templates/mbti/personalities/estp.html:42
 msgid "例如：警察、消防员、侦探、调查员、房地产经纪人、情报人员、稽查员、投资、保险经纪人、预算分析师等。"
-msgstr ""
+msgstr "Exemples : policiers, pompiers, détectives, enquêteurs, agents immobiliers, agents de renseignement, inspecteurs, investissements, courtiers d’assurance, analystes budgétaires, etc."
 
 #: templates/mbti/personalities/estp.html:43
 msgid "你喜欢冒险，喜欢有一定刺激，所以某些娱乐性的工作会带给你职业满足。"
-msgstr ""
+msgstr "Vous aimez prendre des risques et avoir un peu d’excitation, donc un travail divertissant vous donnera une satisfaction professionnelle."
 
 #: templates/mbti/personalities/estp.html:44
 msgid "例如：记者、旅游代理、摄像、主持人、演员、拍卖行业等。"
-msgstr ""
+msgstr "Par exemple : journalistes, agents de voyages, caméras, présentateurs, acteurs, industrie des ventes aux enchères, etc."
 
 #: templates/mbti/personalities/estp.html:45
 msgid "你善于进行手工操作，这种操作可以带给你经济、技术的提高，且可以不断实践。"
-msgstr ""
+msgstr "Vous êtes doué pour le fonctionnement manuel, ce qui peut vous apporter une amélioration économique, technique et peut continuer à pratiquer."
 
 #: templates/mbti/personalities/estp.html:46
 msgid "例如：承包商、厨师、电器工程师、电信网络专家、后勤和供给人员、财务主管、运动生理学者、教师、园艺设计、摄影师、野外探险领导人。"
-msgstr ""
+msgstr "Exemples : entrepreneurs, cuisiniers, ingénieurs électriciens, spécialistes des réseaux de télécommunications, personnel de logistique et d’approvisionnement, trésoriers, physiologistes de l’exercice, enseignants, conception horticole, photographes, leaders de l’exploration sur le terrain."
 
 #: templates/mbti/personalities/estp.html:47
 msgid "那些过多约束的环境不是你需要考虑的工作环境，通常自由、多样化，能够提供冒险机会的工作对你更有适应性。"
-msgstr ""
+msgstr "Ces environnements trop contraints ne sont pas l’environnement de travail que vous devez considérer, et souvent libres et diversifiés, et les emplois qui offrent des opportunités de prise de risque sont plus adaptables pour vous."
 
 #: templates/mbti/personalities/estp.html:48
 msgid "例如：管理顾问、网络经销、汽车商人、特许经营、批发/零售商等。"
-msgstr ""
+msgstr "Exemples : consultants en gestion, distribution en réseau, concessionnaires automobiles, franchisage, grossistes/détaillants, etc."
 
 #: templates/mbti/personalities/estp.html:49
 msgid "建议"
-msgstr ""
+msgstr "suggestion"
 
 #: templates/mbti/personalities/estp.html:50
 msgid "你成功的秘决在于： 全面审视现实情况，三思而后行、考虑别人的情感、分清事情的轻重缓急，作好计划，善始善终。需要抑制其独断而忽视他人感情的方面、需要在迅速决定之前，事先计划，考虑细节，三思而行、注意规划性，发展持之以恒、需要注意物质享受以外的东西、目前不要考虑在压力大的环境中工作、在适合的时候，主动承担一些工作对你的发展更有利、尽量思考成熟后再采取行动，碰到困难时，你需要坚持"
 msgstr ""
+"Le secret de votre succès est: jetez un coup d’œil complet à la réalité, réfléchissez à deux fois, considérez les émotions des autres, hiérarchisez les choses, faites de bons plans et commencez et terminez bien. Besoin de supprimer son arbitraire et d’ignorer les sentiments des autres, besoin de planifier à l’avance, de considérer les détails, de réfléchir à deux fois, de prêter attention à la planification, à la persévérance de développement, de prêter attention au plaisir matériel en dehors des choses, de ne pas envisager de travailler dans un environnement stressant, au bon moment, de prendre "
+"l’initiative d’entreprendre un travail plus propice à votre développement, d’essayer de penser mature et ensuite de passer à l’action, lorsque vous rencontrez des difficultés, vous devez adhérer à"
 
 #: templates/mbti/personalities/estp.html:51
 msgid "分析报告"
-msgstr ""
+msgstr "Rapport d’analyse"
 
 #: templates/mbti/personalities/estp.html:52
 msgid "你对组织的社会性要求高，你非常喜欢那些经常有外出机会，果断和行动导向的企业文化。你非常希望每天能与许多人接触，愿意积极的建立起广泛的社会关系网，建立起新的商业机会。工作可以直接与客户打交道，如销售人员，商业拓展人员等。自信、有挑战性，发现或创造新的市场机会，有这样工作空间的环境适合你。"
 msgstr ""
+"Vous avez des exigences sociales élevées sur l’organisation, et vous aimez la culture d’entreprise qui a souvent l’occasion de sortir, décisive et orientée vers l’action. Vous voulez vraiment atteindre beaucoup de gens tous les jours et être prêt à construire activement un vaste réseau de réseaux sociaux et de nouvelles opportunités commerciales. Le travail peut se faire directement avec les clients, tels que le personnel de vente, le personnel de développement des affaires. Confiant, stimulant, découvrant ou créant de nouvelles opportunités de marché, et un environnement avec un tel espace de travail est "
+"fait pour vous."
 
 #: templates/mbti/personalities/estp.html:53
 msgid "你对结构松散，不要求很高的精确度和不强调细节的组织更喜欢。你喜欢自己设定目标和工作的完成期限，并且有权力决定自己的工作方式（例如自我设定工作时间表）工作中你更相信你的直觉，而不是精细的计划和安排。以人为本，互动性强和高度自主的文化对你都很合适。"
-msgstr ""
+msgstr "Vous préférez les organisations qui sont peu structurées, qui ne nécessitent pas une grande précision et qui ne mettent pas l’accent sur les détails. Vous aimez fixer vos propres objectifs et délais pour terminer votre travail, et avez le pouvoir de décider comment vous travaillez (comme établir votre propre horaire de travail) et vous faites davantage confiance à votre instinct qu’à vos plans et arrangements élaborés. Une culture axée sur les personnes, interactive et hautement autonome est faite pour vous."
 
 #: templates/mbti/personalities/estp.html:54
 msgid "你更倾向于那些忙碌的、注重实际操作的企业文化，用现有经过检验的方法处理事务。你崇尚经过时间检验的能力的有效性和可预测性。你不会从事风险极大的事情。你更欣赏按照传统方法按规定做事，不计时间代价的企业。你喜欢企业有明确目标、清晰的商业战略，并且能够进可能有效和始终如一执行这些策略的企业文化。"
-msgstr ""
+msgstr "Vous préférez une culture d’entreprise occupée et pratique qui gère les transactions de la même manière éprouvée que vous. Vous appréciez l’efficacité et la prévisibilité des capacités éprouvées. Vous ne faites pas des choses très risquées. Vous appréciez les entreprises qui font les choses selon les règles traditionnelles, quel que soit le temps. Vous aimez une culture où votre entreprise a des objectifs clairs, des stratégies commerciales claires et la capacité d’exécuter ces stratégies de manière efficace et cohérente."
 
 #: templates/mbti/personalities/estp.html:55
 msgid "你把竞争和人员间的不同意见看成是创新和商业成功的驱动力。你喜欢鼓励讨论、争论、坦诚交流的企业文化，与其他人相比你也许会与你的同事保持相对较远的关系。你在生机盎然和进取的企业文化里工作状态最好。"
-msgstr ""
+msgstr "Vous voyez la concurrence et le désaccord entre les gens comme des moteurs d’innovation et de réussite commerciale. Vous aimez une culture qui encourage la discussion, le débat et la communication honnête, et vous pouvez avoir une relation relativement distante avec vos collègues que les autres. Vous travaillez mieux dans une culture d’entreprise dynamique et entreprenante."
 
 #: templates/mbti/personalities/index.html:31
 msgid "点击查看详细介绍"
-msgstr ""
+msgstr "Cliquez pour plus de détails"
 
 #: templates/mbti/personalities/infj.html:5
 msgid "劝告者型人格"
-msgstr ""
+msgstr "Personnalité de type conseiller"
 
 #: templates/mbti/personalities/infj.html:9
 msgid "INFJ，内倾、直觉、情感和判断，是一类劝告者的人。他们有较强的移情能力，能够获知别人的感情或意向，他们通常都是好学生。INFJ性格的人适合当医疗咨询服务，剧作家，艺术顾问，作家等。富有创造性和独创性，独立自主，细心周到，热情细腻；全球化的思想家有独特的洞察力，并有高涨的热情；细致谨慎，深思熟虑；有计划有组织，有生产能力的，有决策力的；有节制，有礼貌。属于理想者的四种类型之一。"
-msgstr ""
+msgstr "INFJ, introverti, intuitif, émotionnel et jugeant, est une classe d’admonestationnistes. Ils ont une forte empathie, peuvent apprendre les sentiments ou les intentions des autres, ils sont généralement de bons élèves. Les personnages d’INFJ conviennent au conseil médical, aux dramaturges, aux consultants en art, aux écrivains, etc. Créatif et original, indépendant, réfléchi, chaleureux et délicat; penseurs mondiaux avec des idées et un enthousiasme uniques; prudent, réfléchi; organisé, productif, décisionnel; sobre et poli. L’un des quatre types qui appartiennent à la personne idéale."
 
 #: templates/mbti/personalities/infj.html:11
 msgid "劝告者（INFJ） 寻求思想、关系、物质等之间的意义和联系。希望了解什么能够激励人，对人有很强的洞察力。有责任心，坚持自己的价值观。对于怎样更好的服务大众有清晰的远景。在对于目标的实现过程中有计划而且果断坚定。"
-msgstr ""
+msgstr "L’admonestation (INFJ) cherche un sens et un lien entre la pensée, la relation, la substance, etc. Vous voulez savoir ce qui peut motiver les gens, les gens ont une forte perspicacité. Soyez responsable et respectez vos valeurs. Ayez une vision claire de la façon de mieux servir le public. Soyez planifié et déterminé dans l’atteinte de vos objectifs."
 
 #: templates/mbti/personalities/infj.html:12
 msgid "INFJ型的人忠诚、坚定、富有理想 。他们珍视正直，十分坚定。因为他们的说服能力，以及对于什么对公共利益最有利有清楚的看法，所以 INFJ型的人会成为伟大的领导者。由于他们的贡献，他们通常会受到尊重或敬佩。因为珍视友谊 和和睦，INFJ型的人喜欢说服别人，使之相信他们的观点是正确的。通过运用嘉许和赞扬，而不是争吵和威胁，他们赢得了他人的合作。他们愿意毫无保留地激励同伴，避免争吵。"
 msgstr ""
+"INFJ type de personnes loyales, fermes, riches idéal. Ils valorisent l’intégrité et sont très fermes. En raison de leur pouvoir de persuasion et de leurs points de vue clairs sur ce qui est le mieux pour l’intérêt public, les gens de type INFJ deviennent de grands leaders. En raison de leurs contributions, ils sont généralement respectés ou admirés. En raison de la valeur de l’amitié et de l’harmonie, les gens d’INFJ aiment convaincre les autres que leur point de vue est correct. En utilisant des éloges et des louanges, plutôt que des querelles et des menaces, ils ont gagné la coopération des autres. Ils "
+"sont prêts à motiver leurs pairs sans réserve pour éviter les querelles."
 
 #: templates/mbti/personalities/infj.html:13
 msgid "INFJ型的人生活在思想的世界里。他们是独立的、有独创性的思想家，具有强烈的感情、坚定的原则和正直的人性。即使面对怀疑，INFJ型的人仍相信自己的看法与决定。他们对自己的评价高于其他的一切，包括流行观点 和存在的权威，这种内在的观念激发着他们的积极性。通常INFJ型的人具有本能的洞察力，能够看到事物更深层的含义。即使他人无法分享他们的热情，但灵感对于他们重要而令人信服。"
 msgstr ""
+"Les gens d’INFJ vivent dans le monde de la pensée. Ce sont des penseurs indépendants et originaux avec des sentiments forts, des principes fermes et de l’intégrité. Même face au doute, les gens de l’inFJ croient toujours en leurs propres opinions et décisions. Leur propre évaluation est avant tout, y compris les idées populaires et l’autorité existentielle, et cette perception intrinsèque les motive. Souvent, les personnes de type INFJ ont une perspicacité instinctive et peuvent voir le sens profond des choses. Même si les autres ne peuvent pas partager leur passion, l’inspiration est importante et "
+"convaincante pour eux."
 
 #: templates/mbti/personalities/infj.html:14
 msgid "通常INFJ型的人是深思熟虑的决策者，他们觉得问题使人兴奋，在行动之前他们通常要仔细地考虑。他们喜欢每次全神贯注于一件事情，这会造成一段时期的专心致志。满怀热情与同情心，INFJ型的人强烈地渴望为他人的幸福做贡献。他们注意其他人的情感和利 益，能够很好地处理复杂的人。"
-msgstr ""
+msgstr "Habituellement, les personnes de type INFJ sont des décideurs réfléchis qui trouvent les problèmes passionnants et réfléchissent généralement attentivement avant d’agir. Ils aiment se concentrer sur une chose à la fois, ce qui peut conduire à une période de concentration. Passionnées et compatissantes, les personnes de type INFJ sont désireuses de contribuer au bien-être des autres. Ils prêtent attention aux émotions et aux avantages des autres et sont capables de bien gérer les personnes complexes."
 
 #: templates/mbti/personalities/infj.html:15
 msgid "INFJ型的人本身具有深厚复杂的性格，既敏感又热切。他们内向，很难被人了解，但是愿意同自己信任的人分享内在的自我。他们往往有一个交往深厚、持久的小规模的朋友圈，在合适的氛 围中能产生充分的个人热情和激情。"
-msgstr ""
+msgstr "Les personnes de type INFJ elles-mêmes ont un caractère profond et complexe, à la fois sensible et enthousiaste. Ils sont introvertis et difficiles à comprendre, mais prêts à partager leur moi intérieur avec ceux en qui ils ont confiance. Ils ont souvent un cercle profond et durable d’amis à petite échelle, dans la bonne atmosphère peut produire un enthousiasme personnel et une passion complets."
 
 #: templates/mbti/personalities/infj.html:16
 #, python-format
 msgid "忠告属于指导方面的行为，目的是帮助人们认知其人性潜能，劝告者型人具有一种非比寻常的促成他人幸福安宁的强烈渴望，并真诚的喜欢引导他们的同伴，获得较大程度的个人实现。此类型的人，极为少见，不过占个人口的1%%而已。从他们在社会中起到的作用来看，这是很不利的现象。虽然这些人，往往是比较隐秘且敏于理解的人，因而通常不是引人注目的领导者，但他们仍然热情地与周围的人们共事，在暗中默默地影响着其它家人、朋友和同事。这些喜欢蛰居的友善的人们，本身令人很难理解，他们能够理解和处理复杂的伦理问题及应对极度不安份的个人。"
 msgstr ""
+"Le counseling est un acte directeur conçu pour aider les gens à reconnaître leur potentiel humain, à persuader les gens d’avoir un désir inhabituellement fort de bonheur et de tranquillité, et à aimer vraiment guider leurs pairs vers un plus grand degré de réalisation personnelle. Ce type de personne est extrêmement rare, mais ne représente que 1%% de la population. À en juger par leur rôle dans la société, il s’agit d’un phénomène très défavorable. Bien que ces personnes, souvent plus secrètes et compréhensives, ne soient souvent pas des leaders de haut niveau, elles travaillent toujours avec passion avec "
+"les gens qui les entourent, influençant silencieusement d’autres membres de la famille, amis et collègues. Ces gens amicaux, qui aiment vivre chez eux, sont eux-mêmes difficiles à comprendre, à comprendre et à traiter avec des questions éthiques complexes et à traiter avec des personnes extrêmement perturbées."
 
 #: templates/mbti/personalities/infj.html:17
 msgid "他们生性善于安排事物，习惯于选择训诫型的指导角色，而非提倡者的角色。而且，宁静矜持的个性决定了他们似乎更满足于劝告者的角色。"
-msgstr ""
+msgstr "Ils sont par nature doués pour arranger les choses et sont habitués à choisir des rôles de guide réprimandés plutôt que des rôles de défenseur. De plus, des personnalités calmes et têtues déterminent le rôle des conseillers dont ils semblent plus satisfaits."
 
 #: templates/mbti/personalities/infj.html:18
 msgid "劝告者很难被人所了解，他们有着异常丰富的内涵，但矜持、不愿意与除他们所信赖的人之外的其他人分享自己的感觉。当然，他们与所爱的人在一起，会毫不做作的表现出自己的感受：容光焕发，表示他们愉快的情感；脸色阴沉，表示他们不悦。由于拥有体验他人情感的十足本能，劝告者可能相当容易地受到周围人的伤害。同时，与他们相知多年的朋友，也许为其多重性而意外，并非他们前后矛盾；相反，他们极其重视诚实的品性，但有着神秘的、复杂交织的个性，甚至有时连他们自己都感到困惑。"
 msgstr ""
+"Les conseillers sont difficiles à comprendre, ils ont une connotation exceptionnellement riche, mais ils sont têtus et peu disposés à partager leurs sentiments avec d’autres personnes que celle en qui ils ont confiance. Bien sûr, ils montrent leurs sentiments avec les gens qu’ils aiment: rayonnants, ils expriment des sentiments heureux, ils ont l’air sombres, ils montrent leur malheur. En raison de l’instinct complet de vivre les émotions des autres, les conseillers peuvent être assez vulnérables à ceux qui les entourent. En même temps, les amis qui les connaissent depuis des années peuvent être surpris par "
+"leurs multipleités, pas par leurs incohérences;"
 
 #: templates/mbti/personalities/infj.html:19
 msgid "他能够获知别人的感情或意向，―――善良或者邪恶，甚至在个人所有意识之前。另外，他们能理解超自然现象的力量，即，预示和心力投入。他们因为丰富和生动的想象而常常被看做是所有类型中，最富有诗意、甚至神秘的人。他们往往选择文学艺术作为大学主科，他们在语言方面的优秀才能，致使他们通常以一种人性化的方式与人交流。"
-msgstr ""
+msgstr "Il peut apprendre sur les sentiments ou les intentions des autres, bons ou mauvais, avant même toute conscience personnelle. En outre, ils peuvent comprendre le pouvoir des phénomènes surnaturels, c’est-à-dire la préfiguration et l’apport mental. Ils sont souvent considérés comme les plus poétiques et même mystérieux de tous types en raison de leur imagination riche et vive. Ils choisissent souvent la littérature et l’art comme sujets principaux, et leurs excellentes compétences linguistiques les amènent à communiquer avec les gens de manière humaine."
 
 #: templates/mbti/personalities/infj.html:20
 msgid "在学校里，他们通常都是好学生，显示朴素创造力的成就，享受解决难题带来的乐趣，严肃对待工作。他们在那种需要与人们相互施加影响的职业领域显得精力旺盛，为他们的个人发展提供养分。"
-msgstr ""
+msgstr "À l’école, ils sont généralement de bons élèves, montrant les réalisations d’une créativité simple, appréciant les plaisirs de résoudre des problèmes et prenant le travail au sérieux. Ils semblent énergiques dans le domaine des professions qui ont besoin d’interagir avec les gens pour fournir des nutriments pour leur développement personnel."
 
 #: templates/mbti/personalities/infj.html:21
 msgid "虽然劝告者具有的才能比较适合那种需要孤独和密切注意的工作，他们与群体接触的时候也同样表现得十分优秀，而且是不流于形式的。他们与人相处时，习惯于高度敏感并有效的工作。他们乐于帮助别人解决难题，并能够创造性和善意的理解和使用人性规律。重视和睦的内部关系，并希望机构能平稳、令人愉快的运转，并尽其所能的去实现这个目标。他们喜欢取悦别人，并认为冲突是令人不愉快的和具有破坏性的。他们会善意的赞美别人，欣赏和激励他人，是他们的一种方式。如果遭遇到不利的工作条件或批评时，他们会变得郁郁寡欢，最终导致身体疾病。"
 msgstr ""
+"Bien que les conseillers aient le talent d’être plus adaptés aux emplois qui exigent de la solitude et une attention particulière, ils réussissent également bien dans leurs contacts avec les groupes et ne sont pas dans la forme. Ils s’habituent à un travail très sensible et efficace lorsqu’ils s’entendent bien avec les gens. Ils sont prêts à aider les autres à résoudre des problèmes difficiles et sont capables de comprendre et d’utiliser les lois de la nature humaine de manière créative et bien intentionnée. Valorisez les relations internes harmonieuses et espérez que l’institution fonctionnera sans heurts "
+"et avec bonheur et fera tout ce qui est en son pouvoir pour atteindre cet objectif. Ils aiment plaire aux autres et pensent que les conflits sont désagréables et destructeurs. Ils sont une façon de louer les autres de bonne foi, de les apprécier et de les inspirer. Lorsqu’ils sont confrontés à des conditions de travail défavorables ou à des critiques, ils deviennent déprimés et finissent par tomber physiquement malades."
 
 #: templates/mbti/personalities/infj.html:22
 msgid "此外约有四成的INFJ人士智商皆超过130。他们很难被理解，神秘、高度复杂，有时候连他们自己都会被自己弄糊涂。他们的世界十分有秩序，但是却以一种复杂的方式安排布置，只有他们自己能理解。"
-msgstr ""
+msgstr "En outre, environ 40%% des INFJ ont un QI supérieur à 130. Ils sont difficiles à comprendre, mystérieux, très complexes et parfois même eux-mêmes sont confus. Leur monde est très ordonné, mais arrangé d’une manière complexe qu’eux seuls peuvent comprendre."
 
 #: templates/mbti/personalities/infj.html:23
 #, python-format
 msgid "INFJ是最稀少的类型之一，大概占人口的1%-3%"
-msgstr ""
+msgstr "L’INFJ est l’un des types les plus rares, représentant environ 1%% à 3%% de la population"
 
 #: templates/mbti/personalities/infj.html:24
 msgid "寻求思想、关系、物质等之间的意义和联系。希望了解什么能够激励人，对人有很强的洞察力。有责任心，坚持自己的价值观。对于怎样更好的服务大众有清晰的远景。在对于目标的实现过程中有计划而且果断坚定。"
-msgstr ""
+msgstr "Cherchez un sens et un lien entre la pensée, la relation, la substance, etc. Vous voulez savoir ce qui peut motiver les gens, les gens ont une forte perspicacité. Soyez responsable et respectez vos valeurs. Ayez une vision claire de la façon de mieux servir le public. Soyez planifié et déterminé dans l’atteinte de vos objectifs."
 
 #: templates/mbti/personalities/infj.html:25
 msgid ""
 "INFJ型的人生活在思想的世界里。他们是独立的、有独创性的思想家，具有强烈的感情、坚定的原则和正直的人性。即使面对怀疑，INFJ型的人仍相信自己的看法与决定。他们对自己的评价高于其他的一切，包括流行观点 和存在的权威，这种内在的观念激发着他们的积极性。通常INFJ型的人具有本能的洞察力，能够看到事物更深层的含义。即使他人无法分享他们的热情，但灵感对于他们重要而令人信服。INFJ型的人忠诚、坚定、富有理想 。他们珍视正直，十分坚定以至达到倔强的地步。因为他们的说服能力，以及对于什么对公共利益最有利有清楚的看法，所以INFJ型的人会成为伟大的领导者。由于他们的贡献，他们通常会受到尊重或敬佩。因为珍视友谊和和睦，INFJ型的人喜欢说服别"
 "人，使之相信他们的观点是正确的。通过运用嘉许和赞扬，而不是争吵和威胁，他们赢得了他人的合作。他们愿意毫无保留地激励同伴，避免争吵。通常INFJ型的人是深思熟虑的决策者，他们觉得问题使人兴奋，在行动之前他们通常要仔细地考虑。他们喜欢每次全神贯注于一件事情，这会造成一段时期的专心致志。满怀热情与同情心，INFJ型的人强烈地渴望为他人的幸福做贡献。他们注意其他人的情感和利益，能够很好地处理复杂的人。INFJ型的人本身具有深厚复杂的性格，既敏感又热切。他们内向，很难被人了解，但是愿意同自己信任的人分享内在的自我。他们往往有一个交往深厚、持久的小规模的朋友圈，在合适的氛围中能产生充分的个人热情和激情。"
 msgstr ""
+"Les gens d’INFJ vivent dans le monde de la pensée. Ce sont des penseurs indépendants et originaux avec des sentiments forts, des principes fermes et de l’intégrité. Même face au doute, les gens de l’inFJ croient toujours en leurs propres opinions et décisions. Leur propre évaluation est avant tout, y compris les idées populaires et l’autorité existentielle, et cette perception intrinsèque les motive. Souvent, les personnes de type INFJ ont une perspicacité instinctive et peuvent voir le sens profond des choses. Même si les autres ne peuvent pas partager leur passion, l’inspiration est importante et "
+"convaincante pour eux. INFJ type de personnes loyales, fermes, riches idéal. Ils valorisent l’intégrité et sont si fermes qu’ils atteignent le point de l’entêtement. En raison de leur pouvoir de persuasion et de leurs points de vue clairs sur ce qui est le mieux pour l’intérêt public, les gens de type INFJ deviennent de grands leaders. En raison de leurs contributions, ils sont généralement respectés ou admirés. Parce que l’amitié et l’harmonie sont chéries, les gens d’INFJ aiment convaincre les autres que leurs points de vue sont corrects. En utilisant des éloges et des louanges, plutôt que des querelles "
+"et des menaces, ils ont gagné la coopération des autres. Ils sont prêts à motiver leurs pairs sans réserve pour éviter les querelles. Habituellement, les personnes de type INFJ sont des décideurs réfléchis qui trouvent les problèmes passionnants et réfléchissent généralement attentivement avant d’agir. Ils aiment se concentrer sur une chose à la fois, ce qui peut conduire à une période de concentration. Passionnées et compatissantes, les personnes de type INFJ sont désireuses de contribuer au bien-être des autres. Ils prêtent attention aux émotions et aux intérêts des autres et sont capables de bien gérer "
+"les personnes complexes. Les personnes de type INFJ elles-mêmes ont un caractère profond et complexe, à la fois sensible et enthousiaste. Ils sont introvertis et difficiles à comprendre, mais prêts à partager leur moi intérieur avec ceux en qui ils ont confiance. Ils ont tendance à avoir un cercle profond et durable d’amis à petite échelle qui génèrent suffisamment d’enthousiasme personnel et de passion dans la bonne atmosphère."
 
 #: templates/mbti/personalities/infj.html:27
 msgid "咨询/教育业"
-msgstr ""
+msgstr "Conseil/Éducation"
 
 #: templates/mbti/personalities/infj.html:27
 msgid "职业顾问、诊疗心理学家、老师：高中或大学外语、艺术、音乐、社科、戏剧、教育顾问、图书管理员、特殊教育老师、双语种教育老师、社会学家、职业治疗师、儿童福利顾问、早期教育老师、心理咨询人员、发展心理学家"
-msgstr ""
+msgstr "Conseillers d’orientation, psychologues diagnostiques, enseignants : langues étrangères au secondaire ou à l’université, art, musique, sciences sociales, théâtre, consultants en éducation, bibliothécaires, enseignants en éducation spécialisée, enseignants bilingues, sociologues, ergothérapeutes, conseillers en protection de l’enfance, enseignants en éducation de la petite enfance, conseillers psychologiques, psychologues du développement"
 
 #: templates/mbti/personalities/infj.html:28
 msgid "这些职业允许INFJ运用他们自己的观点和知识帮助别人。咨询或教育领域要求私人的合作，经常是在一对一的基础上与别人深入地交往。INFJ喜欢学习，并以能学得一些新东西以及能从事教育行业而获得成长的机会而高兴，因此，他们在学术背景下工作通常是相当舒心的。"
-msgstr ""
+msgstr "Ces professions permettent à l’INFJ d’utiliser ses propres idées et connaissances pour aider les autres. Le conseil ou l’éducation nécessitent une coopération privée, souvent en tête-à-tête avec d’autres personnes en interaction approfondie. Les INFJ aiment apprendre et sont heureux d’apprendre quelque chose de nouveau et de grandir dans l’industrie de l’éducation, de sorte qu’ils sont généralement à l’aise de travailler dans un cadre académique."
 
 #: templates/mbti/personalities/infj.html:29
 msgid "创造性的职业"
-msgstr ""
+msgstr "Carrière créative"
 
 #: templates/mbti/personalities/infj.html:29
 msgid "艺术家、剧作家、诗人、小说家、室内设计师、自由媒体策划、多媒体制片人、网站编辑、电影编辑、教育设计开发员、服装设计师"
-msgstr ""
+msgstr "Artiste, dramaturge, poète, romancier, architecte d’intérieur, planificateur de médias gratuit, producteur multimédia, éditeur de site Web, éditeur de film, développeur de design éducatif, concepteur de costumes"
 
 #: templates/mbti/personalities/infj.html:30
 msgid "对于INFJ来说，艺术的吸引力在于他们能够运用他们的才能创造出独特的作品，同时把自己的观点和想象力融入其中。通过艺术，INFJ能以他们个人独有的方式表达自己，而同时又能以其艺术魅力震撼别人，更何况艺术作品一般来说大多都是自己独立完成，这就使得INFJ能够自己安排并支配工作环境、进程以及艺术作品。"
-msgstr ""
+msgstr "Pour INFJ, l’attrait de l’art est qu’ils peuvent utiliser leurs talents pour créer des œuvres uniques tout en incorporant leurs propres perspectives et imaginations. Grâce à l’art, INFJ peut s’exprimer à sa manière, tout en étant capable de choquer les autres avec son charme artistique, sans oublier que la plupart des œuvres d’art sont généralement réalisées indépendamment, ce qui permet à INFJ d’organiser et de contrôler l’environnement de travail, les processus et les œuvres d’art."
 
 #: templates/mbti/personalities/infj.html:31
 msgid "健康保健/社会服务"
-msgstr ""
+msgstr "Soins de santé/services sociaux"
 
 #: templates/mbti/personalities/infj.html:31
 msgid "健康保健管理者、社会服务机构主管、饮食学家/营养学家、语言病理学家/听力专家、整体健康护理医生、资金协调员、矫形治疗师"
-msgstr ""
+msgstr "Gestionnaire des soins de santé, chef des services sociaux, diététiste/nutritionniste, pathologiste du langage/spécialiste de l’audition, médecin en soins de santé holistiques, coordonnateur du financement, orthopédiste"
 
 #: templates/mbti/personalities/infj.html:32
 msgid "社会服务性工作要求为别人服务时要尽职尽责，且常常指加入了某个社会服务组织。大多数INFJ喜欢在这样的环境中工作，尤其是这个组织只包含一小群有高度组织性的职员时。社会服务使得INFJ能自己考虑某种新方法来解决个体和社会问题，并以此种方法付诸行动。"
-msgstr ""
+msgstr "Le travail de service social exige une diligence raisonnable pour servir les autres et fait souvent référence à l’adhésion à un organisme de services sociaux. La plupart des INFJ préfèrent travailler dans un tel environnement, surtout si l’organisation ne contient qu’un petit groupe d’employés très organisés. Les services sociaux permettent à l’INFJ d’envisager et d’agir sur de nouvelles façons de résoudre les problèmes individuels et sociaux par lui-même."
 
 #: templates/mbti/personalities/infj.html:33 templates/mbti/personalities/isfp.html:44 templates/mbti/personalities/istj.html:69
 msgid "商业"
-msgstr ""
+msgstr "commerce"
 
 #: templates/mbti/personalities/infj.html:33
 msgid "人力资源经理、职业分析家、公司/团队培训员、商品策划、消费者关系顾问"
-msgstr ""
+msgstr "Gestionnaire des ressources humaines, Analyste de carrière, Formateur d’entreprise/d’équipe, Planification des produits, Consultant en relations avec les consommateurs"
 
 #: templates/mbti/personalities/infj.html:34
 msgid "虽然INFJ不会大量涌向商界，但其中有些领域也能让INFJ获得职业满足感。以上职业要求他们对不同的人产生兴趣，能帮助别人找工作，营造有效的工作环境，以及解决以人为本的问题。INFJ可以在商界的这些工作里找到满足感。　运用你的长处其实很容易。"
-msgstr ""
+msgstr "Bien qu’INFJ n’inonde pas le monde des affaires, certains de ces domaines peuvent également donner à INFJ un sentiment de satisfaction professionnelle. Ces professions exigent qu’ils s’intéressent à différentes personnes, qu’ils aident les autres à trouver un emploi, qu’ils créent un environnement de travail efficace et qu’ils résolvent des problèmes axés sur les personnes. INFJ peut trouver satisfaction dans ces emplois dans le monde des affaires.　Il est facile d’utiliser vos forces."
 
 #: templates/mbti/personalities/infj.html:36
 msgid "适合的伴侣：发明家"
-msgstr ""
+msgstr "Compagnon approprié: type Inventor"
 
 #: templates/mbti/personalities/infj.html:37
 msgid "常常是一对完美的伴侣，劝告者，矜持、运筹帷幄、复杂、神秘，往往被内省和伦理问题困扰；而发明家，是外向、善于探索的。劝告者能从发明家那里获得相当大的解脱，发明家会从帮助这些墨守成规之人的过程中获得极大的满足，有时，也会在对事物的规划中，发现劝告者的精髓和存在意义。"
-msgstr ""
+msgstr "Souvent un compagnon parfait, l’admonestation, tenant, opérant, complexe, mystérieux, souvent assailli par l’introspection et les questions éthiques; Les conseillers peuvent obtenir un soulagement considérable de la part des inventeurs, qui gagneront une grande satisfaction dans le processus d’aide à ceux qui s’accrochent aux règles, et parfois découvrir l’essence et le sens de l’admonestation dans la planification des choses."
 
 #: templates/mbti/personalities/infj.html:38 templates/mbti/personalities/isfj.html:30
 msgid "关于家庭"
-msgstr ""
+msgstr "À propos de la famille"
 
 #: templates/mbti/personalities/infj.html:39
 msgid "这些说话温和的指导者们同样也希望家庭生活和谐，并认为人与人之间无论是公开的还是隐蔽的抵触情绪，都会对他们的幸福产生极大的破坏。他们的朋友圈子可能小，但是却深入且长久。他们是忠实的伴侣，或许不总是热衷于性接触。他们表达情感的方式，往往很微妙，并注重场合。作为父母，他们是尽职的。某些劝告者女性，会和子女一种精神协作关系，这种颇为固定的关系对父母和孩子来说都不是很健康。但是，更多的劝告者，是子女的朋友，在异常慈爱的同时，也会对他们严格约束。他们是关心配偶和孩子的典型人物。"
 msgstr ""
+"Ces instructeurs modérés veulent également une vie de famille harmonieuse et croient que la résistance publique et cachée entre les personnes peut être extrêmement dommageable pour leur bien-être. Leur cercle d’amis est peut-être petit, mais il est profond et durable. Ce sont des partenaires fidèles et ils ne sont pas toujours friands de contacts sexuels. La façon dont ils expriment leurs sentiments est souvent subtile et concentrée à l’occasion. En tant que parents, ils sont consciencieux. Certaines conseillères ont un partenariat spirituel avec leurs enfants, une relation plutôt fixe qui n’est pas très "
+"saine pour les parents et les enfants. Cependant, plus de conseillers, amis de leurs enfants, seront strictement liés en même temps que leur amour inhabituel. Ce sont des gens typiques qui se soucient de leur conjoint et de leurs enfants."
 
 #: templates/mbti/personalities/infj.html:40 templates/mbti/personalities/isfj.html:32
 msgid "关于领导"
-msgstr ""
+msgstr "À propos du leadership"
 
 #: templates/mbti/personalities/infj.html:41
 msgid "他们是最不引人注目的指导者，这些安静而敏感的人，热情洋溢地与他们的当事人打交道，影响他人的成长。他们对于他人的需要和能力，有种不可思议的认知力，并促使他人去探索自身才能。他们很稀少，且不可能毛遂自荐，因而，在一个机构中显得很难得，但作用却是不可忽视的。"
-msgstr ""
+msgstr "Ce sont les mentors les moins visibles, des personnes calmes et sensibles qui traitent avec passion avec leurs clients et influencent la croissance des autres. Ils ont un sens incroyable des besoins et des capacités des autres et incitent les autres à explorer leurs talents. Ils sont rares et impossibles à présenter, ils sont donc rares dans une institution, mais leur rôle ne peut être ignoré."
 
 #: templates/mbti/personalities/infj.html:42
 msgid "对INFJ类型的人来说，最重要的是能忠实于自己的预见。在恬静的外表下，他们对人生重要大事有着更深的信仰。积极分子们（INFJ人有这种倾向）不是为了个人的辉煌或政治权利而工作，而是为了自己的事业而战！"
-msgstr ""
+msgstr "La chose la plus importante pour les personnes du type INFJ est d’être fidèles à leur propre vision. Sous l’extérieur calme, ils ont une croyance plus profonde dans les choses importantes de la vie. Les activistes (les infJ ont cette tendance) ne travaillent pas pour la gloire personnelle ou les droits politiques, mais pour leur propre cause !"
 
 #: templates/mbti/personalities/infj.html:43
 msgid "没有谁会比他们经历更多的压迫和蹂躏。在紧急事件的发生现场经常能看到他们奔走急救的身影。INFJ人身上正体现了一种诗节正义的观念。"
-msgstr ""
+msgstr "Personne ne subit plus d’oppression et de ravages qu’eux. On peut souvent les voir courir pour les premiers soins sur les lieux d’une urgence. Les gens d’InfJ reflètent un sens de la poésie et de la justice."
 
 #: templates/mbti/personalities/infj.html:44
 msgid "INFJ人是不容易受人牵制的，他们在任何时候都不易被愚弄欺骗。虽然INFJ人很通情达理，并富有同情心，但是他们对朋友却是很挑剔的，这种友谊是以相互间的利益为基础的。"
-msgstr ""
+msgstr "Les gens d’INFJ ne sont pas facilement retenus, ils ne sont pas faciles à tromper à tout moment. Bien que les gens d’INFJ soient raisonnables et compatissants, ils sont pointilleux avec leurs amis, et cette amitié est basée sur des intérêts mutuels."
 
 #: templates/mbti/personalities/infj.html:45
 msgid "INFJ人对语言的熟练表达和交际的才能有自己的诀窍，再加上INFJ人的那种无需过多言语表达的敏感性使得他们能与人们很好的交往。当然，在写作，咨询，公共关系甚至政治领域都有INFJ人的一席之地。"
-msgstr ""
+msgstr "Les personnes INFJ ont leur propre savoir-faire en matière de compétences linguistiques et de communication, et la sensibilité des personnes INFJ à ne pas avoir trop d’expression verbale leur permet de bien interagir avec les gens. Bien sûr, il y a un INFJ dans l’écriture, le conseil, les relations publiques et même la politique."
 
 #: templates/mbti/personalities/infj.html:47
 msgid "INFJ热情且对他人具有认同感，同时，他们也非常地深沉。他们寻求并增进热切并有意义的情感关系。他们有完美主义者的倾向，并总是在争取最根本的情感关系。在多数情况下，这是积极地特点，但有时却对INFJ不利，他们可能因此养成从一段关系转向另一段关系的坏习惯，总是处在寻找更为完美的伴侣状态中。总的来说，INFJ是一个非常温和并且关心他人的人，他们在维持亲密关系的健康上投入很多，为保持自己的积极态度付出巨大努力。因为这些特殊的品质，他们赢得与他们亲密的人的尊重。他们寻求长久的，一生的情感关系，尽管他们并不总能找到。"
 msgstr ""
+"Les INFJ sont passionnés et s’identifient aux autres, et ils sont très profonds. Ils recherchent et améliorent des relations émotionnelles enthousiastes et significatives. Ils ont tendance à être perfectionnistes et s’efforcent toujours d’établir les relations émotionnelles les plus fondamentales. Dans la plupart des cas, c’est un trait positif, mais parfois c’est mauvais pour INFJ, et ils peuvent développer une mauvaise habitude de passer d’une relation à l’autre, toujours à la recherche d’un partenaire plus parfait. Dans l’ensemble, INFJ est une personne très douce et attentionnée qui investit beaucoup "
+"dans le maintien de la santé des relations intimes et met beaucoup d’efforts pour maintenir une attitude positive. En raison de ces qualités spéciales, ils gagnent le respect des personnes proches d’eux. Ils recherchent des relations émotionnelles à long terme et à vie, bien qu’ils ne les trouvent pas toujours."
 
 #: templates/mbti/personalities/infj.html:48
 msgid "INFJ在感情中的优点：天生热情，且对他人具有认同感，为追求真挚的感情不顾一切，敏感且关心他人的感受，通常具有良好的沟通技巧，尤其是书面的对承诺非常认真，并寻求终生关系，对自己和他人有非常高的期许（既是优点也是弱点），良好的倾听者，能很快从已经结束的关系中恢复（一旦他们确信已经结束了）。"
-msgstr ""
+msgstr "Les forces émotionnelles d’INFJ : un enthousiasme naturel, un sentiment d’identité avec les autres, un désir de poursuivre des sentiments authentiques, de la sensibilité et du souci des sentiments des autres, ont souvent de bonnes compétences en communication, en particulier par écrit, prennent l’engagement très au sérieux et recherchent des relations à vie, ont des attentes très élevées (forces et faiblesses) pour eux-mêmes et les autres, et les bons auditeurs peuvent rapidement se remettre d’une relation qui a pris fin (une fois qu’ils sont convaincus qu’elle est terminée)."
 
 #: templates/mbti/personalities/infj.html:49
 msgid "INFJ在感情中的弱点：倾向于保留部分的自我，对理财和实务类的日常事务不在行，极度厌恶争吵和批评，对自己和他人有非常高的期许（既是优点也是弱点），难以离开一段没结果的感情。"
-msgstr ""
+msgstr "Les faiblesses émotionnelles d’INFJ: une tendance à conserver une partie de soi, une absence des affaires quotidiennes de la gestion et de la pratique financières, une profonde aversion pour les querelles et les critiques, une très grande attente de vous-même et des autres (forces et faiblesses) et difficulté à quitter une relation stérile."
 
 #: templates/mbti/personalities/infj.html:50
 msgid ""
 "INFJ是热情、体贴的伴侣，他们对他们的伴侣怀有深沉的爱意。他们乐于表现这种爱，并希望从他们的伴侣那里得到肯定的回应。他们是完美主义者，总是在寻求完美爱情。有时这点可能会让他们的伴侣感到沮丧，他们的伴侣可能会感到成了INFJ高要求的完美主义的牺牲品。然而，这一点也会被极度赞赏，因为它献出了对感情的真挚承诺，以及一种其他类型的人通常不具备的深刻关怀。在性方面，INFJ将亲密看作是接近于精神层面的体验。他们珍视这种能与他们的伴侣从灵肉合一的机会。作为以服务为中心的人，他们的伴侣感到幸福对他们来说非常重要。亲密就是一个让INFJ无私地付出他们的爱的机会，也是一个能以明确的方式体验付出爱的机会。虽然说任何性格类型的两个个体，只要性"
 "格发展完整都可以拥有一段健康的恋情。但是，与INFJ更合适的天生伴侣为ENTP或ENFP型性格。INFJ的主导官能为“内向直觉”与这两种性格类型的主导官能“外向直觉”最为匹配。"
 msgstr ""
+"INFJ est un partenaire chaleureux et prévenant qui a un amour profond pour son partenaire. Ils sont heureux de montrer cet amour et veulent une réponse positive de leur partenaire. Ce sont des perfectionnistes, toujours à la recherche de l’amour parfait. Parfois, cela peut frustrer leur partenaire, qui peut avoir l’impression d’avoir été victime du perfectionnisme exigeant d’INFJ. Cependant, cela peut également être grandement apprécié pour son engagement sincère envers les sentiments et les soins profonds que d’autres types de personnes ne font généralement pas. En termes de sexe, INFJ voit l’intimité "
+"comme une expérience proche du niveau spirituel. Ils apprécient cette opportunité d’être un avec leur partenaire de chair spirituelle. En tant que personnes centrées sur le service, il est important pour elles que leur partenaire se sente heureux. L’intimité est une opportunité pour INFJ de donner son amour de manière désintéressée et de l’expérimenter de manière claire. Bien qu’il soit dit que tout type de personnalité des deux individus, tant que l’intégrité du développement de la personnalité peut avoir une relation saine. Cependant, un partenaire naturel plus approprié avec INFJ est un caractère de type "
+"ENTP ou ENFP. L’officier principal d’InFJ correspond le mieux à « l’intuition introvertie » à « l’intuition extravertie » des deux types de personnalité."
 
 #: templates/mbti/personalities/infj.html:51
 msgid "理想主义"
-msgstr ""
+msgstr "idéalisme"
 
 #: templates/mbti/personalities/infj.html:52
 msgid "语言―――抽象型"
-msgstr ""
+msgstr "Langue - Résumé"
 
 #: templates/mbti/personalities/infj.html:52
 msgid "适用于无法观察到的，仅仅依赖于想象力的事物，理想主义经常谈论那些仅凭想象力想像出来的事物。理想主义者的思想和语言天生具有归纳性，他们敏锐，由细节得出普遍性的概括，由事物的细微处了解它们的全部。"
-msgstr ""
+msgstr "Pour les choses qui ne peuvent pas être observées et qui reposent uniquement sur l’imagination, l’idéalisme parle souvent de choses imaginées uniquement par l’imagination. Les pensées et les langages des idéalistes sont intrinsèquement généralisés, ils sont nets, ils généralisent universellement à partir des détails, et ils les comprennent tous à partir des nuances des choses."
 
 #: templates/mbti/personalities/infj.html:53
 msgid "他们重视自身感觉，坚持认为“肯定知道”人们真正想要什么。说话常用隐喻，并且喜欢运用修饰性语言，喜欢夸张和形容。他们一方面忽视等级地位，另一方面又对于其他类型人的身体语言、面部表情等，有着高度的敏锐性。"
-msgstr ""
+msgstr "Ils apprécient leurs sentiments et insistent sur le fait qu’ils « savent certainement » ce que les gens veulent vraiment. Parler souvent métaphorique, et aime utiliser un langage modifié, comme l’exagération et la description. D’une part, ils ignorent le statut hiérarchique, d’autre part, car d’autres types de langage corporel humain, d’expressions faciales, etc., ont un degré élevé de perspicacité."
 
 #: templates/mbti/personalities/infj.html:54
 msgid "使用工具―――合作型"
-msgstr ""
+msgstr "Utiliser des outils - coopératif"
 
 #: templates/mbti/personalities/infj.html:54
 msgid "理想主义者看来，人们选择的工具和行动，需要为他人所接受，虽然有时候不若那些不被认可的工具有效。他们对那种过于冷漠、或一心一意追求效果的功利行为感到非常的困惑，担心人性善的那方面，因此而遗失。"
-msgstr ""
+msgstr "Les idéalistes voient les outils et les actions que les gens choisissent d’être acceptés par les autres, bien que parfois pas aussi efficaces que ceux qui ne sont pas reconnus. Ils sont très confus au sujet du comportement utilitaire qui est trop froid, ou qui poursuivent obstinément l’effet, et s’inquiètent de l’aspect de la bonté humaine, et donc le perdent."
 
 #: templates/mbti/personalities/infj.html:55
 msgid "理想主义者首先考虑的，总是培养满意的人际关系，他们的理想是帮助周围人们彼此间融洽相处，从而大家为了共同的利益而努力。"
-msgstr ""
+msgstr "Les idéalistes considèrent d’abord, cultivent toujours des relations interpersonnelles satisfaisantes, leur idéal est d’aider les gens autour les uns des autres à bien s’entendre, afin que tout le monde pour les intérêts communs."
 
 #: templates/mbti/personalities/infj.html:56
 msgid "多数理想主义者对买卖行为缺乏兴趣，很多人会追求自然科学领域的事业。他们通常会选择同语言文字打交道，并希望直接或间接的与他人交流。理想主义者非常容易被文学作品所感染，并倾向于以这种天生的易感性来解释它，喜欢任何形式的虚构性描述――故事、诗文、传说、神话，都能让他们感到快乐和力量。"
-msgstr ""
+msgstr "La plupart des idéalistes ont un manque d’intérêt pour l’achat et la vente, et beaucoup poursuivent une carrière dans les sciences naturelles. Ils choisissent souvent de s’occuper de la langue et de l’écriture et veulent communiquer directement ou indirectement avec les autres. Les idéalistes sont très sensibles aux œuvres littéraires et ont tendance à l’interpréter avec cette susceptibilité innée, préférant toute forme de description fictive - histoires, poèmes, légendes, mythes - qui les rend heureux et puissants."
 
 #: templates/mbti/personalities/infj.html:57
 msgid "理想主义者并不局限于对文学的研究上，理想主义者高度集中在社会科学领域。尤其是精神康复方面，他们能够在精神健康服务方面得到极大的满足，习惯于选择其中最人道主义的方法，提供服务咨询。"
-msgstr ""
+msgstr "Les idéalistes ne se limitent pas à l’étude de la littérature, les idéalistes sont très concentrés dans le domaine des sciences sociales. En particulier, dans le domaine de la réadaptation mentale, ils sont en mesure d’être très satisfaits des services de santé mentale et sont habitués à choisir le plus humanitaire d’entre eux, en fournissant des conseils."
 
 #: templates/mbti/personalities/infj.html:58
 msgid "他们不惜任何努力使人们具备良好的自我感觉，并热心于道德、对正误的判断，而不是培养一种积极的自我形象。理想主义者和护卫者型的人都是道德守卫者，但前者关心的是幸福，后者关心的是正义。"
-msgstr ""
+msgstr "Ils font tout ce qu’il faut pour que les gens se sentent bien dans leur propre vie et sont passionnés par la moralité et le jugement du bien et du mal, plutôt que de développer une image de soi positive. Les idéalistes et les gardiens sont des gardiens moraux, mais les premiers se soucient du bonheur et les seconds de la justice."
 
 #: templates/mbti/personalities/infj.html:59
 msgid "他们在工作中，有个非常特殊的天赋：征募、训练、部属、发展和忠告等方面。他们擅长对他人的成长和成熟过程产生影响。他们不把教育看作训练和求证的过程，而是一种对个人关系的邀请。形成人际关系，对他们来说至关重要，然而，过多的干预他人的事情，可能会让人生厌。而且，过多的复杂人际关系，容易造成精神负载过重。"
-msgstr ""
+msgstr "Ils ont un talent très particulier dans leur travail : recrutement, formation, ministère, développement et conseil. Ils sont bons pour avoir un impact sur la croissance et la maturité des autres. Ils ne voient pas l’éducation comme un processus de formation et de recherche de preuves, mais plutôt comme une invitation à des relations personnelles. La formation de relations est cruciale pour eux, mais trop d’ingérence dans les affaires des autres peut être ennuyeuse. De plus, trop de relations interpersonnelles complexes, faciles à provoquer une charge mentale excessive."
 
 #: templates/mbti/personalities/infj.html:60
 msgid "人格定位"
-msgstr ""
+msgstr "Positionnement de la personnalité"
 
 #: templates/mbti/personalities/infj.html:61
 msgid "利他主义主张，自私自利是不道德的，而为他人服务是高尚的，最大的幸福源于无私的为他人奉献，即自我牺牲。他们会全身心的帮助别人，当然，他们渴望一种“自我实现”的效果。"
-msgstr ""
+msgstr "L’altruisme soutient que l’intérêt personnel est immoral, tandis que servir les autres est noble, et que le plus grand bonheur provient de la dévotion désintéressée aux autres, c’est-à-dire du sacrifice de soi. Ils aideront les autres de tout leur cœur et de toute leur âme, bien sûr, ils désirent un effet « d’épanouissement personnel »."
 
 #: templates/mbti/personalities/infj.html:62
 msgid "他们轻易且毫无保留的相信事物，与多疑的理性者形成鲜明对比，习惯于相信别人的理想主义者非常纯洁。 "
-msgstr ""
+msgstr "Leur croyance facile et sans réserve dans les choses contraste fortement avec le rationaliste paranoïaque, habitué à croire que les idéalistes des autres sont purs. "
 
 #: templates/mbti/personalities/infj.html:63
 msgid "他们试图和生活中的困难达成妥协，觉得意外事故是令人困惑和无法解释的，并且不能够通过任何理性的分析来解释。他们勇敢的接受这样的想法：事情的结果和原因是无法被认识和用语言描述的。"
-msgstr ""
+msgstr "Ils essaient de faire des compromis avec les difficultés de la vie, trouvant l’accident confus et inexplicable, et incapables de l’expliquer par une analyse rationnelle. Ils acceptent courageusement l’idée que le résultat et la cause de la question ne peuvent pas être compris et décrits avec des mots."
 
 #: templates/mbti/personalities/infj.html:64
 msgid "他们满足于行进中，引导他们探索生存意义，将他们带向更高层次的小径上。"
-msgstr ""
+msgstr "Satisfaits de leur voyage, ils les guident dans l’exploration du sens de la survie et les emmènent à des niveaux plus élevés de chemins."
 
 #: templates/mbti/personalities/infj.html:65
 msgid "他们是未来之人，关注即将发生的事情甚于现实生活。"
-msgstr ""
+msgstr "Ce sont les gens de l’avenir, plus préoccupés par ce qui est sur le point de se passer que par la vraie vie."
 
 #: templates/mbti/personalities/infj.html:66
 msgid "价值观"
-msgstr ""
+msgstr "Valeurs"
 
 #: templates/mbti/personalities/infj.html:67
 msgid ""
 "理想主义者非常容易动情，即感情来得快去的也快。幸运的是，他们倾向于积极的一面，因而他们的感情往往表现为极大的热情。理想主义者信赖直觉的力量，凭第一印象而无需印证。毫无保留的信赖直觉，他们会将别人的感受，带到自己的感受区，想要感同身受，以此来拉进距离。他们都是坚定不移的浪漫者，他们在各个方面都渴望浪漫，如果没有，他们会去培养。他们投入自己大量的时间，来追求他们自己的本体、人性的意义，以此来表达真实的自我，将这个视为生命中最重要的事业。为了使他们感到赏识，我们必须面对他们，在他们表情达意时“迎合他们的世界观”。他们常常被人误解，或迫于社会现实而扮演角色的错误。他们所关心的人对他们的赞誉，对他们而言是非常重要的，一"
 "旦出现，就令他们感到满足。圣人是理想主义者最崇敬的角色典型，即努力克服物质的、世俗的牵挂、渴望生命的贤明见解之男女。"
 msgstr ""
+"Les idéalistes sont très émotifs, c’est-à-dire que les sentiments vont et viennent rapidement. Heureusement, ils ont tendance à être positifs, de sorte que leurs sentiments ont tendance à être très enthousiastes. Les idéalistes s’appuient sur le pouvoir de l’intuition pour faire une première impression sans avoir à le prouver. Faites confiance sans réserve à l’intuition, ils apporteront les sentiments des autres, à leurs propres sentiments, voudront ressentir la même chose, afin de tirer la distance. Ce sont des romantiques inébranlables qui aspirent à la romance de toutes les manières, et sinon, ils la "
+"cultiveront. Ils consacrent une grande partie de leur temps à la poursuite de leur propre signification ontomatique et humaine, afin d’exprimer leur vrai moi, comme la cause la plus importante dans la vie. Pour qu’ils soient appréciés, nous devons les affronter et « nous plier à leur vision du monde » lorsque leurs expressions sont satisfaisantes. Ils sont souvent mal compris ou forcés de jouer un rôle dans les torts de la réalité sociale. Les éloges qui leur tiennent à cœur sont très importants pour eux, et quand ils le font, ils sont satisfaits. Le saint est typique du rôle que les idéalistes vénèrent le "
+"plus, c’est-à-dire les hommes et les femmes qui s’efforcent de surmonter les préoccupations matérielles et mondaines et aspirent aux sages idées de la vie."
 
 #: templates/mbti/personalities/infj.html:68
 msgid "精神伴侣"
-msgstr ""
+msgstr "Compagnon spirituel"
 
 #: templates/mbti/personalities/infj.html:69
 msgid "理想主义者是所有类型中，处理婚姻问题非常不同的一类。其他类型的人，对婚姻抱着实用的态度，他们认为伴侣会犯错，也伴随着妥协。而理想主义者则相反，他们会以空想主义的态度选择爱人，更经常要求伴侣和婚姻的浪漫活动。他们要求的是神秘而意味深长的的婚姻关系，还试图在其不存在的情况下加以创造。"
-msgstr ""
+msgstr "Les idéalistes sont un groupe très différent de tous types qui traitent des problèmes conjugaux. D’autres types de personnes ont une attitude pratique envers le mariage, croyant que leur partenaire fera des erreurs, accompagnées de compromis. Les idéalistes, d’autre part, choisissent leurs proches de manière fanatique et demandent plus souvent des activités romantiques entre leurs partenaires et leurs mariages. Ce qu’ils demandent, c’est un mariage mystérieux et significatif, et ils essaient de le créer sans lui."
 
 #: templates/mbti/personalities/infj.html:70
 msgid "择偶"
-msgstr ""
+msgstr "Conjoint"
 
 #: templates/mbti/personalities/infj.html:71
 msgid "理想主义者型的人，通常不会给某人做出承诺，而宁愿一次同某一个人谈情说爱以探测发展特殊亲密关系的可能性。他们不喜欢随随便便或临时性的应付约会，而独具特色的期待着过去的肤浅关系能够变得深刻。他们喜欢谈论曾经深深感动过他们的电影或小说，但是倾向于谈论故事中所揭示的深刻涵义，而不是单纯的描述情节。这种以想象力及意味深长的交往方式，自由自在的同人交流的能力，往往决定了理想主义者能否认真对待一段特定的恋爱关系。"
 msgstr ""
+"Les personnes idéalistes ne font généralement pas de promesses à quelqu’un, préférant parler immédiatement d’amour à quelqu’un pour explorer la possibilité de développer une intimité spéciale. Ils n’aiment pas les rencontres occasionnelles ou temporaires et attendent avec impatience les relations superficielles du passé. Ils aiment parler de films ou de romans qui les ont profondément touchés, mais ont tendance à parler des significations profondes révélées dans l’histoire plutôt que de simplement décrire l’intrigue. Cette façon imaginative et significative de communiquer avec les gens, la capacité de "
+"communiquer librement, détermine souvent si les idéalistes peuvent prendre une relation particulière au sérieux."
 
 #: templates/mbti/personalities/infj.html:72
 msgid "理想主义者很难发现他们所期待的那种能与之分享内心世界的人，它是一个反复试验的过程，需要仔细的寻觅。对理想主义者而言，与某人谈恋爱，不仅仅意味着肉体上的欢愉或社交体验，而是向另一个人敞开心扉的过程。某种程度上，还是自身灵魂的袒露，包含着对深怀敬意和相互理解的承诺和期待。"
-msgstr ""
+msgstr "Les idéalistes ont du mal à trouver le genre de personne avec qui ils s’attendent à partager leur monde intérieur, un processus d’essais et d’erreurs qui nécessite une recherche minutieuse. Pour les idéalistes, tomber amoureux de quelqu’un ne signifie pas seulement le plaisir physique ou l’expérience sociale, mais le processus d’ouverture à une autre personne. Dans une certaine mesure, c’est la révélation de sa propre âme, qui contient un engagement et une attente de respect profond et de compréhension mutuelle."
 
 #: templates/mbti/personalities/infj.html:73
 msgid "因而，他们对拒绝高度敏感，当对方表露蔑视，他们不得不主动断了恋情，感情上的破裂带给他们的伤害是很大的。以至于他们有时会因恐惧而避免和他人纠缠难分，或者走向另一个极端，即违心的保持一段恋情，只是为了推迟分手时所必须经历的精神伤害。"
-msgstr ""
+msgstr "En conséquence, ils sont très sensibles au rejet, lorsque l’autre partie montre du mépris, ils doivent prendre l’initiative de rompre la relation, la rupture émotionnelle à leur mal est grande. À tel point qu’ils évitent parfois de s’emmêler avec les autres par peur, ou vont à l’autre extrême, qui est de maintenir une relation contre leur volonté, juste pour retarder le préjudice mental qu’ils doivent subir lorsqu’ils rompent."
 
 #: templates/mbti/personalities/infj.html:74
 msgid "然而，一旦这个特殊的人出现，理想主义者就会激动不已，并全力以赴的追求这种恋爱关系。对于理想主义者来说，不仅是一桩美满的婚姻，而且还是一种异常强烈的、永恒的情感即将到来。他们会不吝啬的付出努力或想象力，不仅以浪漫的举止作为标志，还包括他们对爱情的理想化。"
-msgstr ""
+msgstr "Cependant, une fois que cette personne en particulier apparaît, l’idéaliste s’excite et met tout en son possible pour poursuivre la relation. Pour les idéalistes, non seulement c’est un mariage heureux, mais aussi une émotion exceptionnellement forte et éternelle arrive. Ils ne feront pas d’efforts ou d’imagination avares, non seulement avec des manières romantiques comme signe, mais aussi leur idéalisation de l’amour."
 
 #: templates/mbti/personalities/infj.html:75
 msgid "理想主义者能够从最细微的迹象中体察出他们热恋之人内在的多情和诗般感受，并相信每个人都具有精神增长的潜能，且意欲用爱去挖掘伴侣这方面的潜能。或许理想主义者并不愿意承认，这些浪漫的设想，往往具有强烈的性爱冲动，并且成为一种困扰。理想主义者的性感受可能会有很大的差异，一方面，他们坚持认为性行为必须是爱的表达，而不是欲望；另一方面，他们在自己建立的理想世界里，却非常热情，极易受到美丽躯体和性感的触动。"
 msgstr ""
+"Les idéalistes peuvent détecter les sentiments intérieurs et poétiques de leurs proches à partir des plus petits signes, et croire que tout le monde a le potentiel de croissance spirituelle et a l’intention de puiser dans le potentiel de leur partenaire avec amour. Peut-être que les idéalistes sont réticents à admettre que ces idées romantiques ont souvent de fortes impulsions sexuelles et deviennent un problème. Les sentiments sexuels des idéalistes peuvent varier considérablement, d’une part, en insistant sur le fait que le sexe doit être une expression d’amour, pas un désir, et, d’autre part, ils sont "
+"très passionnés et vulnérables aux beaux corps et au sexy dans le monde idéal qu’ils ont construit."
 
 #: templates/mbti/personalities/infj.html:76
 msgid "一旦两个人结合，理想主义者会感到无上的幸福。但是，期待比结合本身更吸引他们，日常生活的现实，失去了神秘的色彩，出现了平凡和欠缺。其他类型的人，当然也会觉得生活中存在差异，但是，他们却会通过调整、旅行、和努力，来转化这种差异。但是，男性理想主义者在这方面最为脆弱，他们往往倾向于去寻找一位新的情人，而非付出努力以发展现有的恋情。女性理想主义者则不会，相反，她们会变得越来越投入，继续让关系浪漫化，并深信它的完美性。对于男性理想主义者而言，亲密可能导致不稳定；而对于女性来说，则是不可或缺的一部分。"
 msgstr ""
+"Une fois que deux personnes sont combinées, les idéalistes ressentent un bonheur suprême. Cependant, les attentes sont plus attrayantes pour eux que la combinaison elle-même, la réalité de la vie quotidienne, perdu la couleur mystérieuse, semblait ordinaire et manquante. D’autres types de personnes, bien sûr, sentent qu’il y a des différences dans leur vie, mais ils peuvent les transformer en s’adaptant, en voyageant et en essayant. Cependant, les idéalistes masculins sont les plus vulnérables à cet égard, ayant tendance à chercher un nouvel amant plutôt que de faire un effort pour développer une relation "
+"existante. Les femmes idéalistes ne deviennent pas, au contraire, de plus en plus engagées, continuent à romancer les relations et croient en leur perfection. Pour les idéalistes masculins, l’intimité peut conduire à l’instabilité;"
 
 #: templates/mbti/personalities/infj.html:77
 msgid "但，值得注意的是，19世纪60、70年代，或许是源于女性理想主义者对更为完美的婚姻关系的想象力。性解放的先锋组织中的大多数成员是女性理想主义者（特别是奋斗者），她们并不是随时准备着情愿为爱牺牲，而是宁愿为发现与男性相处的更满意方式的可能性而生存。"
-msgstr ""
+msgstr "Il convient de noter, cependant, que les années 1860 et 1970 peuvent avoir été dues à l’imagination des idéalistes féminines pour des mariages plus parfaits. La plupart des membres de l’organisation pionnière de la libération sexuelle sont des féministes (en particulier des lutteuses) qui ne sont pas prêtes à se sacrifier pour l’amour, mais plutôt à survivre afin de découvrir une façon plus satisfaisante de s’entendre avec les hommes."
 
 #: templates/mbti/personalities/infj.html:78
 msgid "但是，多数理想主义者并不把婚姻的社会习俗看得比他们的个人承诺重要。因此，当他们确信已与对方进行了更深层次的结合、并且彼此交换了誓言，便认定他们已经完婚。而结婚仪式和理解，成为一种不必要的负担，并可能在神坛旁，显得慌乱、一脸的茫然，直到事后与配偶单独在一起时才会恢复正常。"
-msgstr ""
+msgstr "Cependant, la plupart des idéalistes ne considèrent pas les coutumes sociales du mariage comme plus importantes que leurs engagements personnels. Ainsi, lorsqu’ils sont convaincus qu’ils ont été dans un lien plus profond l’un avec l’autre et qu’ils ont échangé des vœux l’un avec l’autre, ils supposent qu’ils sont mariés. Les cérémonies de mariage et la compréhension deviennent un fardeau inutile et peuvent sembler agités et étourdis à l’autel, jusqu’à ce qu’ils soient seuls avec leur conjoint par la suite."
 
 #: templates/mbti/personalities/infj.html:79
 msgid "这些理想主义者热情、大方、活泼、多情，自身谨慎而对人际关系敏感，非常吸引其它气质类型的人。艺术创造者觉得他们独具匠心运用的浪漫感觉很亲切，并能由于理想主义者在婚姻中注入的合乎伦理的成分而得到道德升华；护卫者对理想主义者表现出来的道德上谨慎，会感到有安全感，并从他们的投入中感受到一些朝气；但，对理想主义者最感兴趣的，却是理性者，不仅因为他们的共同点，更因为理想主义者的情感活力，以及他们对人类的洞察力，这些，都是理性者所缺乏的。"
 msgstr ""
+"Ces idéalistes sont chaleureux, généreux, vifs, sentimentaux, prudents et sensibles aux relations interpersonnelles, très attrayants pour d’autres types de tempéraments. Les créateurs d’art trouvent leurs sentiments romantiques ingénieux intimes et moralement sublimés par les éléments éthiques que les idéalistes injectent dans le mariage; les gardiens se sentent en sécurité et énergiques face à la prudence morale montrée par les idéalistes; mais ce sont les rationalistes qui s’intéressent le plus aux idéalistes, non seulement en raison de leurs points communs, mais aussi en raison de la vitalité "
+"émotionnelle des idéalistes et de leur vision de l’humanité. sont ce qui manque aux gens rationnels."
 
 #: templates/mbti/personalities/infj.html:80
 msgid "婚姻"
-msgstr ""
+msgstr "mariage"
 
 #: templates/mbti/personalities/infj.html:81
 msgid "无论与那种人格气质的人结婚，他们都可能始终爱恋、支持和理解着他们的妻子或丈夫。理想主义者在情感世界里是无与伦比的，为婚姻生活增添了他们对配偶情绪与感受的非凡敏感以及卓越的情感交流能力。他们敏锐的关注着他人的体验，本能的对配偶表示同情，并且不愿意利用那一刻指出配偶所犯的错误，而这一点，往往是其它气质的人无法做到的。"
 msgstr ""
+"Peu importe qui est marié à quelqu’un de cette personnalité, ils peuvent toujours aimer, soutenir et comprendre leur femme ou leur mari. Les idéalistes sont inégalés dans le monde émotionnel, ajoutant à leur vie conjugale leur sensibilité extraordinaire aux émotions et aux sentiments de leur conjoint, ainsi que leur capacité à communiquer émotionnellement. Ils sont très conscients des expériences des autres, compatissent instinctivement avec leur conjoint et hésitent à utiliser ce moment pour souligner les erreurs commises par leur conjoint, ce qui n’est souvent pas possible pour les personnes d’autres "
+"tempéraments."
 
 #: templates/mbti/personalities/infj.html:82
 msgid "理想主义者往往精通赞赏的艺术，他们习惯于向自己的爱人慷慨地表达衷心的赞许。无疑，理想主义者是最深情、专注、挚爱和富于欣赏力的配偶，并且会毫无保留的表达这些感情。"
-msgstr ""
+msgstr "Les idéalistes sont souvent compétents dans l’art de l’appréciation, et ils sont habitués à exprimer généreusement des éloges sincères à leurs proches. Il ne fait aucun doute que les idéalistes sont les époux les plus affectueux, concentrés, aimants et reconnaissants, et exprimeront ces sentiments sans réserve."
 
 #: templates/mbti/personalities/infj.html:83
 msgid "他们具有彻底投入别人精神世界的能力，以至于对方具有一种得到他们完全理解和接受的感觉。他们认为，建立亲密、爱恋的关系是世界上做得最为自然的事情，他们是性爱艺术的真正大师。尽管有时候这种敏感要付出代价，且当情感受到限制时，他们会烦乱，他们从配偶那里得到的感情，总是超出他们的承受能力。"
-msgstr ""
+msgstr "Ils ont la capacité de s’engager pleinement dans le monde spirituel des autres, à tel point que l’autre personne a le sentiment d’être pleinement comprise et acceptée par eux. Ils croient que construire des relations intimes et aimantes est la chose la plus naturelle au monde, et qu’ils sont les vrais maîtres de l’art du sexe. Bien que parfois cette sensibilité ait un coût, et lorsque les émotions sont limitées, ils se fâchent, et les sentiments qu’ils obtiennent de leurs conjoints sont toujours au-delà de leurs moyens."
 
 #: templates/mbti/personalities/infj.html:84
 msgid "此外，他们还受到配偶情感依赖的烦扰，尽管有时候他们的举动鼓励了这些依赖性的产生。如果他们的配偶开始显示出脆弱和很强的依赖性，虽然这些是他们曾经承诺过的，但是，理想主义者仍然会厌恶这种压力。原来被他们认为独特的爱人，现在有种被他们明显否定的感觉，并非他们有意刻薄，而是想逃避自己不再可能控制的婚姻而已。"
-msgstr ""
+msgstr "De plus, ils sont perturbés par la dépendance émotionnelle de leur conjoint, bien que parfois leurs actions encouragent ces dépendances. Si leurs conjoints commencent à montrer de la vulnérabilité et une forte dépendance, ce qu’ils ont promis, les idéalistes détesteront toujours la pression. À l’origine, ils étaient considérés comme des amants uniques, maintenant il y a un sentiment de leur négation apparente, non pas qu’ils aient l’intention d’être méchants, mais d’échapper à leur propre contrôle impossible du mariage."
 
 #: templates/mbti/personalities/infj.html:85
 msgid "理想主义者难以逃避事业的召唤以给自己的家人留出时间，学不会任何从复杂的事务中脱身，以保障家人占据他们生活中的首要地位。那些不会安排事务轻重缓急的理想主义者们，受到诱惑而不断的移情别恋，不惜放弃已有爱情的深化，而把精力用于追求新的恋情。但是，大部分的理想主义者型的人会因发展专一的爱情而获得极大的满足。他们注重培养婚姻中的浪漫情调，拥有情人和伴侣的双重身份。但是，在婚姻初期的性爱，会让理想主义者感到失望，因为他们在这方面让人惊讶的单纯，而且，往往是热情有余技巧不足，并且不愿意再去尝试其它的方法。"
 msgstr ""
+"Les idéalistes ne peuvent pas échapper à l’appel d’une carrière pour prendre du temps pour leur famille et n’apprennent rien pour échapper à des questions compliquées afin de s’assurer que leurs familles prennent la première place dans leur vie. Les idéalistes qui ne donnent pas la priorité à leurs affaires sont tentés de faire constamment preuve d’empathie, abandonnant l’approfondissement de l’amour existant et se concentrant sur la poursuite de nouveaux. Cependant, la plupart des idéalistes seront grandement satisfaits du développement de l’amour résolu. Ils se concentrent sur la promotion de la romance "
+"dans le mariage, avec une double identité en tant qu’amants et partenaires. Mais le sexe dans les premiers stades d’un mariage peut décevoir les idéalistes parce qu’ils sont étonnamment simples à cet égard, et sont souvent moins enthousiastes et moins qualifiés et peu disposés à essayer d’autres méthodes."
 
 #: templates/mbti/personalities/infj.html:86
 msgid "理想主义者一般都擅长社交活动，外向型的，在社交上很活跃；而内向的人，则倾向于在家营造一个私人的空间。但是，他们都是体贴家庭成员的，通常会记得纪念日。同样，如果对他们有意义的纪念日，被别人所遗忘了，他们会很受伤。"
-msgstr ""
+msgstr "Les idéalistes ont tendance à être socialement actifs, extravertis et socialement actifs, tandis que les introvertis ont tendance à créer un espace privé à la maison. Cependant, ils sont des membres de la famille prévenants et se souviennent généralement du jour du Souvenir. De même, si les anniversaires qui comptent pour eux sont oubliés, ils seront blessés."
 
 #: templates/mbti/personalities/infj.html:87
 msgid "理想主义者极其欣赏艺术创造者型配偶在现实世界中所表现出来的洒脱、自然本色，这与他们常常忍受折磨、内疚的生活体验有着极大不同。另外，艺术创造者型伴侣喜爱享受感官享受和大胆满足性欲的特点也吸引着理想主义者型的人，并激发了他们的浪漫想像。 但这种婚姻中也蕴藏了令人不满意的种子，即艺术创造者型人缺乏谈论自己生命内涵的兴趣。"
-msgstr ""
+msgstr "Les idéalistes apprécient grandement la nature libre et naturelle des conjoints de type créateur d’art dans le monde réel, ce qui est très différent des expériences de vie qu’ils endurent souvent tourment et culpabilité. En outre, les caractéristiques des partenaires de type créateur d’art qui apprécient le plaisir sensoriel et satisfont audacieusement leurs désirs sexuels attirent également les idéalistes et stimulent leur imagination romantique. Mais il y a aussi une graine insatisfaisante dans ce mariage, à savoir le manque d’intérêt pour les créateurs d’art pour parler du sens de leur vie."
 
 #: templates/mbti/personalities/infj.html:88
 msgid "同护卫者型的伴侣在一起使理想主义者在家中感到舒适和令人安心的稳定性，给他们一种脚踏实地的感觉。护卫者还有种让常常犹豫不决的理想主义者肃然起敬的坚定，确切的是非观。两者都属于社会合作者，在生活规范上减小了冲突矛盾。 然而，护卫者在分享理想主义者丰富内涵的过程中存在困惑，并有可能因此使他们的理想主义者伴侣失望。他们忠实聆听试图取悦于理想主义者，但是后者迟早会感到自己不被赏识，继而给两者带来压力。"
 msgstr ""
+"Être avec un partenaire de type gardien donne aux idéalistes confort et tranquillité d’esprit à la maison et leur donne une sensation terre-à-terre. Le gardien a aussi une sorte de fermeté qui rend les idéalistes souvent indécis respectueux, exactement à tort et à raison. Les deux appartiennent à des collaborateurs sociaux, réduisant les conflits dans les normes de vie. Cependant, les gardiens sont confus dans le partage des riches connotations des idéalistes et peuvent donc décevoir leurs partenaires idéalistes. Ils écoutent fidèlement dans une tentative de plaire aux idéalistes, mais tôt ou tard, ces "
+"derniers se sentiront mal appréciés et mettront la pression sur les deux."
 
 #: templates/mbti/personalities/infj.html:89
 msgid "很容易和气质相同的人结为夫妻，并往往相处得异常和睦，他们对彼此内心世界的探索让对方满意，并且也可能一时创造出美妙的性爱关系。但是，过于相似和过多的时间追求精神目标而筋疲力尽，及过多的内心交流，必然会侵入对方的私密空间，而导致双方心神不安。"
-msgstr ""
+msgstr "Il est facile d’être marié à quelqu’un du même tempérament, et souvent de s’entendre exceptionnellement bien, et leur exploration du monde intérieur de l’autre est satisfaisante et peut créer une relation sexuelle merveilleuse pendant un certain temps. Cependant, trop de similitudes et trop de temps pour poursuivre des objectifs spirituels et l’épuisement, et trop de communication intérieure, envahiront inévitablement l’espace privé de l’autre, entraînant les deux côtés de l’esprit."
 
 #: templates/mbti/personalities/infj.html:90
 msgid ""
 "选择理性者作为配偶，似乎最能保证理想主义者的成功。他们相互协调的基础是：两者都基本上生活在抽象的世界里。约会了其它类型后，偶然遇到的理性者会让理想主义者觉得发现了新大陆，并渴望能够想像出遥远的未来。同时，令人神往的是理性者的冷静和自主性，这两个特点，都是牢牢的抓住自己的本性，致使容易激动和内省的理想主义者对此极为钦佩，并希望仿效之。当然，两者并不总是那么和睦。理想主义者的善于情感表达和理性者的自我控制、直觉和逻辑、伦理道德和技术实用主义之间的冲突，使再完善的组合也存在着挑战。理想主义者总是尝试将理性者对表达感情的抵触、表面上的冷漠攻破，可想而知是火花四溅的，也许就是因为这些火花，才使理想主义者对理性者情有独"
 "钟。"
 msgstr ""
+"Choisir une personne rationnelle comme conjoint semble être la meilleure garantie du succès idéaliste. Leur coordination est basée sur le fait que les deux vivent fondamentalement dans des mondes abstraits. Après avoir fréquenté d’autres types, le rationaliste occasionnel donne aux idéalistes l’impression d’avoir découvert un nouveau continent et d’imaginer un avenir lointain. En même temps, c’est le calme et l’autonomie des personnes rationnelles qui se caractérisent par une ferme compréhension de leur propre nature, ce qui fait que les idéalistes excitables et introspectifs l’admirent et espèrent "
+"l’imiter. Bien sûr, les deux ne sont pas toujours aussi harmonieux. Le conflit entre la bonne expression émotionnelle de l’idéaliste et la maîtrise de soi, l’intuition et la logique, l’éthique et le pragmatisme technique de la personne rationnelle fait que la combinaison parfaite a également le défi. Les idéalistes essaient toujours de briser la résistance du rationnel à l’expression des sentiments, l’apparente indifférence, il est concevable que des étincelles éclaboussent, peut-être à cause de ces étincelles, de sorte que les idéalistes ont une passion pour les gens rationnels."
 
 #: templates/mbti/personalities/infj.html:91
 msgid "家庭"
-msgstr ""
+msgstr "Famille"
 
 #: templates/mbti/personalities/infj.html:92
 msgid "他们是一群热情洋溢的小家伙，被称为“脾气暴躁之人”，因为他们的感情极其容易受到激发，而且有时会以一种令人惊异的强烈气势表现出来。小时候，总是被一种激情鼓舞着，几乎无法使其感情保持平静的状态。他们可能较早就开口说话了，外向的，并且在父母眼中从未停止过说话；内向的，同样具备强烈的感情，只是往往羞于表达而已，或许还存在某些人际交流方面的困难，特别是在家庭之外。"
-msgstr ""
+msgstr "Ils sont un groupe de petits gars enthousiastes, connus sous le nom de « grincheux », parce que leurs sentiments sont extrêmement sensibles à la stimulation, et parfois dans une atmosphère étonnamment forte. Enfant, il a toujours été inspiré par une passion qui pouvait difficilement garder ses sentiments calmes. Ils peuvent parler plus tôt, extravertis et ne jamais cesser de parler dans les yeux de leurs parents; les introvertis, qui ont également des sentiments forts, sont souvent timides quant à l’expression et peuvent avoir des difficultés interpersonnelles, en particulier en dehors de la famille."
 
 #: templates/mbti/personalities/infj.html:93
 msgid "尽管理想主义者型儿童也许有时暴躁易怒，他们也能够讨人喜欢，是一种真诚表达自己喜欢了解他人的人性热情。他们很早就显露出来各种特制，只是，不幸的是，在多数情况下，他们很少存在行为典范。没有多少长辈擅长交际活动，所以他们必须自己领会，并自我完善。"
-msgstr ""
+msgstr "Bien que les enfants idéalistes puissent parfois être irritables, ils peuvent aussi être sympathiques et une expression authentique de leur passion humaine pour la compréhension des autres. Ils ont montré une variété de spécialités dès le début, mais, malheureusement, dans la plupart des cas, ils ont rarement un comportement exemplaire. Peu d’aînés sont doués pour les activités de communication, ils doivent donc se comprendre et s’améliorer."
 
 #: templates/mbti/personalities/infj.html:94
 msgid "理想主义者型显的孩子，对于最亲近的人，往往很敏感。当家庭成员关系和睦时，他们的自我感觉便平和，当父母或同胞哀伤时，他们也变得哀伤。家庭美满的，孩子的自尊能够较早较迅速的发展；反之，则缺乏泰然处理难题的防卫能力。"
-msgstr ""
+msgstr "Les enfants idéalistes sont souvent sensibles à leurs proches. Lorsque les membres de la famille sont en harmonie, que leurs sentiments de soi sont paisibles et que leurs parents ou leurs compatriotes pleurent, ils deviennent également tristes. Le bien-être familial, l’estime de soi des enfants peut se développer plus tôt et plus rapidement;"
 
 #: templates/mbti/personalities/infj.html:95
 msgid "他们倾向于努力向别人显示自己良好的用意而不是提供具体帮助，他们从小就有着极高的道德期望，希望自己对待别人的态度和行为是完美无比的。在人前装模作样会让他们感到极不自在，他们很少寻求掌声。当然他们也设法去适应他人，喜欢受到成人的表扬，但并不是把自信建立于此。"
-msgstr ""
+msgstr "Ils ont tendance à essayer de montrer aux autres qu’ils ont de bonnes intentions plutôt que de fournir une aide spécifique, et ils ont des attentes morales élevées dès leur plus jeune âge qu’ils veulent traiter les autres avec des attitudes et des comportements parfaits. Faire semblant devant les gens peut les mettre extrêmement mal à l’aise, et ils cherchent rarement à applaudir. Bien sûr, ils essaient aussi de s’adapter aux autres et aiment être loués par les adultes, mais ils ne construisent pas leur confiance en eux sur cela."
 
 #: templates/mbti/personalities/infj.html:96
 msgid "他们希望别人承认自己是个独立的个体，他们感到自己和他人的差异，但认识不到这种差异是什么。理想主义者型和理性者型的孩子可能会产生某些与人疏远的感觉，但是理性者型的孩子仍然坚持我行我素，理想主义者型的孩子对自己的与众不同也非常满意。"
-msgstr ""
+msgstr "Ils veulent que les autres se reconnaissent comme des individus indépendants qui ressentent la différence entre eux et les autres, mais ne reconnaissent pas quelle est cette différence. Les enfants idéalistes et rationnels peuvent avoir un certain sentiment d’aliénation, mais les enfants rationnels insistent toujours sur ce que je fais, et les enfants idéalistes sont très satisfaits de leurs différences."
 
 #: templates/mbti/personalities/infj.html:97
 msgid "理想主义者型的孩子需要父母承认自己的独特性，并充满爱心的认可他们的重要作用，有助于他们认定自己的独立、有价值的家庭成员资格。他们需要这样的讯息“你是很特别的人、我重视你、你对我很重要”。"
-msgstr ""
+msgstr "Les enfants idéalistes ont besoin que les parents reconnaissent leur caractère unique et reconnaissent avec amour leur rôle important, en les aidant à s’identifier comme des membres de la famille indépendants et précieux. Ils ont besoin du message : « Tu es une personne spéciale, je t’apprécie, tu es important pour moi. »"
 
 #: templates/mbti/personalities/infj.html:98
 msgid "此类型的孩子对他人最为信赖，并且相信直觉甚于行为规范。另外，他们和其它的孩子一起听故事，比其它人更容易坚信故事是真实的，甚至有些固执。他们喜欢反复的听一个故事，并自己虚构些情节加以叙述。他们喜欢中世纪骑士的故事、还有王子、公主、邪恶势力和巫婆。父母应该引导他们读些有幸福结局的故事，勇士最终胜利了、坏人改邪归正了，这样他们会被永恒的幸福吸引，不管以后无情的现实摧毁他们多少希望和梦想。"
 msgstr ""
+"Ce type d’enfant fait le plus confiance aux autres et croit plus à l’intuition qu’au comportement. De plus, ils écoutent des histoires avec d’autres enfants et sont plus susceptibles que les autres de croire que l’histoire est vraie, voire têtue. Ils aiment écouter une histoire encore et encore et inventer leur propre intrigue pour la raconter. Ils aimaient les histoires des chevaliers médiévaux, ainsi que des princes, des princesses, des forces du mal et des sorcières. Les parents devraient les guider à lire des histoires avec des fins heureuses, les guerriers finissent par gagner, les mauvaises personnes "
+"changent leurs habitudes, de sorte qu’ils seront attirés par le bonheur éternel, peu importe combien d’espoir et de rêves ils seront détruits par la réalité implacable à l’avenir."
 
 #: templates/mbti/personalities/infj.html:99
 msgid "理想主义者型的孩子对玩具有着无法理喻的珍贵，如果丢失或被父母无意间丢弃，都会令他们感到不幸。他们更多的把玩具当成朋友，当然，也会遭到别人的嘲笑和排斥，从而体验人格遭到拒绝的感受。"
-msgstr ""
+msgstr "Les enfants idéalistes ont une valeur inadmissible aux jouets, et s’ils sont perdus ou jetés par inadvertance par leurs parents, ils se sentiront malheureux. Ils sont plus susceptibles de traiter les jouets comme des amis, et bien sûr, ils seront ridiculisés et ostracisés par les autres, éprouvant ainsi le sentiment de rejet de la personnalité."
 
 #: templates/mbti/personalities/infj.html:100
 msgid "理想主义者型的孩子是利他的，而且是全世界性的。而且这类孩子早熟，有一定的怀疑主义倾向。他们总是满腔热情的探索着某种值得信仰的理念。"
-msgstr ""
+msgstr "Les enfants idéalistes guérissent et dans le monde entier. Et ces enfants sont précoces et ont une certaine tendance sceptique. Ils explorent toujours passionnément une certaine idée à laquelle il vaut la peine d’y croire."
 
 #: templates/mbti/personalities/infj.html:101
 msgid "总是试图与子女建立亲近、融洽的关系。期待能溶入子女的生活，并以自己的积极形象给他们以促进。他们对孩子是无微不至的也是永无止境的。"
-msgstr ""
+msgstr "Essayez toujours de construire une relation étroite et harmonieuse avec vos enfants. Attendez-vous à pouvoir s’intégrer dans la vie de leurs enfants et à les promouvoir dans leur image positive. Ils sont infinis et sans fin pour leurs enfants."
 
 #: templates/mbti/personalities/infj.html:103
 msgid "INFJ成功的秘诀就是：注意细节；学会灵活一点；无论做什么事都要自发自愿，不要让人督促你。"
-msgstr ""
+msgstr "Le secret du succès d’INFJ est de faire attention aux détails, d’apprendre à être flexible, de faire tout ce que vous faites spontanément et de ne pas laisser les gens vous pousser."
 
 #: templates/mbti/personalities/infp.html:5
 msgid "哲学家（治疗者）型人格"
-msgstr ""
+msgstr "Personnalité philosophe (guérisseur)"
 
 #: templates/mbti/personalities/infp.html:9
 msgid "内向I 直觉N 情感F 知觉P，只要是为他人服务，为自己的理想尽力，INFP就会是最出色，最有效率的那种人。但如果工作没有意义，他们的工作效果和效率就会大打折扣。显然，INFP最乐于做那些符合自己价值观的事情。然而，只要愿意稍微转换一下视角，把正在从事的并不那么有趣的事情看作是为别人服务的工作，他们就会为这份工作尽心尽力。比如学习电脑，对别人来说可能很有意思，但如果单单是为学电脑而学电脑，对INFP来说就是在浪费时间；而同样是学习电脑，如果是为了帮助别人了解电脑，克服问题，对INFP来说就可能变得非常具有吸引力。"
 msgstr ""
+"Introverti I Intuition N Émotion F Perception P, tant que c’est pour les autres, pour leurs propres idéaux de faire de leur mieux, INFP sera le meilleur, le type de personne le plus efficace. Mais si le travail n’a pas de sens, leur efficacité et leur efficience peuvent être considérablement diminuées. De toute évidence, l’INFP est plus disposé à faire des choses qui sont conformes à ses valeurs. Cependant, s’ils sont prêts à changer un peu de perspective et à voir ce qui n’est pas si intéressant qu’un travail pour servir les autres, ils feront de leur mieux pour le travail. Apprendre des ordinateurs, par "
+"exemple, peut être amusant pour les autres, mais apprendre des ordinateurs juste pour apprendre des ordinateurs est une perte de temps pour INFP, et apprendre des ordinateurs, si c’est pour aider les autres à comprendre les ordinateurs et à surmonter les problèmes, peut devenir très attrayant pour INFP."
 
 #: templates/mbti/personalities/infp.html:10
 #, python-format
 msgid "知性特质的哲学家/治疗者型（INFP） 想像一个幽深的、青葱的山谷，围绕着永远盛开的鲜花和树木，住着温柔地陪伴着人们的动物，而人们每天的生活都洋溢在爱、创造和无私的奉献当中。这是一个极少的（大约祇占世界2%%的人口）哲学家/治疗者型的世界，INFP永远都在不断地付出努力，为了居住在一个只有爱与和谐的完美世界里。"
-msgstr ""
+msgstr "Le type philosophe/guérisseur (INFP) des traits intellectuels imagine une vallée profonde et luxuriante entourée de fleurs et d’arbres toujours en pleine floraison, entourée d’animaux qui accompagnent doucement les gens, dont la vie quotidienne est remplie d’amour, de création et de dévotion désintéressée. C’est un monde de très peu de philosophes / guérisseurs (environ 2%% de la population mondiale), et l’INFP travaille toujours dur pour vivre dans un monde parfait où seuls l’amour et l’harmonie sont disponibles."
 
 #: templates/mbti/personalities/infp.html:12
 msgid "INFP倾向于宁静和有所保留。于社交中，他们消耗能量。相比关心具体事物，INFP更加关心于抽象事物。他们更倾向于关注整体而不是细节，关注未来的可能性而非最切近的现实。INFP通常认为个人偏好高于客观标准。在做决定的时候，他们通常更侧重于人情世故而非逻辑。INFP会保留意见或推迟作出重要的决定，更倾向于“开放选择权”，更能应对变化。"
 msgstr ""
+"L’INFP a tendance à être calme et réservé. Socialement, ils consomment de l’énergie. L’INFP se soucie plus des choses abstraites que des choses concrètes. Ils ont tendance à se concentrer davantage sur l’ensemble que sur les détails, sur les possibilités de l’avenir que sur les réalités les plus proches. L’INFP estime généralement que la préférence personnelle est supérieure aux critères objectifs. Lorsqu’ils prennent des décisions, ils ont tendance à se concentrer davantage sur la nature humaine que sur la logique. L’INFP réserverait ou reporterait les décisions importantes, préférant des « options "
+"ouvertes » pour mieux répondre au changement."
 
 #: templates/mbti/personalities/infp.html:13
 msgid "INFP将他们的精力主要集中于内在世界，这世界里充满了强烈的感情和坚定的伦理道德信念。他们寻找一个能符合这些价值观的外在世界。他们对那些于他们重要的人和事很忠诚，也会迅速发现能实现他们理想的机遇。他们十分希望了解他们周围的人，通常随和、通情达理，除非他们的价值观受到威胁。"
-msgstr ""
+msgstr "L’INFP concentre ses énergies sur le monde intérieur, qui est plein de sentiments forts et de croyances éthiques et morales fermes. Ils recherchent un monde extérieur qui répond à ces valeurs. Ils sont loyaux envers les gens et les choses qui comptent pour eux, et ils identifient rapidement les opportunités de réaliser leurs idéaux. Ils sont désireux d’apprendre à connaître les gens qui les entourent, souvent faciles à aller de soi et raisonnables, à moins que leurs valeurs ne soient menacées."
 
 #: templates/mbti/personalities/infp.html:14
 msgid "INFP对于这个世界的看法是很理想化的，以至于他们在现实生活中很难得到满足，他们对这个现实世界的要求在其他人看来是很高的，他们内心渴望的对人与人之间、社会、国家、世界的标准是极富崇高的，对于理想世界的追求他们仿佛没有一个满足的标准，也许这个标准是明晰的，也许是模糊的，但是他们通常都会考虑还有哪一种会更加完美和高尚。"
-msgstr ""
+msgstr "La vision du monde de l’INFP est si idéaliste qu’il leur est difficile d’être satisfaits dans la vie réelle, leurs exigences sur le monde réel sont élevées aux yeux des autres, leur désir intérieur de normes humaines, sociales, nationales, mondiales sont extrêmement nobles, pour la poursuite du monde idéal, ils ne semblent pas avoir de norme à respecter, peut-être que cette norme est claire, peut-être vague, mais ils considèrent généralement lequel sera le plus parfait et le plus noble."
 
 #: templates/mbti/personalities/infp.html:15
 msgid ""
 "通常INFP人在小的时候都会经历过一些精神或者身体上的创伤，或许从某种角度上来讲INFP是一种非自然的MBTi人格，可能会因为童年阴影扭曲成INFP，在旁人看来也许这些心灵上的创伤对INFP不是很严重或者说对其的影响不会是很深刻，但是对于INFP本身的他们来说这些创伤经历在他们心里是不可磨灭的，这些悲伤的片段会一直伴随着他们长大，在INFP的脑海里像影子一样笼罩着他们并伴随一生，INFP有一颗敏感的心灵，它对外界很灵敏，外部环境的一丝风、一缕光都会轻易的触动一个INFP小孩那颗纯良的小心灵，对外界事物和人过于敏感会导致INFP容易胡思乱想，去猜测别人是否是针对自己的，INFP关注别人对他们的看法，内心想着外界的人是否喜欢、接纳自己，是否讨厌、想排斥自"
 "己。尽管在别人看来，在INFP的经历中并没有受到过某些伤害或者苦难，但是内向敏感的INFP会把自己受到过的伤害把它保存在自己的脑海里并时常想起，INFP的伤害在自己脑海长期的时常反复的浮现，在加上INFP习惯关注内心世界而忽视了外部世界所发生的事情，因此，这种伤害感将会在他们的灵魂里得以深深的刻印下来并且加重了他们的受伤感。这种感觉伴随着INFP经历人生的路程，所以INFP的世界观是灰暗多于明媚的，对这个世界的认识和看法，他们会很自然的倾向于悲观主义。他们感到人生是一个悲剧，为自己的境遇而感到遗憾和悲伤。"
 msgstr ""
+"Habituellement, les personnes INFP subissent un traumatisme mental ou physique à un âge précoce, peut-être d’une certaine manière INFP est une personnalité MBTi non naturelle, peut-être parce que l’ombre de l’enfance déformée en INFP, aux yeux des autres peut ne pas avoir un impact très grave ou profond sur INFP, mais pour INFP lui-même, ces expériences traumatisantes sont indélébiles dans leur cœur, ces fragments tristes continueront à grandir avec eux, Dans l’esprit de l’INFP comme une ombre les envelont et accompagne la vie, l’INFP a un esprit sensible, il est sensible au monde extérieur, l’environnement "
+"extérieur d’un rayon de vent, un rayon de lumière touchera facilement un enfant INFP qu’un pur bon petit esprit, trop sensible aux choses extérieures et aux gens conduira à INFP facile à penser, à deviner si les autres sont contre les leurs, INFP préoccupé par les points de vue des autres sur eux, le cœur du monde extérieur si les gens aiment, s’acceptent, s’ils détestent, veulent s’exclure. Bien que chez d’autres n’aient subi aucun préjudice ou souffrance dans l’expérience INFP sensible à l’infusion, l’INFP sensible introverti gardera les dommages dans leur propre esprit et se souviendra souvent que les "
+"blessures de l’inFP ont souvent refait surface dans leur propre esprit au fil du temps, et que, en plus de l’habitude de l’INFP de se concentrer sur le monde intérieur et d’ignorer ce qui se passe dans le monde extérieur, ce sentiment de blessure sera profondément gravé dans leur âme et aggravera leur sentiment de blessure. Ce sentiment est accompagné du VOYAGE de LA VIE, de sorte que la vision du monde de l’INFP est plus grise que brillante, et leurs perceptions et perceptions du monde sont naturellement pessimistes. Ils sentent que la vie est une tragédie, et ils se sentent désolés et tristes pour leur "
+"situation."
 
 #: templates/mbti/personalities/infp.html:16
 msgid ""
 "当INFP渐渐的长大后他们会去探索自己，他们内心有一个想法就是我是谁？我为什么会经历痛苦？我要到哪里去？我活在这个世界上为什么不能幸福快乐？INFP会觉得自己的经历是不幸福和不快乐的，这种幸福缺失感会一直留在INFP心里，经过长期的自我暗示会加重这种感觉，然而这样一来他们在现实中所体验的生活所带来的乐趣对INFP显得微不足道，好像这些乐趣根本就不能弥补自己曾经悲伤的经历，这些乐趣好像无法填补自己那颗缺失幸福的灵魂。INFP在现实中几乎得不到真正的幸福感和美好的体验，他们会很本能的投入到自己的内心世界里面，在那里他们可以自由的构建一个可以让自己幸福快乐的美好世界，在这个用想象来构建的美好世界里必然是要比现实世界理想百倍的，也只有"
 "这样INFP的内心才会真正的体验到幸福。然而在外人看来真正悲剧的是INFP们错过了体验和享受这个真实的现实世界，他们依然把重心放在那个虚幻的理想化世界里。"
 msgstr ""
+"En vieillissant, l’INFP s’explore lui-même et a une idée de qui je suis. Pourquoi est-ce que je souffre? Où vais-je ? Pourquoi ne puis-je pas être heureux quand je vis dans ce monde ? INFP sentira que leur expérience est malheureuse et malheureuse, ce manque de bonheur restera au cœur de l’INFP, après une longue période d’auto-suggestion aggravera ce sentiment, mais de cette façon ils expérimentent dans la vie réelle les joies de la vie semblent insignifiantes à INFP, comme si ces plaisirs ne pouvaient pas compenser leur propre expérience triste, ces plaisirs ne peuvent pas remplir leur propre âme heureuse "
+"manquante. INFP en réalité peut difficilement obtenir un vrai sentiment de bonheur et une bonne expérience, ils seront très instinctifs dans leur monde intérieur, où ils peuvent librement construire un monde heureux, dans cette imagination pour construire un monde meilleur est voué à être plus que l’idéal du monde réel, et seulement alors le cœur intérieur de THEFP fera vraiment l’expérience du bonheur. La véritable tragédie pour les étrangers, cependant, est que les INFP manquent d’expérimenter et de profiter du monde réel, et ils se concentrent toujours sur ce monde idéalisé illusoire."
 
 #: templates/mbti/personalities/infp.html:17
 msgid ""
 "INFP在孩提时代把自己看成了一个受伤者，出于感同身受的原因，他们会很自然的对处于弱小、悲伤、痛苦的人表示同情，他们内心的悲痛与外界相互传达交流，经过转化会生成善良、富同情心、有爱心这些高贵的品质。在INFP的理想化的世界里自己的人类同胞是非常完美的，INFP会以现实世界为样板，在这个样板上他们会想象如何才会让人类更加美好的生活，首先这个世界里的社会是一个制度完善的优越社会，这个社会上的人们生活质量良好，人们过着美好幸福的自由生活，这里没有剥削，没有黑暗的权势组织和恶魔的人。在想象的世界里INFP觉得自己是伟大的，INFP认为自己构建了一个理想美好的世界给苦难怜悯的社会底层人民，他们崇尚人与人之间平等，希望每个个体都能够自由的"
 "追求自己的幸福和快乐，在INFP的意识里这个世界早就已经没有了束缚人类的枷锁，社会的制度和文化是以人性化为导向的。"
 msgstr ""
+"L’INFP se considérait comme une personne blessée lorsqu’elle était enfant et, pour des raisons empathiques, elle exprimait naturellement sa sympathie pour ceux qui étaient faibles, tristes et misérables, dont le chagrin intérieur communiquait avec le monde extérieur et dont la transformation produirait de nobles qualités de gentillesse, de compassion et d’amour. Dans le monde idéalisé de l’INFP, leurs semblables sont très parfaits, l’INFP prendra le monde réel comme modèle, dans ce modèle, ils imagineront comment faire une vie meilleure pour l’humanité, tout d’abord, la société mondiale est une société "
+"supérieure bien établie, la qualité de vie des gens dans cette société est bonne, les gens vivent une vie libre heureuse, il n’y a pas d’exploitation, pas d’organisations de pouvoir sombre et de démons. Dans le monde imaginaire, INFP se sent bien, INFP pense qu’ils ont construit un monde idéal et beau à la souffrance des gens au bas de la société, ils préconisent l’égalité entre les gens, espèrent que chaque individu peut librement poursuivre son propre bonheur et bonheur, dans la conscience de l’INFP, le monde a longtemps été libéré des chaînes des êtres humains, le système social et la culture sont "
+"orientés vers l’homme."
 
 #: templates/mbti/personalities/infp.html:18
 msgid ""
 "受自己过于理想化的观念影响，INFP会潜移默化的变成一个道德素质高的人，他们关注人类的命运，内心深深的爱着自己的人类同胞，希望自己能够通过什么方法来拯救这个灰暗的世界以及对抗那些恶魔般的人，然而INFP的心是敏感、善良、慈悲的，也是容易受伤的，他们普遍不善于在现实世界中与人社交的，INFP不情愿破坏自己的理想化而去接触现实中那些“不完美”的人，他们的思想高尚，而不自觉的发现现实中的人们都倾向于自私、愚昧、粗俗、思想低级，INFP在心里会一边厌恶不能达到他们愿望的人，同时也一边同情着这些人。INFP的理想化思想在现实中很难遇到与他们思想相似的人，于是INFP不太愿意和他们思想出入大的人沟通交流，这样一来INFP在人群中会显得话少、孤僻、同"
 "时也容易感到受挫。他们愿意一个人独处，无奈的继续经营着那个虚幻的梦想。"
 msgstr ""
+"Influencés par leurs idées sur-idéalisées, l’INFP deviendra subtilement une personne de haute qualité morale, ils prêtent attention au destin de l’humanité, aiment profondément leurs semblables, espèrent pouvoir sauver ce monde sombre et lutter contre ces personnes démoniaques, mais le cœur de THEFP est sensible, gentil, compatissant, mais aussi facile à blesser, ils ne sont généralement pas doués pour socialiser avec les gens dans le monde réel, INFP est réticent à détruire leur idéalisation et leur contact avec ceux qui sont dans la réalité. Les gens imparfaits, leurs idées nobles, et inconsciemment "
+"trouvés que la réalité des gens ont tendance à être égoïstes, ignorants, vulgaires, bornés, INFP dans le cœur sera dégoûté par ceux qui ne peuvent pas répondre à leurs souhaits, mais aussi sympathiques à ces gens. En réalité, l’idée idéalisée de l’INFP est difficile à rencontrer des gens qui sont similaires à leurs idées, de sorte que l’INFP est moins disposé à communiquer avec des personnes ayant de grandes idées, de sorte que l’INFP dans la foule semblera être moins bavard, solitaire, mais aussi facile à se sentir frustré. Ils sont prêts à être seuls et impuissants pour continuer à faire ce rêve illusoire."
 
 #: templates/mbti/personalities/infp.html:19
 msgid ""
 "由于INFP把注意力焦点转移至内部世界，所以他们显得内向敏感，他们对外界那些所谓的规矩和人情世故感到厌烦和不适，对于那些高压的工作更是倍感无力，所以他们都喜欢自由自在没有约束的工作，而除了工作本身INFP更希望能够把自己的理想化通过工作这个平台来把它转变为现实，所以在一些比较能够充分发挥自己的理想化同时也自由的工作中都能发现有很多INFP的身影，比如：心理学领域，艺术领域、哲学思想、社会服务工作等。他们希望通过传播自己的高尚思想来影响和改善世界，尽管INFP本身是否意识到，但他们的潜意识是强烈的希望自己可以改善世界和拯救人类的，或许他们做的工作和行为活动没有真正意义的帮助到这个世界和人类，但是他们通过类似的工作会从心里感到"
 "欣喜和满足感。并不是说其他的工作不适合他们，只是他们需要的工作平台最好是与他们的崇高的思想、性格特质、价值观相符的。"
 msgstr ""
+"Parce que les INFP se concentrent sur le monde intérieur, ils semblent introvertis et sensibles, ils s’ennuient et sont mal à l’aise avec les soi-disant règles et la nature humaine du monde extérieur, et ils sont impuissants face au travail à haute pression, donc ils aiment tous le travail libre et sans contrainte, et en plus du travail lui-même, INFP aimerait être en mesure de faire leur idéal à travers la plate-forme de travail pour le transformer en réalité, Par conséquent, dans certains autres peuvent donner pleinement jeu à leur idéalisation et aussi le travail libre peut trouver beaucoup de figures "
+"INFP, telles que: psychologie, art, philosophie, travail des services sociaux. Ils veulent influencer et améliorer le monde en diffusant leurs nobles idées, et bien que l’INFP lui-même en soit conscient, leur subconscient est un fort désir d’améliorer le monde et de sauver l’humanité, et peut-être que le travail et le comportement qu’ils font n’aident pas vraiment le monde et l’humanité, mais ils ressentiront la joie et la satisfaction du cœur à travers un travail similaire. Ce n’est pas que les autres emplois ne leur conviennent pas, c’est que la plate-forme dont ils ont besoin est la mieux alignée avec "
+"leurs idées nobles, leurs traits de personnalité et leurs valeurs."
 
 #: templates/mbti/personalities/infp.html:20
 msgid "认识到INFP的人格，我们欣赏他们的博爱、高尚、理想化精神，INFP对人类的文明进步所做出的奉献是很大的，时代的巨大进步都离不开INFP的汗水和奋斗，他们是努力为人类平等、公平、自由的奋斗者，是人性化进程的推动者，也是致力于社会制度完善的先驱者，他们有一种牺牲自己贡献世界的伟大崇高的精神。"
-msgstr ""
+msgstr "Reconnaissant la personnalité de l’INFP, nous apprécions leur fraternité, leur esprit noble et idéalisé, le dévouement de l’INFP au progrès de la civilisation humaine est grand, le grand progrès des temps ne peut être séparé de la sueur et de la lutte de THEFP, ils luttent pour l’égalité humaine, l’équité et la liberté, sont le promoteur du processus d’humanisation, mais aussi engagés dans le système social des pionniers, ils ont un sacrifice pour contribuer au grand esprit noble du monde."
 
 #: templates/mbti/personalities/infp.html:21
 msgid ""
 "INFP除了具有博爱和高尚思想的可贵之处，这是我们值得欣喜的，我们看到INFP的价值的同时也要看到他们的处境，他们普遍的对现实失望，其实INFP感到痛苦的主要原因很大程度上是因为他们没有得以去弥补他们那颗缺乏幸福感的心，也许他们不知道该怎样去弥补才会幸福，也许他们失去的快乐太多了乃至于无法弥补回来，或者是有的东西对INFP非常重要但是他们永远也追求不到了，这些都是INFP的苦衷，但是值得重视的是：INFP只有勇敢的在现实中寻找自己的幸福才会真实的感到幸福，他们需要把自己的理想化转化为动力而不是高期望，给INFP一个很好的建议是：把自己曾经“受伤”的过去给忘掉，重新给自己建立一个积极乐观的世界观，也许这个改变是个大工程，要投入很大的精力还"
 "有要适应各种变化，但是每改变一步便意味着已经成功了一步.INFP应该勇敢努力的行动起来而不是呆在象牙塔里，当INFP真正的走出来了的时候他们原来的本性依然会影响着他们，他们可以运用自己的创造力来创造出一些更好的、具有价值的东西来。很简单的：他们只要保持积极乐观的态度来面对这个世界，再就是用行动力来表达自己的积极乐观精神。这样他们的生活就会变得五彩缤纷，其乐融融。关键是INFP愿不愿意发自内心的改变，信念很重要，信念坚定就足够可以成功。"
 msgstr ""
+"INFP en plus de la valeur de la fraternité et des idées nobles, c’est notre joie, nous voyons la valeur de l’INFP en même temps veulent aussi voir leur situation, ils sont généralement déçus de la réalité, en fait, THEFP sentent que la douleur est en grande partie parce qu’ils n’ont pas été en mesure de compenser leur manque de bonheur du cœur, peut-être qu’ils ne savent pas comment compenser seront heureux, peut-être qu’ils ont perdu trop de bonheur ou même ne peuvent pas se rattraper, Ou il y a des choses très importantes pour l’INFP mais elles ne poursuivront jamais, ce sont les souffrances de l’INFP, "
+"mais il convient de noter que: INFP seulement courageux dans la réalité de trouver leur propre bonheur sera le vrai bonheur, ils doivent transformer leur idéalisation en motivation plutôt qu’en attentes élevées, à l’INFP un bon conseil est: oublier leur passé autrefois « blessé », rétablir une vision du monde positive et optimiste, peut-être que ce changement est un grand projet, Beaucoup d’efforts doivent être déployés pour s’adapter aux changements, mais chaque étape du changement signifie qu’il s’agit d’une étape réussie. L’INFP devrait agir courageusement plutôt que de rester dans la tour d’ivoire, et "
+"lorsque l’INFP sortira, sa nature originelle les affectera toujours, et ils pourront utiliser leur créativité pour créer quelque chose de mieux et de plus précieux. C’est simple: ils doivent juste être positifs et optimistes pour faire face au monde, puis ils vont utiliser l’action pour exprimer leur optimisme positif. De cette façon, leur vie deviendra colorée, leur musique fondra. La clé est que l’INFP est prêt à changer du cœur, la foi est importante, la foi est assez forte pour réussir."
 
 #: templates/mbti/personalities/infp.html:22
 msgid "INFP们有礼貌且有所保留的外在，可能在一开始让他们难以了解。他们喜欢谈话，尤其是在话题不寻常的时候。当INFP们想参与社交的时候，他们的幽默感和魅力自始至终都会闪耀。倾向于喜欢别人且尽量避免冲突，INFP们倾向于是令人感到轻松的同伴。"
-msgstr ""
+msgstr "L’externalité polie et réservée des INFP peut être difficile à comprendre pour eux au début. Ils aiment parler, surtout quand le sujet est inhabituel. Lorsque les INFP veulent socialiser, leur sens de l’humour et leur charme brillent partout. Ayant tendance à aimer les autres et à éviter les conflits, les INFP ont tendance à être des compagnons détendus."
 
 #: templates/mbti/personalities/infp.html:23
 msgid "深爱于那些能进入他们内心圈子的人，INFP们保护着他人的感情安宁，抚慰那些处于压力下的人。被他们渴望和谐的天性指引着，INFP们倾向于通情达理，除非他们的道德观受到了违犯。然后，他们将会充满激情地为他们的信念辩护。通过机智、策略以及看到问题不止一面的能力，他们可以改变他人所持的观点。"
-msgstr ""
+msgstr "Aimés de ceux qui peuvent entrer dans leur cercle intime, les INFP protègent la paix émotionnelle des autres et réconfortent ceux qui sont sous pression. Guidés par leur désir d’harmonie, les INFP ont tendance à être raisonnables à moins que leurs valeurs morales ne soient violées. Ensuite, ils défendront passionnément leurs croyances. Par l’esprit, la stratégie et la capacité de voir plus d’un côté d’un problème, ils peuvent changer la perspective des autres."
 
 #: templates/mbti/personalities/infp.html:24
 msgid "INFP们通过自省发展这种洞察力，同时他们需要大量的时间独处，默想和处理新的信息。虽然他们面对复杂的问题可以十分耐心，但通常会对例行公事感到厌烦。虽然并不总是有所组织，INFP们对那些他们重视的事物总是一丝不苟。作为完美主义者，他们可能在完成任务的时候有麻烦，因为它无法达到他们的高标准。他们甚至可能在截至日期后重新回头做已完成的任务，这样他们就可以改进它了。"
 msgstr ""
+"Les INFP développent cette vision grâce à une réflexion interne, alors qu’ils ont besoin de beaucoup de temps pour être seuls, méditer et traiter de nouvelles informations. Bien qu’ils puissent être patients avec des problèmes complexes, ils sont souvent fatigués de la routine. Bien qu’ils ne soient pas toujours organisés, les INFP sont toujours méticuleux quant à ce qu’ils apprécient. En tant que perfectionnistes, ils peuvent avoir du mal à accomplir des tâches parce qu’ils ne peuvent pas répondre à leurs normes élevées. Ils peuvent même revenir à la tâche qu’ils ont terminée après la date limite afin de "
+"pouvoir l’améliorer."
 
 #: templates/mbti/personalities/infp.html:25
 msgid "INFP们是具有创造力的类型，通常在语言上有天赋。作为内倾者，他们可能更喜欢通过写作来表达自己。他们的情感主导让他们有交流的欲望，而第二功能的直觉则供给想象力。因为具备象征主义的才华，他们喜欢暗喻和明喻。他们不断寻求新的想法，对改变也适应得很好。他们喜欢在重视这些才华的环境里工作。因了他们个人的信仰，这环境同时还必须允许他们对世界作出积极的改变。"
 msgstr ""
+"Les INFP sont des types créatifs, souvent doués linguistiquement. En tant qu’introvertis, ils peuvent préférer s’exprimer par l’écriture. Leur domination émotionnelle leur donne le désir de communiquer, tandis que l’intuition de la deuxième fonction fournit de l’imagination. En raison de leur talent symbolique, ils aiment les métaphores et les métaphores. Ils sont constamment à la recherche de nouvelles idées et s’adaptent bien au changement. Ils aiment travailler dans un environnement qui valorise ces talents. En raison de leurs croyances personnelles, cet environnement doit également leur permettre "
+"d’apporter des changements positifs dans le monde."
 
 #: templates/mbti/personalities/infp.html:26
 msgid "综合描述"
-msgstr ""
+msgstr "Une description complète"
 
 #: templates/mbti/personalities/infp.html:27
 msgid "INFP内向，专注（I），偏好以一种抽象的，具有远见的和富有想象力的方式来观察周围的事物（N）。他们的决定是基于个人价值观的，主观的决定（F），不是为了控制他人，只是为了坚持自我。INFP的生活非常随意，灵活（P）。以上这些特征使INFP显得有一点传统，但他们很热情，也很亲切。通常，和INFP相处是很舒服的事。只有一种情况会使INFP反常，一旦感觉到自己所捍卫的价值观受到威胁，他们就会变得非常强硬。"
 msgstr ""
+"INFP introverti, concentré (I), préférant observer les choses autour (N) d’une manière abstraite, visionnaire et imaginative. Leurs décisions sont basées sur des valeurs personnelles, des décisions subjectives (F), non pas pour contrôler les autres, mais pour s’en tenir à eux-mêmes. La vie d’InFP est très décontractée et flexible (P). Ces caractéristiques font que l’INFP semble un peu traditionnel, mais ils sont chaleureux et gentils. Habituellement, il est confortable de s’entendre avec INFP. Il n’y a qu’une seule situation qui peut rendre l’INFP anormale, et une fois qu’ils se sentent menacés par les "
+"valeurs qu’ils défendent, ils deviennent très durs."
 
 #: templates/mbti/personalities/infp.html:28
 msgid ""
 "当INFP不承担团队的领导职责时，激励他们工作的因素是能在工作中找到个人的意义所在。当你工作力不从心，业绩较差时，你的INFP同事很可能无动于衷地作壁上观。他们最典型的想法就是：“各人做好自己分内的活。”但如果你有一个INFP上司，或你的工作与一个INFP的利益密切相关的话，他就会变得非常具有控制欲。就像其他知觉（P）类型一样，不到实际发生的那一刻，INFP不会察觉到你已对他产生影响；再加上INFP的内向，他们会尽量避免与别人发生直接冲突。这可能使双方都备感困惑：对你来说，被责备了却不知道是为什么，因为之前，他根本没有和你沟通过他的意见；而对INFP而言，甚至连他自己都会觉得自己的感觉和反应太过突然和激励了。人们常常会奇怪，像INFP这类随和"
 "的人怎么会突然变得这么强硬顽固，简直不像他们原来的性格，但是如果你理解了INFP的四个偏好，你就会明白其实这正符合他们的性格特征。"
 msgstr ""
+"Lorsque l’INFP n’assume pas de responsabilités de leadership pour l’équipe, la motivation de leur travail est de trouver un sens personnel au travail. Lorsque vous ne travaillez pas dur et que vous êtes mal performant, vos collègues de l’INFP sont susceptibles d’être indifférents. Leur idée la plus typique est : « Chaque personne doit faire sa propre part du travail. » « Mais si vous avez un patron de l’INFP, ou si votre travail est étroitement lié aux intérêts d’un INFP, il devient très contrôlant. » Comme d’autres types de perception (P), au moment où cela se produit réellement, inFP ne se rend pas compte "
+"que vous avez eu un impact sur lui; Cela peut confondre les deux côtés: pour vous, être blâmé mais ne pas savoir pourquoi, parce qu’il n’a pas communiqué son opinion avec vous auparavant, et pour INFP, même il sent que ses sentiments et ses réactions sont trop soudains et inspirants. Les gens se demandent souvent comment des gens faciles à prendre comme INFP peuvent soudainement devenir si durs et têtus qu’ils ne ressemblent pas à leur personnalité d’origine, mais si vous comprenez les quatre préférences d’inFP, vous comprendrez que c’est en fait conforme à leurs traits de personnalité."
 
 #: templates/mbti/personalities/infp.html:29
 msgid "通常，位居要职的INFP很少，能够做到CEO的就更罕见的。然而，一旦INFP成为非常高级的领导，他就总能使他的下属忠心耿耿。他善于兼顾任务的完成和团队成员的感受。作为INFP的下属，你可以自由发展，并得到很多肯定，也会有人倾听你的意见。只要你努力了，而且没有触及INFP的个人价值，即使失败，你的付出也会得到肯定和鼓励。因为INFP给人以诚恳尊重的感觉，大家轻易不会表达不同意见，所以团队中公开的冲突就会大大减少。"
 msgstr ""
+"En général, il y a très peu d’INFP dans les postes de direction, et il est encore plus rare de pouvoir être PDG. Cependant, une fois que l’INFP devient un très haut dirigeant, il peut toujours garder ses subordonnés loyaux. Il est doué pour jongler entre l’achèvement des tâches et les sentiments des membres de l’équipe. En tant que subordonné à l’INFP, vous êtes libre de vous développer, d’obtenir beaucoup d’affirmation et quelqu’un vous écoutera. Tant que vous travaillez dur et que vous ne touchez pas à la valeur personnelle de l’INFP, même si vous échouez, vos efforts seront reconnus et encouragés. Parce "
+"que l’INFP donne aux gens un sentiment de respect sincère, il est facile de ne pas exprimer d’opinions différentes, de sorte que le conflit ouvert de l’équipe sera considérablement réduit."
 
 #: templates/mbti/personalities/infp.html:30
 msgid "如果你冒犯了INFP的价值体系（请记住，不到事实非常明显的时候你根本不会知道这一点），要得到INFP的原谅非常困难，前提是如果他们还愿意原谅你的话。INFP“I”和“F”的一面又使他们在任何情况下都表现得满不在乎。INFP嘴里说着“没关系了”，“无所谓的”，而事实上要获得他们的原谅并不像表面上这么容易。如果一个EJ犯了错，道了歉，INFP就会给他一个典型的INFP式的回答“没关系了”，“无所谓的”。EJ天真地以为没事了，其实根本不是这样。"
 msgstr ""
+"Si vous offensez le système de valeurs de l’INFP (rappelez-vous, vous ne le saurez même pas lorsque les faits sont évidents), il est très difficile d’obtenir inexcusable de l’INFP, à condition qu’ils soient prêts à vous pardonner. Les côtés « I » et « F » de l’INFP les font paraître indifférents en aucune circonstance. L’INFP dit « ça n’a pas d’importance » et « ça n’a pas d’importance », alors qu’en fait il n’est pas aussi facile d’obtenir leur pardon qu’il n’y paraît. Si un EJ fait une erreur et s’excuse, l’INFP lui donnera une réponse typique de style INFP qui dit « ça n’a pas d’importance » et « ça n’a "
+"pas d’importance ». EJ pensait naïvement que tout allait bien, mais ce n’était pas le cas."
 
 #: templates/mbti/personalities/infp.html:31
 msgid "在美国，属于INFP类型的人并不多。从统计学来看，INFP中，女性多于男性。这时因为女性往往显示出对情感的偏好。INFP热衷于改善人们的生活而努力。比如反对酒后驾车，提倡妇女解放等，包括开发MBTI。如果你要寻找掌握大权的INFP，那么在类似这种性质的社会运动和社会组织中最容易找到了。"
-msgstr ""
+msgstr "Aux États-Unis, il n’y a pas beaucoup de gens dans la catégorie INFP. Statistiquement, il y a plus de femmes que d’hommes dans l’INFP. C’est parce que les femmes ont tendance à montrer une préférence pour l’émotion. L’INFP est passionné par l’amélioration de la vie des gens. Les exemples incluent l’opposition à la conduite en état d’ébriété et le plaidoyer pour l’émancipation des femmes, y compris le développement du MBTI. Si vous cherchez un INFP avec du pouvoir, il est plus facile à trouver dans les mouvements sociaux et les organisations sociales d’une nature comme celle-ci."
 
 #: templates/mbti/personalities/infp.html:32
 msgid "理想主义者，忠于自己的价值观及自己所重视的人。外在的生活与内在的价值观配合，有好奇心，很快看到事情的可能与否，能够加速对理念的实践。试图了解别人、协助别人发展潜能。适应力强，有弹性；如果和他们的 价值观没有抵触，往往能包容他人。"
-msgstr ""
+msgstr "Des idéalistes, des gens qui sont fidèles à leurs valeurs et à ce qu’ils apprécient. La vie extérieure et les valeurs intérieures de la combinaison de la curiosité, voir rapidement si les choses sont possibles ou non, peuvent accélérer la pratique des idées. Essayez de comprendre et d’aider les autres à développer leur potentiel. Adaptables et résilients, souvent accommodants s’ils ne sont pas en conflit avec leurs valeurs."
 
 #: templates/mbti/personalities/infp.html:33
 msgid ""
 "INFP把内在的和谐视为高于其他一切。他们敏感、理想化、忠诚，对于个人价值具有一种强烈的荣誉感。他们个人信仰坚定，有为自认为有价值的事业献身的精神。INFP型的人对于已知事物之外的可能性很感兴趣，精力集 中于他们的梦想和想象。他们思维开阔、有好奇心和洞察力，常常具有出色的长远眼光。在日常事务中，他们通常灵活多变、具有忍耐力和适应性，但是他们非常坚定地对待内心的忠诚，为自己设定了事实上几乎是不可能 的标准。INFP型的人具有许多使他们忙碌的理想和忠诚。他们十分坚定地完成自己所选择的事情，他们往往承担得太多，但不管怎样总要完成每件事。虽然对外部世界他们显得冷淡缄默，但INFP型的人很关心内在。他们富 有同情心、理解力，对于别人的情"
 "感很敏感。除了他们的价值观受到威胁外，他们总是避免冲突，没有兴趣强迫或支配别人。INFP型的人常常喜欢通过书写而不是口头来表达自己的感情。当INFP型的人劝说别人相信他们的 想法的重要性时，可能是最有说服力的。INFP很少显露强烈的感情，常常显得沉默而冷静。然而，一旦他们与你认识了，就会变得热情友好，但往往会避免肤浅的交往。他们珍视那些花费时间去思考目标与价值的人。"
 msgstr ""
+"L’INFP considère l’harmonie intérieure avant tout. Ils sont sensibles, idéalistes, loyaux et ont un fort sens de l’honneur pour leurs valeurs personnelles. Ils ont une foi personnelle forte et un dévouement à des causes qu’ils considèrent comme précieuses. Les personnes de type INFP s’intéressent à d’autres possibilités que ce qui est connu, en se concentrant sur leurs rêves et leur imagination. Ils sont ouverts d’esprit, curieux et perspicaces, et ont souvent d’excellentes visions à long terme. Dans leurs affaires quotidiennes, ils sont généralement flexibles, patients et adaptables, mais ils sont très "
+"déterminés à être fidèles à leur cœur et à se fixer des normes pratiquement impossibles. Les personnes de type INFP ont de nombreux idéaux et loyautés qui les tiennent occupés. Ils sont très déterminés à faire ce qu’ils choisissent, ils en prennent souvent trop, mais ils doivent tout faire de toute façon. Bien qu’ils semblent froidement silencieux sur le monde extérieur, les gens de type infP se soucient de l’intérieur. Ils sont compatissants, compréhensifs et sensibles aux émotions des autres. En dehors de la menace qui menace leurs valeurs, ils évitent toujours les conflits et n’ont aucun intérêt à forcer "
+"ou à dominer les autres. Les personnes de l’INFP préfèrent souvent exprimer leurs sentiments par l’écriture plutôt que par les mots. Lorsque les gens de type INFP convainquent les autres de l’importance de leurs idées, c’est probablement le plus persuasif. L’INFP révèle rarement des sentiments forts et semble souvent silencieux et calme. Cependant, une fois qu’ils apprennent à vous connaître, ils deviennent chaleureux et amicaux, mais ont tendance à éviter les interactions superficielles. Ils apprécient ceux qui passent du temps à réfléchir aux objectifs et aux valeurs."
 
 #: templates/mbti/personalities/infp.html:34
 msgid "工作特质"
-msgstr ""
+msgstr "Caractéristiques du travail"
 
 #: templates/mbti/personalities/infp.html:35
 msgid "作为INFP型人，职业满足意味着你做的这些工作："
-msgstr ""
+msgstr "En tant que type INFP, la satisfaction professionnelle signifie que vous faites ces travaux:"
 
 #: templates/mbti/personalities/infp.html:36
 msgid "1、我的工作与我个人的价值观和信仰相一致，同时允许我通过工作表达我的想象力。"
-msgstr ""
+msgstr "1. Mon travail est cohérent avec mes valeurs et croyances personnelles, tout en me permettant d’exprimer mon imagination à travers mon travail."
 
 #: templates/mbti/personalities/infp.html:37
 msgid "2、给我时间发展我的想法到相当深度，同时对这一思维过程以及思维产物操持控制权。"
-msgstr ""
+msgstr "2. me donner le temps de développer mes idées à une profondeur considérable, tandis que le processus de réflexion et les produits de réflexion contrôlent."
 
 #: templates/mbti/personalities/infp.html:38
 msgid "3、独立完成工作，有一个私人的工作空间以及大量不受干扰的时间，但必须有机会与我敬重的人交流一下观点。"
-msgstr ""
+msgstr "3. Faites votre travail de manière indépendante, ayez un espace de travail privé et beaucoup de temps libre, mais vous devez avoir l’occasion de partager vos points de vue avec des personnes que je respecte."
 
 #: templates/mbti/personalities/infp.html:39
 msgid "4、我的工作环境是一个灵活性强的组织机构，其中繁琐的规章制度减至最少限度，同时允许我有灵感时工作。"
-msgstr ""
+msgstr "4. Mon environnement de travail est une organisation flexible, où les règles et règlements encombrants sont minimisés tout en me permettant de travailler lorsque je suis inspiré."
 
 #: templates/mbti/personalities/infp.html:40
 msgid "5、我要在一个合作的环境中与别的有创造力的、讨人喜欢的人一起工作，且这个工作环境没有紧张的人际关系以及人际纠纷。"
-msgstr ""
+msgstr "5. Je veux travailler avec d’autres personnes créatives et sympathiques dans un environnement collaboratif, et cet environnement de travail est exempt de relations interpersonnelles stressantes et de conflits interpersonnels."
 
 #: templates/mbti/personalities/infp.html:41
 msgid "6、允许我表达我别出心裁的观点，而且在工作中个人的发展受到鼓励与夸奖。"
-msgstr ""
+msgstr "6. Permettez-moi d’exprimer mon point de vue unique, et le développement personnel au travail est encouragé et loué."
 
 #: templates/mbti/personalities/infp.html:42
 msgid "7、不要要求我经常在大群人面前介绍我的工作，或者在我的工作还没有完成至我满意之前让我与大家分享。"
-msgstr ""
+msgstr "7. Ne me demandez pas de présenter mon travail devant une foule nombreuse, ou laissez-moi le partager avec vous avant que mon travail ne soit terminé à ma satisfaction."
 
 #: templates/mbti/personalities/infp.html:43
 msgid "8、运我帮助别人成长、发展以及实现他们所有的潜能。"
-msgstr ""
+msgstr "8. Amenez-moi à aider les autres à grandir, à se développer et à réaliser tout leur potentiel."
 
 #: templates/mbti/personalities/infp.html:44
 msgid "9、我的工作包括理解别人以及发掘他们行为的动机，允许我发展与别人一对一的深厚关系。"
-msgstr ""
+msgstr "9. Mon travail consiste à comprendre les autres et à trouver des motivations pour leurs actions, ce qui me permet de développer des relations personnelles profondes avec les autres."
 
 #: templates/mbti/personalities/infp.html:45
 msgid "10、允许我为实现我的理想而工作，且工作上不要受到政治的、经济的或别的方面的障碍的限制。"
-msgstr ""
+msgstr "10. Permettez-moi de travailler pour mes idéaux sans être contraint par des obstacles politiques, économiques ou autres."
 
 #: templates/mbti/personalities/infp.html:46 templates/mbti/personalities/isfp.html:23
 msgid "对组织的贡献"
-msgstr ""
+msgstr "Contribution à l’organisation"
 
 #: templates/mbti/personalities/infp.html:47
 msgid "致力于为每个人在组织中找到一个位置；其理想很具有说服力；为了共同的目的将人们聚拢在一起；能够为组织发现新的机会和发展的可能性。"
-msgstr ""
+msgstr "Engagé à trouver une place dans l’organisation pour tout le monde, des idéaux persuasifs, à rassembler les gens dans un but commun et à être en mesure d’identifier de nouvelles opportunités et possibilités de développement pour l’organisation."
 
 #: templates/mbti/personalities/infp.html:48 templates/mbti/personalities/isfp.html:25 templates/mbti/personalities/istj.html:83
 msgid "领导风格"
-msgstr ""
+msgstr "Style de leadership"
 
 #: templates/mbti/personalities/infp.html:49
 msgid "采用推动促进的方式进行领导；宁愿扮演独特的、非常规性的领导角色；强调工作进展的可能性，能够为了长远目标而独立地工作；更乐于赞赏别人而非指责和批评；鼓励他人照自己的理想行动。"
-msgstr ""
+msgstr "Diriger de manière promotionnelle, préférer jouer un rôle de leadership unique et non conventionnel, mettre l’accent sur la possibilité de progrès et être capable de travailler de manière indépendante pour des objectifs à long terme, être plus disposé à apprécier les autres que le blâme et la critique, et encourager les autres à agir comme ils le souhaitent."
 
 #: templates/mbti/personalities/infp.html:50
 msgid "工作潜在缺陷"
-msgstr ""
+msgstr "Défauts potentiels dans le travail"
 
 #: templates/mbti/personalities/infp.html:51
 msgid "由于追求完美主义，可能会拖延工作任务；同时取悦于太多的人；固执地不按照逻辑和事实调整自己的看法；花费太多的时间反复琢磨而不采取行动。"
-msgstr ""
+msgstr "La poursuite du perfectionnisme peut retarder les tâches de travail, plaire à trop de gens, s’obstacer à ne pas ajuster leurs points de vue à la logique et aux faits, et passer trop de temps à réfléchir et à ne pas agir."
 
 #: templates/mbti/personalities/infp.html:53
 msgid "需要学会现实地工作而不光是追求完美；需要发展其坚韧、讲究实际和说“不”的自觉行动；需要更加强调和重视事实和逻辑；需要发展和实施行动计划。设定切合实际的期望值；重视让步；不要太主观地看待问题。"
-msgstr ""
+msgstr "Il est nécessaire d’apprendre à travailler de manière réaliste plutôt que de simplement rechercher la perfection, de développer sa ténacité, sa praticité et son action consciente de soi pour dire « non », de mettre davantage l’accent sur les faits et la logique, et d’élaborer et de mettre en œuvre des plans d’action. Établissez des attentes réalistes, valorisez les concessions et ne regardez pas le problème de manière trop subjective."
 
 #: templates/mbti/personalities/infp.html:55
 msgid "创造性职业/艺术"
-msgstr ""
+msgstr "Carrière créative/art"
 
 #: templates/mbti/personalities/infp.html:55
 msgid "艺术家、诗人/小说作家、记者、娱乐人士、建筑师、演员、编辑、音乐家、信息制图设计师、编辑/艺术指导（杂志）、插画画家/漫画家"
-msgstr ""
+msgstr "Artiste, poète/écrivain de fiction, journaliste, artiste, architecte, acteur, éditeur, musicien, infographiste, éditeur/directeur artistique (magazine), illustrateur/dessinateur"
 
 #: templates/mbti/personalities/infp.html:56
 msgid "INFP型人为艺术所吸引是由于他们有能力以富于创造的个人方式来表达他们自己和他们的想法。以艺术为工作具有个人的自由和灵活性，这是INFP型人信奉的生活方式。无论是写文章、画画还是用其他手段来工作，无论是进行设计还是作为演员或音乐家运用他们自己的身体而工作，INFP型人都力求创造独到的成果，这是他们心声的真实表现。许多INFP型人把自己描述为“内心深沉”的艺术家，即使他们并不以艺术为生。一些 INFP型人甚至会说，作艺术家并不是他们做出的选择，而是他们必须背负的十字架。"
 msgstr ""
+"Les gens de l’INFP sont attirés par l’art en raison de leur capacité à s’exprimer et à exprimer leurs idées de manière créative et personnelle. Travailler avec l’art a la liberté et la flexibilité individuelles, un style de vie adopté par les gens de l’INFP. Qu’il s’agisse d’écrire, de dessiner ou de travailler par d’autres moyens, qu’il s’agisse de concevoir ou de travailler en tant qu’acteurs ou musiciens utilisant leur propre corps, les personnes de l’INFP s’efforcent de créer des résultats uniques qui sont une véritable expression de leurs voix. Beaucoup de gens de l’INFP se décrivent comme des artistes "
+"« au cœur profond », même s’ils ne vivent pas de l’art. Certains INFP peuvent même dire qu’être artiste n’est pas un choix qu’ils font, mais une croix qu’ils doivent porter."
 
 #: templates/mbti/personalities/infp.html:57
 msgid "教育/咨询职业"
-msgstr ""
+msgstr "Carrières en éducation et en consultation"
 
 #: templates/mbti/personalities/infp.html:57
 msgid "人文/艺术大学教授、调研员、心理学家、顾问、社会工作者、图书管理员、教育顾问、特殊教育老师、双语种教育老师、儿童早期教育老师、雇员帮助顾问、儿童福利顾问、酒精和毒品禁戒顾问、翻译/口译、法律调停人、社会工作者（老年人和儿童日常护理问题）"
-msgstr ""
+msgstr "Professeurs, chercheurs, psychologues, consultants, travailleurs sociaux, bibliothécaires, consultants en éducation, enseignants en éducation de l’enfance, enseignants en éducation de l’enfance, enseignants bilingues, enseignants en éducation de la petite enfance, conseillers en aide aux employés, conseillers en protection de l’enfance, conseillers en prohibition de l’alcool et des drogues, traducteurs/interprètes, médiateurs juridiques, travailleurs sociaux (questions relatives aux personnes âgées et aux garderies)"
 
 #: templates/mbti/personalities/infp.html:58
 msgid "教育和咨询行业都是可以使INFP型人为帮助他人成长和发掘人性潜能而工作的领域。INFP型人为改善他人生活质量的愿望和努力的确非常崇高。他们更喜欢大学，而不是小学或中学，因为大学里来自学生们的动力更强大。他们喜欢学习的过程，喜欢做为调查员或图书管理员来探求更深刻而更有意义的理解。INFP型人是富于同情心而具洞察力的顾问，心理学家，以及社会工作者，力求帮助他们的客户在自己的社会关系和生活范围里获得自我理解和和谐。作为顾问，他们高兴的是，在理解他人的时候他们也逐渐理解了自己。"
 msgstr ""
+"L’éducation et le conseil sont des domaines où les personnes de l’INFP peuvent travailler pour aider les autres à grandir et à réaliser leur potentiel humain. Le désir et les efforts de l’INFP pour améliorer la qualité de vie des autres sont en effet très nobles. Ils préfèrent le collège à l’école primaire ou secondaire, où les étudiants sont plus motivés. Ils aiment le processus d’apprentissage et, en tant que chercheurs ou bibliothécaires, trouver une compréhension plus profonde et plus significative. Les personnes DE L’INFP sont des consultants, des psychologues et des travailleurs sociaux compatissants "
+"et perspicaces qui cherchent à aider leurs clients à acquérir une compréhension de soi et une harmonie dans leurs relations sociales et leur vie. En tant que consultants, ils sont heureux d’en venir à se comprendre eux-mêmes lorsqu’ils comprennent les autres."
 
 #: templates/mbti/personalities/infp.html:59
 msgid "宗教职业"
-msgstr ""
+msgstr "Occupation religieuse"
 
 #: templates/mbti/personalities/infp.html:59
 msgid "牧师、宗教教育工作者、传教士、教堂工作人员"
-msgstr ""
+msgstr "Prêtres, éducateurs religieux, missionnaires, travailleurs d’église"
 
 #: templates/mbti/personalities/infp.html:60
 msgid "对于许多INFP型人，献身宗教事业是很值得的。他们乐于帮助人们发展精神世界，在为自己和他人的梦想奋斗并得以实现的过程中他们深感快乐。他们往往喜欢一个对一个的交流，但随着经历增多，他们也渐渐乐于传道和做报告了。对于INFP型人，最根本的地方在于从事与他们内心价值观念和信仰一致的工作，往往宗教领域的职业可以满足这一点。"
-msgstr ""
+msgstr "Pour de nombreux INFP, cela vaut la peine de se consacrer à la cause de la religion. Ils sont heureux d’aider les gens à développer le monde spirituel et sont heureux de se battre et de réaliser leurs rêves et ceux des autres. Ils ont tendance à aimer la communication en tête-à-tête, mais à mesure que les expériences augmentent, ils deviennent plus disposés à prêcher et à rendre compte. Pour les personnes de l’INFP, la chose la plus fondamentale est de travailler d’une manière cohérente avec leurs valeurs et croyances intérieures, souvent dans un domaine religieux."
 
 #: templates/mbti/personalities/infp.html:61
 msgid "医疗保健"
-msgstr ""
+msgstr "Soins de santé"
 
 #: templates/mbti/personalities/infp.html:61
 msgid "饮食学家/营养学家、理疗医生、家庭健康社会工作者、职业治疗医生、按摩专家、全面健康医生、语言病理学家/听觉病理学家、验光师/配镜师"
-msgstr ""
+msgstr "Diététiste/nutritionniste, physiothérapeute, travailleur social en santé familiale, ergothérapeute, spécialiste du massage, médecin généraliste, pathologiste du langage/vérificateur, optométriste/opticien"
 
 #: templates/mbti/personalities/infp.html:62
 msgid "保健领域吸引INFP型人的方面在于，它能够让他们对客户或病人进行亲切而亲密的工作。INFP型人一般都会喜欢这样的职业给予他们的自主性，他们可以自己开业，或者作一家大型健康护理机构的顾问。理疗、全身治疗以及按摩的诊断治疗工作具有创造性和精神因素，这些都令人满意，它们运用了INFP型人的直觉和情感倾向。"
 msgstr ""
+"Le domaine des soins de santé qui attire les personnes de type INFP est qu’il leur permet de travailler intimement et intimement avec leurs clients ou patients. Les personnes de l’INFP préfèrent généralement l’autonomie qui leur est donnée par une telle profession, et elles peuvent créer leur propre entreprise ou travailler comme consultants pour un grand établissement de soins de santé. Les éléments créatifs et spirituels de la physiothérapie, de la thérapie systémique et de la massothérapie diagnostique sont satisfaisants et utilisent l’intuition et les tendances émotionnelles des personnes de type INFP."
 
 #: templates/mbti/personalities/infp.html:64
 msgid ""
 "INFP始终以一种平静快乐的姿态出现在世人面前。他们待人平静和蔼，不带过多的诉求。事实上，INFP的内心世界是十分复杂的。在人际交往的过程中，这种复杂会让他们表现出比其他性格类型人群更多的爱与关怀。INFP不是对任何人都会表现出这种关爱，而且在内部情感表达上他们也趋于保守。他们内心深处的这种爱与关怀只会对少数几个于他们关系至亲的人面前展现出来。INFP们通常在与他们的密友交往过程中，常会表现出惬意、支持和帮助的态度。由于内向感受在其性格中起到了主导作用，他们对于别人的感受非常的敏感准确，并会对他人的感受表现出诚挚的关注和呵护。要他们信任他人是一个漫长的过程，他们在感情的初期会显得十分小心谨慎，但是一旦认真的进入一段感情之"
 "后，他们会表现出绝对的忠诚。由于他们内在的坚定核心价值，他们十分重视自己感情中的深度与真诚度。对于那些能够理解和接受他们的观点的人，INFP会表现出极大的推崇。INFP在多数情况下会表现出很强的适应性和同质性，但是如果对方的观点与自己的核心价值发生冲突的时候，他们会收起温和的态度，转而成为自己核心价值坚强的守护者。在这种情况下，他们会变得异常地严厉和苛刻。"
 msgstr ""
+"L’INFP est toujours apparu devant le monde d’une manière calme et heureuse. Ils sont calmes et gentils, sans trop d’exigences. En fait, le monde intérieur de l’INFP est très complexe. Cette complexité dans la communication interpersonnelle leur permet de montrer plus d’amour et d’attention que les autres types de personnalité. INFP ne montre ce genre de soin à personne, et ils ont tendance à être conservateurs dans leur expression émotionnelle interne. Cet amour et cette attention au plus profond de leur cœur ne se manifesteront qu’aux quelques personnes qui sont proches d’eux. Les INFP font souvent preuve "
+"d’une attitude agréable, solidaire et serviable lorsqu’ils traitent avec leurs amis proches. Parce que les sentiments introvertis jouent un rôle de premier plan dans leur personnalité, ils sont très sensibles et précis aux sentiments des autres, et montreront une préoccupation sincère et un soin pour les sentiments des autres. C’est un long processus de faire confiance aux autres, et ils seront très prudents au début de leur relation, mais une fois qu’ils sont sérieux au sujet d’entrer dans une relation, ils feront preuve d’une loyauté absolue. En raison de leurs valeurs fondamentales fermes inhérentes, ils "
+"attachent une grande importance à la profondeur et à la sincérité de leurs sentiments. Pour ceux qui comprennent et acceptent leurs points de vue, l’INFP montrera une grande admiration. Les INFP sont très adaptables et homogènes dans la plupart des cas, mais si les points de vue de l’autre partie entrent en conflit avec leurs valeurs fondamentales, ils adoptent une attitude modérée et deviendront de solides gardiens de leurs valeurs fondamentales. Dans ce cas, ils deviennent inhabituellement durs et durs."
 
 #: templates/mbti/personalities/infp.html:65
 msgid "多数INFP在情感问题上会显出如下优点，对他人热情的关心及呵护，能积极感知他人的感受，忠诚专一，他们希望将关系维系终生，擅长关爱及呵护，努力寻求双赢的局面，扶住他人，鼓舞人心，能够认清并尊重他人对空间的需要，能够很好地表达自己 能屈能伸，性格多样"
-msgstr ""
+msgstr "La plupart des INFP montreront les avantages suivants dans les questions émotionnelles, les soins chaleureux et les soins aux autres, peuvent percevoir positivement les sentiments des autres, la loyauté, ils espèrent maintenir la relation pour la vie, bon à l’amour et aux soins, et s’efforcent de rechercher une situation gagnant-gagnant, soutenir les autres, inspirant, capable de reconnaître et de respecter les besoins des autres pour l’espace, peut être une bonne expression de leur capacité à étirer, personnalité diversifiée"
 
 #: templates/mbti/personalities/infp.html:66
 msgid "同时INFP也趋于内向保守，不希望别人侵占他们的私人空间，极度厌恶矛盾，极度厌恶批评，对于表扬和正面评价有着极强的需要，在压力情境下会感情用事，在感情失败之后，很难走出阴影，很难批评或惩罚他人，在情感表达上十分保守，完美主义倾向让他们对自己缺乏足够的信任，遇到问题容易自责，凡事喜欢一肩挑。"
 msgstr ""
+"Dans le même temps, l’INFP a également tendance à être introverti conservateur, ne veut pas que les autres empiètent sur leur espace privé, extrêmement opposé aux contradictions, extrêmement opposé à la critique, car les éloges et l’évaluation positive ont un fort besoin, dans la situation de pression sera émotionnelle, après l’échec émotionnel, il est difficile de sortir de l’ombre, il est difficile de critiquer ou de punir les autres, dans l’expression émotionnelle est très conservatrice, les tendances perfectionnistes les laissent manquer de confiance suffisante en eux-mêmes, rencontrer des problèmes "
+"faciles à blâmer eux-mêmes, tout comme à épauler."
 
 #: templates/mbti/personalities/infp.html:67
 msgid "INFP们对于自己的爱人有着极强的忠诚心和责任感。由于性格中的感知主导，和谐温暖的感受对INFP们显得十分重要。他们对于负责关爱的感情有着自己的需要。如果他们的感情中没有这些元素，那么他们只有两种选择，积极寻找这种感情或者就用幻想来麻痹自己的这种需要。"
-msgstr ""
+msgstr "Les INFP ont un fort sentiment de loyauté et de responsabilité envers leurs proches. En raison de la perception de la personnalité, les sentiments harmonieux et chaleureux sont très importants pour l’INFP. Ils ont leurs propres besoins pour le sentiment d’être responsables de la bienveillance. S’ils n’ont pas ces éléments dans leur relation, ils n’ont que deux options, le rechercher activement ou paralyser leur besoin avec de la fantaisie."
 
 #: templates/mbti/personalities/infp.html:68
 msgid "INFP们的理想主义和浪漫主义情怀常常让他们对感情或情境有一种“完美情结”。他们也会用将他们的爱侣浪漫化，使之拥有自己所不具有的特质。多数INFP都会有这样一个问题：他们很难降低他们对现实生活那些不切实际的浪漫态度。正因为这样，所以他们总是对自己和他们的朋友表现出阴晴不定的态度。然而，INFP对他们爱侣的真挚热爱以及他们对于矛盾的极度厌恶让他们不得不表现出对于感情的忠诚，但是他们的脑海可能会久久得不到平静。"
 msgstr ""
+"L’idéalisme et le romantisme de l’INFP leur donnent souvent un « complexe parfait » de sentiments ou de situations. Ils ont également l’usage de romancer leurs amants pour avoir des qualités qu’ils n’ont pas. La plupart des INFP ont un problème : il est difficile de réduire leurs attitudes romantiques irréalistes à la vie réelle. Pour cette raison, ils montrent toujours une attitude trouble envers eux-mêmes et leurs amis. Cependant, l’amour sincère de l’INFP pour leurs proches et leur profonde aversion pour les contradictions les obligent à faire preuve de loyauté envers leurs sentiments, mais leur esprit "
+"peut ne pas être calme pendant longtemps."
 
 #: templates/mbti/personalities/infp.html:69
 msgid "与那些对爱人充满敬意的性格类型不同，INFP的这种尊重往往不会在感情中出现变质的情况。INFP们对于自己的想法会贯彻到底，努力实现尊重爱人这个大目标。这样做的结果通常是，INFP对其爱侣表现出认同，骄傲和关爱这些情愫，而这一切都是经得起时间的考验的。"
-msgstr ""
+msgstr "Contrairement au type de personnalité qui rend hommage à un être cher, le respect d’inFP ne se détériore souvent pas dans l’émotion. Les INFP donneront suite à leurs idées et s’efforceront d’atteindre le grand objectif de respecter leurs proches. Le résultat est généralement que l’INFP fait preuve de reconnaissance, de fierté et d’amour pour ses partenaires, qui résistent tous à l’épreuve du temps."
 
 #: templates/mbti/personalities/infp.html:70
 msgid ""
 "INFP对于管理类事物（像付账单及清理家居之类的）通常没有什么兴趣，但是如果必须要他们完成的话，他们会完成得十分出色。只要他们用心，他们绝对是理财方面的一把好手。INFP的一个大问题就是他们对矛盾和批评的极度厌恶。INFP会迅速找出批评性言论中对方的个人观点，无论这种批评中是否真正包含个人因素。他们将各种批评都视为对他们性格的一种攻击，在这种情况下，他们通常会变得失去理性并为个人情感所支配。这在INFP与思考和判断型的人交往过程中会成为一个很大的问题。这种“思辨者”在考量问题时会采取一种客观坚决的态度，而这种态度常会为他们的言论带来一个观点。如果这个观点带有负面性，那么“思辨者”的态度很可能会对INFP构成威胁。这种情况下，INFP会"
 "给予感性的回复，并将这种负面态度视为对自身性格的一种抨击。"
 msgstr ""
+"Les INFP ne sont généralement pas intéressés à gérer des choses comme payer des factures et nettoyer leurs maisons, mais ils font un excellent travail s’ils le doivent. Tant qu’ils sont prudents, ils sont définitivement un bon acteur financier. L’un des gros problèmes des INFP est leur profonde aversion pour les contradictions et les critiques. L’INFP est prompt à identifier les opinions personnelles de l’autre personne dans des déclarations critiques, qu’elles incluent ou non des facteurs personnels. Ils voient la critique comme une attaque contre leur caractère, auquel cas ils deviennent souvent "
+"irrationnels et dominés par des émotions personnelles. Cela peut être un gros problème dans les interactions de l’INFP avec les personnes qui pensent et jugent. Ce « penseur » adopte une attitude objective et résolue lorsqu’il examine les enjeux, ce qui conduit souvent à un point de vue pour ses remarques. Si ce point de vue est négatif, alors l’attitude du « penseur » est susceptible de constituer une menace pour l’INFP. Dans ce cas, l’INFP donne une réponse émotionnelle et voit cette attitude négative comme une attaque contre son propre caractère."
 
 #: templates/mbti/personalities/infp.html:71
 msgid "对于那些感知官能主导十分严重的INFP来说，如果他们缺乏成熟的直觉官能来帮助他们获取做出决策所需足够的信息，那么他们对矛盾和批评的反感会成为他们亲密关系中的一个重大隐患。在矛盾情境中，这些INFP们的反应会带上极为强烈的情感压力色彩，这常会让他们表现出不知所措的状态。由于他们缺乏寻找措施的基础，他们可能会采取任何可能的方式来摆脱这种矛盾，这么做通常意味着对他人缺乏理性的攻击，或者利用一些罪恶的手段来迫使自己的伴侣为他们提供需要的支持。这种行为对于健康持久的情感会产生极为负面的影响。"
 msgstr ""
+"Pour les INFP dont les perceptions sont très dominantes, leur antipathie aux contradictions et aux critiques peut être une préoccupation majeure dans leur intimité s’ils n’ont pas les compétences intuitives matures pour les aider à obtenir les informations dont ils ont besoin pour prendre des décisions. Dans des situations contradictoires, ces INFP réagissent avec un stress émotionnel extrêmement fort, ce qui les laisse souvent perdus. Parce qu’ils n’ont pas la base pour trouver une issue, ils peuvent prendre tous les moyens possibles pour se débarrasser de cette contradiction, ce qui signifie souvent une "
+"attaque irrationnelle contre les autres ou l’utilisation de moyens criminels pour forcer leurs partenaires à leur fournir le soutien dont ils ont besoin. Ce comportement peut avoir un impact très négatif sur les émotions saines et durables."
 
 #: templates/mbti/personalities/infp.html:72
 msgid "如果他们能认清自己的这种趋势，他们就能更为客观的认识他人的批评。他们也应该记住，矛盾情境的产生不一定都是他们的问题，而且就算这种局面产生了也绝对不是世界末日。矛盾只是生活的一个组成部分，及时正视并解决这种矛盾能让你在萌芽状态就将这种问题解决，以免将来受其拖累。"
-msgstr ""
+msgstr "S’ils peuvent reconnaître cette tendance, ils peuvent être plus objectifs sur les critiques des autres. Ils doivent également se rappeler que les situations conflictuelles ne sont pas nécessairement leur problème, et que même si elles surviennent, ce n’est en aucun cas la fin du monde. Les contradictions ne font partie intégrante de la vie, et y faire face en temps opportun vous permet de les résoudre dans votre enfance, de peur d’être accablé par elles à l’avenir."
 
 #: templates/mbti/personalities/infp.html:73
 msgid "INFP对于自己和他人的私密空间有着明晰的认识。他们非常重视自己的个人空间以及能够做自己事情的自由。他们很珍视那些能认清INFP本质，并尊重他们独特风格和观点的伴侣。同时他们对于对方的隐私和独立也会给予足够的尊重，事实上，INFP不仅会对对方的观点或目标表示尊重，他们还会不遗余力地为对方提供支持。"
-msgstr ""
+msgstr "L’INFP a une compréhension claire de la vie privée d’elle-même et des autres. Ils apprécient leur espace personnel et la liberté de faire leur propre chose. Ils apprécient les partenaires qui reconnaissent la nature de l’INFP et respectent leur style et leur perspective uniques. En même temps, ils accorderont suffisamment de respect à la vie privée et à l’indépendance de chacun, en fait, INFP ne respectera pas seulement les points de vue ou les objectifs de chacun, ils ne ménageront aucun effort pour se soutenir mutuellement."
 
 #: templates/mbti/personalities/infp.html:74
 msgid "总得来说，INFP们在爱情中时刻传达着温暖的关怀和爱意，他们将感情的健康性视为生活中的重心。尽管在刚开始的接触中，他们会表现出小心谨慎的试探状态，但是经过一段时间之后他们对爱情的忠贞不渝就会显露无疑，而这常能够持续一生。他们对待感情的态度十分认真，并会为感情的成功倾注大量的精力。"
-msgstr ""
+msgstr "En général, les INFP transmettent des soins chaleureux et de l’amour en amour, et ils voient la santé émotionnelle comme le centre de gravité de leur vie. Bien qu’ils montreront un état de prudence dans leur contact initial, leur loyauté à l’amour sera évidente au fil du temps, et cela durera souvent toute une vie. Ils prennent leurs sentiments très au sérieux et consacrent beaucoup d’énergie au succès de leurs sentiments."
 
 #: templates/mbti/personalities/infp.html:75
 msgid "恋爱类型"
-msgstr ""
+msgstr "Le type d’amour"
 
 #: templates/mbti/personalities/infp.html:76
 msgid "许多研究发现，一个男性哲学家型（INFP）最有可能和他的镜子影像结婚：也就是娶一个女性哲学家型。同时，研究也指出不管是男性或女性哲学家型，最快乐的事就是和同一种恋爱类型的人结婚。与哲学家型的人结婚的哲学家型，比起与其他任何一种恋爱类型结婚的哲学家型，都显现出最小的冲突。"
-msgstr ""
+msgstr "De nombreuses études ont montré qu’un philosophe masculin (INFP) est le plus susceptible d’épouser son image miroir: c’est-à-dire d’épouser une femme philosophe. Dans le même temps, l’étude souligne également que, qu’il s’agisse de philosophes masculins ou féminins, le plus heureux est d’épouser le même type d’amour. Le type de mariage philosophe avec un philosophe est le moins conflictuel que celui de tout autre type de philosophe."
 
 #: templates/mbti/personalities/infp.html:77
 msgid "女性哲学家型"
-msgstr ""
+msgstr "Type de philosophe féminine"
 
 #: templates/mbti/personalities/infp.html:77
 msgid "你与哲学家型的另一半在一起会很快乐，同时，也可以与作家型(INFJ)、教育家型(ENFJ)或记者型(ENFP)处得很好。由于教育家型和记者型拥有外向的特质，他们可以引导出你社会化的一面，也可平衡你原本内向的特性。"
-msgstr ""
+msgstr "Vous serez heureux avec l’autre moitié de votre philosophe, et vous pourrez bien vous entendre avec l’écrivain (INFJ), l’éducateur (ENFJ) ou le journaliste (ENFP). Parce que les éducateurs et les journalistes ont des traits extravertis, ils peuvent vous guider vers le côté social et équilibrer vos caractéristiques introverties d’origine."
 
 #: templates/mbti/personalities/infp.html:78
 msgid "男性哲学家型"
-msgstr ""
+msgstr "Type philosophe masculin"
 
 #: templates/mbti/personalities/infp.html:78
 msgid "你最好的伴侣是女性哲学家型或是女性作家型(INFJ)。女性作家型是一个有智慧、并具有反省能力的女性，她可以提供予你未来成功所需之要件。有一项警告：请确定她在果断(J)偏向上不是太强烈；否则，她对你的随兴作风也许会大有批评。"
-msgstr ""
+msgstr "Votre meilleure compagne est une femme philosophe ou une écrivaine (INFJ). Une femme écrivaine est une femme sage et réfléchie qui peut vous fournir l’essentiel dont vous avez besoin pour réussir à l’avenir. Une mise en garde: Assurez-vous qu’elle n’est pas trop agressive dans son parti pris décisif (J);"
 
 #: templates/mbti/personalities/infp.html:79
 msgid "有趣细节"
-msgstr ""
+msgstr "Détails intéressants"
 
 #: templates/mbti/personalities/infp.html:80
 msgid "具有的性格特征包括：艺术的，深沉的，粗心的，敏感的，灵活的，善于欣赏的。"
-msgstr ""
+msgstr "Les caractéristiques de la personnalité comprennent: artistique, profond, négligent, sensible, flexible, bon à apprécier."
 
 #: templates/mbti/personalities/infp.html:81
 msgid "在所有类型中最不可能得心脏方面的疾病。"
-msgstr ""
+msgstr "Le moins susceptible de tous les types d’avoir une maladie cardiaque."
 
 #: templates/mbti/personalities/infp.html:82
 msgid "男性最不可能反映慢性疼痛。"
-msgstr ""
+msgstr "Les hommes sont les moins susceptibles de signaler une douleur chronique."
 
 #: templates/mbti/personalities/infp.html:83
 msgid "在所有类型中，具有第二高的婚姻不满意率。"
-msgstr ""
+msgstr "De tous les types, il y avait le deuxième taux plus élevé d’insatisfaction conjugale."
 
 #: templates/mbti/personalities/infp.html:84
 msgid "在所有人中最有可能在大学期间产生自杀意向。"
-msgstr ""
+msgstr "Parmi toutes les personnes, les tentatives de suicide sont les plus susceptibles de se produire pendant le collège."
 
 #: templates/mbti/personalities/infp.html:85
 msgid "在学习一门外语时比大部分人更容易成功。"
-msgstr ""
+msgstr "Il est plus facile que la plupart des gens de réussir à apprendre une langue étrangère."
 
 #: templates/mbti/personalities/infp.html:86
 msgid "在所有的类型中，最容易对自己的工作不满意。"
-msgstr ""
+msgstr "De tous les types, il est le plus susceptible d’être insatisfait de votre travail."
 
 #: templates/mbti/personalities/infp.html:87
 msgid "个人价值观包括强调自主权与创造性。"
-msgstr ""
+msgstr "Les valeurs personnelles mettent l’accent sur l’autonomie et la créativité."
 
 #: templates/mbti/personalities/infp.html:88
 msgid "在写作，顾问，艺术等职业领域有着超出平均的杰出代表率。"
-msgstr ""
+msgstr "Dans la rédaction, le conseil, l’art et d’autres domaines professionnels ont une représentation exceptionnelle plus que la moyenne."
 
 #: templates/mbti/personalities/intj.html:5
 msgid "专家（策略家）型人格"
-msgstr ""
+msgstr "Personnalité d’expert (stratège)"
 
 #: templates/mbti/personalities/intj.html:9
 msgid "INTJ型的人是完美主义者。他们强烈地要求个人自由和能力，同时在他们独创的思想中，不可动摇的信仰促使他们达到目标。 INTJ型的人思维严谨、有逻辑性、足智多谋，他们能够看到新计划实行后的结果和生活中转变为真实物质的理论体系。他们对自己和别人都很苛求，往往几乎同样强硬地逼迫别人和自己。他们并不十分受冷漠与批评的干扰，作为所有性格类型中最独立的，INTJ型的人更喜欢以自己的方式行事。面对相反意见，他们通常持怀疑态度，十分坚定和坚决。"
 msgstr ""
+"Les gens d’InTJ sont perfectionnistes. Ils exigent fortement la liberté et la capacité individuelles, et dans leurs idées originales, des croyances inébranlables les poussent à atteindre leurs objectifs. Les gens de type INTJ pensent rigoureusement, logiquement, ingénieusement, ils peuvent voir les résultats du nouveau plan et de la vie dans un véritable système théorique matériel. Ils sont très exigeants envers eux-mêmes et les autres, et poussent souvent les autres et eux-mêmes presque aussi fort qu’eux. Ils ne sont pas très perturbés par l’indifférence et la critique, et en tant que plus indépendants de "
+"tous les types de personnalité, les personnes de type INTJ préfèrent agir à leur manière. Face aux opinions opposées, ils sont généralement sceptiques, fermes et résolus."
 
 #: templates/mbti/personalities/intj.html:11
 #, python-format
 msgid "INTJ（内倾/直觉/思考/判断）是迈尔斯·布里格斯性格分类法中十六种人格类型之一，在柯尔塞气质类型测试中被称为策划者(Mastermind)，属于理性者的四种类型之一。INTJ是十六种类型中最稀有的类型之一，所占的人口比例仅仅只有1%%。"
-msgstr ""
+msgstr "INTJ (introverti / intuition / pensée / jugement) est l’un des seize types de personnalité dans la classification de la personnalité de Miles Briggs, connu sous le nom de Mastermind dans le test de type tempérament Colse, et est l’un des quatre types de rationnel. INTJ est l’un des 16 types les plus rares des 16, ne représentant que 1%% de la population."
 
 #: templates/mbti/personalities/intj.html:12
 msgid "INTJ人群是完美主义者，他们看似有着永无止境的能力去改善任何他们感兴趣的事物。与理想主义者截然不同，INTJ们通过实事求是的实用主义理念与行动来追求完美的结果。"
-msgstr ""
+msgstr "La foule de l’INTJ est des perfectionnistes qui semblent avoir une capacité sans fin à améliorer tout ce qui les intéresse. Contrairement aux idéalistes, les INTJ recherchent des résultats parfaits par le pragmatisme pragmatique et l’action."
 
 #: templates/mbti/personalities/intj.html:13
 msgid "INTJ这类型的人群被誉为系统的建设者，可能部分因为他们拥有不寻常的集合虚幻性和确定性的显著特点。无论在何种体系下工作，对INTJ人群来说在思想中是一样的，只因为他们是拥有INTJ性格的人群。完美主义并且藐视权威可能会在现实生活中体现，所以对INTJ人群来说他们可以在一个项目中对自己和他人毫不留情。任何松懈的人，包括上司，将会失去INTJ人群对他们的尊敬——并且通常INTJ人群会让他们意识到这一点。经常表现出自我的另一面。因为isfp型的人不喜欢直接地自我表达，所以常常被误解。"
 msgstr ""
+"InTJ ce type de foule est connu comme le constructeur du système, peut-être en partie à cause de leurs caractéristiques distinctives d’irréalité et de certitude inhabituelles. Quel que soit le système sous lequel vous travaillez, la foule INTJ est la même en pensée, simplement parce que ce sont eux qui ont le caractère INTJ. Le perfectionnisme et le mépris de l’autorité peuvent se manifester dans la vie réelle, de sorte que dans la foule de l’INTJ, ils ne peuvent montrer aucune pitié pour eux-mêmes et les autres dans un projet. Quiconque se détend, y compris son patron, perdra le respect de la foule de "
+"l’INTJ - et généralement la foule de l’INTJ lui en fera prendre conscience. Montrez souvent l’autre côté de vous-même. Parce que les gens isfp n’aiment pas s’exprimer directement, ils sont souvent mal compris."
 
 #: templates/mbti/personalities/intj.html:14
 msgid "INTJ人群也是可以作出重大决定而不需询问他们的上司或同事的人群。另一个方面，他们能够小心谨慎公平地将一个项目中的个人贡献分清。他们天生具有抓住机遇的天赋，而有些机遇甚至其他人都没有注意到。"
-msgstr ""
+msgstr "Les gens d’InTJ sont aussi des gens qui peuvent prendre de grandes décisions sans avoir à demander à leur patron ou à leurs collègues. D’autre part, ils sont capables de distinguer soigneusement et équitablement les contributions individuelles dans un projet. Ils sont nés avec un don pour saisir des opportunités que même les autres ne remarquent pas."
 
 #: templates/mbti/personalities/intj.html:15
 msgid "典型的INTJ人群择业的方向是在科学和工程方面的，但是他们也可能致力于那些需要智慧与犀利言辞并重的领域（例如，律师，学术界的某些领域）。如果他们愿意花时间去扩展他们的能力，INTJ人群可以从事管理，（无论是出于个人的野心或愿望）很多INTJ人群觉得学习如何假意的因循守旧是很有利的，因为这可以在某种程度上掩饰他们内在的异常性格。"
-msgstr ""
+msgstr "Les INTJ typiques choisissent des carrières en sciences et en génie, mais ils peuvent également travailler dans des domaines où la sagesse et les mots tranchants sont nécessaires (par exemple, les avocats, certains domaines du milieu universitaire). S’ils sont prêts à prendre le temps d’étendre leurs capacités, la population DE L’INTJ peut être gérée, et (que ce soit par ambition personnelle ou par désir) de nombreuses personnes de l’INTJ trouvent avantageux d’apprendre à simuler à l’ancienne, car cela peut en quelque sorte masquer leur caractère anormal intérieur."
 
 #: templates/mbti/personalities/intj.html:16 templates/mbti/personalities/isfp.html:15
 msgid "处事特点"
-msgstr ""
+msgstr "Les caractéristiques de faire les choses"
 
 #: templates/mbti/personalities/intj.html:17
 msgid "具有独特的思想、伟大的远见和梦想。他们天生精于理论，对于复杂而综合的概念运转灵活。他们是优秀的战略思想家，通常能清楚地看到任何局势的利处和缺陷。对于感兴趣的问题，他们是很好的、具有远见和见解的组织者。如果是他们自己形成的看法和计划，他们会投入不可思议的专心、注意力和能量、积极性。依靠到达或超过自己的高标准的决心和坚韧不拔，他们获得许多成就。"
 msgstr ""
+"Avec des idées uniques, de grandes visions et des rêves. Ils sont intrinsèquement théoriques et flexibles dans leur travail avec des concepts complexes et intégrés. Ce sont d’excellents penseurs stratégiques qui peuvent généralement voir clairement les avantages et les faiblesses de toute situation. Ce sont de bons organisateurs visionnaires et perspicaces de questions d’intérêt. S’ils forment leurs propres idées et plans, ils investiront une concentration, une attention et une énergie incroyables, de l’enthousiasme. Ils ont accompli beaucoup de choses en arrivant ou en dépassant leurs normes élevées de "
+"détermination et de persévérance."
 
 #: templates/mbti/personalities/intj.html:18
 msgid "由于擅长战略规划，所以理性者领导常常都会对机构的整体面貌及其长期发展形势有一个预告的认识，或者说先见之明。他们往往高瞻远瞩，考虑周全，决不会在计划中遗漏任何重要的环节或步骤。鉴于他们从很早便开始使用连贯、易理解的语言来进行表达，并且一直都坚持这一语言表达习惯，因此，INTJ型领导通常都能够清晰明确地向下属表达自己的预见，并用这美好的想法感染他们，使他们满腔热情地投入到自己预想的事业当中。"
@@ -4464,48 +4597,48 @@ msgstr ""
 
 #: templates/mbti/personalities/istp.html:16
 msgid "具有逻辑性、实际、务实、娴静、谦逊以及独立；现实主义、注重实效、孤僻；冲动及对自然世界的好奇；灵活和足智多谋；客观而不诉诸感情的。"
-msgstr ""
+msgstr "Logique, pratique, pragmatique, calme, humble et indépendant; réaliste, pragmatique, isolé; impulsif et curieux du monde naturel; flexible et débrouillard; objectif sans recourir à l’émotion."
 
 #: templates/mbti/personalities/istp.html:18
 msgid "主导功能：内倾思考。"
-msgstr ""
+msgstr "Fonction dominante : Pensée introvertie."
 
 #: templates/mbti/personalities/istp.html:18
 msgid "寻求精确，比如表达一个概念最合适的词。它注意到事物本质之间微不足道的差别，然后将它们分析并归类。细查一个问题的每一面，寻找解决问题最不费力、风险最小的方法。它用模型甄别出逻辑上的不一致。"
-msgstr ""
+msgstr "Recherchez la précision, comme le mot le plus approprié pour exprimer un concept. Il remarque des différences insignifiantes entre la nature des choses, puis les analyse et les catégorise. Examinez attentivement chaque aspect d’un problème pour trouver le moyen le moins laborieux et risqué de le résoudre. Il utilise des modèles pour identifier les incohérences logiques."
 
 #: templates/mbti/personalities/istp.html:19
 msgid "辅助功能：外倾感觉"
-msgstr ""
+msgstr "Accessibilité : le sentiment d’extraversion"
 
 #: templates/mbti/personalities/istp.html:19
 msgid "集中于当下的、物质的世界所带来。以对当下周遭事情的敏锐察觉，它带来关于前方的相对事实和细节，而且可能导致自发的行动。"
-msgstr ""
+msgstr "concentré sur le présent, provoqué par le monde matériel. Avec un sens aigu de ce qui se passera la semaine prochaine, il apporte des faits relatifs et des détails sur l’avenir, et peut conduire à une action spontanée."
 
 #: templates/mbti/personalities/istp.html:20
 msgid "第三功能：内倾直觉"
-msgstr ""
+msgstr "Troisième fonction : l’intuition introvertie"
 
 #: templates/mbti/personalities/istp.html:21
 msgid "第四功能：外倾情感"
-msgstr ""
+msgstr "Quatrième fonction : l’émotion sortante"
 
 #: templates/mbti/personalities/istp.html:21
 msgid "寻找社会上的联系，并用礼貌、体贴、得体的举止营造和谐的沟通。对他人明确（或暗示）的需求作出回应，甚至可能会制造内在自我需求和欲望的冲突来满足别人。"
-msgstr ""
+msgstr "Trouvez des liens sociaux et créez une communication harmonieuse avec des manières polies, prévenantes et décentes. Répondre aux besoins explicites (ou implicites) des autres peut même créer des conflits de besoins intérieurs et de désirs de satisfaire les autres."
 
 #: templates/mbti/personalities/istp.html:23
 msgid "由于ISTP型的人总是独自地做出判断，他们不愿意把具体情况甚至是最重要的部分告诉他人，使得周围的人对所发生的事一无所知。他们不喜欢与别人分享自己的反应、情感和担忧。因此他们需要接受一个事实，即别人需要知道ISTP型人的情况。他们还应意识到只有他们自己才能给别人一个精确的解释。"
-msgstr ""
+msgstr "Parce que les gens de type ISTP font toujours leurs propres jugements, ils sont réticents à dire aux autres les détails ou même les parties les plus importantes, laissant ceux qui les entourent inconscients de ce qui se passe. Ils n’aiment pas partager leurs réactions, leurs émotions et leurs préoccupations avec les autres. Ils doivent donc accepter le fait que les autres ont besoin de connaître les gens de l’ISTP. Ils devraient également se rendre compte qu’ils sont les seuls à pouvoir donner aux autres une explication précise."
 
 #: templates/mbti/personalities/istp.html:24
 msgid "ISTP型的人非常实际，他们通常能在所有的事情上找到节省力气的方法。由于他们向往拥有空闲时间，他们往往只做一些必要的准备，或者可能不会等到把事情解决。这使他们有时会偷工减料。设计一个计划，完成所有的步骤和细节，可以帮助他们克服自己主动性的缺乏，并减少经常性的漠不关心。"
-msgstr ""
+msgstr "Les personnes de type ISTP sont très pratiques, elles peuvent généralement trouver des moyens d’économiser de l’énergie sur tout. Parce qu’ils aspirent à du temps libre, ils ont tendance à ne faire que les préparatifs nécessaires, ou peuvent ne pas attendre que les choses soient résolues. Cela les fait parfois voler et réduire. Concevoir un plan qui complète toutes les étapes et tous les détails peut les aider à surmonter leur manque d’initiative et à réduire l’indifférence récurrente."
 
 #: templates/mbti/personalities/istp.html:25
 msgid "ISTP型的人通常很留意那些令人感兴趣的新事物，并对所有的选择都持开放态度，所以他们可能不善于做决定。对刺激的追求可能使他们变得鲁莽、轻率而且容易厌烦。设定目标，并认真地给自己定一些约束，可以使他们避免频繁的失望和无规律的生活习惯所带来的危害。"
-msgstr ""
+msgstr "Les personnes de type ISTP sont généralement très attentives aux nouvelles choses qui sont intéressantes et ouvertes à toutes les options, de sorte qu’elles peuvent ne pas être bonnes pour prendre des décisions. La poursuite de la stimulation peut les rendre imprudents, imprudents et facilement ennuyés. Se fixer des objectifs et se fixer soigneusement certaines contraintes peut les aider à éviter les dangers de déceptions fréquentes et d’habitudes irrégulières."
 
 #: templates/mbti/personalities/istp.html:27
 msgid "信息服务业、计算机程序员、软件开发、律师助理、消防员、药剂师、证券分析员、银行职员、管理顾问、财务顾问、电子专业人士、技术培训人员、海洋生物学者、后勤与供应经理、经济学者、贸易、商品经销商/产品代理商（有形产品）、警察、侦探、体育工作者、赛车手、飞行员、雕塑家、手工制作、画家"
-msgstr ""
+msgstr "Services d’information, programmeurs informatiques, développement de logiciels, parajuristes, pompiers, pharmaciens, analystes en valeurs mobilières, employés de banque, consultants en gestion, conseillers financiers, professionnels de l’électronique, formateurs techniques, biologistes marins, responsables de la logistique et de l’approvisionnement, économistes, commerce, distributeurs de produits de base / agents de produits (produits tangibles), police, détectives, travailleurs sportifs, coureurs, pilotes, sculpteurs, artisans, peintres"
