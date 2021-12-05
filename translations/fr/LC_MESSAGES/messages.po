@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2021-11-19 13:28+0800\n"
-"PO-Revision-Date: 2021-12-01 09:49+0800\n"
+"PO-Revision-Date: 2021-12-05 15:57+0800\n"
 "Language: fr\n"
 "Language-Team: fr <LL@li.org>\n"
 "Plural-Forms: nplurals=2; plural=(n > 1);\n"
@@ -968,7 +968,7 @@ msgstr "Domicile"
 #: templates/base.html:49 templates/mbti/personalities/enfj.html:2 templates/mbti/personalities/enfp.html:2 templates/mbti/personalities/entj.html:2 templates/mbti/personalities/entp.html:2 templates/mbti/personalities/esfj.html:2 templates/mbti/personalities/esfp.html:2 templates/mbti/personalities/estj.html:2 templates/mbti/personalities/estp.html:2 templates/mbti/personalities/index.html:2 templates/mbti/personalities/infj.html:2 templates/mbti/personalities/infp.html:2 templates/mbti/personalities/intj.html:2 templates/mbti/personalities/intp.html:2 templates/mbti/personalities/isfj.html:2
 #: templates/mbti/personalities/isfp.html:2 templates/mbti/personalities/istj.html:2 templates/mbti/personalities/istp.html:2
 msgid "MBTI十六型人格"
-msgstr "Personnalité MBTI XII"
+msgstr "Profil de personnalité"
 
 #: templates/base.html:52 templates/mbti/about.html:2
 msgid "关于"
@@ -1255,746 +1255,823 @@ msgstr "Dans mon travail, je peux donner toute mon jeu à mes compétences organ
 
 #: templates/mbti/personalities/enfj.html:44
 msgid "我的工作变化性很强，且允许我有时间对它有条不紊地进行好好规划。"
-msgstr ""
+msgstr "Mon travail est très varié et me donne le temps de le planifier de manière ordonnée."
 
 #: templates/mbti/personalities/enfj.html:45
 msgid "我的工作环境轻松，人们之间没有冲突，也没有相互猜忌。"
-msgstr ""
+msgstr "Mon environnement de travail est détendu, il n’y a pas de conflit entre les gens, il n’y a pas de suspicion mutuelle."
 
 #: templates/mbti/personalities/enfj.html:46
 msgid "让我有机会接触新观念，并允许我探究一些新方法，能让人生活得更美好。"
-msgstr ""
+msgstr "Cela m’a donné l’occasion de m’engager avec de nouvelles idées et m’a permis d’explorer de nouvelles façons d’améliorer la vie."
 
 #: templates/mbti/personalities/enfj.html:47 templates/mbti/personalities/isfj.html:64 templates/mbti/personalities/isfp.html:35 templates/mbti/personalities/istj.html:68 templates/mbti/personalities/istp.html:26
 msgid "适合的职业领域"
-msgstr ""
+msgstr "Convient au domaine professionnel"
 
 #: templates/mbti/personalities/enfj.html:48
 msgid "信息传播"
-msgstr ""
+msgstr "Diffusion de l’information"
 
 #: templates/mbti/personalities/enfj.html:48
 msgid "广告业务经理、公共关系专家、通信主管、作家/记者、文艺工作者/艺术家、资金募集人、招聘人员、娱乐场馆主管、电视制片人、新闻广播员、政治家、市场主管（无线电，电视，电缆广播行业）、电脑绘图设计员、编辑（杂志）、平面造型艺术家、网页编辑、多媒体制片人、撰稿人、新闻记者、经营主编"
-msgstr ""
+msgstr "Directeur commercial de publicité, expert en relations publiques, directeur des communications, écrivain / journaliste, artiste / artiste, collecteur de fonds, recruteur, directeur de lieu de divertissement, producteur de télévision, présentateur de nouvelles, politicien, responsable marketing (radio, télévision, industrie de la radiodiffusion par câble), infographie, éditeur (magazine), graphiste, éditeur Web, producteur multimédia, écrivain, journaliste, rédacteur en chef d’entreprise"
 
 #: templates/mbti/personalities/enfj.html:49
 msgid ""
 "ENFJ是教练的交际家。他们喜欢试图去理解别人、取悦别人，因此他们一般比较机智，外交能力强。他们更愿意用嘴而非笔与人交流，但一些ENFJ也是很棒的作家。他们经常与人面对面的交谈以了解那些隐藏在故事背后的鲜为人知的一面，以这种方式收集信息是他们所喜欢的。其实广告、公共关系、以及募集领域对ENFJ来说不失为一个令人满意的领域，但条件是他们必须相信自己的创作、贡献及其奋斗目标对社会有价值，并且工作氛围竞争性不是太强，矛盾不是太突出。ENFJ能迅速与其客户、主顾、以及同事建立起良好的人际关系，他们一般可能成为善于游说的、有影响力的经纪人、制片人、招聘人员和政治家。他们是天生的、有人格魅力的领袖，他们以能为大大小小的人群做些什么来方"
 "便他们的生活而高兴。"
 msgstr ""
+"ENFJ est le communicateur du coach. Ils aiment essayer de comprendre et de plaire aux autres, ils sont donc généralement spirituels et diplomatiques. Ils préfèrent communiquer avec les gens avec leur bouche plutôt qu’avec des stylos, mais certains ENFJ sont aussi de grands écrivains. Ils parlent souvent en face à face avec les gens pour comprendre le côté peu connu de l’histoire, et la collecte d’informations de cette manière est ce qu’ils aiment. En fait, la publicité, les relations publiques et la collecte de fonds sont un domaine satisfaisant pour l’ENFJ, mais seulement s’ils doivent croire que leur "
+"création, leur contribution et leurs objectifs sont précieux pour la société et que le climat de travail n’est pas trop compétitif, la contradiction n’est pas trop importante. ENFJ peut rapidement établir de bonnes relations avec ses clients, ses clients et ses collègues, qui peuvent généralement devenir des lobbyistes, des courtiers influents, des producteurs, des recruteurs et des politiciens. Ce sont des leaders naturels et charismatiques qui sont heureux de faire quelque chose pour les gens, grands et petits, afin de leur faciliter la vie."
 
 #: templates/mbti/personalities/enfj.html:50
 msgid "咨询顾问"
-msgstr ""
+msgstr "Consultant"
 
 #: templates/mbti/personalities/enfj.html:50
 msgid "心理学家、服务商、职业顾问、私人律师、公司新职介绍顾问、口译/笔译人员、控制药品顾问、雇员法律顾问助理、职业恢复顾问、教育心理学家、就业指导顾问"
-msgstr ""
+msgstr "Psychologues, prestataires de services, conseillers d’orientation, avocats privés, consultants en référence de nouvelles entreprises, interprètes/traducteurs, consultants en drogues de contrôle, conseillers juridiques des employés, consultants en rétablissement de carrière, psychologues de l’éducation, consultants en orientation professionnelle"
 
 #: templates/mbti/personalities/enfj.html:51
 msgid "很多ENFJ愿意帮助别人通过自我了解来获得生活的幸福和满足，而他们在帮助别人的同时，自己也获得了带来的满足。他们以能帮助其客户注意到自己的情况从而克服困难而快乐，ENFJ大抵是热心、热情、有影响力的治疗专家。他们这会喜欢当一名牧师，因为作为牧师，他们能与别人分享他们自己的价值观，能帮助自己和他们人挖掘他们最大的潜力。他们很容易就能看到事情可能的选择余地或解决办法，并且还能帮助他们的客户也看到。"
 msgstr ""
+"De nombreux ENFJ sont prêts à aider les autres à atteindre le bonheur et la satisfaction dans la vie grâce à la compréhension de soi, et ils ont acquis de la satisfaction tout en aidant les autres. Ils sont heureux d’aider leurs clients à surmonter les difficultés en aidant leurs clients à remarquer leur situation, et ENFJ est un thérapeute enthousiaste, enthousiaste et influent. Ils aimeront être prêtres parce que, en tant que prêtres, ils peuvent partager leurs propres valeurs avec les autres et s’aider eux-mêmes et leur peuple à atteindre leur plein potentiel. Ils peuvent facilement voir les options ou "
+"les solutions possibles, et ils peuvent également aider leurs clients à les voir."
 
 #: templates/mbti/personalities/enfj.html:52
 msgid "教育/服务业"
-msgstr ""
+msgstr "Éducation/services"
 
 #: templates/mbti/personalities/enfj.html:52
 msgid "健康保健/艺术/戏剧/英语教师、人文学科大学教授、训导主任、图书馆管理员、社会工作者、非营利性机构理事、特殊教育老师、早期教育老师、双语教育老师、儿童福利工作者、社会工作者（为老年人服务）、辅助生活保健器材中心主任、儿童保健中心主任、计划供给办公室干事、慈善机构顾问、教育规划主任、社会公益服务及公共服务主任、高中/大专生命科学老师、家长指导、儿童发展指导老师、音乐指挥家、公众健康教育家、大专和大学行政负责人、城市和区域规划者、社会学家、成人日托管理员"
 msgstr ""
+"Professeur de santé/arts/théâtre/anglais, professeur de sciences humaines à l’Université, directeur de la formation, bibliothécaire, travailleur social, directeur d’institutions à but non lucratif, enseignant d’éducation spécialisée, enseignant d’éducation de la petite enfance, enseignant d’éducation bilingue, travailleur de la protection de l’enfance, travailleur social (pour les personnes âgées), directeur du Centre d’équipement de santé pour l’aide à la vie autonome, directeur du centre de santé de l’enfant, agent de bureau de l’approvisionnement en programmes, consultant caritatif, directeur de la "
+"planification de l’éducation, directeur du bien-être social et de la fonction publique, professeur de sciences de la vie au lycée / collège , l’orientation des parents, les enseignants d’orientation du développement de l’enfant, les chefs d’orchestre, les éducateurs en santé publique, les administrateurs universitaires et universitaires, les urbanistes et les planificateurs régionaux, les sociologues, les administrateurs de garderies pour adultes"
 
 #: templates/mbti/personalities/enfj.html:53
 msgid "ENFJ们比较愿意进入教育办，因为这样他们就有机会直接为他人工作，帮助他人成长和发展。他们希望教的课程能让他们注重于为学生阐明和表达物质世界的深远涵义。他们需要一个和谐、合作的工作环境，那里能兼容所有的见解，并鼓励分享彼此的观点和感受。"
-msgstr ""
+msgstr "Les ENFJ sont plus disposés à se rendre dans les bureaux de l’éducation parce qu’ils ont la possibilité de travailler directement pour les autres et de les aider à grandir et à se développer. Ils espèrent que les cours qu’ils enseignent leur permettront de se concentrer sur la clarification et l’expression de la signification profonde du monde matériel pour leurs étudiants. Ils ont besoin d’un environnement de travail harmonieux et collaboratif qui est compatible avec toutes les idées et encourage le partage des points de vue et des sentiments de chacun."
 
 #: templates/mbti/personalities/enfj.html:54
 msgid "服务机构对ENFJ也颇具有吸引力，因为在这些机构中他们有机会 为自己和别人提高其生活水平而努力工作。他们有当领导的欲望，因为这样他们在其工作中就拥有尽可能多的控制权。他们希望其努力能取得积极的成效。"
-msgstr ""
+msgstr "Les organisations de services sont également attrayantes pour ENFJ parce qu’elles ont la possibilité de travailler dur pour elles-mêmes et pour les autres afin d’améliorer leur niveau de vie. Ils ont le désir d’être des leaders parce qu’ils ont autant de contrôle que possible sur leur travail. Ils espèrent que leurs efforts porteront des résultats positifs."
 
 #: templates/mbti/personalities/enfj.html:55
 msgid "卫生保健"
-msgstr ""
+msgstr "soins de santé"
 
 #: templates/mbti/personalities/enfj.html:55
 msgid "整体健康开业医生（超越传统医学）、饮食学家/营养学家、语言病理学家/听力学家、职业治疗师、按摩师、交通管理员、矫形治疗师"
-msgstr ""
+msgstr "Praticiens de la santé holistique (au-delà de la médecine traditionnelle), diététistes / nutritionnistes, pathologistes du langage / audiologistes, ergothérapeutes, masseurs, gestionnaires de la circulation, orthopédistes"
 
 #: templates/mbti/personalities/enfj.html:56
 msgid "在迅速膨胀的卫生保健行业中，这些职业能充分ENFJ对病人观察、诊断、治疗的能力。ENFJ们愿意探究导致病人心理、情感、精神疾病的根源，他们对那些新颖的、超常规的治疗方法很感兴趣，并喜欢寻求职业治疗法和语言病理学中创造性的基本原理。"
-msgstr ""
+msgstr "Dans l’industrie des soins de santé en pleine expansion, ces professions sont suffisantes pour permettre à ENFJ d’observer, de diagnostiquer et de traiter les patients. Les ENFJ sont prêts à explorer les causes profondes de la maladie psychologique, émotionnelle et mentale chez les patients, s’intéressent à des traitements nouveaux et non conventionnels et aiment rechercher des fondamentaux créatifs en ergothérapie et en pathologie linguistique."
 
 #: templates/mbti/personalities/enfj.html:57
 msgid "商业/咨询"
-msgstr ""
+msgstr "Affaires/conseil"
 
 #: templates/mbti/personalities/enfj.html:57
 msgid "人力资源开发培训师、销售培训员、人事招聘人员、旅行代办、经理主管人员（小商行）、程序设计员、销售主任、经理顾问：多样化/团队建设、团队培训员、新职介绍顾问、生态观光业专家、劳资关系经理、会议策划、市场经理、布景设计师、饭店经理、人才主管、桌面出版专家、特殊事件筹划人员"
-msgstr ""
+msgstr "Formateurs en développement des ressources humaines, formateurs en vente, recruteurs de personnel, agents de voyages, cadres de gestion (petites entreprises), programmeurs, directeurs des ventes, consultants en gestion: diversité / team building, formateurs d’équipe, consultants en introduction à de nouveaux emplois, experts en écotourisme, gestionnaires de relations de travail, planification de conférences, directeurs marketing, concepteurs de scène, directeurs d’hôtels, gestionnaires de talents, experts en publication assistée par ordinateur, planificateurs d’événements spéciaux"
 
 #: templates/mbti/personalities/enfj.html:58
 msgid "咨询行业中各种不同的工作能让ENFJ们获得职业满足，因为这些工在ENFJ与人保持亲密友好关系的同时，又能独立地工作，不受制于人。ENFJ是优秀的推荐者和培训员，尤其在帮助他人提高他们的自身素质方面更为突出。他们总是积极地对新计划和服务项目进行创造性设计，并且希望跨入小型公司或机构的经理主管级，因为只有这样，他们才能的影响力，才能享受工作的丰富多彩，才会有机会探究新的行事方式，才能保证自己拥有一定的控制权。"
 msgstr ""
+"Les différents emplois dans l’industrie du conseil permettent aux ENFJ d’atteindre la satisfaction professionnelle car ils sont capables de travailler de manière indépendante et indépendante tout en maintenant des relations étroites et amicales avec les gens. ENFJ est un excellent recommandateur et formateur, en particulier pour aider les autres à améliorer leur propre qualité. Ils sont toujours actifs dans la conception créative de nouveaux programmes et services, et veulent passer au niveau de gestion d’une petite entreprise ou organisation, car ce n’est qu’alors qu’ils peuvent avoir l’influence de "
+"profiter de la richesse de leur travail et la possibilité d’explorer de nouvelles façons de faire les choses pour s’assurer qu’ils ont un certain contrôle."
 
 #: templates/mbti/personalities/enfj.html:59
 msgid "技术"
-msgstr ""
+msgstr "Technologie"
 
 #: templates/mbti/personalities/enfj.html:59
 msgid "消费者关系管理人员、职工辩护律师（技术顾问）、教练、项目经理、合同经理、人力资源招聘人员"
-msgstr ""
+msgstr "Responsables des relations avec les consommateurs, avocats de la défense des employés (consultants techniques), coachs, chefs de projet, gestionnaires de contrats, recruteurs en ressources humaines"
 
 #: templates/mbti/personalities/enfj.html:60
 msgid "随着技术的不断发展，人才的需求量也越来越大。当然，这些人才必须是既懂技术又有很强的交际、交流能力的复合型人才。所以，技术人员兼终端用户这一身份吸引着广大的ENFJ们。他们发现这些工作不仅满足了他们帮助别人的欲望，而且还能让他们与他们的合作者保持紧密联系。"
-msgstr ""
+msgstr "Avec le développement continu de la technologie, la demande de talents augmente également. Bien sûr, ces talents doivent être à la fois techniques et forts en communication, compétences en communication du talent composite. Par conséquent, l’identité du personnel technique et des utilisateurs finaux attire le grand nombre d’ENFJ. Ils ont constaté que ces emplois non seulement satisfont leur désir d’aider les autres, mais les maintiennent également en contact étroit avec leurs collaborateurs."
 
 #: templates/mbti/personalities/enfj.html:61
 msgid "可能陷阱"
-msgstr ""
+msgstr "Pièges possibles"
 
 #: templates/mbti/personalities/enfj.html:62
 msgid "不要把你的决定公建立于主观感情基础之上， 运用客观分析来助你看清你可能的行动在逻辑上将会导致什么样的后果。记住：原因和结果并不是你自然而然就能看到的，因此寻求能帮你的朋友的协助。 不要因为你讨厌这个公司的某个人就放弃一次选择，同时也不要因某种积极因素就全盘肯定某个工作或某个公司。"
-msgstr ""
+msgstr "Ne basez pas vos décisions sur des sentiments subjectifs, utilisez une analyse objective pour vous aider à voir quelles pourraient être les conséquences logiques de vos actions. Rappelez-vous: Les raisons et les résultats ne sont pas quelque chose que vous pouvez voir naturellement, alors demandez de l’aide à vos amis. N’abandonnez pas un choix simplement parce que vous détestez quelqu’un dans l’entreprise et ne soyez pas complètement positif à propos d’un emploi ou d’une entreprise."
 
 #: templates/mbti/personalities/enfj.html:63
 msgid "不要以个人态度接受批评和拒绝， 按本意接受那些建设性的批评和反馈意见。依赖你朋友的支持和鼓励将会有助于你在紧张 的求职过程中偶尔的泄气。 当人想要得到某个工作或面试却被拒绝时，请暂且务必不要太自责，把安对自己随机应变能力的一种挑战、一个你要克服的障碍。"
-msgstr ""
+msgstr "N’acceptez pas la critique et le rejet d’une manière personnelle, acceptez les critiques constructives et les commentaires comme prévu. Compter sur le soutien et les encouragements de vos amis vous aidera à être frustré de temps en temps lors d’une recherche d’emploi stressante. Lorsque quelqu’un veut un emploi ou une entrevue mais qu’il est refusé, assurez-vous de ne pas trop vous blâmer, mettant Ann au défi de sa capacité d’adaptation, un obstacle que vous devez surmonter."
 
 #: templates/mbti/personalities/enfj.html:64
 msgid "集中重点，收集所有必要的事实；在注意你所结识的人的同时，请留心一下细节和现实情况。切勿一心一意结交新朋友而忽略了你求职中那些枯燥乏味的工作。不要别人说什么，你就信什么。你要尽可能地多问一些问题以了解这份工作或这个公司到底如何。"
-msgstr ""
+msgstr "Concentrez-vous sur la collecte de tous les faits nécessaires et gardez un œil sur les détails et les réalités tout en gardant un œil sur les personnes que vous rencontrez. Ne vous contentez pas de vous faire de nouveaux amis et d’ignorer les emplois ennuyeux que vous recherchez. Ne dites rien, vous croyez en n’importe quoi. Posez autant de questions que possible pour savoir à quoi ressemble le travail ou l’entreprise."
 
 #: templates/mbti/personalities/enfj.html:65
 msgid "切实地看待你可能是到的工作和与你相交的人；看到真实的一面，要看到他们的弱点。有意识地防止将人理想化或表露出你对别人绝对的忠诚。敢于迅速、直接地正视矛盾和误解，不要逃避，但也要防止将它们扩大化，复杂化。"
-msgstr ""
+msgstr "Jetez un coup d’œil réel au travail avec lequel vous travaillez peut-être et aux personnes que vous croisez; Empêchez consciemment les gens d’idéaliser ou de montrer leur loyauté absolue envers les autres. Osez faire face aux contradictions et aux malentendus rapidement et directement, et ne pas vous échapper, mais aussi pour éviter qu’ils ne s’élargissent et ne se compliquent."
 
 #: templates/mbti/personalities/enfj.html:66
 msgid "切勿仓促决定；作大量的调查研究将会使你三思而后行。在给予任何提供的工作以答复前，一定要有足够的时间把事情彻底考虑一下，以确保这份工作是否真的适合你。切勿抱匆匆完事、万事大吉的心理，否则你可能会错失即将到来的亹，或者你所接受的工作可能并不是你想要的。"
-msgstr ""
+msgstr "Ne prenez pas de décision hâtive; faire beaucoup de recherches vous fera réfléchir à deux fois. Avant de donner une offre d’emploi à répondre, assurez-vous d’avoir suffisamment de temps pour réfléchir aux choses afin de vous assurer que cela vous convient vraiment. Ne vous précipitez pas pour finir les choses, faites tout correctement, ou vous risquez de manquer ce qui s’en vient, ou le travail que vous acceptez n’est peut-être pas ce que vous voulez."
 
 #: templates/mbti/personalities/enfj.html:67 templates/mbti/personalities/entj.html:17 templates/mbti/personalities/istj.html:32
 msgid "工作优势"
-msgstr ""
+msgstr "Avantages de l’emploi"
 
 #: templates/mbti/personalities/enfj.html:68
 msgid "优秀的交流及表达能力；天生的领导才能及凝聚力；热情奔放，及有较强的寻求合作的能力；坚决果断，有组织能力；渴望推陈出新；与别人感情交融，能预见别人的需要，能真诚地关怀别人；兴趣广泛，头脑灵活；能统观全局，能洞察行为与意识之间的联系；鞭策自己做出成绩，达到目的；对自己所信仰的事业尽职尽责"
 msgstr ""
+"Excellentes compétences en communication et en expression; leadership naturel et cohésion; enthousiasme et ouverture; forte capacité à rechercher la coopération; détermination, capacité organisationnelle; désir de faire de nouvelles idées; capacité à se fondre dans les sentiments des autres, à anticiper les besoins des autres, à être capable de prendre soin des autres de bonne foi; intérêts généraux, esprit flexible; être capable d’adopter une vision holistique, d’acquérir un aperçu du lien entre le comportement et la conscience; de s’exhorter à réaliser des réalisations et à atteindre leurs objectifs; à "
+"faire leur part dans la cause de leurs croyances"
 
 #: templates/mbti/personalities/enfj.html:69
 msgid "工作缺陷"
-msgstr ""
+msgstr "Défauts de travail"
 
 #: templates/mbti/personalities/enfj.html:70
 msgid "不愿干与自己价值观相冲突的事；容易把人际关系理想化；很难在竞争强、气氛紧张的环境下工作；对那引动没效率、或死脑筋的人没有耐心；逃避矛盾冲突，易于疏忽不愉快的事；在没有收集足够证据前，易于仓促做决定；不愿训诫下属；易于因轻率犯错误；易于满足小范围管理，决不放弃控制权；运用你的能力其实很简单。"
-msgstr ""
+msgstr "Ne pas vouloir faire des choses qui entrent en conflit avec leurs propres valeurs; facile à idéaliser les relations; difficile de travailler dans un environnement compétitif et tendu; impatient avec ceux qui induisent l’inefficacité ou la mort; d’éviter les conflits, sujet à la négligence et aux désagréments; facile de prendre des décisions hâtives sans rassembler suffisamment de preuves; ne pas vouloir discipliner les subordonnés; enclin aux erreurs imprudentes; facile à gérer dans de petits domaines et à ne jamais abandonner le contrôle; et facile à utiliser vos capacités."
 
 #: templates/mbti/personalities/enfj.html:71
 msgid "ENFJ成功的秘诀就是：放慢你匆忙前行的脚步；适当放弃某些权利控制；客观对待周围的一切。"
-msgstr ""
+msgstr "Le secret du succès d’ENFJ est de vous ralentir à la hâte, d’abandonner un certain contrôle de vos droits de manière appropriée et d’être objectif sur tout ce qui vous entoure."
 
 #: templates/mbti/personalities/enfj.html:72
 msgid "恋爱"
-msgstr ""
+msgstr "Amoureux"
 
 #: templates/mbti/personalities/enfj.html:73
 msgid "在你脑海中经常浮现的一件东西是：感情关系。创造并且维持一段有意义又美好的感情，是你生活中快乐的泉源。不管是和业务上的人士、朋友、家人或情人来往，你都很重视发展一段有品质的感情，并且要确保这段感情一直不断在成长。当你恋爱时，身为一个外向型的感觉者，你必然喜欢和亲密的伴侣沟通，用言语表达爱恋和温柔的感觉，同时去发觉你的伴侣真正在乎的是什么。大部分的教育家型喜欢把时间花在伴侣身上；几乎不能忍受对方不在的时候。虽然你可能有很多朋友，但却希望把另一半尽可能地纳入你的社交圈子中。"
 msgstr ""
+"Une chose qui me vient souvent à l’esprit, ce sont les relations. Créer et maintenir une relation significative et belle est une source de bonheur dans votre vie. Que ce soit avec quelqu’un en affaires, un ami, un membre de la famille ou un amant, vous appréciez de développer une relation de qualité et de vous assurer qu’elle se développe. Lorsque vous êtes amoureux, en tant que personne sensorielle extravertie, vous aimerez communiquer avec votre partenaire intime, exprimer des sentiments d’amour et de tendresse avec des mots et découvrir ce qui vous tient vraiment à votre partenaire. La plupart des "
+"éducateurs aiment passer leur temps avec leurs partenaires; Bien que vous ayez beaucoup d’amis, vous voulez intégrer votre autre moitié dans votre cercle social autant que possible."
 
 #: templates/mbti/personalities/enfj.html:74
 msgid "危机：你对爱人百分之百的情感投入也许会让你觉得超出负荷—因为忙于照料情人的需要，而导致你缺乏精力照顾自己。你或许会倾向于把事情都看得太涉及私人情绪，因而当你的伴侣说了一些听起来带批评口吻，但事实并非如此的话语时，你会觉得受到伤害。例如说，若另一半纯粹只是想告诉你，你很漂亮时，你有可能会觉得难过，误以为那是讽刺的一击，因为他在刚才表现得爱理不理，你现在觉得他是在对你的外观做有意图的评论，只是为了讨好你。如果是这样的话，那现在开始争端真正要开始了。"
 msgstr ""
+"Crise: Votre engagement émotionnel à 100% envers votre amant peut vous faire sentir surchargé - vous manquez d’énergie pour prendre soin de vous parce que vous êtes occupé à prendre soin des besoins de votre amant. Vous pouvez être enclin à prendre les choses trop personnellement, de sorte que vous vous sentez blessé lorsque votre partenaire dit quelque chose qui semble critique, mais ce n’est pas le cas. Par exemple, si votre autre moitié essaie simplement de vous dire que vous êtes belle, vous pourriez vous sentir triste et la confondre avec un coup sarcastique parce qu’il a juste agi comme s’il "
+"l’ignorait, et vous pensez maintenant qu’il fait un commentaire intentionnel sur votre apparence juste pour vous plaire. Si c’est le cas, alors le conflit est vraiment sur le point de commencer maintenant."
 
 #: templates/mbti/personalities/enfj.html:75
 msgid "尽管如此，在一段爱情的开始之初，你的爱人是不会做错任何事情的。虽然你在很多领域有敏锐的洞察力，但当谈到爱情时，还是会抱着一种“觉得一段感情应该如何”的理想观念坠入爱河，纵使真实的面貌可能和想像的有很大的差异。在感情慢慢进展时，你会开始期待对方无条件地付出，以同等的忠贞和坚贞不渝的爱情来对待你。若你认为对方没有给你同等标准的关怀和支持，你会用一种很直接、有时也许不太愉快的方式传达。"
 msgstr ""
+"Néanmoins, au début d’une relation, votre amant ne fera rien de mal. Bien que vous ayez une perspicacité dans de nombreux domaines, quand il s’agit d’amour, vous tombez amoureux de l’idéal de « comment se sentir à propos d’une relation », même si le vrai visage peut être très différent de ce que vous pensez. Au fur et à mesure que votre relation progresse, vous commencerez à vous attendre à ce que l’autre personne donne inconditionnellement et vous traite avec une loyauté égale et un amour sans faille. Si vous pensez que l’autre personne ne vous donne pas la même norme de soins et de soutien, vous le "
+"communiquerez de manière très directe et parfois désagréable."
 
 #: templates/mbti/personalities/enfj.html:76
 msgid "最佳恋爱类型:若你是一个女性教育家型，你会和男性教育家型，或是恰好相反的男性冒险家型(ISTP)，拥有美好的关系。与他在一起，你可能享受真实的刺激(泛舟、攀岩、飙车或是初学者阶段的蹦极)，同时，你将感受有史以来最尽兴的生活。若你是一个男性教育家型，你可以和女性教育家型、记者型(ENFP)或是哲学家型(INFP)相处得不错。你也可以和与你相反的冒险家型(ISTP)拥有成功的关系。冒险家型脚踏实地的务实特质，会使你不致于和真实生活脱节。同时，她轻松、随兴的个性又可以在你被那些“人际问题”困扰时，平抚你的情绪。"
 msgstr ""
+"Meilleur type de relation: Si vous êtes une éducatrice, vous aurez une bonne relation avec un éducateur masculin ou l’opposé d’un aventurier masculin (ISTP). Avec lui, vous pourrez profiter de véritables sensations fortes (navigation de plaisance, escalade, course ou saut à l’élastique au stade débutant), tandis que vous vivrez la vie la plus agréable de tous les temps. Si vous êtes un éducateur masculin, vous pouvez bien vous entendre avec les éducatrices, les journalistes (ENFP) ou les philosophes (INFP). Vous pouvez également avoir une relation réussie avec le type d’aventurier opposé (ISTP). Le "
+"pragmatisme terre-à-terre de l’aventurier vous gardera déconnecté de la vie réelle. En même temps, sa personnalité détendue et décontractée peut calmer vos émotions lorsque vous êtes troublé par des « problèmes interpersonnels »."
 
 #: templates/mbti/personalities/enfj.html:77
 msgid "若你的理想情人是一个教育家型，你可以在企业界、教育界和政府机关的领导阶层中找到教育家型。他们拥有非常好的社交手腕，并且很容易接近。别让你的教育家型情人吃醋。确实有些教育家型的情人有很强的占有欲且会容易吃醋。为了避免发生问题，当你跟一个教育家型约会时，避免过度注意其他具吸引力的人。虽然教育家型在很多领域上是很有信心的，但是他们在爱情关系中却会感到不安全。他们要永恒不变的保证，包括言语上和行动上的，请表现出对他们的关心。给予教育家型他们渴望的注意力和言语上的关爱，他们会以慷慨的温暖和爱恋回报你，让你觉得仿佛是世界上最受人关爱的人。"
 msgstr ""
+"Si votre amant idéal est un éducateur, vous pouvez trouver un éducateur dans la direction de l’entreprise, de l’éducation et des agences gouvernementales. Ils ont de très bonnes compétences sociales et sont facilement accessibles. Ne rendez pas jaloux votre amant éducateur. Il est vrai que certains amants de type éducateur ont une forte possessivité et sont enclins à la jalousie. Pour éviter les problèmes, évitez de prêter trop d’attention à d’autres personnes attrayantes lorsque vous sortez avec un éducateur. Bien que les éducateurs soient confiants dans de nombreux domaines, ils peuvent ne pas se sentir "
+"en sécurité dans les relations amoureuses. Ils veulent des assurances éternelles, à la fois verbales et opérationnelles, pour montrer de l’intérêt pour eux. Donnez aux éducateurs l’attention et l’amour verbal qu’ils désirent, et ils vous rembourseront avec une chaleur et un amour généreux, vous faisant sentir comme si vous êtes la personne la plus aimée au monde."
 
 #: templates/mbti/personalities/enfj.html:78
 msgid "教育家型情人的爱情是很炽烈的，他们不会羞于告诉他们的伴侣内心的感受。因此，当教育家型情人觉得他们的感情被伴侣的言语或行为威胁时，教育家型情人会很自然地表达他们受伤或生气的感受。同时，由于他们的情绪反应，教育家型会把冲突和否决看得非常严重，不管这是事实或只是他们以为如此。这样的结果造成他们很容易被伤害,而且怀恨许久。从正面的角度而言，教育家型相信婚姻，他们会是极富爱心并且愿意付出的配偶。同时，他们也是很有魅力的，和他们在一起是一件愉快的事。不仅如此，教育家型也常常可以激发他们的伴侣，带领他们的伴侣到达爱情和快乐的巅峰。当你遇到正确的教育家型情人时，你将沉浸在那种被爱、被取悦、有支持和关注的幸福感觉中。"
 msgstr ""
+"L’amour d’un amoureux éducateur est si intense qu’il n’hésite pas à dire à son partenaire ce qu’il ressent à l’intérieur. Par conséquent, lorsque les amants éducateurs sentent que leurs sentiments sont menacés par les paroles ou les actions de leur partenaire, les amants éducateurs expriment naturellement leurs sentiments de blessure ou de colère. En même temps, en raison de leurs réactions émotionnelles, les éducateurs prennent les conflits et le rejet très au sérieux, que ce soit vrai ou simplement ce qu’ils pensent. Le résultat est qu’ils sont facilement blessés et haïssent pendant longtemps. Du côté "
+"positif, les éducateurs croient au mariage et ils seront des conjoints aimants et volontaires. En même temps, ils sont également très attrayants et ils sont heureux d’être ensemble. Non seulement cela, mais les éducateurs inspirent souvent leurs partenaires et les conduisent au sommet de l’amour et du bonheur. Lorsque vous rencontrerez le bon amant de type éducateur, vous serez immergé dans le sentiment d’être aimé, heureux, soutenu et concerné."
 
 #: templates/mbti/personalities/enfp.html:4 templates/mbti/personalities/entj.html:4 templates/mbti/personalities/entp.html:4 templates/mbti/personalities/esfj.html:4 templates/mbti/personalities/esfp.html:4 templates/mbti/personalities/estj.html:4 templates/mbti/personalities/estp.html:4 templates/mbti/personalities/infj.html:4 templates/mbti/personalities/infp.html:4 templates/mbti/personalities/intj.html:4 templates/mbti/personalities/intp.html:4 templates/mbti/personalities/isfj.html:4 templates/mbti/personalities/isfp.html:4 templates/mbti/personalities/istj.html:4 templates/mbti/personalities/istp.html:4
 msgid "MBTI测试结果"
-msgstr ""
+msgstr "Résultats des tests MBTI"
 
 #: templates/mbti/personalities/enfp.html:5
 msgid "记者型人格"
-msgstr ""
+msgstr "Personnalité journalistique"
 
 #: templates/mbti/personalities/enfp.html:9
 msgid "ENFP表示：外向（E）+直觉（N）+情感（F）+知觉（P）。此类性格的人群被认为是健谈热诚，友善的；聪明好奇，爱玩的；关心体贴，温柔敏感；富有想象力，颇具创新精神；智慧乐观，适应能力强。"
-msgstr ""
+msgstr "ENFP indique : Extraversion (E) plus intuition (N) plus émotion (F) plus perception (P). Les personnes de ce type de personnalité sont considérées comme bavardes, amicales, intelligentes, curieuses, enjouées, attentionnées, douces et sensibles, imaginatives, innovantes, intelligentes et optimistes, et adaptables."
 
 #: templates/mbti/personalities/enfp.html:10 templates/mbti/personalities/infj.html:10 templates/mbti/personalities/infp.html:11 templates/mbti/personalities/intj.html:10 templates/mbti/personalities/intp.html:10 templates/mbti/personalities/isfj.html:10 templates/mbti/personalities/isfp.html:10 templates/mbti/personalities/istj.html:10 templates/mbti/personalities/istp.html:10
 msgid "性格特点"
-msgstr ""
+msgstr "Traits de personnalité"
 
 #: templates/mbti/personalities/enfp.html:11
 msgid "对ENFP类型的人来说，最重要的是自己能看到各种可能的情况，并与各行各色的人来往。他们是理想型和人性型的结合类型。在他们的眼里，每一个人、每一样事物都只是和谐整体的一部分。从日常小事到为人类造福的伟大事业中，他们都希望自己既是一个有用（至少，是他们自己所认为的有用）的人，又能为别人所喜欢和尊重。他们会对新观点、新思想很感兴趣，虽然最终会由于某个原因而弃之不理。"
-msgstr ""
+msgstr "La chose la plus importante pour les personnes de type ENFP est qu’elles peuvent voir toutes les possibilités et interagir avec des personnes de tous les horizons. Ils sont une combinaison de la nature idéale et humaine. À leurs yeux, tout le monde, tout n’est qu’une partie de l’ensemble de l’harmonie. Des petites choses quotidiennes aux grandes causes pour le bénéfice de l’humanité, ils veulent être à la fois utiles (du moins, comme ils le pensent) et être aimés et respectés. Ils seront intéressés par de nouvelles idées et idées, bien qu’ils finiront par être refusés pour une raison quelconque."
 
 #: templates/mbti/personalities/enfp.html:12
 msgid "装疯作傻是ENFP人的另一魅力所在，它能使他们很快地融入到更加庸俗的人当中。他们很风趣，待人友善，很真挚地爱着人们，然而在交往的注意广度可能并不宽。ENFP类型的人对新朋友或刚认识不久的人很感兴趣，却经常会将老朋友抛到脑后。"
-msgstr ""
+msgstr "Faire semblant d’être fou est une autre attraction des gens de l’ENFP, qui les intègre rapidement dans les plus vulgaires. Ils sont drôles, amicaux et vraiment amoureux des gens, mais l’étendue de l’attention dans la communication peut ne pas être large. Les personnes du type ENFP sont intéressées par de nouveaux amis ou des personnes qu’ils viennent de rencontrer, mais laissent souvent de vieux amis derrière elles."
 
 #: templates/mbti/personalities/enfp.html:13
 msgid "稍欠成熟的ENFP人可能时刻都需要感觉到自己是注意的焦点，希望大家都认为自己是很棒、很迷人。"
-msgstr ""
+msgstr "Une personne ENFP légèrement immature peut toujours avoir besoin de se sentir au centre de l’attention et d’espérer que tout le monde pense qu’elle est géniale et charmante."
 
 #: templates/mbti/personalities/enfp.html:14
 msgid "在涉及世界观方面的各种问题上，ENFP人经常会有自己强烈的信仰。他们通常会运用社会技巧和关系逐渐去说服人们接受那些正确的观点，有时甚至会有一种为拯救世界，我不入地狱谁入地狱的悲壮。"
-msgstr ""
+msgstr "Les gens de l’ENFP ont souvent de fortes croyances sur les questions liées à leur vision du monde. Ils utilisent souvent les compétences sociales et les relations pour persuader progressivement les gens d’accepter les bonnes idées, et parfois même d’avoir une tragédie de sauver le monde, que je ne vais pas en enfer et ne vais pas en enfer."
 
 #: templates/mbti/personalities/enfp.html:15
 msgid "ENFP人能随遇而安，极易适应工作环境。他们有自己大胆的想法，在头脑风暴中有突出的贡献。然而，对他们来说，保持不变可不是一件容易的事，因为他们会很快的对一件东西厌烦，尤其当有更新、更有趣的东西出来时。但当开会、规定最后完事期限以及完成所交代的枯燥无味的琐事时，他们也是个拖延的人。只有当他们与 Judger(J）共事时，他们才会收起懈怠，发挥出最高的效率。"
 msgstr ""
+"Les personnes ENFP peuvent être faciles à adapter à l’environnement de travail. Ils ont leurs propres idées audacieuses et apportent des contributions exceptionnelles au brainstorming. Cependant, il n’est pas facile pour eux de rester les mêmes, car ils se lassent rapidement de quelque chose, surtout quand quelque chose de plus nouveau et de plus intéressant sort. Mais ils tergiversent aussi quand il s’agit de réunions, de fixer des délais pour l’achèvement des choses et de compléter les anecdotes ennuyeuses qui leur ont été remises. Ce n’est que lorsqu’ils travailleront avec Judger (J) qu’ils mettront de "
+"côté leur marge de manœuvre et seront aussi efficaces que possible."
 
 #: templates/mbti/personalities/enfp.html:16
 msgid "无论在信念里，还是实践中，ENFP人都憎恶官僚作风，他们时常会嘲笑其中的某一方面。"
-msgstr ""
+msgstr "Les gens de l’EnfP détestent la bureaucratie, à la fois dans la foi et dans la pratique, et ils se moquent souvent d’un aspect de celle-ci."
 
 #: templates/mbti/personalities/enfp.html:17
 msgid "个性特征"
-msgstr ""
+msgstr "Traits de personnalité"
 
 #: templates/mbti/personalities/enfp.html:18
 msgid "健谈热诚，友善的；聪明好奇，爱玩的；关心体贴，温柔敏感；富有想象力，颇具创新精神；智慧乐观，适应能力强，但有时做事无条理。"
-msgstr ""
+msgstr "Bavard et amical; intelligent et curieux; enjoué; attentionné, doux et sensible; imaginatif et innovant; intelligent et optimiste; adaptable, mais parfois sans organisation."
 
 #: templates/mbti/personalities/enfp.html:19
 msgid "热情洋溢、富有想象力。认为生活是充满很多可能性。能很快地将事情和信息联系起来，然后很自信地根据自己的判断解决问题。很需要别人的肯定，又乐于欣赏和支持别人。灵活、自然不做作，有很强的即兴发挥的能力 ，言语流畅。"
-msgstr ""
+msgstr "Enthousiaste et imaginatif. Pensez à la vie comme pleine de possibilités. Soyez capable de connecter rapidement les choses avec l’information, puis de résoudre les problèmes en toute confiance en fonction de votre propre jugement. Besoin de l’affirmation des autres, mais aussi prêt à apprécier et à soutenir les autres. Flexible, naturel ne pas faire, a une forte capacité à improviser le jeu, la parole lisse."
 
 #: templates/mbti/personalities/enfp.html:20
 msgid "ENFP型的人充满热情和新思想。他们乐观、自然、富有创造性和自信，具有独创性的思想和对可能性的强烈感受。"
-msgstr ""
+msgstr "Les gens de type ENFP sont pleins d’enthousiasme et de nouvelles idées. Ils sont optimistes, naturels, créatifs et confiants, avec des idées originales et des sentiments forts sur les possibilités."
 
 #: templates/mbti/personalities/enfp.html:21
 msgid "ENFP型的人，生活是激动人心的戏剧。ENFP型的人对可能性很感兴趣，所以他们了解所有事物中 的深远意义。他们具有洞察力，是热情的观察者，注意常规以外的任何事物。"
-msgstr ""
+msgstr "Type de personnes ENFP, la vie est un drame passionnant. Les gens d’EnFP s’intéressent aux possibilités, ils comprennent donc le sens profond de tout. Ce sont des observateurs perspicaces et passionnés, attentifs à autre chose que la norme."
 
 #: templates/mbti/personalities/enfp.html:22
 msgid "ENFP型的人好奇，喜欢理解而不是判断。ENFP型的人具有想象力、适应性和可变性，他们视灵感高于一切，常常是足智多谋的发明人。"
-msgstr ""
+msgstr "Les personnes de type ENFP sont curieuses et préfèrent la compréhension au jugement. Les gens de type ENFP ont de l’imagination, de l’adaptabilité et de la variabilité, ils voient l’inspiration avant tout, souvent des inventeurs ingénieux."
 
 #: templates/mbti/personalities/enfp.html:23
 msgid "ENFP型的 人不墨守成规，善于发现做事情的新方法，为思想或行为开辟新道路，并保持它们的开放。在完成新颖想法的过程中，ENFP型的人依赖冲动的能量。他们有大量的主动性，认为问题令人兴奋。他们也从周围其他人中得到能量，把自己的才能与别人的力量成功地结合在一起。"
-msgstr ""
+msgstr "Les personnes de type ENFP ne respectent pas les règles, sont douées pour trouver de nouvelles façons de faire les choses, ouvrir de nouvelles voies pour des idées ou des comportements, et les garder ouvertes. Les personnes de type EnFP comptent sur l’énergie impulsive dans le processus de réalisation de nouvelles idées. Ils ont beaucoup d’initiative et pensent que le problème est passionnant. Ils obtiennent également de l’énergie des autres autour d’eux et combinent avec succès leurs talents avec le pouvoir des autres."
 
 #: templates/mbti/personalities/enfp.html:24
 msgid "ENFP型的人具有魅力、充满生机。他们待人热情、彬彬有礼、富有同情心，愿意帮助别人解决问题。他们具有出色的洞察力和观察力，常常关心他人的发展。"
-msgstr ""
+msgstr "Les personnes de type ENFP sont attrayantes et pleines de vitalité. Ils sont chaleureux, courtois, compatissants et prêts à aider les autres à résoudre les problèmes. Ils ont une excellente perspicacité et observation et sont souvent préoccupés par le développement des autres."
 
 #: templates/mbti/personalities/enfp.html:25
 msgid "ENFP型的人避免冲突，喜欢和睦。他们把更多的精力倾注于维持个人关系而不是客观事物，喜欢保持一种广泛的关系。"
-msgstr ""
+msgstr "Les personnes de type ENFP évitent les conflits et aiment l’harmonie. Ils se concentrent davantage sur le maintien de relations personnelles que sur des choses objectives, préférant maintenir une relation large."
 
 #: templates/mbti/personalities/enfp.html:26
 msgid "性格优势"
-msgstr ""
+msgstr "Avantage de la personnalité"
 
 #: templates/mbti/personalities/enfp.html:27
 msgid "⒈ 对别人的情绪敏感，能理解、体会别人的心情，善于安慰、鼓励别人"
-msgstr ""
+msgstr "1. Sensible aux émotions des autres, capable de comprendre et d’apprécier les humeurs des autres, bon à réconforter et à encourager les autres"
 
 #: templates/mbti/personalities/enfp.html:28
 msgid "⒉ 对文字、语言敏感"
-msgstr ""
+msgstr "2. Sensible aux mots et au langage"
 
 #: templates/mbti/personalities/enfp.html:29
 msgid "⒊ 善于分析、总结"
-msgstr ""
+msgstr "3. Bon à l’analyse, résumé"
 
 #: templates/mbti/personalities/enfp.html:30
 msgid "⒋ 善于从整体上把握事物"
-msgstr ""
+msgstr "4. Soyez bon pour saisir les choses dans leur ensemble"
 
 #: templates/mbti/personalities/enfp.html:31
 msgid "⒌ 能理解复杂的理论概念，善于将事情概念化，善于从中推断出原则"
-msgstr ""
+msgstr "5. Être capable de comprendre des concepts théoriques complexes, être bon à conceptualiser les choses et être bon à en déduire des principes"
 
 #: templates/mbti/personalities/enfp.html:32
 msgid "⒍ 擅长策略性思维"
-msgstr ""
+msgstr "6. Soyez bon dans la réflexion stratégique"
 
 #: templates/mbti/personalities/enfp.html:33
 msgid "潜在弱点"
-msgstr ""
+msgstr "Faiblesses potentielles"
 
 #: templates/mbti/personalities/enfp.html:34
 msgid "⒈ 有仅仅凭个人的好恶或价值观来决定事情，并希望别人也以同样的角度或标准来处理问题的倾向。"
-msgstr ""
+msgstr "1. Il y a une tendance à décider des choses uniquement sur la base de goûts et d’aversions personnels ou de valeurs, et à s’attendre à ce que les autres abordent les problèmes de la même manière ou selon les mêmes normes."
 
 #: templates/mbti/personalities/enfp.html:35
 msgid "⒉ 有时他们心里老想着别人的问题，可能会过于陷于其中，以至于被其困扰。"
-msgstr ""
+msgstr "2. Parfois, ils sont tellement obsédés par les problèmes des autres qu’ils peuvent être tellement piégés qu’ils en deviennent troublés."
 
 #: templates/mbti/personalities/enfp.html:36
 msgid "⒊ 有时容易将别人或事情理想化，不够实际。"
-msgstr ""
+msgstr "3. Parfois, il est facile d’idéaliser les autres ou les choses, ce qui n’est pas assez pratique."
 
 #: templates/mbti/personalities/enfp.html:37
 msgid "⒋ 不是特别善于管束和批评他人，尽管常常自我批评。有时会为了和睦而牺牲自己的意见或利益。"
-msgstr ""
+msgstr "4. Pas particulièrement doué pour gérer et critiquer les autres, bien que souvent autocritique. Parfois, vous sacrifiez votre opinion ou vos intérêts pour l’harmonie."
 
 #: templates/mbti/personalities/enfp.html:38
 msgid "⒌ 有些“理想主义者”比较容易动感情，情绪波动较大。"
-msgstr ""
+msgstr "5. Certains « idéalistes » sont plus émotifs et ont des sautes d’humeur plus élevées."
 
 #: templates/mbti/personalities/enfp.html:39 templates/mbti/personalities/entp.html:24 templates/mbti/personalities/estj.html:17
 msgid "适合领域"
-msgstr ""
+msgstr "Convient au domaine"
 
 #: templates/mbti/personalities/enfp.html:40
 msgid "ENFP适合工作的环境包括那些通过长年打拼，逐步扩大规模的企业。他们可以成为出色的经理、销售人员、传媒人士、广告业者或者形象工作者。ENFP还适合从事那些把想法付诸实施的工作，比如包装、宣传、市场推广。ENFP会成为他们所属环境中的典型：他们可以是最激进的左翼分子，也可以是最保守的右翼分子。他们总是被那些能够让他们具有成就感的环境所吸引。他们喜欢具有发展空间的高层职位，比如企业的高层领导。如果他们是政治家，他们会通过媒体形象和个人风格来争取更多选票。"
 msgstr ""
+"ENFP est adapté à l’environnement de travail, y compris ceux qui, après des années de travail acharné, élargissent progressivement l’échelle des entreprises. Ils peuvent être d’excellents gestionnaires, des vendeurs, des gens des médias, des agences de publicité ou des travailleurs de l’image. ENFP convient également aux travaux qui mettent en pratique des idées, telles que l’emballage, la publicité et le marketing. L’ENFP serait typique de leur environnement : ils pourraient être les plus radicaux de gauche, ou les plus conservateurs de droite. Ils sont toujours attirés par des environnements qui leur "
+"donnent un sentiment d’accomplissement. Ils aiment les postes de haut niveau avec une marge de croissance, tels que la haute direction dans l’entreprise. S’ils étaient des politiciens, ils utiliseraient leur image médiatique et leur style personnel pour gagner plus de votes."
 
 #: templates/mbti/personalities/enfp.html:41 templates/mbti/personalities/esfp.html:30 templates/mbti/personalities/infj.html:26 templates/mbti/personalities/infp.html:54 templates/mbti/personalities/intj.html:56 templates/mbti/personalities/intp.html:48
 msgid "适合的职业"
-msgstr ""
+msgstr "Convient pour une carrière"
 
 #: templates/mbti/personalities/enfp.html:42
 msgid "人力资源经理；变革管理顾问；营销经理；企业/团队培训师；广告客户经理；战略规划人员；宣传人员；事业发展顾问；环保律师；研究助理；播音员；开发总裁；广告创意；广告撰稿人；市场营销和宣传策划；市场调研人员；公关专家；公司对外发言人；儿童教育老师；大学老师（人文类）；心理学工作者；心理辅导和咨询人员；职业规划顾问；社会工作者；演讲家；记者（访谈类）；节目策划和主持人；专栏作家；剧作家；设计师；卡通制作者；电影、电视制片人"
 msgstr ""
+"Gestionnaire des ressources humaines; Consultant en gestion du changement; Directeur du marketing; Formateur d’entreprise / d’équipe; Gestionnaire d’annonceurs; Planificateur stratégique; Publiciste; Consultant en développement de carrière; Avocat en environnement; Assistant de recherche; Diffuseur; Président du développement; Idées publicitaires; Rédacteur publicitaire; Planification du marketing et de la défense des intérêts; Agent d’études de marché; Spécialiste des relations publiques; Porte-parole externe de l’entreprise; Enseignant en éducation des enfants; Enseignant d’université (sciences humaines); "
+"Psychologue; Conseiller et conseiller; Consultant en planification de carrière; Travailleur social; Conférencier Journaliste (catégorie entrevue); Planificateur et animateur de programmes; chroniqueur; dramaturge; concepteur; dessinateur; producteur de cinéma et de télévision"
 
 #: templates/mbti/personalities/enfp.html:43
 msgid "冒险特质"
-msgstr ""
+msgstr "Traits d’aventure"
 
 #: templates/mbti/personalities/enfp.html:44
 msgid "对发现生命的意义非常有兴趣；"
-msgstr ""
+msgstr "très intéressé à découvrir le sens de la vie;"
 
 #: templates/mbti/personalities/enfp.html:45
 msgid "喜欢被人们所肯定；"
-msgstr ""
+msgstr "Comme être reconnu par les gens;"
 
 #: templates/mbti/personalities/enfp.html:46
 msgid "开朗而且富有领袖魅力；"
-msgstr ""
+msgstr "joyeux et charismatique;"
 
 #: templates/mbti/personalities/enfp.html:47
 msgid "倾向于开始很多事情（包括感情）但却不一定会完成它们。"
-msgstr ""
+msgstr "Ont tendance à commencer beaucoup de choses (y compris les sentiments), mais ne les accomplissez pas nécessairement."
 
 #: templates/mbti/personalities/enfp.html:48
 msgid "对爱情的理解：爱情是神秘的、有启发的和有趣味的。"
-msgstr ""
+msgstr "Compréhension de l’amour: L’amour est mystérieux, éclairant et intéressant."
 
 #: templates/mbti/personalities/enfp.html:49
 msgid "相关信息"
-msgstr ""
+msgstr "Informations pertinentes"
 
 #: templates/mbti/personalities/enfp.html:50
 msgid "你相信生命是丰富的，爱情是多彩多姿而且拥有很多创意的。尽管上帝把一只猎犬的强健精力，和一对蜜月期的新婚夫妇的热情结合起来，却仍只不过达到你永无止境的生命热忱之一半。"
-msgstr ""
+msgstr "Vous croyez que la vie est riche, que l’amour est coloré et qu’il a beaucoup de créativité. Bien que Dieu combine la force d’un chien avec l’enthousiasme d’un couple en lune de miel, ce n’est encore que la moitié de l’enthousiasme de votre vie sans fin."
 
 #: templates/mbti/personalities/enfp.html:51
 msgid "儿戏的恋爱是形容你恋爱态度的最佳名词：好玩的、活泼的、耍闹的、可爱的，同时心中永远是年轻的。不管你的年纪多大或是你曾经在爱情里受过多少次伤害，当面对爱情时，你永远都是永恒的乐观者。"
-msgstr ""
+msgstr "L’amour dans une pièce de théâtre est le meilleur terme pour décrire votre attitude envers l’amour: ludique, vivant, enjoué, charmant et toujours jeune dans votre cœur. Peu importe votre âge ou combien de fois vous avez été blessé dans l’amour, vous serez toujours un éternel optimiste face à l’amour."
 
 #: templates/mbti/personalities/enfp.html:52
 msgid "当你碰到一个你觉得有吸引力的人时，你并不是那种会小心进展的人。你很有可能会热烈地掉入爱情的漩涡里，快速、随兴且纵情的。你总是学不会先有所保留，尤其是面临即将展开的一段新鲜刺激的恋情时。"
-msgstr ""
+msgstr "Lorsque vous rencontrez quelqu’un que vous trouvez attrayant, vous n’êtes pas le genre de personne qui va faire attention à ce qui se passe. Vous êtes susceptible de tomber dans le tourbillon de l’amour, rapide, décontracté et indulgent. Vous n’apprendrez jamais à avoir des réservations en premier, surtout face à une relation excitante à venir."
 
 #: templates/mbti/personalities/enfp.html:53
 msgid "承诺会让你害怕。这可以解释为何你到30岁、40岁、50岁或是更老时还是单身。但你绝对喜欢那种与人共享的亲密感情。只要能够找到那个特别的人，你会就此把生活安定下来。"
-msgstr ""
+msgstr "Les promesses peuvent vous effrayer. Cela peut expliquer pourquoi vous êtes célibataire lorsque vous avez 30, 40, 50 ans ou plus. Mais vous aimez absolument le genre d’intimité que vous partagez. Tant que vous pouvez trouver cette personne spéciale, vous vous installerez."
 
 #: templates/mbti/personalities/enfp.html:54
 msgid "你会和教育家型（ENFJ)或是你的镜中影像，也就是记者型的人拥有良好的关系。记者型将会成为你最佳的伴侣和情人—那一种可以为爱情带来无止境的欢乐和创意的人。"
-msgstr ""
+msgstr "Vous aurez une bonne relation avec l’EnFJ ou votre image miroir, le type journalistique. Journaliste sera votre meilleur compagnon et amant - quelqu’un qui peut apporter une joie et une créativité sans fin à l’amour."
 
 #: templates/mbti/personalities/entj.html:5
 msgid "陆军元帅型人格"
-msgstr ""
+msgstr "Personnalité du maréchal de l’armée"
 
 #: templates/mbti/personalities/entj.html:8 templates/mbti/personalities/entp.html:8 templates/mbti/personalities/esfj.html:8 templates/mbti/personalities/esfp.html:8 templates/mbti/personalities/estj.html:8 templates/mbti/personalities/estp.html:8
 msgid "特点概况"
-msgstr ""
+msgstr "Profil de fonctionnalité"
 
 #: templates/mbti/personalities/entj.html:9
 msgid "ENTJ:外向，直觉，思维，判断。ENTJ型的人是伟大的领导者和作决定的人。他们是天才的思想家和长远规划者。因为ENTJ型的人非常实际，逻辑性又强，他们善于做那些需要推理和智慧的工作。ENTJ型的人还注重真理，只有在经过逻辑推理之后他们才会信服。ENTJ型的人在作计划和研究新事务时是很系统化的。而且ENTJ型的人天生是热心坦诚的领导者。他们善于组织群众，生活非常严谨而且期望别人也是如此。因此，他们愿意挑战并且让其他人也像他们一样努力奋斗。"
 msgstr ""
+"ENTJ : Extraverti, intuitif, pensant, jugeant. Les personnes de type ENTJ sont de grands leaders et des personnes qui prennent des décisions. Ce sont des penseurs de génie et des planificateurs à long terme. Parce que les gens de type ENTJ sont très pratiques et logiques, ils sont bons pour faire des choses qui nécessitent du raisonnement et de la sagesse. Les gens de type ENTJ prêtent également attention à la vérité, et ce n’est qu’après un raisonnement logique qu’ils seront convaincus. Les personnes de type ENTJ sont très systématiques dans la planification et la recherche de nouvelles choses. Et les gens "
+"de type ENTJ sont naturellement des leaders enthousiastes et honnêtes. Ils sont doués pour organiser les masses, vivre très strictement et s’attendre à ce que les autres fassent de même. Ils sont donc prêts à défier et à laisser les autres travailler aussi dur qu’eux."
 
 #: templates/mbti/personalities/entj.html:10 templates/mbti/personalities/entp.html:10 templates/mbti/personalities/esfj.html:10 templates/mbti/personalities/estj.html:10 templates/mbti/personalities/estp.html:15
 msgid "特点详解"
-msgstr ""
+msgstr "Les fonctionnalités sont expliquées en détail"
 
 #: templates/mbti/personalities/entj.html:11
 msgid "亲切友好，意志坚强，坦率直言；诚实理性，对自己及他人要求严格；极力表现自己的能力；具有全球性的创造眼光；能干果断，做事有条理。"
-msgstr ""
+msgstr "Gentil et amical, fort, franc et franc, honnête et rationnel, strict avec vous-même et les autres, s’efforcent de montrer leur capacité, avec une vision globale de la créativité, capable et décisive, organisée."
 
 #: templates/mbti/personalities/entj.html:12
 msgid "对ENTJ类型的人来说，一生中最重要的是展现自身的实力，并实现某些重大的事情。他们是天生的指挥家和领导者。这一点无论在他们身为世界领导人时所展现的魅力和手腕上，还是在身为宗教领导人时所体现的领导力上，都得到很好的映证。ENTJ人喜欢先设计好一个计划，然后再去实现它。"
-msgstr ""
+msgstr "Pour les personnes de type ENTJ, la chose la plus importante dans la vie est de montrer leur force et de réaliser quelque chose d’important. Ce sont des chefs d’orchestre et des leaders naturels. Cela est bien démontré à la fois dans le charme et l’habileté de leur temps en tant que dirigeants mondiaux et dans leur leadership en tant que chefs religieux. Les gens de l’ENTJ aiment concevoir un plan avant de le mettre en œuvre."
 
 #: templates/mbti/personalities/entj.html:13
 msgid "ENTJ人经常以一种讲述传奇色彩的口吻来描述他们的项目和计划；这种能力对身为销售人员、以说笑话为主的喜剧演员、故事演讲家的他们派上很大的用场。结合他们与生俱来的阻挠议事的本事，顾客很难会拒绝我们主人公的要求。"
-msgstr ""
+msgstr "Les gens de l’ENTJ décrivent souvent leurs projets et leurs plans sur un ton légendaire; cette capacité leur est d’une grande utilité en tant que vendeurs, comédiens axés sur les blagues et conteurs. Combiné à leur obstruction innée, il est difficile pour les clients de refuser les demandes de notre héros."
 
 #: templates/mbti/personalities/entj.html:14
 msgid "ENTJ人很果断。他们明白需要做什么，然后把该做的事分配下去。其他类型的人在遇到冲突时，很少像他们一样能够保持决断，击败强大的对手。当受到挑战时，他们会变得很好争辩；或以横眉冷对，那眼神似乎在传达这样一种信息：ENTJ是不能被小瞧的。"
-msgstr ""
+msgstr "Les gens de l’ENTJ sont décisifs. Ils comprennent ce qui doit être fait et l’assignent ensuite. D’autres types de personnes sont moins susceptibles d’être aussi décisifs et de vaincre des adversaires puissants face à un conflit. Lorsqu’ils sont mis au défi, ils deviennent très doués pour argumenter, ou avec une paire froide à sourcils croisés, le regard semble transmettre le message que l’ENTJ ne peut pas être méprisé."
 
 #: templates/mbti/personalities/entj.html:16
 msgid ""
 "ENTJ型的人有时会急于做决定。偶尔放慢脚步可以给他们机会来收集到所有相关的数据，并可以将实际情况与自身立场仔细地考虑清楚。但ENTJ型的人比较粗心直率， 无耐心并且不敏感，不妥协并且很难接近。所以他们需要倾听周围人的心声，并对他们的贡献表示赞赏。他们过于客观地对待生活，结果没有时间去体会感情。当他们的感情被忽视或没有表达出来的时候，他们是非常敏感的。若对他们的能力表示怀疑的是他们尊敬的人的话，这种表示尤为强烈。他们会在一些小事上大发雷霆，而这种爆发会伤害与他们亲近的人。如果他们留给自己一点儿时间来体会和了解自己的真实感情的话，他们会非常开心，效果也很好。正确的释放自己的情感，而不是爆发，会使他们更好的控制自己，并获"
 "得自己期望和为之努力的地位。ENTJ型的人实际上并没有他们自己想象得那么有经验，有能力。只有接受他人实际而有价值的协助，他们才能增长能力并获取成功。"
 msgstr ""
+"Les gens de l’ENTJ sont parfois désireux de prendre des décisions. Ralentir occasionnellement leur donne l’occasion de recueillir toutes les données pertinentes et d’examiner attentivement la situation réelle et leur position. Mais les personnes de type ENTJ sont négligentes, impatientes et insensibles, intransigeantes et difficiles à approcher. Ils doivent donc écouter ceux qui les entourent et apprécier leurs contributions. Ils sont trop objectifs pour faire face à la vie, le résultat n’est pas le temps d’éprouver des sentiments. Ils sont très sensibles lorsque leurs sentiments sont ignorés ou non "
+"exprimés. Cela est particulièrement vrai si ce sont ceux qui doutent de leurs capacités qu’ils respectent. Ils se fâchent à propos de petites choses, et cette explosion blesse les gens proches d’eux. S’ils se laissent un peu de temps pour expérimenter et comprendre leurs vrais sentiments, ils seront très heureux, et l’effet est très bon. Libérer correctement leurs émotions, plutôt que d’éclater, leur donnera un meilleur contrôle sur eux-mêmes et gagnera une position d’attente et d’effort pour eux. Les gens de l’ENTJ ne sont en fait pas aussi expérimentés et capables qu’ils le pensent. Ce n’est qu’en "
+"recevant une aide pratique et précieuse des autres qu’ils peuvent développer leurs capacités et réussir."
 
 #: templates/mbti/personalities/entj.html:18
 msgid "作为ENTJ型人，职业满足意味着你做的这些工作："
-msgstr ""
+msgstr "En tant que personne de type ENTJ, la satisfaction professionnelle signifie que vous faites ces travaux:"
 
 #: templates/mbti/personalities/entj.html:19
 msgid "1． 让我领导，控制，组织以及完善一个机构的运行体制，以便它能有效地运行并达到计划目的。"
-msgstr ""
+msgstr "1． Permettez-moi de diriger, contrôler, organiser et améliorer le système d’exploitation d’une organisation afin qu’elle puisse fonctionner efficacement et atteindre les objectifs prévus."
 
 #: templates/mbti/personalities/entj.html:20
 msgid "2． 允许我从事长远策划计划，创造性地解决问题，以及对各种不同问题设计出富有创意且符合逻辑的解决方法。"
-msgstr ""
+msgstr "2． Cela me permet de planifier à long terme, de résoudre des problèmes de manière créative et de concevoir des solutions créatives et logiques à différents problèmes."
 
 #: templates/mbti/personalities/entj.html:21
 msgid "3． 我的工作是在一个组织性强的环境中完成，而且在那里我和我的同事要在一系列明确的指导方针下工作。"
-msgstr ""
+msgstr "3． Mon travail se fait dans un environnement organisé, où mes collègues et moi travaillons selon un ensemble clair de lignes directrices."
 
 #: templates/mbti/personalities/entj.html:22
 msgid "4． 我的工作能鼓励并刺激我的求知欲，同时允许我从事复杂且通常比较棘手的问题。"
-msgstr ""
+msgstr "4． Mon travail encourage et stimule ma soif de connaissances tout en me permettant de travailler sur des questions complexes et souvent difficiles."
 
 #: templates/mbti/personalities/entj.html:23
 msgid "5． 给我机会遇到并与各种不同的人交往，他们必须是有能力，有趣且实力强大的人。"
-msgstr ""
+msgstr "5． Donnez-moi l’occasion de rencontrer et d’interagir avec différentes personnes, elles doivent être capables, intéressantes et puissantes."
 
 #: templates/mbti/personalities/entj.html:24
 msgid "6． 给我在机构内不断前进，提高并展示自己才能的机会。"
-msgstr ""
+msgstr "6． Donnez-moi l’occasion d’aller de l’avant au sein de l’organisation, d’améliorer et de démontrer mes talents."
 
 #: templates/mbti/personalities/entj.html:25
 msgid "7． 我的工作有刺激性，挑战性，及竞争性，在工作中我是公众注意的焦点，同时我的成就要看得见，被认同，且能得到一定的回报。"
-msgstr ""
+msgstr "7． Mon travail est stimulant, stimulant et compétitif, et je suis au centre de l’attention du public au travail, tandis que mes réalisations sont visibles, reconnues et récompensées."
 
 #: templates/mbti/personalities/entj.html:26
 msgid "8． 允许我与别的有才智，有创造力，有抱负以及有理想的人工作，而且他们的能力是我所佩服的。"
-msgstr ""
+msgstr "8． Permettez-moi de travailler avec d’autres personnes talentueuses, créatives, ambitieuses et idéalistes, et leurs capacités sont ce que j’admire."
 
 #: templates/mbti/personalities/entj.html:27
 msgid "9． 让我设立一目标，并为实现它们而奋斗，允许我运用我的组织技能来使我自己及别人集中精力于更大的目标，而同时我自己所有的目标都能及时，有效地实现。"
-msgstr ""
+msgstr "9． Permettez-moi de me fixer des objectifs et de m’efforcer de les atteindre, ce qui me permet d’utiliser mes compétences organisationnelles pour me concentrer et concentrer les autres sur des objectifs plus larges, tandis que tous mes objectifs sont atteints en temps opportun et de manière efficace."
 
 #: templates/mbti/personalities/entj.html:28
 msgid "10． 能让我以我地政策来管理并监督别人，运用逻辑，客观的标准以及利用每个人的才能，但不必处理人际冲突。"
-msgstr ""
+msgstr "10． Me permet de gérer et de superviser les autres avec mes propres politiques, en appliquant la logique, les critères objectifs et en tirant parti des talents de chaque personne, mais sans avoir à faire face à des conflits interpersonnels."
 
 #: templates/mbti/personalities/entj.html:29 templates/mbti/personalities/esfj.html:27 templates/mbti/personalities/estj.html:19 templates/mbti/personalities/estp.html:40
 msgid "适合职业"
-msgstr ""
+msgstr "Convient pour une carrière"
 
 #: templates/mbti/personalities/entj.html:30
 msgid "政治家；法官；社团负责人；CEO；经理；高级主管；办公室主任；理事；人事经理；销售经理；营销经理；网络一体化专家（电信）；技术培训员；信息服务－新业务开发员；后勤顾问（生产）；管理顾问：电脑/信息服务/市场/机构重组；广告业务经理；营销经理：广播/电视/有线广播行业；媒体策划/采购员；国际销售和营销；销售经理：制药业；主管：健康服务；学院或大学理事；总编；戏剧制片人；警察或探长；人力资源经理；协会主席或顾问；节目导演；项目经理；零售经理；不动产经理；饭店或饮食服务行业经理 "
 msgstr ""
+"Politiciens; Juges; Chefs d’associations; PDG; Directeur; Cadre supérieur, Chef de cabinet; Directeur; Directeur du personnel; Directeur des ventes; Directeur du marketing; Spécialiste de l’intégration des réseaux (télécommunications); Formateur technique; Services d’information - Nouveau développeur d’affaires; Consultant en logistique (Production); Consultant en gestion: Informatique / Services d’information / Marketing / Réorganisation de l’organisation; Directeur commercial de la publicité; Directeur du marketing: Industrie de la radio / télévision / câblodistribution; Planification des médias / "
+"Acheteur; Ventes et marketing internationaux; Directeur des ventes: Produits pharmaceutiques Superviseur: Services de santé; Directeur de collège ou d’université; Rédacteur en chef; Producteur de théâtre; Police ou détective; Gestionnaire des ressources humaines; Président ou consultant; Directeur de programme; Gestionnaire de projet; Gestionnaire de commerce de détail; Gestionnaire de l’immobilier; Gestionnaire de l’industrie des services de restauration ou de restauration "
 
 #: templates/mbti/personalities/entj.html:31
 msgid "商业界通常都是比较受ENTJ型人欢迎的领域。他们喜欢担任那种有权威的，有控制力且能管理领导别人的职位。作为商业主管，他们能运用其长远思维来开发临时应变之措施，同时，他们能计划实现他们目标的最佳奋斗行动方向。ENTJ型的人运用一种直接管理方式，能做出强硬但公平的决定以及为雇员制定政策方针。他们喜欢自己周围的人独立，且注重结果，而又不需要太多的监督与干涉。ENTJ型的人通常能通过自己影响别人的能力以及他们能轻松自如地与人交往从而晋升到公司地顶尖阶层。"
 msgstr ""
+"Le monde des affaires est généralement un domaine populaire pour les gens de l’ENTJ. Ils aiment occuper des postes qui font autorité, qui contrôlent et qui sont capables de diriger les autres. En tant que dirigeants d’entreprise, ils peuvent utiliser leur réflexion à long terme pour élaborer des mesures d’urgence temporaires, tout en planifiant le meilleur plan d’action pour atteindre leurs objectifs. Les personnes de type ENTJ utilisent une approche de gestion directe qui leur permet de prendre des décisions difficiles mais équitables et d’élaborer des lignes directrices politiques pour les employés. Ils "
+"aiment l’indépendance des gens qui les entourent et leur concentration sur les résultats sans trop de supervision et d’ingérence. Les personnes de type ENTJ sont souvent capables de se hisser au sommet de l’entreprise en influençant leurs capacités et en étant capables d’interagir facilement avec les autres."
 
 #: templates/mbti/personalities/entj.html:32
 msgid "个人财务策划；经济分析家；抵押经纪人；信用调查员；股票经纪人；投资银行家；国际银行家；经济学家；财务员，查账员和财政首脑官员；风险资本家；商业顾问；管理顾问；教育顾问；项目设计员；管理培训员；职业发展专家；劳动关系经理；电信安全顾问；公司团队培训员；立法助理；政治顾问"
-msgstr ""
+msgstr "Planification financière personnelle; analyste économique; courtier hypothécaire; enquêteur de crédit; courtier en valeurs mobilières; banquier d’investissement; banquier international; économiste; trésorier, comptable et fonctionnaire en chef des finances; capital-risqueur; consultant en affaires; consultant en gestion; consultant en éducation; concepteur de projet; formateur en gestion; spécialiste du développement de carrière; gestionnaire des relations de travail; consultant en sécurité des télécommunications; formateur d’équipe d’entreprise; assistant législatif; consultant politique"
 
 #: templates/mbti/personalities/entj.html:33
 msgid "ENTJ型的人在金融领域也比别人稍胜一筹。他们喜欢赚钱，也喜欢与别人的钱打交道！他们喜欢这一领域的竞争，且能够迅速轻松地占据优势。这些职业使得ENTJ型地人能运用他们预测趋势的能力，同时设计有创意的方式来使自己或其客户完全利用机会。当他们的工作极少地涉及到细枝末节以及后续事务时，他们能干得很出色。不过相反如果涉及了这些小事，他们就会派给别的能胜任的助手。"
 msgstr ""
+"Les personnes de type ENTJ sont également légèrement en avance sur les autres dans le secteur financier. Ils aiment gagner de l’argent et faire face à l’argent des autres! Ils aiment la concurrence dans ce domaine et peuvent rapidement et facilement obtenir un avantage. Ces professions permettent aux atterrisseurs de type ENTJ d’utiliser leur capacité à prédire les tendances tout en concevant des moyens créatifs de tirer pleinement profit des opportunités pour eux-mêmes ou leurs clients. Ils font un excellent travail lorsque leur travail implique rarement des détails et des affaires ultérieures. Mais au "
+"contraire, si ces petites choses sont impliquées, elles seront envoyées à d’autres assistants compétents."
 
 #: templates/mbti/personalities/entj.html:34
 msgid "商业顾问；管理顾问；教育顾问；项目设计员；管理培训员；职业发展专家；劳动关系经理；电信安全顾问；公司团队培训员；立法助理；政治顾问"
-msgstr ""
+msgstr "Consultant en affaires; consultant en gestion; consultant en éducation; concepteur de projets; formateur en gestion; spécialiste du développement de carrière; responsable des relations de travail; consultant en sécurité des télécommunications; formateur d’équipe d’entreprise; assistant législatif; consultant politique"
 
 #: templates/mbti/personalities/entj.html:35
 msgid "咨询界职业所提供的多样性与独立性吸引着ENTJ型的人来从事这一行业。最近几年咨询业发展极其迅速，从而给予了ENTJ型的人众多的机会来满足他们的企业家精神，他们与有着不同商业背景的人打交道，同时获得他们在工作中付出而该获得的回报。ENTJ型的人大多在商业或管理咨询方面有优势，他们可能时优秀的，能激励人潜能的培训员。他们通常能通过一些创造性设计和活跃的活动来创造出一个有组织的，富有挑战性的环境。他们似乎永远喜欢承担新的计划，喜欢以教授别的有雄心壮志的人的方式来提高他们的能力。"
 msgstr ""
+"La diversité et l’indépendance offertes par la profession de consultant attirent des personnes de type ENTJ dans l’industrie. L’industrie du conseil s’est développée extrêmement rapidement ces dernières années, offrant aux personnes de type ENTJ de nombreuses opportunités de satisfaire leur esprit d’entreprise, de traiter avec des personnes de différents horizons commerciaux et d’obtenir ce qu’elles méritent au travail. La plupart des personnes de type ENTJ ont un avantage dans le conseil en affaires ou en gestion, et ils peuvent être de bons formateurs qui inspirent le potentiel des gens. Ils peuvent "
+"souvent créer un environnement organisé et stimulant grâce à une conception créative et à des activités actives. Ils semblent toujours aimer entreprendre de nouveaux projets et améliorer leurs capacités en enseignant à d’autres personnes ambitieuses."
 
 #: templates/mbti/personalities/entj.html:36
 msgid "律师；法官；心理学家；自然科学/社会科学教师；化学工程师；知识产权律师；生物医学工程师；律师（专业：非盈利性慈善机构）；律师（专业：财产策划）；政治科学家；病理学家；飞行员；集团总裁"
-msgstr ""
+msgstr "Avocat; Juge; Psychologue; Professeur de sciences naturelles et sociales; Ingénieur chimiste; Avocat en propriété intellectuelle; Ingénieur biomédical; Avocat (Professionnel: Organisme de bienfaisance à but non lucratif); Avocat (Professionnel: Planification immobilière); Politologue; Pathologiste; Pilote; Président de groupe"
 
 #: templates/mbti/personalities/entj.html:37
 msgid "这些职业所提供的社会地位以及影响力是ENTJ型人在职业中奋力以求的，他们大多喜欢法律业，而且能成为成功的从业律师和法官，心理学家和精神病学家所面临的智力挑战也吸引着广大的ENTJ型的人，同样复杂的化学工程领域以及不断扩张的环境和生物工程领域也对ENTJ型的人有一定的吸引力。在教育方面，ENTJ型的人通常更喜欢教高年纪，尤其是中级教育，成人教育以及大专水平教育。他们喜欢把他们的知识应用到他们周围的世界，而且他们通常拥有能允许他们把他们的教育职责扩展到别的领域的职业－如政治或政治咨询。"
 msgstr ""
+"Le statut social et l’influence offerts par ces professions sont recherchés par les personnes de type ENTJ, dont la plupart aiment la profession juridique et peuvent devenir des avocats et des juges prospères, et les défis intellectuels auxquels sont confrontés les psychologues et les psychiatres attirent un large éventail de personnes de type ENTJ, ainsi que le domaine tout aussi complexe du génie chimique et le domaine en expansion de l’environnement et de la bio-ingénierie qui ont également un certain attrait pour les personnes de type ENTJ. Dans le domaine de l’éducation, les personnes de type ENTJ "
+"préfèrent généralement enseigner à un âge plus élevé, en particulier l’enseignement secondaire, l’éducation des adultes et l’enseignement postsecondaire. Ils aiment appliquer leurs connaissances au monde qui les entoure, et ils ont souvent des carrières qui leur permettent d’étendre leurs responsabilités éducatives à d’autres domaines, tels que la politique ou le conseil politique."
 
 #: templates/mbti/personalities/entj.html:38
 msgid "网络安全管理员；系统主管；局域网主管；机器人学网络经理；数据库主管；系统分析员；项目经理；合同经理"
-msgstr ""
+msgstr "Administrateur de la sécurité réseau; superviseur du système; superviseur du réseau local; gestionnaire du réseau robotique; superviseur de base de données; analyste système; chef de projet; gestionnaire de contrat"
 
 #: templates/mbti/personalities/entj.html:39
 msgid "很多ENTJ型的人近乎完美地适合大量的与电脑有关的职业，这些职业是从个人电脑的爆炸似的增长以及因特网的广泛运用中发展起来的。这些工作所要求的一些能力对ENTJ型的人来说都是天生具备的：理解并处理复杂问题的能力，一个逻辑思维能力强的头脑，掌握宏观图像的能力，以及优秀的组织技能。"
-msgstr ""
+msgstr "De nombreuses personnes de type ENTJ sont presque parfaitement adaptées à un grand nombre de professions liées à l’informatique qui ont évolué à partir de l’explosion des ordinateurs personnels et de l’utilisation généralisée d’Internet. Certaines des compétences requises pour ces emplois sont inhérentes aux personnes de l’ENTJ: la capacité de comprendre et de traiter des problèmes complexes, un esprit logique, la capacité de maîtriser les images macro et de bonnes compétences organisationnelles."
 
 #: templates/mbti/personalities/entj.html:40
 msgid "求职"
-msgstr ""
+msgstr "Travail"
 
 #: templates/mbti/personalities/entj.html:41
 msgid "充分了解自己的长处和缺陷，能使你在求职的时候“知己知彼，百战不殆”。从开始寻求可能适合自己的工作岗位，接触和联系自己可能的未来老板，组织自我推销的材料（如个人简历等），安排并进行面试，与雇方协商工资的高低，到最后取得这份工作－在这整个过程的方方面面，人们都会如实地表现自己的个性。是否能够亮出自己的才能并弥补自己的不足，往往关系到你求职的成功与否。"
 msgstr ""
+"Bien comprendre leurs forces et leurs faiblesses, peut vous faire dans la recherche d’emploi, « se connaître, pas cent guerres. ». Qu’il s’agit de commencer à trouver un emploi qui pourrait vous convenir, de contacter et de vous connecter avec votre futur patron potentiel, d’organiser du matériel d’autopromotion (comme des CV, etc.), d’organiser et d’interviewer, de négocier un salaire avec un employeur, ou enfin d’obtenir le poste - les gens montreront leur personnalité dans tous les aspects du processus. Que vous puissiez mettre en lumière vos talents et compenser vos lacunes est souvent lié au succès de "
+"votre recherche d’emploi."
 
 #: templates/mbti/personalities/entj.html:42
 msgid ""
 "不同个性类型中的差别有时比较隐讳，有时极其明显。正是我们的建议中的这些细微的差别，往往关系到求职的成败。“相互交流”的观念（具体地说，就是通过与别人交流，从别人那儿获取一些求职信息），可以作为一个很好地例子。外向型人很喜欢和别人“相互交流”，而且我们也鼓励他大胆地去这么做；然而，内向型人却只喜欢和很小范围内的一些确定的人“相互交流”，他们觉得和熟人交流比较容易一些。感觉型人倾向于和确定范围内的一些人交流；然而，直觉型人却广泛地和很多人交换意见，虽然他们的某些聊天对象看上去和他们并不是“志趣相投”。情感型人把“相互交流”视作是很隐私的事情，就像他们对待其他任何事情一样而且他们喜欢与人建立友好关系；然而，思维型人却表现得"
 "比较一视同仁，他们对人往往比较冷漠。判断型人倾向于问别人一些比较“公式化”得问题，而且他们不会问许多人；然而，知觉型人却成天和别人无所不谈！虽然只有一个宝贵得求职方法，但是可以通过许多途径来运用表现它。"
 msgstr ""
+"Les différences entre les différents types de personnalité sont parfois subtiles et parfois évidentes. Ce sont ces nuances dans nos propositions qui sont souvent liées au succès ou à l’échec d’une recherche d’emploi. L’idée de « communiquer les uns avec les autres » (en particulier, en communiquant avec les autres et en obtenant des informations sur l’emploi des autres) peut être un bon exemple. Les extravertis aiment « communiquer » avec les autres, et nous les encourageons à le faire avec audace; Les personnes sensorielles ont tendance à communiquer avec certaines personnes dans une certaine plage; "
+"Cependant, les personnes intuitives communiquent largement avec beaucoup de gens, même si certains de leurs partenaires de chat ne semblent pas être « partageant les mêmes idées » pour eux. Les personnes émotives voient la « communication » comme une chose très privée, tout comme elles le font avec toute autre chose et elles aiment établir des relations amicales avec les gens; Les personnes qui portent des jugements ont tendance à poser aux autres des questions plus « formules », et elles ne posent pas beaucoup de gens; Bien qu’il n’y ait qu’un seul moyen précieux de trouver un emploi, il existe de "
+"nombreuses façons de l’utiliser."
 
 #: templates/mbti/personalities/entj.html:43
 msgid "成功之道"
-msgstr ""
+msgstr "La voie du succès"
 
 #: templates/mbti/personalities/entj.html:44
 msgid "因为ENTJ集多种能力于一身，所以他们中的大多数人都发现找工作还算容易且比较有意思。实际上，ENTJ们确实是了不起的工作搜索者，何况很多职业顾问就是ENTJ。难怪乎那些给求职者列出的典型工作对于ENTJ来说就好像为他们量身定做的衣服一样合身。"
-msgstr ""
+msgstr "Parce que l’ENTJ combine plusieurs capacités, la plupart d’entre eux trouvent facile et intéressant de trouver un emploi. En fait, les ENTJ sont vraiment d’excellents chercheurs d’emploi, sans oublier que de nombreux conseillers d’orientation sont des ENTJ. Pas étonnant que l’emploi typique qui est répertorié pour les chercheurs d’emploi convient ainsi que des vêtements adaptés pour ENTJ."
 
 #: templates/mbti/personalities/entp.html:5
 msgid "发明家型人格"
-msgstr ""
+msgstr "Personnalité de type inventeur"
 
 #: templates/mbti/personalities/entp.html:9
 msgid "对ENTP类型的人来说，最重要的是有创造力，能预见到美好的未来，并且时刻具有挑战性。将聪明用来形容这种类型的人是最合适不过的了。 ENTP人话说的快，脑子转的也快。他们既喜欢为自己的利益而辩，也喜欢炫耀自己的辩论技巧而跟人辩。辩论时，他们既喜欢表现乖张的幽默，也喜欢唱反调。那些并不视辩论为一种显示的人，在与他们辩论过程中，往往会觉得很困惑，甚至感到很受伤害。"
 msgstr ""
+"La chose la plus importante pour les personnes de type ETP est d’être créatif, d’être capable d’anticiper l’avenir et d’être stimulant à tout moment. Il serait plus approprié d’utiliser l’intelligence pour décrire ce type de personne. Les gens de l’ENTP parlent vite et le cerveau tourne vite. Ils aiment argumenter pour leur propre bénéfice, mais aiment aussi montrer leurs compétences en matière de débat et discuter avec les autres. Pendant le débat, ils aiment faire preuve de bonne humeur et chanter l’air opposé. Ceux qui ne voient pas le débat comme un spectacle se sentent souvent confus ou même blessés "
+"lors des débats avec eux."
 
 #: templates/mbti/personalities/entp.html:11
 msgid "由于ENTP人很善言辞，所以他们在解决问题时很机灵，很有技巧性。然而有时他们却力争超越自我，他们经常不择手段只要有条件，他们便无视某些规则的存在去抄近路，即使是在野心勃勃的欺骗性活动中溃败而终，也在所不惜。无论在工作还是在家里，他们都喜欢玩各种体力或智力上的玩具，越复杂他们就越喜欢。虽然，他们很快便会喜新厌旧。"
-msgstr ""
+msgstr "Parce que les gens de THEP sont très bons en mots, ils sont très intelligents et habiles à résoudre les problèmes. Parfois, cependant, ils s’efforcent de se dépasser, souvent par tous les moyens, chaque fois que les conditions sont en place, ils ignorent l’existence de certaines règles pour copier le chemin, même dans les activités trompeuses ambitieuses de l’effondrement, mais aussi à tout prix. Que ce soit au travail ou à la maison, ils aiment jouer avec une variété de jouets physiques ou mentaux, plus ils aiment complexe. Bien que, ils seront bientôt fatigués de l’ancien et du nouveau."
 
 #: templates/mbti/personalities/entp.html:12
 msgid "ENTP人基本上都很乐观，在遇到大挫折时，他们只视其为一个挑战，并坚定地去解决掉；但是，当他们碰到小挫折或小麻烦时，却很容易发脾气。ENTP人不能忍受那些执迷不悟、愚钝的人，同时，他们也会毫不掩饰得表达这一点。其实，只要他们生活中没什么烦扰的事，他们平时还是很亲切和蔼的，有时甚至很讨人喜欢。"
-msgstr ""
+msgstr "Les gens de l’ENTP sont généralement optimistes, face à des revers majeurs, ils ne le voient que comme un défi, et fermement pour le résoudre; Les gens de l’ENTP ne supportent pas ceux qui sont obsessionnels et stupides, et ils ne peuvent pas s’en cacher. En fait, tant qu’il n’y a rien d’ennuyeux dans leur vie, ils sont généralement très gentils et parfois même très sympathiques."
 
 #: templates/mbti/personalities/entp.html:13
 msgid "人际关系"
-msgstr ""
+msgstr "relation interpersonnelle"
 
 #: templates/mbti/personalities/entp.html:14
 msgid "在人际关系方面他们能一下子与所爱的人亲密起来。有些人在私底下表达这种感情；而另外一些人，对亲人的亲密程度却表现的很公然，以致于那些平时只见得他们工作中的一面的共事者们大吃一惊。ENTP人也善于结交那些与他们一样聪明、一样有趣的人。除了以上两方面，人性的其他方面似乎都被ENTP人给淡忘了，除非当他们作听众时-------给人或好，或坏，或什么样的感觉都有可能。"
 msgstr ""
+"En termes de relations, ils peuvent soudainement se rapprocher de la personne qu’ils aiment. Certains expriment ce sentiment en privé, tandis que d’autres expriment une telle proximité avec leurs proches qu’ils sont surpris par les collègues de travail qui ne voient généralement qu’un seul côté de leur travail. Les gens de l’ENTP sont également doués pour se faire des amis avec des gens qui sont aussi intelligents et intéressants qu’eux. En plus des deux aspects ci-dessus, d’autres aspects de la nature humaine semblent être oubliés par les gens de l’ENTP, sauf lorsqu’ils sont auditeurs——— donnent aux gens "
+"ou bons, ou mauvais, ou quel genre de sentiment est possible."
 
 #: templates/mbti/personalities/entp.html:15 templates/mbti/personalities/esfj.html:20 templates/mbti/personalities/esfp.html:13 templates/mbti/personalities/estp.html:24
 msgid "基本描述"
-msgstr ""
+msgstr "Description de base"
 
 #: templates/mbti/personalities/entp.html:16
 msgid "友好可爱，坦率直言；才思敏捷，精力充沛，玩世不恭；富有想象力和创新精神；好奇灵活，不可预见的；有逻辑性，善于分析"
-msgstr ""
+msgstr "Amical et charmant, franc et franc; vif, énergique, cynique; imaginatif et innovant; curieux et flexible, imprévisible; logique et analytique"
 
 #: templates/mbti/personalities/entp.html:17 templates/mbti/personalities/estp.html:33
 msgid "当情况环境转变时，你很容易忽视他人的情感，变得迟钝和鲁莽。"
-msgstr ""
+msgstr "Lorsque les circonstances changent, il est facile d’ignorer les émotions des autres et de devenir terne et imprudent."
 
 #: templates/mbti/personalities/entp.html:18 templates/mbti/personalities/estp.html:34 templates/mbti/personalities/intj.html:22
 msgid "优势"
-msgstr ""
+msgstr "avantage"
 
 #: templates/mbti/personalities/entp.html:19
 msgid "出色的交际才能，能使别人对自己的观点感到兴奋；急切地“想知道盒子外面的世界”，能想出一些新的可能性；具有杰出的创造性地解决问题的技能；探索精神，创新意识，以及克服困难的勇气；兴趣爱好广泛，易于接受新的事物；有“走自己的路，让别人说去吧”的乐观主义激情；学习新知识的信心和动力都很强大；天生好奇心理，快速地搜集所需信息的技能；能够把握事情的全局，弄清思想和行为的长远影响；同时处理多个问题的能力；对别人的需要和意图的知觉；能灵活地适应新情况，有熟练的变换能力；在社交生活中不会感到拘谨，能舒适地适应大多数社交场合"
 msgstr ""
+"D’excellentes compétences en communication peuvent rendre les autres enthousiastes à propos de leur propre point de vue, désireux de « vouloir connaître le monde en dehors des sentiers battus », peuvent proposer de nouvelles possibilités, avoir des compétences créatives exceptionnelles en résolution de problèmes, explorer l’esprit, la conscience innovante et le courage de surmonter les difficultés, avoir un large éventail d’intérêts, facile à accepter de nouvelles choses, avoir « suivre votre propre chemin, laisser les autres dis-le » optimisme passion, apprendre de nouvelles connaissances est une forte "
+"confiance et motivation, curiosité naturelle, rassembler rapidement les compétences d’information requises Capacité de saisir la vue d’ensemble des choses, de comprendre les effets à long terme de la pensée et du comportement, de faire face à de multiples problèmes en même temps, d’être conscient des besoins et des intentions des autres, de s’adapter de manière flexible à de nouvelles situations, d’avoir des compétences de transformation qualifiées, d’être discret dans la vie sociale et de s’adapter confortablement à la plupart des situations sociales"
 
 #: templates/mbti/personalities/entp.html:20 templates/mbti/personalities/estp.html:36 templates/mbti/personalities/intj.html:26
 msgid "劣势"
-msgstr ""
+msgstr "position inférieure"
 
 #: templates/mbti/personalities/entp.html:21
 msgid "难于让自己有条不紊和富有条理性；经常不能区分事情的优先秩序；过于自信，可能会不恰当地运用自己的能力和社交经历；倾向于用“是不是有可能”来看待问题，而不是可能性的大小来衡量问题；很可能不切实际地许诺；对思维狭窄和思想顽固的人缺乏耐心；问题一旦解决，兴趣便不复存在；不喜欢按照传统的公式化的方式办事；对待细节和后续工作可能缺乏耐心，对自己要求不严；对事物容易感到厌倦，并且可能在不恰当的时候把注意力转向别的地方；不喜欢重复性的工作；对自己不信任的人耐心不够"
 msgstr ""
+"Difficile d’être méthodique et méthodique; souvent incapable de hiérarchiser les choses; utiliser de manière trop confiante vos capacités et vos expériences sociales de manière inappropriée; avoir tendance à regarder les problèmes dans un « si c’est possible » plutôt que la taille des possibilités; susceptible de faire des promesses irréalistes; manque de patience avec des personnes étroites d’esprit et à la pensée dure; manque d’intérêt une fois le problème résolu; aversion à agir de la manière traditionnelle; et la patience avec les détails et le suivi peut manquer. Soyez imperceptible envers vous-même, "
+"lassez-vous des choses et pouvez tourner votre attention ailleurs lorsque vous n’avez pas raison; n’aimez pas le travail répétitif; et ne soyez pas assez patient avec les personnes en qui vous n’avez pas confiance"
 
 #: templates/mbti/personalities/entp.html:22
 msgid "适合岗位"
-msgstr ""
+msgstr "Convient pour le poste"
 
 #: templates/mbti/personalities/entp.html:23
 msgid "有机会从事创造性解决问题的工作，工作有一定的逻辑顺序和公正的标准，能够通过工作能提高个人权力并常与权力人物交流。比如各类项目的策划人和发起者、投资顾问（房地产、金融、贸易、商业等）、企业业主、 社团负责人、政府官员 等；投资经纪人、金融规划师、艺术总监、访谈类节目主持人、公关专业人士、企业公关经理等；产品开发、营销策划、管理系统开发、工业设计类经理、投资行业职员、广告创意指导等。"
 msgstr ""
+"La possibilité de s’engager dans un travail créatif de résolution de problèmes, le travail a un certain ordre logique et des normes équitables, à travers le travail peut améliorer le pouvoir personnel et souvent communiquer avec des figures de pouvoir. Par exemple, les planificateurs et les commanditaires de divers projets, les consultants en investissement (immobilier, finance, commerce, affaires, etc.), les propriétaires d’entreprise, les dirigeants communautaires, les représentants du gouvernement, etc.; les courtiers en investissement, les planificateurs financiers, les directeurs artistiques, les "
+"animateurs de talk-shows, les professionnels des relations publiques, les gestionnaires des relations publiques d’entreprise, etc.; développement de produits, planification marketing, développement de systèmes de gestion, gestionnaires de design industriel, personnel de l’industrie des investissements, conseils créatifs publicitaires, etc."
 
 #: templates/mbti/personalities/entp.html:25
 msgid "投资、银行、公共关系、政治、市场营销、自我创业、创造性领域。"
-msgstr ""
+msgstr "Investissement, banque, relations publiques, politique, marketing, travail indépendant, domaines créatifs."
 
 #: templates/mbti/personalities/entp.html:26 templates/mbti/personalities/infj.html:46 templates/mbti/personalities/infp.html:63
 msgid "爱情"
-msgstr ""
+msgstr "Amour"
 
 #: templates/mbti/personalities/entp.html:27
 msgid "ENTP性格类型的人天性纯良，豁达开朗，逍遥自在。和他们相处时，总能感觉非常快乐。他们在与他人的互动过程中获取快乐和满足感。他们对于理论和概念的讨论特别感兴趣。由于他们喜欢与人争论的过程，他们可能会成为争议的导火线。一般他们喜欢调侃和群体活动，并能在这种交往活动中显得魅力四射。他们的问题是，在他们寻找新点子或计划时，有时会忽视他们亲近的人"
 msgstr ""
+"ENTP type de personnalité de la nature humaine pure bien, ouvert d’esprit et joyeux, à l’aise. Lorsque vous vous entendez bien avec eux, vous vous sentez toujours très heureux. Ils gagnent du bonheur et de la satisfaction dans leurs interactions avec les autres. Ils s’intéressent particulièrement à la discussion des théories et des concepts. Parce qu’ils aiment le processus de discussion avec les autres, ils peuvent être le fusible de la controverse. Généralement, ils aiment le flirt et les activités de groupe, et peuvent sembler attrayants dans ce type d’interaction. Leur problème est que lorsqu’ils "
+"cherchent de nouvelles idées ou de nouveaux plans, ils ignorent parfois les personnes proches d’eux."
 
 #: templates/mbti/personalities/entp.html:28
 msgid "感情中的优点"
-msgstr ""
+msgstr "Les avantages de se sentir"
 
 #: templates/mbti/personalities/entp.html:29
 msgid "激情似火，积极向上且受人欢迎，拥有极强的人格魅力，优秀的沟通技巧，在交往过程中特别注重对于自己能力的提升和培养，悠闲自在，擅于自我调节，通常都是非常容易相处的，拥有大智慧的人，总是能想出一下伟大的策略或点子，很会赚钱，但是不擅理财，对于他们的承诺和人际关系都是十分严肃认真的，在情感上受到打击之后，能迅速走出阴影"
-msgstr ""
+msgstr "Passion comme le feu, positif et populaire, avec un fort charme de personnalité, d’excellentes compétences en communication, dans le processus de communication accorder une attention particulière à leur propre capacité à s’améliorer et à cultiver, tranquillement, bon à l’autorégulation, sont généralement très faciles à s’entendre, avec une grande sagesse, peuvent toujours trouver une bonne stratégie ou idée, très d’argent, mais pas bon en gestion financière, car leur engagement et leurs relations interpersonnelles sont très sérieux, émotionnellement touchés, peuvent rapidement sortir de l’ombre"
 
 #: templates/mbti/personalities/entp.html:30
 msgid "感情中的弱点"
-msgstr ""
+msgstr "Faiblesse dans les sentiments"
 
 #: templates/mbti/personalities/entp.html:31
 msgid "对于新鲜事物总是激动不已，他们可能会频繁更替自己的爱人或朋友，常会放弃对于他们计划或想法的执行，他们热爱争辩的性格可能会引发与他人的矛盾，热爱冒险且花钱无节制，通常不擅理财，虽然他们对与爱人和朋友十分看重，但是如果这段关系不能让他们获得成长的帮助，那么他们很可能会选择退出"
-msgstr ""
+msgstr "Toujours excités par de nouvelles choses, ils peuvent souvent changer de proche ou d’amis, souvent abandonner leurs plans ou leurs idées, leur personnalité pro-débat peut conduire à des conflits avec les autres, aimer l’aventure et dépenser de l’argent débridé, généralement pas bon en gestion financière, bien qu’ils apprécient leurs proches et leurs amis, mais si la relation ne leur permet pas de développer de l’aide, alors ils sont susceptibles de choisir d’arrêter de fumer."
 
 #: templates/mbti/personalities/entp.html:32
 msgid "ENTP型爱人"
-msgstr ""
+msgstr "Amoureux de l’ENTP"
 
 #: templates/mbti/personalities/entp.html:33
 msgid "在亲密的爱侣关系中，ENTP所追求的目标与他们在普通朋友关系中的目标是相似的，那就是“进步与成长”。他们会一直问自己一些像“怎样才能让感情质量提升呢？”“这段感情会驶向何方？”“我在这段感情中有得到提升么？”这类的问题。他们总是会充满热情地接受那些在他们看来能够对他们的进步和知识有所帮助的新点子、新计划以及爱人。一般说来，在一段感情中ENTP所表现出的热情和意图都是正面有益的。"
 msgstr ""
+"Dans les relations intimes, l’ENTP poursuit des objectifs similaires à ceux de son ami moyen, à qui l’égard du « progrès et de la croissance ». Ils ne cessent de se demander des choses comme : « Comment puis-je améliorer la qualité de mes sentiments ? » « Où ira cette relation? » « Ai-je été promu dans cette relation? » de telles questions. Ils adoptent toujours de nouvelles idées, de nouveaux plans et des proches qui, selon eux, les aideront à progresser et à faire leurs connaissances. D’une manière générale, l’enthousiasme et l’intention manifestés par l’ENTP dans une relation sont positifs et bénéfiques."
 
 #: templates/mbti/personalities/entp.html:34
 msgid "ENTP的一大问题就是他们对于计划的执行往往不能坚持到底。这对于他们的爱侣来说就是个麻烦了。随着问题的加剧，他们的爱侣会渐渐失去对ENTP的信心，不相信ENTP能够言行一致。最终的结果就是在爱情关系中，ENTP成为“狼来了”悲剧中的那个男主角。"
-msgstr ""
+msgstr "L’un des gros problèmes de l’enTP est qu’ils ne parviennent souvent pas à respecter le plan. C’est un problème pour leur partenaire. Au fur et à mesure que le problème s’aggravera, leurs partenaires perdront progressivement confiance en l’ENTP et ne croiront pas qu’il peut faire ce qu’il dit et fait. Le résultat final est que dans une relation amoureuse, ENTP devient le héros de la tragédie « Wolf Comes »."
 
 #: templates/mbti/personalities/entp.html:35
 msgid "在性方面，ENTP充满激情，并对不断提升双方倾注大量努力。他们会全情投入并会不断质疑。他们喜欢顺其自然而循规蹈矩，并乐于接受新鲜的概念和新的冒险。他们将性关系更多地视为是一种传达爱意的身体接触，而非直接表达爱意的机会。"
-msgstr ""
+msgstr "En termes de sexe, ENTP est passionné et met beaucoup d’efforts pour améliorer continuellement les deux côtés. Ils seront pleinement engagés et continueront de poser des questions. Ils aiment suivre les règles à leur guise et sont ouverts à de nouveaux concepts et à de nouvelles aventures. Ils voient les relations sexuelles plus comme une occasion de transmettre l’amour que comme une occasion de l’exprimer directement."
 
 #: templates/mbti/personalities/entp.html:36
 msgid "总体而言，ENTP对于爱情的健康与走向有着如孩子一般的热情及真挚的兴趣。因此，他们希望能和他们的另一半一起营造一个健康成长性的爱情关系。ENTP需要注意对于他们感受的关注。当面对生活中让人激动的外界潜在价值时，ENTP也不能因此忽视他们的感情。"
-msgstr ""
+msgstr "Dans l’ensemble, ENTP a une passion enfantine et un intérêt sincère pour la santé et la direction de l’amour. Ils veulent donc créer une relation saine et croissante avec leur moitié. L’ENTP doit être conscient des préoccupations qu’il ressent. ENTP ne peut pas ignorer leurs sentiments face à la valeur potentielle d’une vie extérieure passionnante."
 
 #: templates/mbti/personalities/entp.html:37
 msgid "两个性格发展完整的个体的确可以拥有一段健康的恋情，但是ENTP的最优选是INFJ或INTJ。ENTP的主导性格是外向直觉，这与以内向直觉为主导的性格人群是最好的配搭。虽然说任何性格类型的两个个体，只要性格发展完整都可以拥有一段健康的恋情。但是，与ENTP更合适的天生伴侣为INFJ或INTJ型性格。ENTP的主导官能“外向直觉”与这两种性格类型的主导官能“内向直接”最为匹配。"
 msgstr ""
+"Deux personnes ayant un développement complet de la personnalité peuvent en effet avoir une relation saine, mais la meilleure option pour ENTP est INFJ ou INTJ. Le caractère dominant de l’ENTP est l’intuition extravertie, qui est mieux égalée par un groupe de personnalité introverti dirigé par l’intuition. Bien qu’il soit dit que tout type de personnalité des deux individus, tant que l’intégrité du développement de la personnalité peut avoir une relation saine. Cependant, un partenaire naturel plus approprié avec L’ENP est dans le type de personnalité INFJ ou INTJ. « L’intuition extravertie » de l’officier "
+"dirigeant de l’ENTP correspond le mieux à la « franchise introvertie » de ces deux types de personnalité."
 
 #: templates/mbti/personalities/esfj.html:5
 msgid "关爱者（主人）型人格"
-msgstr ""
+msgstr "Personnalité de soignant (maître)"
 
 #: templates/mbti/personalities/esfj.html:9
 msgid "对ESFJ人来说，最重要的是人际关系，并能真实具体地帮助别人。他们待人慷慨大方，喜欢庆祝传统的节日。 ESFJ人的不同之处在于，他们欣赏 。他们清楚地看到问题的所在，轻易地分配掉，然后兴致勃勃地努力工作。像大多数SJ类型的人一样，ESFJ人很忠诚于权威，他们心甘情愿的为上级劳动（生命的意义所在），同时希望自己的下级也能如此。"
-msgstr ""
+msgstr "La chose la plus importante pour les personnes ESFJ est les relations et la capacité d’aider vraiment et concrètement les autres. Ils sont généreux et aiment célébrer les fêtes traditionnelles. La différence entre les gens de l’ESFJ est qu’ils l’apprécient. Ils voient clairement quel est le problème, l’assignent facilement, puis travaillent dur avec beaucoup d’intérêt. Comme la plupart des SJ, les ESFJ sont fidèles à l’autorité, prêts à travailler pour leurs supérieurs (le sens de la vie) et espèrent que leurs subordonnés feront de même."
 
 #: templates/mbti/personalities/esfj.html:11
 msgid "ESFJ人很容易受伤害。当他们受伤时，他们并不会压抑内心的情绪，他们天生就是那种易形于色的人。他们待人热情和蔼，但也不乏将内心的苦水吐露出来的时候。有些ESFJ人就将这种易变的情绪搬到舞台或屏幕上以戏剧的形式表现出来。"
-msgstr ""
+msgstr "Les personnes esfj sont vulnérables. Quand ils sont blessés, ils ne suppriment pas leurs émotions, ils sont nés pour être le genre de personnes faciles à regarder. Ils sont chaleureux et gentils, mais le temps ne manque pas pour cracher l’eau amère de leur cœur. Certains ESFJ déplacent cette émotion inconstante sur scène ou à l’écran sous une forme dramatique."
 
 #: templates/mbti/personalities/esfj.html:12
 msgid "ESFJ人的内心受一股强烈的、矛盾的力量冲击着。他们的是非常强烈地驱使着自己去解救所有被扭曲的真理一种本能的驱动力。所以当他们一发现有逾越者时,就会采取快速、迅捷的行动，而随之而来的可能是严厉的谴责。像管理员一样，ESFJ人能感觉到周围潜在的危险-内在的起因、外部的因素、肆无忌惮的恶人、阴险的人性弱点等，所以这是一个不可信任、充满了危险的世界。与其说ESFJ人疑心太重，倒不如说他们有高度的警惕性。所以他们是很好的保安人员，在医药保健和初等教育领域有很出色的表现。"
 msgstr ""
+"Le cœur de l’ESFJ est frappé par une force forte et contradictoire. Ils sont une force motrice instinctive qui se pousse très fortement à sauver toutes les vérités déformées. Ainsi, lorsqu’ils trouvent un passant, ils agissent rapidement et rapidement, et cela peut s’accompagner d’une condamnation sévère. Comme les administrateurs, les ESFJ peuvent sentir les dangers potentiels autour d’eux - causes internes, facteurs externes, méchants débridés, faiblesses humaines insidieuses, etc., c’est donc un monde peu fiable et dangereux. Les ESFJ ne sont pas tant méfiants que très méfiants. Ils sont donc très bons "
+"pour le personnel de sécurité et ont très bien réussi dans les domaines des soins de santé et de l’enseignement primaire."
 
 #: templates/mbti/personalities/esfj.html:13
 msgid "友好积极，精力充沛；健谈亲切，好交际；关心体贴，谨慎礼貌，易于共事；实际而正直；多愁善感，易受伤害；传统尽责，做事有条理。"
-msgstr ""
+msgstr "Amical et actif, énergique; bavard et sociable; attentionné, prudent et poli, facile à travailler; pratique et honnête; sentimental, vulnérable; consciencieux et méthodique traditionnel."
 
 #: templates/mbti/personalities/esfj.html:14
 msgid "爱心、有责任心、合作。希望周边的环境温馨而和谐，并为此果断地营造这样的环境。喜欢和他人一起精确并及时地完成任务。忠诚，即使在细微地事情上也如此。能体察到他人在日常生活中的所需并竭尽全力帮助。希 望自己和自己的所为能受到他人的认可和赏识。"
-msgstr ""
+msgstr "Amour, responsabilité, coopération. J’espère que l’environnement environnant est chaleureux et harmonieux, et pour cela décisif pour créer un tel environnement. Aimez travailler avec les autres pour accomplir des tâches avec précision et en temps opportun. La loyauté, même dans les matières subtiles. Soyez conscient des besoins des autres dans leur vie quotidienne et faites de votre mieux pour aider. Espérer que soi-même et son propre travail puissent être reconnus et appréciés par les autres."
 
 #: templates/mbti/personalities/esfj.html:15
 msgid "ESFJ型的人通过直接的行动和合作积极地以真实、实际的方法帮助别人。他们友好、富有同情心和责任感。"
-msgstr ""
+msgstr "Les personnes de type ESFJ aident activement les autres de manière réelle et pratique par l’action directe et la coopération. Ils sont amicaux, compatissants et responsables."
 
 #: templates/mbti/personalities/esfj.html:16
 msgid "ESFJ型的人把他们同别人的关系放在十分重要的位置，所以他们往往具有和睦的人际关系，并且通过很大的努力以 获得和维持这种关系。事实上，他们常常理想化自己欣赏的人或物。"
-msgstr ""
+msgstr "Les personnes de type ESFJ mettent leur relation avec les autres très importante, de sorte qu’elles ont tendance à avoir des relations harmonieuses et à travailler dur pour les gagner et les maintenir. En fait, ils idéalisent souvent les personnes ou les choses qu’ils admirent."
 
 #: templates/mbti/personalities/esfj.html:17
 msgid "ESFJ型的人往往对自己以及自己的成绩十分欣赏，因而他们对于批评或者别人的漠视很敏感。通常他们很果断，表达自己的坚定的主张，乐于事情能很快 得到解决。"
-msgstr ""
+msgstr "Les personnes de type ESFJ ont tendance à s’apprécier elles-mêmes et leurs réalisations à tel point qu’elles sont sensibles à la critique ou à l’indifférence. Habituellement, ils sont décisifs, expriment leur opinion ferme et sont heureux que les choses puissent être résolues rapidement."
 
 #: templates/mbti/personalities/esfj.html:18
 msgid "ESFJ型的人很现实，他们讲求实际、实事求是和安排有序。他们参与并能记住重要的事情和细节，乐于别人也能对自己的事情很确信。他们在自己的个人经历或在他们所信赖之人的经验之上制定计划或得出见解 。他们知道并参与周围的物质世界，并喜欢具有主动性和创造性。"
-msgstr ""
+msgstr "Les gens de type ESFJ sont très réalistes, ils sont pratiques, réalistes et organisés. Ils participent et se souviennent de choses et de détails importants, et sont prêts à avoir confiance en ce qu’ils font. Ils planifient ou tirent des enseignements en fonction de leur propre expérience personnelle ou de l’expérience de quelqu’un en qui ils ont confiance. Ils connaissent et participent au monde matériel qui les entoure et aiment être proactifs et créatifs."
 
 #: templates/mbti/personalities/esfj.html:19
 msgid "ESFJ型的人十分小心谨慎，也非常传统化，因而他们能恪守自己的责任与承诺。他们支持现存制度，往往是委员会或组织机构中积极主动和乐于合作的成员 ，他们重视并能保持很好的社交关系。他们不辞劳苦地帮助他人，尤其在遇到困难或取得成功时，他们都很积极活跃。"
-msgstr ""
+msgstr "Les gens de l’ESFJ sont très prudents et très traditionnels, afin qu’ils puissent tenir leurs responsabilités et leurs engagements. Ils soutiennent le système existant, souvent des membres proactifs et coopératifs de comités ou d’organisations, qui valorisent et entretiennent de bonnes relations sociales. Ils travaillent sans relâche pour aider les autres, surtout lorsqu’ils rencontrent des difficultés ou réussissent."
 
 #: templates/mbti/personalities/esfj.html:21
 msgid "供应是提供给他人生活必需品的行为，供应者似乎天生就热衷于为他人服务，保证他们具有物资充足感和群体归属感。他们自觉承担起照顾身边的人和安排其福利待遇的责任，他们也是护卫者型中，最喜爱交际的人。无论走到都会承担着社会奉献者的角色，愉快的付出自己的时间和精力，以确保别人的需要得到满足、传统得到维持和发展，并圆满的履行其社会职责。"
 msgstr ""
+"L’approvisionnement est l’acte de fournir les nécessités de la vie aux autres, et le fournisseur semble être naturellement désireux de servir les autres, en s’assurant qu’ils ont un sentiment d’adéquation matérielle et un sentiment d’appartenance au groupe. Ils assument consciemment la responsabilité de prendre soin des gens autour d’eux et d’organiser leur traitement social, ils sont aussi le type d’escorte, les personnes les plus sociables. Peu importe où vous allez, vous assumerez le rôle de dévot social, heureux de consacrer votre temps et votre énergie à vous assurer que les besoins des autres sont "
+"satisfaits, que les traditions sont maintenues et développées, et que leurs responsabilités sociales sont assumées avec succès."
 
 #: templates/mbti/personalities/esfj.html:22
 #, python-format
 msgid "由于生性善良或温柔，他们更乐于选择保管者的角色，而且，外向、风度翩翩的他们，似乎喜欢成为供应者，甚于保护者。他们占人口的10%%，女性比例为95%%，对我们来说是值得庆幸的事情，因为合作与方便社会是他们人性结构的关键所在。他们擅长与其助手通力协作，并不知疲倦的关心着所有商品和服务安排的详细事项。"
-msgstr ""
+msgstr "En raison de leur bonté ou de leur douceur, ils sont plus disposés à choisir le rôle de gardien et, extravertis et élégants, ils semblent préférer être des fournisseurs que des protecteurs. Elles représentent 10 %% de la population et 95 %% des femmes, ce qui est une bonne chose pour nous, car la coopération et la commodité sociale sont la clé de leur structure humaine. Ils sont doués pour travailler avec leurs assistants et se préoccupent inlassablement des détails de tous les arrangements de biens et de services."
 
 #: templates/mbti/personalities/esfj.html:26
 msgid "在选择职业的时候，供应者也许偏爱服务性行业。供应者在处理销售事宜的时候，论证了如何将销售人格化，他们明显并诚实的为顾客的福利着想，因此顾客不仅从他们那儿购买商品，还购买个人福利。他们的性格促使他们在许多人与人交往的工作中表现出色，他们很少引起领导的愤怒，因为他们以义务和服务为导向，尊重并服从规章制度。对老板忠诚，能成为得力的私人秘书和办公室接待人员。"
 msgstr ""
+"Lors du choix d’une carrière, les fournisseurs peuvent préférer l’industrie des services. Lorsque les fournisseurs s’occupent de la vente, ils montrent comment personnaliser la vente, et ils sont clair et honnêtes sur le bien-être du client, de sorte que le client achète non seulement d’eux, mais aussi des avantages personnels. Leur personnalité les encourage à exceller dans le travail avec lequel beaucoup de gens interagissent, et ils provoquent rarement la colère des dirigeants parce qu’ils sont axés sur le devoir et le service, respectueux et soumis à des règles et règlements. Soyez fidèle à votre patron "
+"et soyez un secrétaire particulier compétent et une réceptionniste de bureau."
 
 #: templates/mbti/personalities/esfj.html:28
 msgid "劳工关系调解人，商品规划师旅游项目经营者，旅游销售经理人，幼教老师，职业策划咨询师，旅游管理/导游，精品店、商场销售人员，娱乐、餐饮业客户经理员，市场营销人员（消费类产品）， 创意人员，客户经理摄影师，社区工作人员，健身和运动教练"
-msgstr ""
+msgstr "Médiateur en relations de travail, organisateur de projets touristiques de produits de base, directeur des ventes de voyages, enseignant de la petite enfance, consultant en planification de carrière, gestion de voyages / guide touristique, boutique, ventes dans les centres commerciaux, divertissement, gestionnaire de compte de restauration, spécialiste du marketing (produits de consommation), personnel créatif, photographe gestionnaire de compte, personnel communautaire, entraîneur de conditionnement physique et sportif"
 
 #: templates/mbti/personalities/esfj.html:29
 msgid "特点"
-msgstr ""
+msgstr "particularité"
 
 #: templates/mbti/personalities/esfj.html:30
 msgid "井井有条，忠心不二，自始至终完成任务的可靠人选，喜欢构建秩序、架构和计划，喜欢与其他人沟通，热心且很有爱心，将他人的需求置于自己之上，擅于给予他人切实的帮助，合作互助，是非常优秀的团队成员，脚踏实地、注重实践，推崇平静安全的生活，喜欢多样化，但对日常事务的处理中也十分出色，需要得到他人的认可，在给予的过程中获得满足，活在当下，不喜欢对于未来理论化的设想"
 msgstr ""
+"Des personnes bien organisées, loyales, fiables qui accomplissent des tâches du début à la fin, aiment construire l’ordre, la structure et le plan, aiment communiquer avec les autres, chaleureuses et très attentionnées, mettent les besoins des autres au-dessus des leurs, sont bons pour donner aux autres une aide pratique, une coopération et une assistance mutuelle, sont de très bons membres de l’équipe, terre-à-terre, se concentrent sur la pratique, favorisent une vie calme et sûre, comme la diversité, mais les affaires quotidiennes du processus sont également très bonnes, doivent être reconnues par les "
+"autres, dans le processus d’être satisfait, vivre dans le présent, Je n’aime pas l’idée de la théorie du futur"
 
 #: templates/mbti/personalities/esfj.html:31
 msgid "感情"
-msgstr ""
+msgstr "affection"
 
 #: templates/mbti/personalities/esfj.html:32
 msgid "ESFJ十分热心，他们非常重视自己的好友和家人。他们喜欢服务他人，而且他们的快乐来自于周围人群的快乐和愉悦。ESFJ的真挚热情、关爱他人的天性以及他们挖掘他人潜能的能力被周围人群极度推崇。他们通常不擅于掌控冲突局面，还会表现出一定的控制和操控欲。人际交往是他们生活的核心，为此他们会投入大量的时间和精力来培养和维系自己的这些人际纽带。同时，他们期望别人也能这么做。"
 msgstr ""
+"ESFJ est très enthousiaste et ils prennent leurs amis et leur famille très au sérieux. Ils aiment servir les autres, et leur bonheur vient du bonheur et du plaisir des gens qui les entourent. La véritable passion, la nature bienveillante et la capacité d’exploiter le potentiel des autres sont très appréciées par les personnes qui les entourent. Ils ne sont généralement pas bons pour contrôler les situations de conflit et montrent un certain degré de contrôle et de contrôle. La communication interpersonnelle est au cœur de leur vie, et ils investissent beaucoup de temps et d’énergie pour cultiver et "
+"maintenir leurs liens interpersonnels. En même temps, ils s’attendent à ce que les autres fassent de même."
 
 #: templates/mbti/personalities/esfj.html:33
 msgid "不遗余力地履行自己的职责和义务；天性热情友善，乐于认同他人；具有服务意识，喜欢取悦他人；对于自己的承诺十分认真，寻求能够白头偕老的爱情；富有责任心且脚踏实地，是处理日常事务的可靠人选；通常积极向上，且非常受欢迎，对周围人群有很大的吸引力；通常非常擅于理财；思想传统，具有家庭观念，常会举办家庭庆典及传统的特殊活动"
-msgstr ""
+msgstr "Ne ménagez aucun effort pour remplir vos responsabilités et obligations; nature chaleureuse et amicale, prête à s’identifier aux autres; soucieuse du service, comme plaire aux autres; très sérieuse dans leurs engagements, recherchant l’amour qui peut vieillir en vain; responsable et terre-à-terre, un candidat fiable pour les affaires quotidiennes; souvent positif et très populaire, avec un grand attrait pour la foule environnante; souvent très bon pour gérer l’argent; pensée traditionnelle, valeurs familiales, organisant souvent des fêtes de famille et des événements spéciaux"
 
 #: templates/mbti/personalities/esfj.html:34
 msgid "对于改变以及新环境常会表现出不适；极度厌恶冲突和批评；需要他人大量的正面肯定来获取自我满足；有可能过分注重权力地位，关注别人对自己的看法；很难接受感情的终结，并总会将罪错全部归到自己身上；很难接受自己身边亲密的人有任何负面问题；对于自己需求的关注不足，常会做出自我牺牲；有可能会运用阴谋操纵来达到自己的目的"
 msgstr ""
+"Mal à l’aise avec le changement et le nouvel environnement, extrêmement opposé aux conflits et aux critiques, exigeant beaucoup d’affirmation positive des autres pour atteindre l’autosatisfaction, la possibilité de trop se concentrer sur les positions de pouvoir, de prêter attention à ce que les autres pensent d’eux-mêmes, d’avoir de la difficulté à accepter la fin des sentiments et de toujours se blâmer pour tous, d’avoir de la difficulté à accepter des problèmes négatifs avec leurs proches, de faire souvent des sacrifices de soi pour une attention insuffisante à leurs propres besoins, et la possibilité "
+"d’utiliser la conspiration pour les manipuler afin d’atteindre leurs objectifs"
 
 #: templates/mbti/personalities/esfj.html:35
 msgid "ESFJ型爱人"
-msgstr ""
+msgstr "Amoureux de l’ESFJ"
 
 #: templates/mbti/personalities/esfj.html:36
 msgid "ESFJ对于自己的爱人总会特别关心和照顾。他们往往非常传统，对于承诺十分认真。一旦ESFJ说出“我愿意”这三个字，他们就绝对会花大量的时间和精力来实现他们对于这段感情的承诺。"
-msgstr ""
+msgstr "ESFJ prend toujours un soin particulier de son amant. Ils ont tendance à être très traditionnels et à prendre les engagements très au sérieux. Une fois que l’ESFJ aura prononcé les mots « oui », ils passeront certainement beaucoup de temps et d’efforts à remplir leur engagement envers la relation."
 
 #: templates/mbti/personalities/esfj.html:37
 msgid "ESFJ们希望别人能够欣赏真正的自己，同时感激自己为别人所做出的努力。这种对于认可的需要有时会让他们变得极端渴求情绪上的满足。如果渴求难以满足，他们还可能不断地暗示爱人以寻求对自己的认可。ESFJ特别无法忍受矛盾或批评。任何形式的批评对他们而言都是对自己人格的侮辱。这个潜在问题是ESFJ需要注意的。在面对他人负面评价，或者缺受别人的正面认同时，ESFJ通常会表现得失落并开始自暴自弃。作为ESFJ的爱人，感恩的心是对他们最好的礼物。"
 msgstr ""
+"Les ESFJ veulent que les autres apprécient qui ils sont vraiment et apprécient leurs efforts. Ce besoin de reconnaissance les rend parfois extrêmement avides de satisfaction émotionnelle. Si le désir est difficile à satisfaire, ils peuvent aussi suggérer constamment que l’amant cherche à se reconnaître. L’ESFJ, en particulier, ne peut tolérer les contradictions ou les critiques. Toute forme de critique est une insulte à leur propre personnalité. Ce problème potentiel est ce dont l’ESFJ doit être conscient. Les ESFJ semblent souvent frustrés et égocentriques face aux critiques négatives des autres, ou "
+"manquent de reconnaissance positive. En tant qu’amour de l’ESFJ, le cœur reconnaissant est le meilleur cadeau pour eux."
 
 #: templates/mbti/personalities/esfj.html:38
 msgid "ESFJ对于社会地位以及“他人的看法”十分关注。他们应该注意不要让这种情绪影响他们的感情。"
-msgstr ""
+msgstr "L’ESFJ est très préoccupé par le statut social et « la perception des autres ». Ils doivent faire attention à ne pas laisser cette émotion affecter leurs sentiments."
 
 #: templates/mbti/personalities/esfj.html:39
 msgid "在性方面，ESFJ们热情且钟情。他们视性爱作为表达自己的爱以及接收对方爱意的机会。许多ESFJ们倾向于传统的，有规律的性爱。然而，随着他们知识以及相关信息的积累，这种定式终将被打破。ESFJ具有极强的服务观，他们会十分注重让自己的另一半感到愉悦。"
-msgstr ""
+msgstr "Côté sexuel, les ESFJ sont passionnés et amoureux. Ils voient le sexe comme une occasion d’exprimer leur amour et de le recevoir. De nombreux ESFJ ont tendance à avoir des rapports sexuels traditionnels et réguliers. Cependant, à mesure que leurs connaissances et les informations pertinentes s’accumulent, ce stéréotype finira par être brisé. ESFJ a un fort sens du service, ils prêteront une grande attention à leur autre moitié pour être heureux."
 
 #: templates/mbti/personalities/esfj.html:40
 msgid "ESFJ们脚踏实地，因此极其擅长于家庭管理方面的事务。对于家人的日常所需他们通常非常有责任心，在财务方面他们也总是小心谨慎。他们喜欢安全平静的生活，并会为实现自己，伴侣和家人的目标而不懈努力。"
-msgstr ""
+msgstr "Les ESFJ sont terre-à-terre et donc extrêmement bons en matière de gestion à domicile. Ils sont généralement très responsables des besoins quotidiens de leur famille et ils sont toujours prudents financièrement. Ils jouissent d’une vie sûre et paisible et travailleront sans relâche pour atteindre leurs objectifs, ceux de leurs partenaires et de leurs familles."
 
 #: templates/mbti/personalities/esfj.html:41
 msgid "大多数ESFJ非常需要归属感。这种需求常会让他们极具社交才华，乐于参加派对，也会不时举行一些聚会。他们通常希望自己的伴侣能够分享自己的社交体验。"
-msgstr ""
+msgstr "La plupart des ESFJ ont besoin d’un sentiment d’appartenance. Cette demande les rend souvent socialement talentueux, prêts à faire la fête et à faire la fête de temps en temps. Ils veulent souvent que leurs partenaires partagent leurs expériences sociales."
 
 #: templates/mbti/personalities/esfj.html:42
 msgid "虽然说任何性格类型的两个个体，只要性格发展完整都可以拥有一段健康的恋情。但是，与ESFJ更合适的天生伴侣为ISFP、ISFJ或INFP型性格。ESFJ的主导官能“外向情感”与这两种性格类型的主导官能“内向情感”最为匹配。"
-msgstr ""
+msgstr "Bien qu’il soit dit que tout type de personnalité des deux individus, tant que l’intégrité du développement de la personnalité peut avoir une relation saine. Cependant, un partenaire naturel plus approprié avec ESFJ est la personnalité de type ISFP, ISFJ ou INFP. L’« émotion extravertie » dominante de l’ESFJ correspond le mieux à « l’émotion introvertie » dominante de ces deux types de personnalité."
 
 #: templates/mbti/personalities/esfj.html:43
 msgid "结束语"
-msgstr ""
+msgstr "Conclusion"
 
 #: templates/mbti/personalities/esfj.html:44
 msgid "无论做什么，你都需要勇气。"
-msgstr ""
+msgstr "Peu importe ce que vous faites, vous avez besoin de courage."
 
 #: templates/mbti/personalities/esfp.html:5
 msgid "表演者型人格"
