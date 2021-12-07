@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2021-11-19 13:28+0800\n"
-"PO-Revision-Date: 2021-12-05 23:23+0800\n"
+"PO-Revision-Date: 2021-12-07 21:48+0800\n"
 "Language: fr\n"
 "Language-Team: fr <LL@li.org>\n"
 "Plural-Forms: nplurals=2; plural=(n > 1);\n"
@@ -1414,7 +1414,7 @@ msgstr ""
 #: templates/mbti/personalities/enfj.html:74
 msgid "危机：你对爱人百分之百的情感投入也许会让你觉得超出负荷—因为忙于照料情人的需要，而导致你缺乏精力照顾自己。你或许会倾向于把事情都看得太涉及私人情绪，因而当你的伴侣说了一些听起来带批评口吻，但事实并非如此的话语时，你会觉得受到伤害。例如说，若另一半纯粹只是想告诉你，你很漂亮时，你有可能会觉得难过，误以为那是讽刺的一击，因为他在刚才表现得爱理不理，你现在觉得他是在对你的外观做有意图的评论，只是为了讨好你。如果是这样的话，那现在开始争端真正要开始了。"
 msgstr ""
-"Crise: Votre engagement émotionnel à 100% envers votre amant peut vous faire sentir surchargé - vous manquez d’énergie pour prendre soin de vous parce que vous êtes occupé à prendre soin des besoins de votre amant. Vous pouvez être enclin à prendre les choses trop personnellement, de sorte que vous vous sentez blessé lorsque votre partenaire dit quelque chose qui semble critique, mais ce n’est pas le cas. Par exemple, si votre autre moitié essaie simplement de vous dire que vous êtes belle, vous pourriez vous sentir triste et la confondre avec un coup sarcastique parce qu’il a juste agi comme s’il "
+"Crise: Votre engagement émotionnel à 100%% envers votre amant peut vous faire sentir surchargé - vous manquez d’énergie pour prendre soin de vous parce que vous êtes occupé à prendre soin des besoins de votre amant. Vous pouvez être enclin à prendre les choses trop personnellement, de sorte que vous vous sentez blessé lorsque votre partenaire dit quelque chose qui semble critique, mais ce n’est pas le cas. Par exemple, si votre autre moitié essaie simplement de vous dire que vous êtes belle, vous pourriez vous sentir triste et la confondre avec un coup sarcastique parce qu’il a juste agi comme s’il "
 "l’ignorait, et vous pensez maintenant qu’il fait un commentaire intentionnel sur votre apparence juste pour vous plaire. Si c’est le cas, alors le conflit est vraiment sur le point de commencer maintenant."
 
 #: templates/mbti/personalities/enfj.html:75
@@ -4286,23 +4286,23 @@ msgstr "Les personnes de type ISTJ sont particulièrement calmes et diligentes, 
 
 #: templates/mbti/personalities/istj.html:12
 msgid "ISTJ型的人总是很传统、谨小慎微。他们聆听和喜欢确实、清晰地陈述事物。ISTJ型的人天生不喜欢显露，即使危机之时，也显得很平静。他们总是显得责无旁贷、坚定不变，但是在他们冷静的外表之下，也许有强烈却很少表露的反应。"
-msgstr ""
+msgstr "Les gens de type ISTJ sont toujours très traditionnels, prudents. Ils écoutent et aiment dire les choses honnêtement et clairement. Les ISTJ sont intrinsèquement antisymiques, et même en temps de crise, ils semblent calmes. Ils semblent toujours consciencieux et instables, mais sous leur apparence cool, il peut y avoir des réactions fortes mais rarement visibles."
 
 #: templates/mbti/personalities/istj.html:13
 msgid "功能运用"
-msgstr ""
+msgstr "Utilisation fonctionnelle"
 
 #: templates/mbti/personalities/istj.html:14
 msgid "外向与内向是指我们心理能量的作用方向，判断与知觉是我们做事的两种方式。心理学称之为“态度”。感觉与直觉是我们获取信息的方式，思考和情感是做决定的方式，心理学称之为“功能”，功能是人格理论的精髓、核心。"
-msgstr ""
+msgstr "L’extraversion et l’introversion se réfèrent à la direction de notre énergie psychologique, le jugement et la perception sont les deux façons dont nous faisons les choses. La psychologie l’appelle « attitude ». Le sentiment et l’intuition sont la façon dont nous obtenons l’information, la pensée et l’émotion sont le moyen de prendre des décisions, la psychologie l’appelle « fonction », la fonction est l’essence et le cœur de la théorie de la personnalité."
 
 #: templates/mbti/personalities/istj.html:15
 msgid "每一个人在都会用到四种功能，但对功能应用的喜好程度不一样。等级中第一位的称为“主导功能”，第二位的称为“辅助功能”。每个人都需要运用到这两个过程。"
-msgstr ""
+msgstr "Tout le monde utilise quatre fonctionnalités, mais a une préférence différente pour les applications de fonctionnalités. La première dans le rang est appelée « fonctionnalité dominante » et la seconde est appelée « accessibilité ». Tout le monde doit appliquer les deux processus."
 
 #: templates/mbti/personalities/istj.html:16
 msgid "有效地使用你的类型：ISTJ型的人主导功能是（关注细节），辅助功能是思维。他们倾向于：注意细节、重视实际、能记住琐碎细节、耐得住烦闷的工作、有耐性、细心有系统。"
-msgstr ""
+msgstr "Utilisez votre type efficacement: la fonctionnalité humaine de type ISTJ est (attention aux détails), l’accessibilité est la pensée. Ils ont tendance à être attentifs aux détails, à être pratiques, à se souvenir de détails triviaux, à travailler avec ennui, à être patients, à être prudents et systématiques."
 
 #: templates/mbti/personalities/istj.html:17
 msgid "合乎逻辑擅于分析、客观、公正、有逻辑系统的思考、具拟判能力、坚定。"
@@ -4310,23 +4310,23 @@ msgstr "Logique est bon à l’analyse, objectif, juste, logique, avec la capaci
 
 #: templates/mbti/personalities/istj.html:18
 msgid "ISTJ型的人比较少地使用他们的第三、第四功能—情感和直觉。即使在需要这些功能的场合，他们仍然无法有效使用。"
-msgstr ""
+msgstr "Les personnes de type ISTJ utilisent moins leurs troisième et quatrième fonctions - l’émotion et l’intuition. Ils ne sont pas efficaces même lorsque ces fonctionnalités sont nécessaires."
 
 #: templates/mbti/personalities/istj.html:19
 msgid "作为一个ISTJ型的人：如果你过多的使用感觉功能，你可能失去整体的概念、想不出各种可能解决的途径、不住直觉、不求创新、无法应付太复杂的工作、不喜欢预测未来。如果你过多的使用思考功能，你可能在需要的时间忘记去称赞他人，或忽视你决策对其它人的影响。"
-msgstr ""
+msgstr "En tant que type ISTJ: Si vous utilisez trop la fonction sensorielle, vous risquez de perdre tout le concept, de penser à des moyens de le résoudre, de ne pas intuitivement, de ne pas innover, de ne pas pouvoir faire face à un travail trop complexe et de ne pas aimer prédire l’avenir. Si vous pensez trop, vous pouvez oublier de faire l’éloge des autres ou ignorer l’impact de vos décisions sur les autres lorsque vous avez besoin de temps."
 
 #: templates/mbti/personalities/istj.html:20
 msgid "问题解决"
-msgstr ""
+msgstr "Résolution de problème"
 
 #: templates/mbti/personalities/istj.html:21
 msgid "每个人都会用自己的方式进行决策，决策通常来自于你的主导功能，并且完全忽视你的第四功能。你的功能运用如下："
-msgstr ""
+msgstr "Chacun prend des décisions à sa manière, souvent à partir de votre fonction dominante et en ignorant complètement votre quatrième fonction. Voici comment fonctionnent vos fonctionnalités :"
 
 #: templates/mbti/personalities/istj.html:22
 msgid "主导功能 感觉"
-msgstr ""
+msgstr "Fonction dominante : sensation"
 
 #: templates/mbti/personalities/istj.html:23
 msgid "辅助功能 思维"
@@ -4334,27 +4334,31 @@ msgstr "Accessibilité : Réflexion"
 
 #: templates/mbti/personalities/istj.html:24
 msgid "第三功能 情感"
-msgstr ""
+msgstr "Troisième fonction : l’émotion"
 
 #: templates/mbti/personalities/istj.html:25
 msgid "第四功能 直觉"
-msgstr ""
+msgstr "Quatrième fonction : Intuition"
 
 #: templates/mbti/personalities/istj.html:26
 msgid "一个好的决策通常来自于四个功能的合理运用。当你尝试去解决问题时，你可以利用上表指导这个过程，但在整个的执行过程是非常困难的，因为每个人都不愿意用他不喜欢的功能去解决问题。就算你有意识地努力运用所有这些功能，你也不可能会在“真实生活”中以这种顺序运用它们。关键是要利用它们提醒自己，完善决策，就算你不按这种方式行事。"
 msgstr ""
+"Une bonne décision vient généralement de l’utilisation rationnelle de quatre fonctions. Lorsque vous essayez de résoudre un problème, vous pouvez utiliser le tableau ci-dessus pour guider le processus, mais l’ensemble du processus d’exécution est très difficile car tout le monde est réticent à utiliser des fonctionnalités qu’il n’aime pas résoudre le problème. Même si vous essayez consciemment d’utiliser toutes ces fonctions, vous ne pourrez peut-être pas les utiliser dans cet ordre dans la « vie réelle ». La clé est de les utiliser pour vous rappeler et améliorer votre prise de décision, même si vous "
+"n’agissez pas de cette façon."
 
 #: templates/mbti/personalities/istj.html:27
 msgid "工作中选择符合你的主导功能和辅助功能的岗位是非常重要的。第三功能要经过发展锻炼才能合适运用，第四功能可能永远不会在你的职业生涯中起到关键作用，因此你应当避免那种要求长期使用它的工作。"
-msgstr ""
+msgstr "Il est important de choisir un poste qui correspond à vos fonctions de direction et d’accessibilité. La troisième fonctionnalité doit être développée pour fonctionner correctement, et la quatrième fonction peut ne jamais jouer un rôle clé dans votre carrière, vous devez donc éviter le type de travail qui nécessite une utilisation à long terme."
 
 #: templates/mbti/personalities/istj.html:29
 msgid "ISTJ型人的一个普遍问题是在计划的细节和每日运行中丧失了自我的倾向。一旦沉浸其中，他们很固执僵化，不愿意适应或接受另外的观点。如果没有看到新想法的直接和有效的运用，他们往往会产生怀疑、他们必须花时间注意全部的客观事情，考虑他们可能没有考虑的可选择的情况，收集范围更广泛的信息，有意识地努力对他们的行为的未来含义做出预测，能够在各方面都增进ISTJ型人的影响。"
 msgstr ""
+"Un problème courant avec les ISTJ est la tendance à se perdre dans les détails du plan et de l’exécution quotidienne. Une fois immergés dedans, ils sont têtus et rigides et peu disposés à s’adapter ou à accepter d’autres points de vue. Sans voir l’utilisation directe et efficace des nouvelles idées, ils ont tendance à être sceptiques, ils doivent prendre le temps de prêter attention à toutes les choses objectives, envisager des situations alternatives qu’ils pourraient ne pas envisager, recueillir des informations plus larges, essayer consciemment de prédire le sens futur de leurs actions et peuvent "
+"améliorer l’impact des personnes de type ISTJ à tous égards."
 
 #: templates/mbti/personalities/istj.html:30
 msgid "有时ISTJ型的人很难理解其他人的需求，尤其是那些与自己差异很大的需求。因为他们对自己的反响很隐蔽，所以他们被视为冷静而无情。他们必须直接地表达出对他人的欣赏，而不是仅仅保留在内心。"
-msgstr ""
+msgstr "Parfois, les personnes de type ISTJ ont du mal à comprendre les besoins des autres, en particulier ceux qui sont très différents d’eux-mêmes. Ils sont considérés comme calmes et impitoyables parce que leur réponse est si subtile. Ils doivent exprimer directement leur appréciation pour les autres, pas seulement les garder dans leur cœur."
 
 #: templates/mbti/personalities/istj.html:31
 msgid "因为ISTJ型的人很有条理，所以他们希望别人也如此。他们冒险把自己的判断强加于别人，无视那些不是十分自信的人的意见。他们强求别人按照他们的方法做事，阻止运用那些更有创造性的、新颖的方法。他们应该对未经考验和非传统的方式持开放的态度，这样才会对人们的差异更加容忍，最终才能做出有效的抉择。"
@@ -4362,15 +4366,15 @@ msgstr "Parce que les gens de type ISTJ sont très organisés, ils veulent que l
 
 #: templates/mbti/personalities/istj.html:33
 msgid "办事精确，希望第一次就能把工作做好；"
-msgstr ""
+msgstr "Précis, j’espère que la première fois pourra faire du bon travail;"
 
 #: templates/mbti/personalities/istj.html:34
 msgid "乐意遵循确定的日常安排和传统的方针政策；"
-msgstr ""
+msgstr "Désireux de suivre les arrangements quotidiens établis et les lignes directrices et politiques traditionnelles;"
 
 #: templates/mbti/personalities/istj.html:35
 msgid "每次都能十分专注地把注意力集中在一个项目或任务上；"
-msgstr ""
+msgstr "Concentrez-vous sur un projet ou une tâche à la fois;"
 
 #: templates/mbti/personalities/istj.html:36
 msgid "能够独立地工作；"
@@ -4378,11 +4382,11 @@ msgstr "Capacité de travailler de façon autonome;"
 
 #: templates/mbti/personalities/istj.html:37
 msgid "灵敏的组织能力；"
-msgstr ""
+msgstr "Compétences organisationnelles sensibles;"
 
 #: templates/mbti/personalities/istj.html:38
 msgid "一丝不苟、认真专注地对待具体问题：事实和细节；"
-msgstr ""
+msgstr "Soyez méticuleux et attentif aux questions spécifiques: faits et détails;"
 
 #: templates/mbti/personalities/istj.html:39
 msgid "相信传统模式的可取之处，并且能够遵循传统模式；"
@@ -4390,11 +4394,11 @@ msgstr "Croire aux mérites des modèles traditionnels et être capable de les s
 
 #: templates/mbti/personalities/istj.html:40
 msgid "非常强的责任意识；别人可以信任你去实现自己的诺言；"
-msgstr ""
+msgstr "Très fort sens des responsabilités, les autres peuvent vous faire confiance pour tenir leur promesse;"
 
 #: templates/mbti/personalities/istj.html:41
 msgid "明白清晰的工作条理；认为高效率和多成果是很重要的；"
-msgstr ""
+msgstr "Comprendre un ordre de fonctionnement clair et considérer qu’il est important d’être efficace et productif;"
 
 #: templates/mbti/personalities/istj.html:42
 msgid "对实现目标有毅力和决心；"
@@ -4402,15 +4406,15 @@ msgstr "Persévérance et détermination à atteindre les objectifs;"
 
 #: templates/mbti/personalities/istj.html:43
 msgid "通情达理，视角现实。"
-msgstr ""
+msgstr "Perspective raisonnable et réaliste."
 
 #: templates/mbti/personalities/istj.html:44
 msgid "工作劣势"
-msgstr ""
+msgstr "Désavantage au travail"
 
 #: templates/mbti/personalities/istj.html:45
 msgid "不愿意尝试、接受新的和未经考验的观点和想法；"
-msgstr ""
+msgstr "Ne pas vouloir essayer d’accepter des idées et des idées nouvelles et non testées;"
 
 #: templates/mbti/personalities/istj.html:46
 msgid "对变动感到不安；排斥革新；"
@@ -4418,23 +4422,23 @@ msgstr "Mal à l’aise face au changement;"
 
 #: templates/mbti/personalities/istj.html:47
 msgid "对需要很长时间才能完成的任务缺乏耐心；"
-msgstr ""
+msgstr "Manque de patience avec des tâches qui prennent beaucoup de temps à accomplir;"
 
 #: templates/mbti/personalities/istj.html:48
 msgid "有时会由于近期目标而忽略长远需要；"
-msgstr ""
+msgstr "Parfois, les besoins à long terme sont ignorés en raison d’objectifs à court terme;"
 
 #: templates/mbti/personalities/istj.html:49
 msgid "办事死板；必要的时候难以或不愿意适应新情况；"
-msgstr ""
+msgstr "rigide, lorsque cela est nécessaire, difficile ou peu disposé à s’adapter à la nouvelle situation;"
 
 #: templates/mbti/personalities/istj.html:50
 msgid "难以看到问题的整体以及行为的长远影响；"
-msgstr ""
+msgstr "Difficile de voir le problème global et l’impact à long terme du comportement;"
 
 #: templates/mbti/personalities/istj.html:51
 msgid "对于方针或决定将会对别人造成什么样的影响缺乏敏感；"
-msgstr ""
+msgstr "Manque de sensibilité à l’impact qu’une politique ou une décision aura sur les autres;"
 
 #: templates/mbti/personalities/istj.html:52
 msgid "需要的时候不愿意改变努力的方向或调整投入的多少；"
@@ -4442,19 +4446,21 @@ msgstr "Réticent à changer de direction d’effort ou à ajuster la quantité 
 
 #: templates/mbti/personalities/istj.html:53
 msgid "不愿意促成必要的改变，也不愿意支持经过仔细考虑的风险行为。"
-msgstr ""
+msgstr "Ne pas vouloir apporter les changements nécessaires ou soutenir des comportements à risque soigneusement réfléchis."
 
 #: templates/mbti/personalities/istj.html:55
 msgid "研究发现：职业满足会使你的工作主动性更强，积极性更高，更愿意去工作。以下不是简单的告诉你什么样的工作适合你，而是细化的帮你分析工作中的哪些特质对你重要，你还需要从中选出你认为最重要的，因为不同经历的人对特质的重要程度要求是不同的。每个岗位的工作内容都在随企业的发展而发展，不是一成不变的，有时候岗位的发展方向需要我们自己去争取。所以找到适合的工作不如找到适合自己发展的岗位更直接。这些特质可以帮助明确如何主动的发展或争取你岗位中的那些特质。"
 msgstr ""
+"La satisfaction professionnelle peut vous rendre plus motivé, motivé et plus disposé à travailler, selon la recherche. Ce qui suit n’est pas simplement pour vous dire quel type d’emploi vous convient, mais pour affiner pour vous aider à analyser quels traits de votre travail sont importants pour vous, et vous devez choisir ce que vous pensez être le plus important, parce que les gens de différentes expériences ont des exigences différentes pour l’importance des traits. Le contenu de chaque poste se développe avec le développement des entreprises, pas statique, parfois la direction du développement du poste "
+"a besoin que nous nous battions pour. Donc, trouver le bon emploi n’est pas aussi simple que de trouver un emploi qui convient à votre développement. Ces traits peuvent aider à clarifier comment développer de manière proactive ou rivaliser pour ces traits dans votre position."
 
 #: templates/mbti/personalities/istj.html:56
 msgid "下面的条目从各个侧面上认证了您怎样才能受到真正的职业满足，看完这些条目之后，我们建议您根据它们对您的重要程序进行排序，排序的时候，回想一下您过去的学习、工作经历以及当前学习环境和工作感受，并思考：“哪一些是令你感到特别满意，有哪些令你极其不高兴”。试着寻找贯穿这些经历的主题。"
-msgstr ""
+msgstr "Les entrées suivantes identifient comment vous pouvez être vraiment satisfait professionnellement de tous les côtés, et après les avoir lues, nous vous recommandons de trier vos programmes importants en fonction d’eux, de vous rappeler votre apprentissage passé, votre expérience de travail, votre environnement d’apprentissage et votre expérience de travail actuels, et de penser: « Ce qui vous satisfait particulièrement et ce qui vous rend extrêmement malheureux ». Essayez de trouver des thèmes qui traversent ces expériences."
 
 #: templates/mbti/personalities/istj.html:57
 msgid "你的岗位特质："
-msgstr ""
+msgstr "Caractéristiques de votre emploi :"
 
 #: templates/mbti/personalities/istj.html:58
 msgid "1. 本质上是技术性的，能让你依靠自己的能力来使用和了解重要的事实和细节。"
@@ -4462,15 +4468,15 @@ msgstr "1. Il est de nature technique et vous permet d’utiliser et de comprend
 
 #: templates/mbti/personalities/istj.html:59
 msgid "2. 涉及很多实际的产品和服务。这些产品或服务是通过严谨周密、合乎逻辑且效率高的方法——最好是运用标准化的工作程序来生产或实现的。"
-msgstr ""
+msgstr "2. Implique de nombreux produits et services pratiques. Ces produits ou services sont fabriqués ou mis en œuvre selon une approche rigoureuse, logique et efficace, de préférence à l’aide de procédures de travail normalisées."
 
 #: templates/mbti/personalities/istj.html:60
 msgid "3. 能让我有大量的时间独立地工作，运用杰出的集中注意力的能力来完成项目和（或）任务。"
-msgstr ""
+msgstr "3. Me laisse beaucoup de temps pour travailler de manière indépendante, en utilisant une concentration exceptionnelle pour mener à bien des projets et / ou des tâches."
 
 #: templates/mbti/personalities/istj.html:61
 msgid "4. 是在一个稳定和标准化的环境中完成的，做这些工作时我不必去冒不必要的风险、运用未经检验过的或实验性的方法。"
-msgstr ""
+msgstr "4. Cela a été fait dans un environnement stable et standardisé, et je n’ai pas eu à prendre de risques inutiles et à appliquer des méthodes non testées ou expérimentales."
 
 #: templates/mbti/personalities/istj.html:62
 msgid "5. 能看得见的而且可以衡量的结果，而且需要和重视运用精确的标准来评估工作的多少或好坏。"
@@ -4478,15 +4484,15 @@ msgstr "5. Des résultats visibles et mesurables, et l’utilisation de critère
 
 #: templates/mbti/personalities/istj.html:63
 msgid "6. 有明确的目标、清晰的组织制度和模式。"
-msgstr ""
+msgstr "6. Des objectifs clairs, des systèmes et des modèles organisationnels clairs."
 
 #: templates/mbti/personalities/istj.html:64
 msgid "7. 在演示或递交工作成果之前能让我有充足的时间来准备，最好是单独进行或小组进行。"
-msgstr ""
+msgstr "7. Donnez-moi suffisamment de temps pour me préparer avant de présenter ou de présenter les résultats de mon travail, de préférence individuellement ou en groupe."
 
 #: templates/mbti/personalities/istj.html:65
 msgid "8. 能让我具有越来越大的职责和权力，而且只要要求我参与很少的社会政治方面的活动；我的工作表现是根据我完成工作任务的多少或实现工作目标的好坏来衡量的，而且我的努力和贡献很受欣赏和重视。"
-msgstr ""
+msgstr "8. Pour pouvoir me donner des responsabilités et des pouvoirs toujours croissants, et pour m’engager dans très peu d’activités socio-politiques, mon rendement est mesuré par le nombre de tâches que j’ai accomplies ou la façon dont j’ai atteint mes objectifs, et mes efforts et contributions ont été appréciés et valorisés."
 
 #: templates/mbti/personalities/istj.html:66
 msgid "9. 在工作过程或气氛中，我的现实的判断和过去的经历很受重视和嘉奖。"
@@ -4494,23 +4500,25 @@ msgstr "9. Au cours de mon travail ou dans l’atmosphère, mes jugements réali
 
 #: templates/mbti/personalities/istj.html:67
 msgid "10. 能让我拥有必要的资源（人力方面和财力方面）和材料来订立正式的目标，并且实现这些目标。"
-msgstr ""
+msgstr "10. J’ai les ressources (humaines et financières) et le matériel nécessaires pour fixer des objectifs formels et les atteindre."
 
 #: templates/mbti/personalities/istj.html:69
 msgid "审计员、公司经理、会计、管理者/监督人、文字信息处理专家、效率专家/效率分析者、保险业主(保险商)、后勤供给经理、制定规章制度的官员、信息总管、会计/保险统计员"
-msgstr ""
+msgstr "Auditeurs, chefs d’entreprise, comptables, gestionnaires/superviseurs, experts en traitement de texte, experts en efficacité/analystes de l’efficacité, propriétaires d’assurance (assureurs), gestionnaires de la logistique, responsables de la réglementation, gestionnaires de l’information, comptables/statisticiens d’assurance"
 
 #: templates/mbti/personalities/istj.html:70
 msgid "ISTJ经常喜欢与商业有关的一些职业，他们在管理系统和使事物正常运行方面有出色的才能。他们经常喜欢到传统的、已经建立多年的团体或公司去工作，他们的加盟有助于团体或公司机构的正常运行。他们工作富有效率，他们认真而详尽地记录各种花销和税务，不允许有任何未经检查或未经修正的错误或遗漏出现。作为管理者，他们为每一名雇员制定清晰的工作权限、建立起一整套标准的规则。他们喜欢能够生产出具体产品或提供具体服务的商业工作。"
 msgstr ""
+"Les ISTJ aiment souvent les professions liées aux affaires avec d’excellentes compétences dans la gestion des systèmes et la mise en place et le fonctionnement des choses. Ils préfèrent souvent travailler pour des groupes traditionnels ou des entreprises en place depuis des années, et leur présence aide le groupe ou l’entreprise à fonctionner correctement. Ils travaillent efficacement, ils enregistrent soigneusement et minutieusement les dépenses et les taxes, et ne permettent pas que des erreurs ou des omissions non cochées ou non corrigées se produisent. En tant que gestionnaires, ils établissent une "
+"autorité de travail claire pour chaque employé et établissent un ensemble de règles standard. Ils aiment les emplois commerciaux qui produisent des produits spécifiques ou fournissent des services spécifiques."
 
 #: templates/mbti/personalities/istj.html:71
 msgid "销售/服务"
-msgstr ""
+msgstr "Ventes/services"
 
 #: templates/mbti/personalities/istj.html:71
 msgid "察局高级职员/侦探、情报检索服务社代理人、政府雇员、陆军军官、管教人员、房地产代理商、体育设备/商品销售商、教养所所长"
-msgstr ""
+msgstr "Bureau des cadres supérieurs/détectives, agents du service de recherche de renseignements, employés du gouvernement, officiers de l’armée, agents correctionnels, agents immobiliers, vendeurs d’équipement sportif ou de marchandises, directeur d’établissement correctionnel"
 
 #: templates/mbti/personalities/istj.html:72
 msgid "市政服务工作能够满足ISTJ服务于社区的愿望。他们喜欢维护服务或保护所有人的社会系统。他们喜欢在制度分明的环境中工作。无论是发布命令还是接受命令他们都做得很好。他们运用自己的知识和过去的经验果断地、有效地处理当前的问题。他们对事实和细节有非常好的记忆力，无论做什么，他们都用自己的实践经验作出判断。他们喜欢销售真实有形的产品，从中他们可以获得个人收益。"
@@ -4520,11 +4528,11 @@ msgstr ""
 
 #: templates/mbti/personalities/istj.html:73
 msgid "金融"
-msgstr ""
+msgstr "finance"
 
 #: templates/mbti/personalities/istj.html:73
 msgid "银行查帐员、投资担保人、税收监察员、预算分析员、股票经纪人、房地产策划人、信贷分析员"
-msgstr ""
+msgstr "Caissier de banque, garant de placement, inspecteur des impôts, analyste budgétaire, courtier en valeurs mobilières, planificateur immobilier, analyste de crédit"
 
 #: templates/mbti/personalities/istj.html:74
 msgid "ISTJ拥有数学方面的天才。他们能记住有关事实和细节的数字，并能在必要时引用它们来支持自己的观点。他们不会轻易转移注意力，工作时特别专心、辛苦，工作成果既准确又细致。金融领域的职业需要以下才能：能很好地独立工作；能够吸收大量数据；能够进行精确的计算，这些都是ISTJ所具有的。"
@@ -4532,11 +4540,11 @@ msgstr "ISTJ a un génie en mathématiques. Ils peuvent se souvenir de chiffres 
 
 #: templates/mbti/personalities/istj.html:75
 msgid "教育"
-msgstr ""
+msgstr "éduquer"
 
 #: templates/mbti/personalities/istj.html:75
 msgid "学校校长、技术/工业/数学/物理老师、图书管理员、管理者"
-msgstr ""
+msgstr "Directeur d’école, professeur technique/industriel/mathématiques/physique, bibliothécaire, administrateur"
 
 #: templates/mbti/personalities/istj.html:76
 msgid "教育领域的职业对ISTJ是非常适合的，尤其是那些管理和技术方面的工作。ISTJ能够很好地管理学校或课程的运行。他们通过实践寻找维持系统运行的可能性和方法。管理方面和图书馆方面的职业使ISTJ能够独力工作，运用他们客观的分析能力处理数据，如考试成绩、预算等。教书对ISTJ也很适合，特别是一些技术和实践的科目能为他们提供很多学习和教授的机会。"
@@ -4546,15 +4554,15 @@ msgstr ""
 
 #: templates/mbti/personalities/istj.html:77
 msgid "法律/技术"
-msgstr ""
+msgstr "Droit/technologie"
 
 #: templates/mbti/personalities/istj.html:77
 msgid "法律调查员、电工、工程师、机械师、计算机程序设计员、科学作家、律师秘书/律师专职助手、药品经销商/调查员、脑电图技术专家/技师、地质学家、气象学家、航空机械师、机械/工业/电子工程师、农业科学家"
-msgstr ""
+msgstr "Enquêteurs juridiques, électriciens, ingénieurs, mécaniciens, programmeurs informatiques, rédacteurs scientifiques, avocats / assistants à temps plein, trafiquants de drogue / enquêteurs, experts techniques / techniciens EEN, géologues, météorologues, mécaniciens aéronautiques, ingénieurs mécaniques / industriels / électroniques, agronomes"
 
 #: templates/mbti/personalities/istj.html:78
 msgid "这些职业为ISTJ提供了运用他们技术才能的机会，而且他们的工作结果都是要求高度准确的产品。因为他们从不盲目地接受事物，所以他们能够抓住工作中的疏忽和纰漏，并且忠诚地遵循必要的程序和系统。上述职业中有很多还能为ISTJ提供独自工作的机会，让他们充分发挥专心工作的优点、出色的记忆力及各种技巧。"
-msgstr ""
+msgstr "Ces professions offrent à l’ISTJ la possibilité d’appliquer ses talents techniques et leurs résultats sont des produits très précis. Parce qu’ils n’acceptent jamais aveuglément les choses, ils sont capables de saisir les omissions et les omissions au travail et de suivre fidèlement les procédures et les systèmes nécessaires. Bon nombre de ces professions offrent également à l’ISTJ l’occasion de travailler seul, ce qui lui donne le meilleur de son travail dévoué, de sa mémoire et de ses compétences."
 
 #: templates/mbti/personalities/istj.html:79
 msgid "保健"
